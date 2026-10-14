@@ -1,0 +1,70 @@
+{
+  "catalogVersion": 1,
+  "classes": [
+    {
+      "id": "darja-ula",
+      "nameAr": "الدرجة الأولى",
+      "nameUr": "درجہ اولیٰ",
+      "sortOrder": 1
+    },
+    {
+      "id": "darja-sania",
+      "nameUr": "درجہ ثانیہ",
+      "sortOrder": 2
+    }
+  ],
+  "items": [
+    {
+      "author": "نمونہ مصنف",
+      "classId": "darja-ula",
+      "description": "یہ صرف ایک نمونہ ریکارڈ ہے۔ اس کا PDF لنک فرضی ہے اور کام نہیں کرے گا۔",
+      "id": "example-book-1",
+      "isActive": true,
+      "language": "ur",
+      "pdfUrl": "https://example.invalid/pdfs/example-book-1.pdf",
+      "sortOrder": 1,
+      "subjectId": "sarf",
+      "tags": ["example", "sample"],
+      "titleAr": "كتاب تجريبي",
+      "titleUr": "مثال کتاب (نمونہ ڈیٹا)",
+      "type": "book"
+    },
+    {
+      "classId": "darja-ula",
+      "description": "یہ صرف ایک نمونہ ریکارڈ ہے۔",
+      "examSession": "سالانہ",
+      "examYear": 2025,
+      "id": "example-paper-1",
+      "isActive": true,
+      "language": "ur",
+      "paperType": "annual",
+      "pdfUrl": "https://example.invalid/pdfs/example-paper-1.pdf",
+      "sortOrder": 1,
+      "subjectId": "nahw",
+      "tags": ["example", "sample"],
+      "titleUr": "مثال پرچہ (نمونہ ڈیٹا)",
+      "type": "past_paper"
+    }
+  ],
+  "organization": {
+    "name": "Dars-e-Nizami Library"
+  },
+  "schemaVersion": 1,
+  "subjects": [
+    {
+      "classId": "darja-ula",
+      "id": "sarf",
+      "nameAr": "الصرف",
+      "nameUr": "صرف",
+      "sortOrder": 1
+    },
+    {
+      "classId": "darja-ula",
+      "id": "nahw",
+      "nameAr": "النحو",
+      "nameUr": "نحو",
+      "sortOrder": 2
+    }
+  ],
+  "updatedAt": "2026-10-14T00:00:00Z"
+}
