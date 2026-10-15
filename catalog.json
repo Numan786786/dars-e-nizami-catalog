@@ -1,70 +1,359 @@
 {
-  "catalogVersion": 1,
-  "classes": [
-    {
-      "id": "darja-ula",
-      "nameAr": "الدرجة الأولى",
-      "nameUr": "درجہ اولیٰ",
-      "sortOrder": 1
-    },
-    {
-      "id": "darja-sania",
-      "nameUr": "درجہ ثانیہ",
-      "sortOrder": 2
-    }
-  ],
-  "items": [
-    {
-      "author": "نمونہ مصنف",
-      "classId": "darja-ula",
-      "description": "یہ صرف ایک نمونہ ریکارڈ ہے۔ اس کا PDF لنک فرضی ہے اور کام نہیں کرے گا۔",
-      "id": "example-book-1",
-      "isActive": true,
-      "language": "ur",
-      "pdfUrl": "https://example.invalid/pdfs/example-book-1.pdf",
-      "sortOrder": 1,
-      "subjectId": "sarf",
-      "tags": ["example", "sample"],
-      "titleAr": "كتاب تجريبي",
-      "titleUr": "مثال کتاب (نمونہ ڈیٹا)",
-      "type": "book"
-    },
-    {
-      "classId": "darja-ula",
-      "description": "یہ صرف ایک نمونہ ریکارڈ ہے۔",
-      "examSession": "سالانہ",
-      "examYear": 2025,
-      "id": "example-paper-1",
-      "isActive": true,
-      "language": "ur",
-      "paperType": "annual",
-      "pdfUrl": "https://example.invalid/pdfs/example-paper-1.pdf",
-      "sortOrder": 1,
-      "subjectId": "nahw",
-      "tags": ["example", "sample"],
-      "titleUr": "مثال پرچہ (نمونہ ڈیٹا)",
-      "type": "past_paper"
-    }
-  ],
+  "schemaVersion": 1,
+  "catalogVersion": 2,
+  "updatedAt": "2026-10-15T00:00:00Z",
+  "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
   },
-  "schemaVersion": 1,
-  "subjects": [
+  "categories": [
     {
-      "classId": "darja-ula",
       "id": "sarf",
-      "nameAr": "الصرف",
       "nameUr": "صرف",
+      "nameEn": "Sarf",
+      "sortOrder": 1,
+      "iconKey": "text_fields"
+    },
+    {
+      "id": "nahw",
+      "nameUr": "نحو",
+      "nameEn": "Nahw",
+      "sortOrder": 2,
+      "iconKey": "school"
+    },
+    {
+      "id": "fiqh",
+      "nameUr": "فقہ",
+      "nameEn": "Fiqh",
+      "sortOrder": 3,
+      "iconKey": "balance"
+    },
+    {
+      "id": "usul-al-fiqh",
+      "nameUr": "اصول فقہ",
+      "nameEn": "Usul al-Fiqh",
+      "sortOrder": 4,
+      "iconKey": "library"
+    },
+    {
+      "id": "tafsir",
+      "nameUr": "تفسیر",
+      "nameEn": "Tafsir",
+      "sortOrder": 5,
+      "iconKey": "auto_stories"
+    },
+    {
+      "id": "hadith",
+      "nameUr": "حدیث",
+      "nameEn": "Hadith",
+      "sortOrder": 6,
+      "iconKey": "menu_book"
+    },
+    {
+      "id": "mantiq",
+      "nameUr": "منطق",
+      "nameEn": "Mantiq",
+      "sortOrder": 7,
+      "iconKey": "star"
+    },
+    {
+      "id": "aqaid",
+      "nameUr": "عقائد",
+      "nameEn": "Aqaid",
+      "sortOrder": 8,
+      "iconKey": "mosque"
+    }
+  ],
+  "classes": [
+    {
+      "id": "darja-ula",
+      "nameUr": "درجہ اولیٰ",
+      "nameAr": "الدرجة الأولى",
+      "sortOrder": 1
+    }
+  ],
+  "subjects": [],
+  "items": [
+    {
+      "id": "sarf-mir",
+      "type": "book",
+      "titleUr": "صرف میر",
+      "titleEn": "Sarf Mir",
+      "authorUr": "روایتی متن",
+      "authorEn": "Traditional (attrib. Mir Sayyid Sharif)",
+      "description": "علم صرف کی مشہور درسی کتاب۔ archive.org سے ماخوذ عوامی (پبلک ڈومین) نسخہ۔",
+      "categoryId": "sarf",
+      "language": "ar",
+      "pdfUrl": "https://archive.org/download/in.ernet.dli.2015.288988/2015.288988.Sarf-Mir.pdf",
+      "fileSizeBytes": 10590617,
+      "isActive": true,
+      "isFeatured": true,
+      "tags": [
+        "sarf",
+        "archive.org"
+      ],
       "sortOrder": 1
     },
     {
-      "classId": "darja-ula",
-      "id": "nahw",
-      "nameAr": "النحو",
-      "nameUr": "نحو",
+      "id": "panj-ganj",
+      "type": "book",
+      "titleUr": "پنج گنج (مجموعہ، قدیمی)",
+      "titleEn": "Panj Ganj (Majmu'a, old edition)",
+      "authorUr": "روایتی",
+      "authorEn": "Traditional",
+      "description": "صرف کی ابتدائی مشقوں کا قدیم مجموعہ۔ archive.org سے ماخوذ عوامی نسخہ۔",
+      "categoryId": "sarf",
+      "language": "fa",
+      "pdfUrl": "https://archive.org/download/majmoah_e_panj_ganj_qademi/MAJMOAH_E_PANJ_GANJ_QADEMI.pdf",
+      "fileSizeBytes": 3879731,
+      "isActive": true,
+      "isFeatured": false,
+      "tags": [
+        "sarf",
+        "archive.org"
+      ],
       "sortOrder": 2
+    },
+    {
+      "id": "khulasa-nahw-mir",
+      "type": "book",
+      "titleUr": "خلاصہ نحو میر",
+      "titleEn": "Khulasa Nahw Mir",
+      "authorUr": "مفتی صاحب",
+      "authorEn": "Mufti Sahib",
+      "description": "نحو میر کا اردو خلاصہ۔ archive.org سے ماخوذ نسخہ۔",
+      "categoryId": "nahw",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/khulasa-nahw-mir-mufti-sahib-01/Khulasa%20Nahw%20Mir%20Mufti%20Sahib%2001.pdf",
+      "fileSizeBytes": 14470348,
+      "isActive": true,
+      "isFeatured": false,
+      "tags": [
+        "nahw",
+        "archive.org"
+      ],
+      "sortOrder": 3
+    },
+    {
+      "id": "hidayat-al-nahw",
+      "type": "book",
+      "titleUr": "ہدایۃ النحو",
+      "titleEn": "Hidayat al-Nahw",
+      "authorUr": "روایتی متن",
+      "authorEn": "Traditional matn",
+      "description": "علم نحو کی مشہور عربی درسی کتاب۔ archive.org سے ماخوذ عوامی نسخہ۔",
+      "categoryId": "nahw",
+      "language": "ar",
+      "pdfUrl": "https://archive.org/download/hidayatnal-nahw/%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D9%86%D8%AD%D9%88.pdf",
+      "fileSizeBytes": 24956108,
+      "isActive": true,
+      "isFeatured": false,
+      "tags": [
+        "nahw",
+        "archive.org"
+      ],
+      "sortOrder": 4
+    },
+    {
+      "id": "al-kafiya",
+      "type": "book",
+      "titleUr": "الکافیۃ",
+      "titleEn": "al-Kafiya fi al-Nahw",
+      "authorUr": "ابن الحاجب",
+      "authorEn": "Ibn al-Hajib (d. 646 AH)",
+      "description": "ابن حاجب کی مشہور نحوی کتاب الکافیہ۔ archive.org سے ماخوذ عوامی نسخہ۔",
+      "categoryId": "nahw",
+      "language": "ar",
+      "pdfUrl": "https://archive.org/download/alkafiyah00unse/alkafiyah00unse.pdf",
+      "fileSizeBytes": 16567500,
+      "isActive": true,
+      "isFeatured": false,
+      "tags": [
+        "nahw",
+        "archive.org"
+      ],
+      "sortOrder": 5
+    },
+    {
+      "id": "mukhtasar-al-quduri",
+      "type": "book",
+      "titleUr": "مختصر القدوری",
+      "titleEn": "Mukhtasar al-Quduri",
+      "authorUr": "امام ابو الحسین القدوری",
+      "authorEn": "Imam Abu al-Husayn al-Quduri (d. 428 AH)",
+      "description": "فقہ حنفی کی بنیادی درسی کتاب۔ archive.org سے ماخوذ عوامی نسخہ۔",
+      "categoryId": "fiqh",
+      "language": "ar",
+      "pdfUrl": "https://archive.org/download/MukhtasarAlQuduri_201408/Mukhtasar%20al-Quduri.pdf",
+      "fileSizeBytes": 1153433,
+      "isActive": true,
+      "isFeatured": true,
+      "tags": [
+        "fiqh",
+        "archive.org"
+      ],
+      "sortOrder": 6
+    },
+    {
+      "id": "kanz-al-daqaiq-1",
+      "type": "book",
+      "titleUr": "کنز الدقائق (جلد ۱، البشریٰ)",
+      "titleEn": "Kanz al-Daqaiq vol. 1 (al-Bushra ed.)",
+      "authorUr": "حافظ الدین النسفی",
+      "authorEn": "Hafiz al-Din al-Nasafi (d. 710 AH)",
+      "description": "فقہ حنفی کی مشہور کتاب، جلد اول۔ archive.org سے ماخوذ عوامی نسخہ۔",
+      "categoryId": "fiqh",
+      "language": "ar",
+      "pdfUrl": "https://archive.org/download/kanz_ul_daqaiq_vol_1_al_bushra/KANZ_UL_DAQAIQ_VOL_1_AL_BUSHRA.pdf",
+      "fileSizeBytes": 14784921,
+      "isActive": true,
+      "isFeatured": false,
+      "tags": [
+        "fiqh",
+        "archive.org"
+      ],
+      "sortOrder": 7
+    },
+    {
+      "id": "usul-al-shashi",
+      "type": "book",
+      "titleUr": "اصول الشاشی",
+      "titleEn": "Usul al-Shashi (matn)",
+      "authorUr": "الشاشی",
+      "authorEn": "al-Shashi (traditional attribution)",
+      "description": "اصول فقہ کا مشہور مختصر متن۔ archive.org سے ماخوذ عوامی نسخہ۔",
+      "categoryId": "usul-al-fiqh",
+      "language": "ar",
+      "pdfUrl": "https://archive.org/download/00117-pdf/00117%20%D9%83%D8%AA%D8%A7%D8%A8%20%20%20%20%20pdf%20%20%D8%A7%D8%B5%D9%88%D9%84%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D9%8A.pdf",
+      "fileSizeBytes": 6396313,
+      "isActive": true,
+      "isFeatured": false,
+      "tags": [
+        "usul-al-fiqh",
+        "archive.org"
+      ],
+      "sortOrder": 8
+    },
+    {
+      "id": "nur-al-anwar",
+      "type": "book",
+      "titleUr": "نور الانوار",
+      "titleEn": "Nur al-Anwar (sharh of al-Manar)",
+      "authorUr": "ملا جیون",
+      "authorEn": "Mulla Jiwan Ahmad ibn Abi Sa'id (d. 1130 AH)",
+      "description": "اصول فقہ کی مشہور شرح۔ archive.org سے ماخوذ عوامی نسخہ۔",
+      "categoryId": "usul-al-fiqh",
+      "language": "ar",
+      "pdfUrl": "https://archive.org/download/in.ernet.dli.2015.314990/2015.314990.Noorul-Anwar.pdf",
+      "fileSizeBytes": 34498150,
+      "isActive": true,
+      "isFeatured": false,
+      "tags": [
+        "usul-al-fiqh",
+        "archive.org"
+      ],
+      "sortOrder": 9
+    },
+    {
+      "id": "tafsir-al-jalalayn-1",
+      "type": "book",
+      "titleUr": "تفسیر جلالین (جلد ۱، البشریٰ)",
+      "titleEn": "Tafsir al-Jalalayn vol. 1 (al-Bushra ed.)",
+      "authorUr": "جلال الدین المحلی و جلال الدین السیوطی",
+      "authorEn": "al-Mahalli & al-Suyuti",
+      "description": "تفسیر جلالین، جلد اول۔ archive.org سے ماخوذ عوامی نسخہ۔",
+      "categoryId": "tafsir",
+      "language": "ar",
+      "pdfUrl": "https://archive.org/download/TAFSEERULJALALAIN1/TAFSEER%20UL%20JALALAIN%20VOL%201%20AL%20BUSHRA.pdf",
+      "fileSizeBytes": 19608371,
+      "isActive": true,
+      "isFeatured": true,
+      "tags": [
+        "tafsir",
+        "archive.org"
+      ],
+      "sortOrder": 10
+    },
+    {
+      "id": "tafsir-al-jalalayn-2",
+      "type": "book",
+      "titleUr": "تفسیر جلالین (جلد ۲، البشریٰ)",
+      "titleEn": "Tafsir al-Jalalayn vol. 2 (al-Bushra ed.)",
+      "authorUr": "جلال الدین المحلی و جلال الدین السیوطی",
+      "authorEn": "al-Mahalli & al-Suyuti",
+      "description": "تفسیر جلالین، جلد دوم۔ archive.org سے ماخوذ عوامی نسخہ۔",
+      "categoryId": "tafsir",
+      "language": "ar",
+      "pdfUrl": "https://archive.org/download/tafseer_ul_jalalain_vol_2_al_bushra/TAFSEER_UL_JALALAIN_VOL_2_AL_BUSHRA.pdf",
+      "fileSizeBytes": 19188940,
+      "isActive": true,
+      "isFeatured": false,
+      "tags": [
+        "tafsir",
+        "archive.org"
+      ],
+      "sortOrder": 11
+    },
+    {
+      "id": "mishkat-al-masabih-1",
+      "type": "book",
+      "titleUr": "مشکاۃ المصابیح (جلد ۱، عربی متن، البشریٰ)",
+      "titleEn": "Mishkat al-Masabih vol. 1 (Arabic matn, al-Bushra ed.)",
+      "authorUr": "خطیب تبریزی",
+      "authorEn": "Khatib al-Tabrizi (d. 741 AH)",
+      "description": "مشکاۃ المصابیح، جلد اول (عربی متن)۔ archive.org سے ماخوذ عوامی نسخہ۔",
+      "categoryId": "hadith",
+      "language": "ar",
+      "pdfUrl": "https://archive.org/download/3_20260714/%D9%85%D8%B4%DA%A9%D8%A7%DB%83%20%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD%20%D9%85%DA%AA%D8%AA%D8%A8%DB%83%20%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%DB%8C%D9%B0%20%D8%AC%D9%84%D8%AF%201.pdf",
+      "fileSizeBytes": 69101158,
+      "isActive": true,
+      "isFeatured": true,
+      "tags": [
+        "hadith",
+        "archive.org"
+      ],
+      "sortOrder": 12
+    },
+    {
+      "id": "fawaid-fanariyya-isagoge",
+      "type": "book",
+      "titleUr": "الفوائد الفناریۃ علی متن ایساغوجی",
+      "titleEn": "al-Fawa'id al-Fanariyya 'ala matn Isagoge",
+      "authorUr": "شمس الدین الفناری",
+      "authorEn": "Shams al-Din al-Fanari (d. 834 AH)",
+      "description": "ایساغوجی کی شرح (متن سمیت)۔ archive.org سے ماخوذ عوامی نسخہ۔",
+      "categoryId": "mantiq",
+      "language": "ar",
+      "pdfUrl": "https://archive.org/download/20230416_20230416_0810/%D8%A7%D9%84%D9%81%D9%88%D8%A7%D8%A6%D8%AF%20%D8%A7%D9%84%D9%81%D9%86%D8%A7%D8%B1%D9%8A%D8%A9.pdf",
+      "fileSizeBytes": 7444889,
+      "isActive": true,
+      "isFeatured": false,
+      "tags": [
+        "mantiq",
+        "archive.org"
+      ],
+      "sortOrder": 13
+    },
+    {
+      "id": "sharh-al-aqaid",
+      "type": "book",
+      "titleUr": "شرح العقائد النسفیۃ (البشریٰ، رنگین)",
+      "titleEn": "Sharh al-'Aqa'id al-Nasafiyya (al-Bushra color ed.)",
+      "authorUr": "سعد الدین التفتازانی",
+      "authorEn": "Sa'd al-Din al-Taftazani (d. 792 AH)",
+      "description": "شرح العقائد النسفیہ۔ archive.org سے ماخوذ عوامی نسخہ۔",
+      "categoryId": "aqaid",
+      "language": "ar",
+      "pdfUrl": "https://archive.org/download/sharh_ul_aqaid_in_nasafiyah_al_bushra_color/SHARH_UL_AQAID_IN_NASAFIYAH_AL_BUSHRA_COLOR.pdf",
+      "fileSizeBytes": 68681728,
+      "isActive": true,
+      "isFeatured": false,
+      "tags": [
+        "aqaid",
+        "archive.org"
+      ],
+      "sortOrder": 14
     }
   ],
-  "updatedAt": "2026-10-14T00:00:00Z"
+  "isDemo": false
 }

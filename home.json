@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-15T00:00:00Z",
+  "banners": [
+    {
+      "id": "banner-welcome",
+      "sortOrder": 1,
+      "titleUr": "درس نظامی لائبریری میں خوش آمدید",
+      "titleEn": "Welcome to Dars-e-Nizami Library",
+      "subtitleUr": "مستند درسی کتب — ابھی ڈاؤن لوڈ کریں اور آف لائن پڑھیں",
+      "subtitleEn": "Authentic curriculum books — download and read offline",
+      "imageUrl": null,
+      "action": {
+        "type": "none",
+        "target": ""
+      }
+    },
+    {
+      "id": "banner-sarf",
+      "sortOrder": 2,
+      "titleUr": "صرف کا مجموعہ",
+      "titleEn": "Sarf Collection",
+      "subtitleUr": "صرف میر، پنج گنج اور مزید کتب",
+      "subtitleEn": "Sarf Mir, Panj Ganj and more",
+      "imageUrl": null,
+      "action": {
+        "type": "category",
+        "target": "sarf"
+      }
+    },
+    {
+      "id": "banner-fiqh",
+      "sortOrder": 3,
+      "titleUr": "فقہ کی کتب",
+      "titleEn": "Fiqh Books",
+      "subtitleUr": "مختصر القدوری، کنز الدقائق",
+      "subtitleEn": "Mukhtasar al-Quduri, Kanz al-Daqaiq",
+      "imageUrl": null,
+      "action": {
+        "type": "category",
+        "target": "fiqh"
+      }
+    },
+    {
+      "id": "banner-featured",
+      "sortOrder": 4,
+      "titleUr": "منتخب کتاب: مختصر القدوری",
+      "titleEn": "Featured: Mukhtasar al-Quduri",
+      "subtitleUr": "تفصیل دیکھنے کے لیے ٹیپ کریں",
+      "subtitleEn": "Tap to view details",
+      "imageUrl": null,
+      "action": {
+        "type": "item",
+        "target": "mukhtasar-al-quduri"
+      }
+    }
+  ],
+  "featuredIds": [
+    "sarf-mir",
+    "mukhtasar-al-quduri",
+    "tafsir-al-jalalayn-1",
+    "mishkat-al-masabih-1"
+  ]
+}
