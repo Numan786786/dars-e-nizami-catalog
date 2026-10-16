@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 2,
-  "updatedAt": "2026-10-15T00:00:00Z",
+  "catalogVersion": 3,
+  "updatedAt": "2026-10-16T03:22:38.884117Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -12,7 +12,8 @@
       "nameUr": "صرف",
       "nameEn": "Sarf",
       "sortOrder": 1,
-      "iconKey": "text_fields"
+      "iconKey": "text_fields",
+      "isActive": true
     },
     {
       "id": "nahw",
@@ -353,6 +354,24 @@
         "archive.org"
       ],
       "sortOrder": 14
+    },
+    {
+      "id": "GENERALSCIENCE",
+      "type": "book",
+      "titleUr": "جنرل سائنس",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "sarf",
+      "language": "ur",
+      "pdfUrl": "https://drive.google.com/file/d/11KHEpgM71r1bV88zrlgnstDC9OtOtV81/view?usp=drivesdk",
+      "coverUrl": "",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 15,
+      "isActive": true,
+      "isFeatured": false
     }
   ],
   "isDemo": false
