@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 3,
-  "updatedAt": "2026-10-16T03:22:38.884117Z",
+  "catalogVersion": 4,
+  "updatedAt": "2026-10-16T03:28:18.683246Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -370,6 +370,24 @@
       "fileSizeBytes": null,
       "tags": [],
       "sortOrder": 15,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "AlGhaya",
+      "type": "book",
+      "titleUr": "الغایہ شرح ہدایہ",
+      "titleEn": "Al Ghaya",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/5_20230531_202305/%D8%A7%D9%84%D8%BA%D8%A7%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%E2%91%A0%20%D8%A7%D9%84%D8%B3%D9%8E%D9%91%D8%B1%D9%88%D8%AC%D9%8A%20%D8%A7%D9%84%D8%AD%D9%86%D9%81%D9%8A.pdf",
+      "coverUrl": "https://ia801907.us.archive.org/BookReader/BookReaderImages.php?zip=/14/items/5_20230531_202305/%D8%A7%D9%84%D8%BA%D8%A7%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%E2%91%A0%20%D8%A7%D9%84%D8%B3%D9%8E%D9%91%D8%B1%D9%88%D8%AC%D9%8A%20%D8%A7%D9%84%D8%AD%D9%86%D9%81%D9%8A_jp2.zip&file=%D8%A7%D9%84%D8%BA%D8%A7%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%E2%91%A0%20%D8%A7%D9%84%D8%B3%D9%8E%D9%91%D8%B1%D9%88%D8%AC%D9%8A%20%D8%A7%D9%84%D8%AD%D9%86%D9%81%D9%8A_jp2/%D8%A7%D9%84%D8%BA%D8%A7%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%E2%91%A0%20%D8%A7%D9%84%D8%B3%D9%8E%D9%91%D8%B1%D9%88%D8%AC%D9%8A%20%D8%A7%D9%84%D8%AD%D9%86%D9%81%D9%8A_0000.jp2&id=5_20230531_202305&scale=8&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 16,
       "isActive": true,
       "isFeatured": false
     }
