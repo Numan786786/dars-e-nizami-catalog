@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 4,
-  "updatedAt": "2026-10-16T03:28:18.683246Z",
+  "catalogVersion": 5,
+  "updatedAt": "2026-10-16T03:35:25.269895Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -88,7 +88,7 @@
       "pdfUrl": "https://archive.org/download/in.ernet.dli.2015.288988/2015.288988.Sarf-Mir.pdf",
       "fileSizeBytes": 10590617,
       "isActive": true,
-      "isFeatured": true,
+      "isFeatured": false,
       "tags": [
         "sarf",
         "archive.org"
@@ -389,7 +389,7 @@
       "tags": [],
       "sortOrder": 16,
       "isActive": true,
-      "isFeatured": false
+      "isFeatured": true
     }
   ],
   "isDemo": false
