@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 7,
-  "updatedAt": "2026-10-17T08:37:05.364553Z",
+  "catalogVersion": 8,
+  "updatedAt": "2026-10-17T08:40:20.126808Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -394,12 +394,12 @@
     {
       "id": "JurisprudenceFiqh2ndYear",
       "type": "past_paper",
-      "titleUr": "تخصص فی الفقہ سال دوم",
-      "titleEn": "سالانہ 2016",
+      "titleUr": "عامہ اول طلبہ",
+      "titleEn": "Norani Ghaid",
       "description": "",
       "categoryId": "fiqh",
       "language": "ur",
-      "pdfUrl": "https://1drv.ms/b/c/504741daa1e23163/IQB4AnPh3ZIoQ5inCEhQCT9NARde6ABDPjfsWd_yWbSWKt4",
+      "pdfUrl": "https://drive.google.com/file/d/1KG34LNmsLqOWt3l7XfHHzfoRtAwSbXFz/view?usp=drive_link",
       "fileSizeBytes": null,
       "tags": [],
       "sortOrder": 17,
