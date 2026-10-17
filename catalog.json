@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 5,
-  "updatedAt": "2026-10-16T03:35:25.269895Z",
+  "catalogVersion": 6,
+  "updatedAt": "2026-10-17T07:26:27.248532Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -390,6 +390,24 @@
       "sortOrder": 16,
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": "JurisprudenceFiqh2ndYear",
+      "type": "past_paper",
+      "titleUr": "تخصص فی الفقہ سال دوم",
+      "titleEn": "سالانہ 2016",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "https://drive.google.com/file/d/147ABVtYsqIuwkoKSbZnkQsqzutMvqOkn/view?usp=drivesdk",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 17,
+      "isActive": true,
+      "isFeatured": false,
+      "examYear": 0,
+      "examSession": "",
+      "paperType": ""
     }
   ],
   "isDemo": false
