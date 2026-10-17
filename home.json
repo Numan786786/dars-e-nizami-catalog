@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T03:35:25.269909Z",
+  "updatedAt": "2026-10-17T07:26:27.248546Z",
   "banners": [
     {
       "id": "banner-welcome",
@@ -60,46 +60,5 @@
     "mukhtasar-al-quduri",
     "tafsir-al-jalalayn-1",
     "mishkat-al-masabih-1"
-  ],
-  "social": {
-    "whatsapp": "https://whatsapp.com/channel/0029VaCW3Au5kg71pl5W632u",
-    "facebook": "https://www.facebook.com/share/1DuTjs31Ra/",
-    "telegram": "",
-    "website": ""
-  },
-  "feedbackUrl": "",
-  "donation": {
-    "messageUr": "جیسا کہ آپ جانتے ہیں کہ اس ایپ میں طلبہ وطالبات کو نصابی کتب سے لے کر سوالیہ و حل شدہ پرچہ جات بلکل مفت فراہم کیے گئے ہیں۔ اس کام میں مزید بہتری اور سالانہ اخراجات کے لیے آپ کا تعاون درکار ہے، آپ ہمارے ساتھ حسب توفیق ضرور تعاون فرمائیں۔ جزاکم اللہ خیرا کثیرا",
-    "messageEn": "As you know, this app provides students with curriculum books and solved past papers completely free. We need your support for further improvements and annual expenses. Please contribute according to your capacity. Jazakum Allahu Khairan Katheera.",
-    "accounts": [
-      {
-        "id": "easypaisa",
-        "labelUr": "ایزی پیسہ",
-        "labelEn": "Easypaisa",
-        "accountTitle": "Muhammad Hasnain",
-        "accountNumber": "03015879123"
-      },
-      {
-        "id": "jazzcash",
-        "labelUr": "جاز کیش",
-        "labelEn": "JazzCash",
-        "accountTitle": "Muhammad Hasnain",
-        "accountNumber": "03015879123"
-      },
-      {
-        "id": "raast",
-        "labelUr": "راست",
-        "labelEn": "Raast",
-        "accountTitle": "Muhammad Hasnain",
-        "accountNumber": "03015879123"
-      },
-      {
-        "id": "mbl-bank",
-        "labelUr": "موبی لنک مائیکروفنانس بینک",
-        "labelEn": "Mobilink Microfinance Bank",
-        "accountTitle": "Muhammad Hasnain",
-        "iban": "PK20JCMA1407923015879123"
-      }
-    ]
-  }
+  ]
 }
