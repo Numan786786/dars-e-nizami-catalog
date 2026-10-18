@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 10,
-  "updatedAt": "2026-10-18T10:43:26.409724Z",
+  "catalogVersion": 11,
+  "updatedAt": "2026-10-18T10:52:15.407525Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -9,10 +9,10 @@
   "categories": [
     {
       "id": "sarf",
-      "nameUr": "صرف",
-      "nameEn": "Sarf",
-      "sortOrder": 1,
+      "nameUr": "عالمیہ دوم",
+      "nameEn": "Almiya 2",
       "iconKey": "text_fields",
+      "sortOrder": 1,
       "isActive": true
     },
     {
@@ -75,46 +75,6 @@
   ],
   "subjects": [],
   "items": [
-    {
-      "id": "sarf-mir",
-      "type": "book",
-      "titleUr": "صرف میر",
-      "titleEn": "Sarf Mir",
-      "authorUr": "روایتی متن",
-      "authorEn": "Traditional (attrib. Mir Sayyid Sharif)",
-      "description": "علم صرف کی مشہور درسی کتاب۔ archive.org سے ماخوذ عوامی (پبلک ڈومین) نسخہ۔",
-      "categoryId": "sarf",
-      "language": "ar",
-      "pdfUrl": "https://archive.org/download/in.ernet.dli.2015.288988/2015.288988.Sarf-Mir.pdf",
-      "fileSizeBytes": 10590617,
-      "isActive": true,
-      "isFeatured": false,
-      "tags": [
-        "sarf",
-        "archive.org"
-      ],
-      "sortOrder": 1
-    },
-    {
-      "id": "panj-ganj",
-      "type": "book",
-      "titleUr": "پنج گنج (مجموعہ، قدیمی)",
-      "titleEn": "Panj Ganj (Majmu'a, old edition)",
-      "authorUr": "روایتی",
-      "authorEn": "Traditional",
-      "description": "صرف کی ابتدائی مشقوں کا قدیم مجموعہ۔ archive.org سے ماخوذ عوامی نسخہ۔",
-      "categoryId": "sarf",
-      "language": "fa",
-      "pdfUrl": "https://archive.org/download/majmoah_e_panj_ganj_qademi/MAJMOAH_E_PANJ_GANJ_QADEMI.pdf",
-      "fileSizeBytes": 3879731,
-      "isActive": true,
-      "isFeatured": false,
-      "tags": [
-        "sarf",
-        "archive.org"
-      ],
-      "sortOrder": 2
-    },
     {
       "id": "khulasa-nahw-mir",
       "type": "book",
@@ -356,24 +316,6 @@
       "sortOrder": 14
     },
     {
-      "id": "GENERALSCIENCE",
-      "type": "book",
-      "titleUr": "جنرل سائنس",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "sarf",
-      "language": "ur",
-      "pdfUrl": "https://drive.google.com/file/d/11KHEpgM71r1bV88zrlgnstDC9OtOtV81/view?usp=drivesdk",
-      "coverUrl": "",
-      "fileSizeBytes": null,
-      "tags": [],
-      "sortOrder": 15,
-      "isActive": true,
-      "isFeatured": false
-    },
-    {
       "id": "AlGhaya",
       "type": "book",
       "titleUr": "الغایہ شرح ہدایہ",
@@ -392,22 +334,22 @@
       "isFeatured": true
     },
     {
-      "id": "JurisprudenceFiqh2ndYear",
-      "type": "past_paper",
-      "titleUr": "عامہ اول طلبہ",
-      "titleEn": "Norani Ghaid",
+      "id": "Darsibooks",
+      "type": "book",
+      "titleUr": "النبی الاطہر",
+      "titleEn": "Al Nabi Al Athar",
+      "authorUr": "",
+      "authorEn": "",
       "description": "",
-      "categoryId": "fiqh",
+      "categoryId": "sarf",
       "language": "ur",
-      "pdfUrl": "https://drive.google.com/file/d/1KG34LNmsLqOWt3l7XfHHzfoRtAwSbXFz/view?usp=drive_link",
+      "pdfUrl": "https://archive.org/download/Alnabiyu-Alathar-113449/Alnabiyu-Alathar-113449-HQ.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRfTBiIcDbZU_ZS8Fi8mkYP-_hQFjgMqUudrHZ2w1t4yhdlSD6kXnCnjnUQp6agg8nGzoJiDSr7ra1z0k5OUeelwPL9HgVTAxk3RC6UUk2JFWl09rScY7e1gyYyWeTFTYf4HkOFEA7Sj-ds5_VnNGjekt5ZF9l5bySMWZ1uslN_Zy-9X7EUlrhskRDh0Sq/s445/2024-05-21_181814.jpg",
       "fileSizeBytes": null,
       "tags": [],
       "sortOrder": 17,
       "isActive": true,
-      "isFeatured": false,
-      "examYear": 0,
-      "examSession": "",
-      "paperType": ""
+      "isFeatured": false
     }
   ],
   "isDemo": false
