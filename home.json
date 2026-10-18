@@ -1,19 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T08:40:20.126824Z",
+  "updatedAt": "2026-10-18T10:40:00.290470Z",
   "banners": [
     {
       "id": "banner-welcome",
-      "sortOrder": 1,
       "titleUr": "درس نظامی لائبریری میں خوش آمدید",
       "titleEn": "Welcome to Dars-e-Nizami Library",
       "subtitleUr": "مستند درسی کتب — ابھی ڈاؤن لوڈ کریں اور آف لائن پڑھیں",
       "subtitleEn": "Authentic curriculum books — download and read offline",
-      "imageUrl": null,
+      "imageUrl": "https://www.tanzeemulmadaris.com/",
       "action": {
         "type": "none",
         "target": ""
-      }
+      },
+      "sortOrder": 1,
+      "isActive": true
     },
     {
       "id": "banner-sarf",
@@ -60,5 +61,25 @@
     "mukhtasar-al-quduri",
     "tafsir-al-jalalayn-1",
     "mishkat-al-masabih-1"
-  ]
+  ],
+  "social": {
+    "whatsapp": "https://wa.me/message/CZHFT3MQNTENM1",
+    "facebook": "https://www.facebook.com/share/1JvPqRHgqN/",
+    "telegram": "https://t.me/Ghausiamehriamultan",
+    "website": "https://darsibooks.blogspot.com/?m=1"
+  },
+  "donation": {
+    "accounts": [
+      {
+        "id": "jazz-cash-mvd5ty2o0",
+        "labelUr": "جاز کیش",
+        "labelEn": "Jazz Cash",
+        "accountTitle": "Muhammad Hasnain",
+        "accountNumber": "03015879123",
+        "iban": ""
+      }
+    ],
+    "messageUr": "",
+    "messageEn": ""
+  }
 }
