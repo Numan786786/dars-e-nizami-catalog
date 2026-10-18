@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T10:43:26.409732Z",
+  "updatedAt": "2026-10-18T10:52:15.407536Z",
   "banners": [
     {
       "id": "banner-welcome",
@@ -57,10 +57,8 @@
     }
   ],
   "featuredIds": [
-    "sarf-mir",
-    "mukhtasar-al-quduri",
     "tafsir-al-jalalayn-1",
-    "mishkat-al-masabih-1"
+    "al-kafiya"
   ],
   "social": {
     "whatsapp": "https://wa.me/message/CZHFT3MQNTENM1",
