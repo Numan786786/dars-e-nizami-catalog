@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T10:40:00.290470Z",
+  "updatedAt": "2026-10-18T10:43:26.409732Z",
   "banners": [
     {
       "id": "banner-welcome",
       "titleUr": "درس نظامی لائبریری میں خوش آمدید",
       "titleEn": "Welcome to Dars-e-Nizami Library",
-      "subtitleUr": "مستند درسی کتب — ابھی ڈاؤن لوڈ کریں اور آف لائن پڑھیں",
-      "subtitleEn": "Authentic curriculum books — download and read offline",
-      "imageUrl": "https://www.tanzeemulmadaris.com/",
+      "subtitleUr": "",
+      "subtitleEn": "",
+      "imageUrl": "https://darsibooks.blogspot.com/?m=1",
       "action": {
         "type": "none",
         "target": ""
