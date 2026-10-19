@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T11:57:10.656960Z",
+  "updatedAt": "2026-10-19T13:50:52.922077Z",
   "banners": [
     {
       "id": "banner-welcome",
@@ -17,21 +17,8 @@
       "isActive": true
     },
     {
-      "id": "banner-sarf",
-      "sortOrder": 2,
-      "titleUr": "صرف کا مجموعہ",
-      "titleEn": "Sarf Collection",
-      "subtitleUr": "صرف میر، پنج گنج اور مزید کتب",
-      "subtitleEn": "Sarf Mir, Panj Ganj and more",
-      "imageUrl": null,
-      "action": {
-        "type": "category",
-        "target": "sarf"
-      }
-    },
-    {
       "id": "banner-fiqh",
-      "sortOrder": 3,
+      "sortOrder": 2,
       "titleUr": "فقہ کی کتب",
       "titleEn": "Fiqh Books",
       "subtitleUr": "مختصر القدوری، کنز الدقائق",
@@ -40,6 +27,19 @@
       "action": {
         "type": "category",
         "target": "fiqh"
+      }
+    },
+    {
+      "id": "banner-sarf",
+      "sortOrder": 3,
+      "titleUr": "صرف کا مجموعہ",
+      "titleEn": "Sarf Collection",
+      "subtitleUr": "صرف میر، پنج گنج اور مزید کتب",
+      "subtitleEn": "Sarf Mir, Panj Ganj and more",
+      "imageUrl": null,
+      "action": {
+        "type": "category",
+        "target": "sarf"
       }
     },
     {
@@ -57,8 +57,7 @@
     }
   ],
   "featuredIds": [
-    "tafsir-al-jalalayn-1",
-    "hidayat-al-nahw"
+    "tafsir-al-jalalayn-1"
   ],
   "social": {
     "whatsapp": "https://wa.me/message/CZHFT3MQNTENM1",
