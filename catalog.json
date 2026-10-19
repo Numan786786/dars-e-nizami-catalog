@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 15,
-  "updatedAt": "2026-10-19T11:54:28.547045Z",
+  "catalogVersion": 16,
+  "updatedAt": "2026-10-19T11:57:10.656946Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -371,7 +371,7 @@
       "examYear": 0,
       "examSession": "",
       "paperType": "",
-      "audience": "all"
+      "audience": "boys"
     }
   ],
   "isDemo": false
