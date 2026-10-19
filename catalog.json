@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 11,
-  "updatedAt": "2026-10-18T10:52:15.407525Z",
+  "catalogVersion": 12,
+  "updatedAt": "2026-10-19T11:34:56.033172Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -9,60 +9,83 @@
   "categories": [
     {
       "id": "sarf",
-      "nameUr": "عالمیہ دوم",
-      "nameEn": "Almiya 2",
+      "nameUr": "شھادۃ العالمیہ 2",
+      "nameEn": "Shahadatul Almiya 2",
       "iconKey": "text_fields",
       "sortOrder": 1,
       "isActive": true
     },
     {
       "id": "nahw",
-      "nameUr": "نحو",
-      "nameEn": "Nahw",
+      "nameUr": "شھادۃ العالمیہ 1",
+      "nameEn": "Shahadatul Almiya 1",
+      "iconKey": "school",
       "sortOrder": 2,
-      "iconKey": "school"
+      "isActive": true
     },
     {
       "id": "fiqh",
-      "nameUr": "فقہ",
-      "nameEn": "Fiqh",
+      "nameUr": "شھادۃ العالیہ 2",
+      "nameEn": "Shahadatul Aliya 2",
+      "iconKey": "balance",
       "sortOrder": 3,
-      "iconKey": "balance"
+      "isActive": true
     },
     {
       "id": "usul-al-fiqh",
-      "nameUr": "اصول فقہ",
-      "nameEn": "Usul al-Fiqh",
+      "nameUr": "شھادۃ العالیہ 1",
+      "nameEn": "Shahadatul Aliya 1",
+      "iconKey": "library",
       "sortOrder": 4,
-      "iconKey": "library"
+      "isActive": true
     },
     {
       "id": "tafsir",
-      "nameUr": "تفسیر",
-      "nameEn": "Tafsir",
+      "nameUr": "ثانویہ خاصہ 2",
+      "nameEn": "Sanvia Khassa 2",
+      "iconKey": "auto_stories",
       "sortOrder": 5,
-      "iconKey": "auto_stories"
+      "isActive": true
     },
     {
       "id": "hadith",
-      "nameUr": "حدیث",
-      "nameEn": "Hadith",
+      "nameUr": "ثانویہ خاصہ 1",
+      "nameEn": "Sanvia Khassa 1",
+      "iconKey": "menu_book",
       "sortOrder": 6,
-      "iconKey": "menu_book"
+      "isActive": true
     },
     {
       "id": "mantiq",
-      "nameUr": "منطق",
-      "nameEn": "Mantiq",
+      "nameUr": "ثانویہ عامہ 2",
+      "nameEn": "Sanvia Aamma 2",
+      "iconKey": "star",
       "sortOrder": 7,
-      "iconKey": "star"
+      "isActive": true
     },
     {
       "id": "aqaid",
-      "nameUr": "عقائد",
-      "nameEn": "Aqaid",
+      "nameUr": "ثانویہ عامہ 1",
+      "nameEn": "Sanvia Aamma 1",
+      "iconKey": "mosque",
       "sortOrder": 8,
-      "iconKey": "mosque"
+      "isActive": true
+    },
+    {
+      "id": "Darsenizami",
+      "nameUr": "متوسطہ",
+      "nameEn": "Mutawasita",
+      "iconKey": "",
+      "sortOrder": 9,
+      "isActive": true
+    },
+    {
+      "id": "Darsenizami.",
+      "nameUr": "تجوید وقراءت",
+      "nameEn": "Tajweed o Qiraat",
+      "iconKey": "",
+      "sortOrder": 10,
+      "isActive": true
     }
   ],
   "classes": [
