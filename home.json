@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T11:45:17.239120Z",
+  "updatedAt": "2026-10-19T11:54:28.547055Z",
   "banners": [
     {
       "id": "banner-welcome",
@@ -58,7 +58,7 @@
   ],
   "featuredIds": [
     "tafsir-al-jalalayn-1",
-    "al-kafiya"
+    "hidayat-al-nahw"
   ],
   "social": {
     "whatsapp": "https://wa.me/message/CZHFT3MQNTENM1",
