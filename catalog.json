@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 13,
-  "updatedAt": "2026-10-19T11:38:42.670852Z",
+  "catalogVersion": 14,
+  "updatedAt": "2026-10-19T11:45:17.239106Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -98,26 +98,6 @@
   ],
   "subjects": [],
   "items": [
-    {
-      "id": "khulasa-nahw-mir",
-      "type": "book",
-      "titleUr": "خلاصہ نحو میر",
-      "titleEn": "Khulasa Nahw Mir",
-      "authorUr": "مفتی صاحب",
-      "authorEn": "Mufti Sahib",
-      "description": "نحو میر کا اردو خلاصہ۔ archive.org سے ماخوذ نسخہ۔",
-      "categoryId": "nahw",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/khulasa-nahw-mir-mufti-sahib-01/Khulasa%20Nahw%20Mir%20Mufti%20Sahib%2001.pdf",
-      "fileSizeBytes": 14470348,
-      "isActive": true,
-      "isFeatured": false,
-      "tags": [
-        "nahw",
-        "archive.org"
-      ],
-      "sortOrder": 3
-    },
     {
       "id": "hidayat-al-nahw",
       "type": "book",
