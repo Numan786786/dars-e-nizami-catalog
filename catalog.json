@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 14,
-  "updatedAt": "2026-10-19T11:45:17.239106Z",
+  "catalogVersion": 15,
+  "updatedAt": "2026-10-19T11:54:28.547045Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -353,6 +353,25 @@
       "sortOrder": 17,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": "PastPapers",
+      "type": "past_paper",
+      "titleUr": "Year 2014",
+      "titleEn": "",
+      "description": "",
+      "categoryId": "sarf",
+      "language": "ur",
+      "pdfUrl": "https://drive.google.com/file/d/1FJB06-rAN_nFuwODUmqUemKUGtR6LMTc/view?usp=drivesdk",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 18,
+      "isActive": true,
+      "isFeatured": false,
+      "examYear": 0,
+      "examSession": "",
+      "paperType": "",
+      "audience": "all"
     }
   ],
   "isDemo": false
