@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 18,
-  "updatedAt": "2026-10-19T14:07:49.308699Z",
+  "catalogVersion": 19,
+  "updatedAt": "2026-10-19T14:11:05.011394Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -100,6 +100,59 @@
   "items": [
     {
       "id": "Darsibooks",
+      "type": "book",
+      "titleUr": "صحیح بخاری متن",
+      "titleEn": "Sahi Bukhari",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "sarf",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_01.pdf",
+      "coverUrl": "https://besturdubooks.net/dars-e-nizami/dora-e-hadith-books/dora-e-hadith-text-books/",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 1,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all",
+      "volumes": [
+        {
+          "id": "جلد-1-mvfbsxcl0",
+          "titleUr": "جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_01.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "جلد-2-mvfbu0q21",
+          "titleUr": "جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_02.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "جلد-3-mvfbvjnt2",
+          "titleUr": "جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_03.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "جلد-4-mvfbvt1e3",
+          "titleUr": "جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_04.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        }
+      ]
+    },
+    {
+      "id": "sahi-bukhari-mvfc0wkn4",
       "type": "book",
       "titleUr": "صحیح بخاری متن",
       "titleEn": "Sahi Bukhari",
