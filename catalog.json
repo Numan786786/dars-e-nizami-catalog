@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 12,
-  "updatedAt": "2026-10-19T11:34:56.033172Z",
+  "catalogVersion": 13,
+  "updatedAt": "2026-10-19T11:38:42.670852Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -75,7 +75,7 @@
       "id": "Darsenizami",
       "nameUr": "متوسطہ",
       "nameEn": "Mutawasita",
-      "iconKey": "",
+      "iconKey": "Books",
       "sortOrder": 9,
       "isActive": true
     },
@@ -83,7 +83,7 @@
       "id": "Darsenizami.",
       "nameUr": "تجوید وقراءت",
       "nameEn": "Tajweed o Qiraat",
-      "iconKey": "",
+      "iconKey": "Qur'an",
       "sortOrder": 10,
       "isActive": true
     }
