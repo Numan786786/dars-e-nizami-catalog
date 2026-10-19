@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 17,
-  "updatedAt": "2026-10-19T13:50:52.922061Z",
+  "catalogVersion": 18,
+  "updatedAt": "2026-10-19T14:07:49.308699Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -99,279 +99,57 @@
   "subjects": [],
   "items": [
     {
-      "id": "hidayat-al-nahw",
-      "type": "book",
-      "titleUr": "ہدایۃ النحو",
-      "titleEn": "Hidayat al-Nahw",
-      "authorUr": "روایتی متن",
-      "authorEn": "Traditional matn",
-      "description": "علم نحو کی مشہور عربی درسی کتاب۔ archive.org سے ماخوذ عوامی نسخہ۔",
-      "categoryId": "nahw",
-      "language": "ar",
-      "pdfUrl": "https://archive.org/download/hidayatnal-nahw/%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D9%86%D8%AD%D9%88.pdf",
-      "fileSizeBytes": 24956108,
-      "isActive": true,
-      "isFeatured": false,
-      "tags": [
-        "nahw",
-        "archive.org"
-      ],
-      "sortOrder": 4
-    },
-    {
-      "id": "al-kafiya",
-      "type": "book",
-      "titleUr": "الکافیۃ",
-      "titleEn": "al-Kafiya fi al-Nahw",
-      "authorUr": "ابن الحاجب",
-      "authorEn": "Ibn al-Hajib (d. 646 AH)",
-      "description": "ابن حاجب کی مشہور نحوی کتاب الکافیہ۔ archive.org سے ماخوذ عوامی نسخہ۔",
-      "categoryId": "nahw",
-      "language": "ar",
-      "pdfUrl": "https://archive.org/download/alkafiyah00unse/alkafiyah00unse.pdf",
-      "fileSizeBytes": 16567500,
-      "isActive": true,
-      "isFeatured": false,
-      "tags": [
-        "nahw",
-        "archive.org"
-      ],
-      "sortOrder": 5
-    },
-    {
-      "id": "mukhtasar-al-quduri",
-      "type": "book",
-      "titleUr": "مختصر القدوری",
-      "titleEn": "Mukhtasar al-Quduri",
-      "authorUr": "امام ابو الحسین القدوری",
-      "authorEn": "Imam Abu al-Husayn al-Quduri (d. 428 AH)",
-      "description": "فقہ حنفی کی بنیادی درسی کتاب۔ archive.org سے ماخوذ عوامی نسخہ۔",
-      "categoryId": "fiqh",
-      "language": "ar",
-      "pdfUrl": "https://archive.org/download/MukhtasarAlQuduri_201408/Mukhtasar%20al-Quduri.pdf",
-      "fileSizeBytes": 1153433,
-      "isActive": true,
-      "isFeatured": true,
-      "tags": [
-        "fiqh",
-        "archive.org"
-      ],
-      "sortOrder": 6
-    },
-    {
-      "id": "kanz-al-daqaiq-1",
-      "type": "book",
-      "titleUr": "کنز الدقائق (جلد ۱، البشریٰ)",
-      "titleEn": "Kanz al-Daqaiq vol. 1 (al-Bushra ed.)",
-      "authorUr": "حافظ الدین النسفی",
-      "authorEn": "Hafiz al-Din al-Nasafi (d. 710 AH)",
-      "description": "فقہ حنفی کی مشہور کتاب، جلد اول۔ archive.org سے ماخوذ عوامی نسخہ۔",
-      "categoryId": "fiqh",
-      "language": "ar",
-      "pdfUrl": "https://archive.org/download/kanz_ul_daqaiq_vol_1_al_bushra/KANZ_UL_DAQAIQ_VOL_1_AL_BUSHRA.pdf",
-      "fileSizeBytes": 14784921,
-      "isActive": true,
-      "isFeatured": false,
-      "tags": [
-        "fiqh",
-        "archive.org"
-      ],
-      "sortOrder": 7
-    },
-    {
-      "id": "usul-al-shashi",
-      "type": "book",
-      "titleUr": "اصول الشاشی",
-      "titleEn": "Usul al-Shashi (matn)",
-      "authorUr": "الشاشی",
-      "authorEn": "al-Shashi (traditional attribution)",
-      "description": "اصول فقہ کا مشہور مختصر متن۔ archive.org سے ماخوذ عوامی نسخہ۔",
-      "categoryId": "usul-al-fiqh",
-      "language": "ar",
-      "pdfUrl": "https://archive.org/download/00117-pdf/00117%20%D9%83%D8%AA%D8%A7%D8%A8%20%20%20%20%20pdf%20%20%D8%A7%D8%B5%D9%88%D9%84%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D9%8A.pdf",
-      "fileSizeBytes": 6396313,
-      "isActive": true,
-      "isFeatured": false,
-      "tags": [
-        "usul-al-fiqh",
-        "archive.org"
-      ],
-      "sortOrder": 8
-    },
-    {
-      "id": "nur-al-anwar",
-      "type": "book",
-      "titleUr": "نور الانوار",
-      "titleEn": "Nur al-Anwar (sharh of al-Manar)",
-      "authorUr": "ملا جیون",
-      "authorEn": "Mulla Jiwan Ahmad ibn Abi Sa'id (d. 1130 AH)",
-      "description": "اصول فقہ کی مشہور شرح۔ archive.org سے ماخوذ عوامی نسخہ۔",
-      "categoryId": "usul-al-fiqh",
-      "language": "ar",
-      "pdfUrl": "https://archive.org/download/in.ernet.dli.2015.314990/2015.314990.Noorul-Anwar.pdf",
-      "fileSizeBytes": 34498150,
-      "isActive": true,
-      "isFeatured": false,
-      "tags": [
-        "usul-al-fiqh",
-        "archive.org"
-      ],
-      "sortOrder": 9
-    },
-    {
-      "id": "tafsir-al-jalalayn-1",
-      "type": "book",
-      "titleUr": "تفسیر جلالین (جلد ۱، البشریٰ)",
-      "titleEn": "Tafsir al-Jalalayn vol. 1 (al-Bushra ed.)",
-      "authorUr": "جلال الدین المحلی و جلال الدین السیوطی",
-      "authorEn": "al-Mahalli & al-Suyuti",
-      "description": "تفسیر جلالین، جلد اول۔ archive.org سے ماخوذ عوامی نسخہ۔",
-      "categoryId": "tafsir",
-      "language": "ar",
-      "pdfUrl": "https://archive.org/download/TAFSEERULJALALAIN1/TAFSEER%20UL%20JALALAIN%20VOL%201%20AL%20BUSHRA.pdf",
-      "fileSizeBytes": 19608371,
-      "isActive": true,
-      "isFeatured": true,
-      "tags": [
-        "tafsir",
-        "archive.org"
-      ],
-      "sortOrder": 10
-    },
-    {
-      "id": "tafsir-al-jalalayn-2",
-      "type": "book",
-      "titleUr": "تفسیر جلالین (جلد ۲، البشریٰ)",
-      "titleEn": "Tafsir al-Jalalayn vol. 2 (al-Bushra ed.)",
-      "authorUr": "جلال الدین المحلی و جلال الدین السیوطی",
-      "authorEn": "al-Mahalli & al-Suyuti",
-      "description": "تفسیر جلالین، جلد دوم۔ archive.org سے ماخوذ عوامی نسخہ۔",
-      "categoryId": "tafsir",
-      "language": "ar",
-      "pdfUrl": "https://archive.org/download/tafseer_ul_jalalain_vol_2_al_bushra/TAFSEER_UL_JALALAIN_VOL_2_AL_BUSHRA.pdf",
-      "fileSizeBytes": 19188940,
-      "isActive": true,
-      "isFeatured": false,
-      "tags": [
-        "tafsir",
-        "archive.org"
-      ],
-      "sortOrder": 11
-    },
-    {
-      "id": "mishkat-al-masabih-1",
-      "type": "book",
-      "titleUr": "مشکاۃ المصابیح (جلد ۱، عربی متن، البشریٰ)",
-      "titleEn": "Mishkat al-Masabih vol. 1 (Arabic matn, al-Bushra ed.)",
-      "authorUr": "خطیب تبریزی",
-      "authorEn": "Khatib al-Tabrizi (d. 741 AH)",
-      "description": "مشکاۃ المصابیح، جلد اول (عربی متن)۔ archive.org سے ماخوذ عوامی نسخہ۔",
-      "categoryId": "hadith",
-      "language": "ar",
-      "pdfUrl": "https://archive.org/download/3_20260714/%D9%85%D8%B4%DA%A9%D8%A7%DB%83%20%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD%20%D9%85%DA%AA%D8%AA%D8%A8%DB%83%20%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%DB%8C%D9%B0%20%D8%AC%D9%84%D8%AF%201.pdf",
-      "fileSizeBytes": 69101158,
-      "isActive": true,
-      "isFeatured": true,
-      "tags": [
-        "hadith",
-        "archive.org"
-      ],
-      "sortOrder": 12
-    },
-    {
-      "id": "fawaid-fanariyya-isagoge",
-      "type": "book",
-      "titleUr": "الفوائد الفناریۃ علی متن ایساغوجی",
-      "titleEn": "al-Fawa'id al-Fanariyya 'ala matn Isagoge",
-      "authorUr": "شمس الدین الفناری",
-      "authorEn": "Shams al-Din al-Fanari (d. 834 AH)",
-      "description": "ایساغوجی کی شرح (متن سمیت)۔ archive.org سے ماخوذ عوامی نسخہ۔",
-      "categoryId": "mantiq",
-      "language": "ar",
-      "pdfUrl": "https://archive.org/download/20230416_20230416_0810/%D8%A7%D9%84%D9%81%D9%88%D8%A7%D8%A6%D8%AF%20%D8%A7%D9%84%D9%81%D9%86%D8%A7%D8%B1%D9%8A%D8%A9.pdf",
-      "fileSizeBytes": 7444889,
-      "isActive": true,
-      "isFeatured": false,
-      "tags": [
-        "mantiq",
-        "archive.org"
-      ],
-      "sortOrder": 13
-    },
-    {
-      "id": "sharh-al-aqaid",
-      "type": "book",
-      "titleUr": "شرح العقائد النسفیۃ (البشریٰ، رنگین)",
-      "titleEn": "Sharh al-'Aqa'id al-Nasafiyya (al-Bushra color ed.)",
-      "authorUr": "سعد الدین التفتازانی",
-      "authorEn": "Sa'd al-Din al-Taftazani (d. 792 AH)",
-      "description": "شرح العقائد النسفیہ۔ archive.org سے ماخوذ عوامی نسخہ۔",
-      "categoryId": "aqaid",
-      "language": "ar",
-      "pdfUrl": "https://archive.org/download/sharh_ul_aqaid_in_nasafiyah_al_bushra_color/SHARH_UL_AQAID_IN_NASAFIYAH_AL_BUSHRA_COLOR.pdf",
-      "fileSizeBytes": 68681728,
-      "isActive": true,
-      "isFeatured": false,
-      "tags": [
-        "aqaid",
-        "archive.org"
-      ],
-      "sortOrder": 14
-    },
-    {
-      "id": "AlGhaya",
-      "type": "book",
-      "titleUr": "الغایہ شرح ہدایہ",
-      "titleEn": "Al Ghaya",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "fiqh",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/5_20230531_202305/%D8%A7%D9%84%D8%BA%D8%A7%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%E2%91%A0%20%D8%A7%D9%84%D8%B3%D9%8E%D9%91%D8%B1%D9%88%D8%AC%D9%8A%20%D8%A7%D9%84%D8%AD%D9%86%D9%81%D9%8A.pdf",
-      "coverUrl": "https://ia801907.us.archive.org/BookReader/BookReaderImages.php?zip=/14/items/5_20230531_202305/%D8%A7%D9%84%D8%BA%D8%A7%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%E2%91%A0%20%D8%A7%D9%84%D8%B3%D9%8E%D9%91%D8%B1%D9%88%D8%AC%D9%8A%20%D8%A7%D9%84%D8%AD%D9%86%D9%81%D9%8A_jp2.zip&file=%D8%A7%D9%84%D8%BA%D8%A7%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%E2%91%A0%20%D8%A7%D9%84%D8%B3%D9%8E%D9%91%D8%B1%D9%88%D8%AC%D9%8A%20%D8%A7%D9%84%D8%AD%D9%86%D9%81%D9%8A_jp2/%D8%A7%D9%84%D8%BA%D8%A7%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%E2%91%A0%20%D8%A7%D9%84%D8%B3%D9%8E%D9%91%D8%B1%D9%88%D8%AC%D9%8A%20%D8%A7%D9%84%D8%AD%D9%86%D9%81%D9%8A_0000.jp2&id=5_20230531_202305&scale=8&rotate=0",
-      "fileSizeBytes": null,
-      "tags": [],
-      "sortOrder": 16,
-      "isActive": true,
-      "isFeatured": true
-    },
-    {
       "id": "Darsibooks",
       "type": "book",
-      "titleUr": "النبی الاطہر",
-      "titleEn": "Al Nabi Al Athar",
+      "titleUr": "صحیح بخاری متن",
+      "titleEn": "Sahi Bukhari",
       "authorUr": "",
       "authorEn": "",
       "description": "",
       "categoryId": "sarf",
       "language": "ur",
-      "pdfUrl": "https://archive.org/download/Alnabiyu-Alathar-113449/Alnabiyu-Alathar-113449-HQ.pdf",
-      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRfTBiIcDbZU_ZS8Fi8mkYP-_hQFjgMqUudrHZ2w1t4yhdlSD6kXnCnjnUQp6agg8nGzoJiDSr7ra1z0k5OUeelwPL9HgVTAxk3RC6UUk2JFWl09rScY7e1gyYyWeTFTYf4HkOFEA7Sj-ds5_VnNGjekt5ZF9l5bySMWZ1uslN_Zy-9X7EUlrhskRDh0Sq/s445/2024-05-21_181814.jpg",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_01.pdf",
+      "coverUrl": "https://besturdubooks.net/dars-e-nizami/dora-e-hadith-books/dora-e-hadith-text-books/",
       "fileSizeBytes": null,
       "tags": [],
-      "sortOrder": 17,
-      "isActive": true,
-      "isFeatured": false
-    },
-    {
-      "id": "PastPapers",
-      "type": "past_paper",
-      "titleUr": "Year 2014",
-      "titleEn": "",
-      "description": "",
-      "categoryId": "sarf",
-      "language": "ur",
-      "pdfUrl": "https://drive.google.com/file/d/1FJB06-rAN_nFuwODUmqUemKUGtR6LMTc/view?usp=drivesdk",
-      "fileSizeBytes": null,
-      "tags": [],
-      "sortOrder": 18,
+      "sortOrder": 1,
       "isActive": true,
       "isFeatured": false,
-      "examYear": 0,
-      "examSession": "",
-      "paperType": "",
-      "audience": "boys"
+      "audience": "all",
+      "volumes": [
+        {
+          "id": "جلد-1-mvfbsxcl0",
+          "titleUr": "جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_01.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "جلد-2-mvfbu0q21",
+          "titleUr": "جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_02.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "جلد-3-mvfbvjnt2",
+          "titleUr": "جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_03.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "جلد-4-mvfbvt1e3",
+          "titleUr": "جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_04.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        }
+      ]
     }
   ],
   "isDemo": false
