@@ -69,15 +69,39 @@
   "donation": {
     "accounts": [
       {
-        "id": "jazz-cash-mvd5ty2o0",
-        "labelUr": "جاز کیش",
-        "labelEn": "Jazz Cash",
+        "id": "easypaisa",
+        "labelUr": "ایزی پیسہ",
+        "labelEn": "Easypaisa",
         "accountTitle": "Muhammad Hasnain",
         "accountNumber": "03015879123",
         "iban": ""
+      },
+      {
+        "id": "jazzcash",
+        "labelUr": "جاز کیش",
+        "labelEn": "JazzCash",
+        "accountTitle": "Muhammad Hasnain",
+        "accountNumber": "03015879123",
+        "iban": ""
+      },
+      {
+        "id": "raast",
+        "labelUr": "راست",
+        "labelEn": "Raast",
+        "accountTitle": "Muhammad Hasnain",
+        "accountNumber": "03015879123",
+        "iban": ""
+      },
+      {
+        "id": "mbl-bank",
+        "labelUr": "موبلنک مائیکروفنانس بینک",
+        "labelEn": "Mobilink Microfinance Bank",
+        "accountTitle": "Muhammad Hasnain",
+        "accountNumber": "",
+        "iban": "PK20JCMA1407923015879123"
       }
     ],
-    "messageUr": "",
-    "messageEn": ""
+    "messageUr": "جیسا کہ آپ جانتے ہیں کہ اس ایپ میں طلبہ وطالبات کو نصابی کتب سے لے کر سوالیہ و حل شدہ پرچہ جات بلکل مفت فراہم کیے گئے ہیں۔ اس کام میں مزید بہتری اور سالانہ اخراجات کے لیے آپ کا تعاون درکار ہے، آپ ہمارے ساتھ حسب توفیق ضرور تعاون فرمائیں۔ جزاکم اللہ خیرا کثیرا",
+    "messageEn": "As you know, this app provides students with textbooks as well as past and solved papers completely free. We need your support for further improvement of this work and for annual expenses. Please support us according to your means. Jazakum Allahu Khairan Katheera."
   }
 }
