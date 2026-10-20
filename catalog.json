@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 24,
-  "updatedAt": "2026-10-20T01:30:59.719026Z",
+  "catalogVersion": 25,
+  "updatedAt": "2026-10-20T02:26:17.814119Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -16,18 +16,18 @@
       "isActive": true
     },
     {
-      "id": "sarf",
-      "nameUr": "شھادۃ العالمیہ 2",
-      "nameEn": "Shahadatul Almiya 2",
-      "iconKey": "text_fields",
-      "sortOrder": 2,
-      "isActive": true
-    },
-    {
       "id": "nahw",
       "nameUr": "شھادۃ العالمیہ 1",
       "nameEn": "Shahadatul Almiya 1",
       "iconKey": "school",
+      "sortOrder": 2,
+      "isActive": true
+    },
+    {
+      "id": "sarf",
+      "nameUr": "شھادۃ العالمیہ 2",
+      "nameEn": "Shahadatul Almiya 2",
+      "iconKey": "text_fields",
       "sortOrder": 3,
       "isActive": true
     },
