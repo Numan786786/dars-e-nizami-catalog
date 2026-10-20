@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 40,
-  "updatedAt": "2026-10-20T15:58:39.061630Z",
+  "catalogVersion": 41,
+  "updatedAt": "2026-10-20T16:00:40.611232Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -115,7 +115,7 @@
       "sortOrder": 1,
       "isActive": true,
       "isFeatured": false,
-      "audience": "boys",
+      "audience": "all",
       "volumes": [
         {
           "id": "جلد-1-mvfbsxcl0",
@@ -154,7 +154,7 @@
     {
       "id": "شرح-عقائد-mvg01glu0",
       "type": "book",
-      "titleUr": "شرح عقائد",
+      "titleUr": "شرح عقائد نسفی مکتبۃ البشریٰ",
       "titleEn": "",
       "authorUr": "",
       "authorEn": "",
@@ -168,7 +168,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "boys"
+      "audience": "all"
     },
     {
       "id": "item-mvgtwnl01",
