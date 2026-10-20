@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 54,
-  "updatedAt": "2026-10-20T17:26:41.818422Z",
+  "catalogVersion": 55,
+  "updatedAt": "2026-10-20T17:42:07.727161Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -822,6 +822,96 @@
           "titleUr": "شرح عقود رسم المفتی اردو نسخہ 3",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/sharh-ul-uqood-final/Sharh%20ul%20Uqood%20Final.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        }
+      ]
+    },
+    {
+      "id": "item-mvgyqbpb37",
+      "type": "book",
+      "titleUr": "اجلی الاعلام ان الفتویٰ مطلقاً علی قول الامام",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "MuftCoursei",
+      "language": "ur",
+      "pdfUrl": "https://www.alahazratnetwork.org/download/%D8%A3%D8%AC%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A3%D9%86-%D8%A7%D9%84%D9%81%D8%AA%D9%88%D9%89-%D9%85%D8%B7%D9%84%D9%82%D8%A7-%D8%B9%D9%84%D9%89-%D9%82%D9%88%D9%84-%D8%A7%D9%84/#",
+      "coverUrl": "",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "item-mvgyn7z834",
+          "titleUr": "اجلی الاعلام ان الفتویٰ مطلقاً علی قول الامام",
+          "titleEn": "",
+          "pdfUrl": "https://www.alahazratnetwork.org/download/%D8%A3%D8%AC%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A3%D9%86-%D8%A7%D9%84%D9%81%D8%AA%D9%88%D9%89-%D9%85%D8%B7%D9%84%D9%82%D8%A7-%D8%B9%D9%84%D9%89-%D9%82%D9%88%D9%84-%D8%A7%D9%84/#",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "2-mvgyp36g35",
+          "titleUr": "اجلی الاعلام ان الفتویٰ مطلقاً علی قول الامام 2",
+          "titleEn": "",
+          "pdfUrl": "https://www.alahazratnetwork.org/download/%D8%A3%D8%AC%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A3%D9%86-%D8%A7%D9%84%D9%81%D8%AA%D9%88%D9%89-%D9%85%D8%B7%D9%84%D9%82%D8%A7-%D8%B9%D9%84%D9%89-%D9%82%D9%88%D9%84-%D8%A7-2/#",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "item-mvgyqaoq36",
+          "titleUr": "اجلی الاعلام ان الفتویٰ مطلقاً علی قول الامام",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/compress/20260306_20260306_0447/formats=IMAGE%20CONTAINER%20PDF,TEXT%20PDF&file=/20260306_20260306_0447.zip",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        }
+      ]
+    },
+    {
+      "id": "item-mvgz072o41",
+      "type": "book",
+      "titleUr": "نشر العرف",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "MuftCoursei",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/036-pdf/036%20pdf%20%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%82%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D8%B1%D9%81%D9%8A%D8%A9%20%D8%B9%D9%84%D9%89%20%D9%86%D8%B4%D8%B1%20%D8%A7%D9%84%D8%B9%D8%B1%D9%81%20%D9%81%D9%8A%20%D8%A8%D9%86%D8%A7%D8%A1%20%D8%A8%D8%B9%D8%B6%20%D8%A7%D9%84%D8%A3%D8%AD%D9%83%D8%A7%D9%85%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%B9%D8%B1%D9%81.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 1964849,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "item-mvgytjpt38",
+          "titleUr": "نشرالعرف",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/036-pdf/036%20pdf%20%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%82%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D8%B1%D9%81%D9%8A%D8%A9%20%D8%B9%D9%84%D9%89%20%D9%86%D8%B4%D8%B1%20%D8%A7%D9%84%D8%B9%D8%B1%D9%81%20%D9%81%D9%8A%20%D8%A8%D9%86%D8%A7%D8%A1%20%D8%A8%D8%B9%D8%B6%20%D8%A7%D9%84%D8%A3%D8%AD%D9%83%D8%A7%D9%85%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%B9%D8%B1%D9%81.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "2-mvgyw58g39",
+          "titleUr": "نشر العرف نسخہ 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/AhkamMeUrfAurTaamulByZabdulHaqBarkatiMisbahi/Ahkam%20Me%20Urf%20Aur%20Taamul%20By%20Zabdul%20Haq%20Barkati%20Misbahi.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "3-mvgz066r40",
+          "titleUr": "نشر العرف نسخہ 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D9%86%D8%B4%D8%B1%D8%A7%D9%84%D8%B9%D8%B1%D9%81%20%D9%81%DB%8C%20%D8%A8%D9%86%D8%A7%D8%A1%20%D8%A8%D8%B9%D8%B6%20%D8%A7%D9%84%D8%A7%D8%AD%DA%A9%D8%A7%D9%85%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%B9%D8%B1%D9%81%D8%8C%D8%A7%D8%B1%D8%AF%D9%88%D8%8C%D8%B9%D9%84%D8%A7%D9%85%DB%81%20%D8%B4%D8%A7%D9%85%DB%8C.pdf",
           "fileSizeBytes": null,
           "sortOrder": null
         }
