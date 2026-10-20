@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 38,
-  "updatedAt": "2026-10-20T15:43:54.827769Z",
+  "catalogVersion": 39,
+  "updatedAt": "2026-10-20T15:56:30.033009Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -254,6 +254,216 @@
           "sortOrder": null
         }
       ]
+    },
+    {
+      "id": "item-mvguyxay0",
+      "type": "book",
+      "titleUr": "تفسیر جلالین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20260201_20260201_0019/%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%D8%B4%D8%B1%DB%8C%D9%81%20%D8%A7%D9%88%D9%84.pdf",
+      "coverUrl": "https://ia600603.us.archive.org/BookReader/BookReaderImages.php?zip=/25/items/20260201_20260201_0019/%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%D8%B4%D8%B1%DB%8C%D9%81%20%D8%A7%D9%88%D9%84_jp2.zip&file=%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%D8%B4%D8%B1%DB%8C%D9%81%20%D8%A7%D9%88%D9%84_jp2/%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%D8%B4%D8%B1%DB%8C%D9%81%20%D8%A7%D9%88%D9%84_0000.jp2&id=20260201_20260201_0019&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all",
+      "volumes": [
+        {
+          "id": "1-mvgu7xb93",
+          "titleUr": "تفسیر جلالین مکتبۃ البشریٰ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20260201_20260201_0019/%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%D8%B4%D8%B1%DB%8C%D9%81%20%D8%A7%D9%88%D9%84.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "2-mvgu8qfy4",
+          "titleUr": "تفسیر جلالین مکتبۃ البشریٰ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20260201_20260201/%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%D8%B4%D8%B1%DB%8C%D9%81%20%D8%AF%D9%88%D9%85.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        }
+      ]
+    },
+    {
+      "id": "item-mvgv3rs54",
+      "type": "book",
+      "titleUr": "لفظی ترجمہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "hadith",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/1_20220316_202203/%D9%84%D9%81%D8%B8%DB%8C%20%D8%AA%D8%B1%D8%AC%D9%85%DB%81%20%DA%A9%D9%86%D8%B2%D8%A7%D9%84%D8%A7%DB%8C%D9%85%D8%A7%D9%86%20%D8%AC%D9%84%D8%AF1.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgerttBN6Tu_XpWje023iszAyCwWdj15_yYbNMCYOiBBEObHk_xo0nv250Eq8dic3HLLErjmndvKHd5h9VIz0JBwCja_gEwik49FMASQXd3EEQfSqvOzQL5SGGN2pX-1kSTennnWaq9Q4pepQYeIKrqY3TUpst8XJJe2zkIuujpYSCt2tOaXnQ4NVqrPw=s864",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all",
+      "volumes": [
+        {
+          "id": "1-mvgv2mgr1",
+          "titleUr": "لفظی ترجمہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20220316_202203/%D9%84%D9%81%D8%B8%DB%8C%20%D8%AA%D8%B1%D8%AC%D9%85%DB%81%20%DA%A9%D9%86%D8%B2%D8%A7%D9%84%D8%A7%DB%8C%D9%85%D8%A7%D9%86%20%D8%AC%D9%84%D8%AF1.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "2-mvgv37c12",
+          "titleUr": "لفظی ترجمہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20220316_202203/%D9%84%D9%81%D8%B8%DB%8C%20%D8%AA%D8%B1%D8%AC%D9%85%DB%81%20%DA%A9%D9%86%D8%B2%D8%A7%D9%84%D8%A7%DB%8C%D9%85%D8%A7%D9%86%20%D8%AC%D9%84%D8%AF2.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "3-mvgv3q0d3",
+          "titleUr": "لفظی ترجمہ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20220316_202203/%D9%84%D9%81%D8%B8%DB%8C%20%D8%AA%D8%B1%D8%AC%D9%85%D9%87%20%DA%A9%D9%86%D8%B2%D8%A7%D9%84%D8%A7%DB%8C%D9%85%D8%A7%D9%86%20%D8%AC%D9%84%D8%AF%203.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        }
+      ]
+    },
+    {
+      "id": "item-mvgv4ed85",
+      "type": "book",
+      "titleUr": "لفظی ترجمہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "mantiq",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/1_20220316_202203/%D9%84%D9%81%D8%B8%DB%8C%20%D8%AA%D8%B1%D8%AC%D9%85%DB%81%20%DA%A9%D9%86%D8%B2%D8%A7%D9%84%D8%A7%DB%8C%D9%85%D8%A7%D9%86%20%D8%AC%D9%84%D8%AF1.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgerttBN6Tu_XpWje023iszAyCwWdj15_yYbNMCYOiBBEObHk_xo0nv250Eq8dic3HLLErjmndvKHd5h9VIz0JBwCja_gEwik49FMASQXd3EEQfSqvOzQL5SGGN2pX-1kSTennnWaq9Q4pepQYeIKrqY3TUpst8XJJe2zkIuujpYSCt2tOaXnQ4NVqrPw=s864",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all",
+      "volumes": [
+        {
+          "id": "1-mvgv2mgr1",
+          "titleUr": "لفظی ترجمہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20220316_202203/%D9%84%D9%81%D8%B8%DB%8C%20%D8%AA%D8%B1%D8%AC%D9%85%DB%81%20%DA%A9%D9%86%D8%B2%D8%A7%D9%84%D8%A7%DB%8C%D9%85%D8%A7%D9%86%20%D8%AC%D9%84%D8%AF1.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "2-mvgv37c12",
+          "titleUr": "لفظی ترجمہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20220316_202203/%D9%84%D9%81%D8%B8%DB%8C%20%D8%AA%D8%B1%D8%AC%D9%85%DB%81%20%DA%A9%D9%86%D8%B2%D8%A7%D9%84%D8%A7%DB%8C%D9%85%D8%A7%D9%86%20%D8%AC%D9%84%D8%AF2.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "3-mvgv3q0d3",
+          "titleUr": "لفظی ترجمہ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20220316_202203/%D9%84%D9%81%D8%B8%DB%8C%20%D8%AA%D8%B1%D8%AC%D9%85%D9%87%20%DA%A9%D9%86%D8%B2%D8%A7%D9%84%D8%A7%DB%8C%D9%85%D8%A7%D9%86%20%D8%AC%D9%84%D8%AF%203.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        }
+      ]
+    },
+    {
+      "id": "item-mvgv4tp06",
+      "type": "book",
+      "titleUr": "لفظی ترجمہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "aqaid",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/1_20220316_202203/%D9%84%D9%81%D8%B8%DB%8C%20%D8%AA%D8%B1%D8%AC%D9%85%DB%81%20%DA%A9%D9%86%D8%B2%D8%A7%D9%84%D8%A7%DB%8C%D9%85%D8%A7%D9%86%20%D8%AC%D9%84%D8%AF1.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgerttBN6Tu_XpWje023iszAyCwWdj15_yYbNMCYOiBBEObHk_xo0nv250Eq8dic3HLLErjmndvKHd5h9VIz0JBwCja_gEwik49FMASQXd3EEQfSqvOzQL5SGGN2pX-1kSTennnWaq9Q4pepQYeIKrqY3TUpst8XJJe2zkIuujpYSCt2tOaXnQ4NVqrPw=s864",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all",
+      "volumes": [
+        {
+          "id": "1-mvgv2mgr1",
+          "titleUr": "لفظی ترجمہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20220316_202203/%D9%84%D9%81%D8%B8%DB%8C%20%D8%AA%D8%B1%D8%AC%D9%85%DB%81%20%DA%A9%D9%86%D8%B2%D8%A7%D9%84%D8%A7%DB%8C%D9%85%D8%A7%D9%86%20%D8%AC%D9%84%D8%AF1.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "2-mvgv37c12",
+          "titleUr": "لفظی ترجمہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20220316_202203/%D9%84%D9%81%D8%B8%DB%8C%20%D8%AA%D8%B1%D8%AC%D9%85%DB%81%20%DA%A9%D9%86%D8%B2%D8%A7%D9%84%D8%A7%DB%8C%D9%85%D8%A7%D9%86%20%D8%AC%D9%84%D8%AF2.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "3-mvgv3q0d3",
+          "titleUr": "لفظی ترجمہ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20220316_202203/%D9%84%D9%81%D8%B8%DB%8C%20%D8%AA%D8%B1%D8%AC%D9%85%D9%87%20%DA%A9%D9%86%D8%B2%D8%A7%D9%84%D8%A7%DB%8C%D9%85%D8%A7%D9%86%20%D8%AC%D9%84%D8%AF%203.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        }
+      ]
+    },
+    {
+      "id": "30-mvgv6u6l7",
+      "type": "book",
+      "titleUr": "30 پارہ ترجمہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "Darsenizami",
+      "language": "ur",
+      "pdfUrl": "https://data2.dawateislami.net/Data/Books/Download/ur/pdf/2018/1730-1.pdf?fn=maarifat-ul-quraan-jild-6",
+      "coverUrl": "https://data2.dawateislami.net/Data/Books/Read/ur/2018/1730/bt1730.jpg",
+      "fileSizeBytes": 52421205,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mvgv8cl98",
+      "type": "book",
+      "titleUr": "آخری پارہ ترجمہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "Darsenizami.",
+      "language": "ur",
+      "pdfUrl": "https://data2.dawateislami.net/Data/Books/Download/ur/pdf/2018/1730-1.pdf?fn=maarifat-ul-quraan-jild-6",
+      "coverUrl": "https://data2.dawateislami.net/Data/Books/Read/ur/2018/1730/bt1730.jpg",
+      "fileSizeBytes": 52421205,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all"
     }
   ],
   "isDemo": false
