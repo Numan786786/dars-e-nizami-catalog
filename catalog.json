@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 56,
-  "updatedAt": "2026-10-20T18:01:29.562841Z",
+  "catalogVersion": 57,
+  "updatedAt": "2026-10-20T18:04:42.168634Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -920,14 +920,6 @@
           "titleUr": "نشر العرف نسخہ 2",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/AhkamMeUrfAurTaamulByZabdulHaqBarkatiMisbahi/Ahkam%20Me%20Urf%20Aur%20Taamul%20By%20Zabdul%20Haq%20Barkati%20Misbahi.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": null
-        },
-        {
-          "id": "3-mvgz066r40",
-          "titleUr": "نشر العرف نسخہ 3",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D9%86%D8%B4%D8%B1%D8%A7%D9%84%D8%B9%D8%B1%D9%81%20%D9%81%DB%8C%20%D8%A8%D9%86%D8%A7%D8%A1%20%D8%A8%D8%B9%D8%B6%20%D8%A7%D9%84%D8%A7%D8%AD%DA%A9%D8%A7%D9%85%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%B9%D8%B1%D9%81%D8%8C%D8%A7%D8%B1%D8%AF%D9%88%D8%8C%D8%B9%D9%84%D8%A7%D9%85%DB%81%20%D8%B4%D8%A7%D9%85%DB%8C.pdf",
           "fileSizeBytes": null,
           "sortOrder": null
         }
