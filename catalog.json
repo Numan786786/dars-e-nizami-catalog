@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 21,
-  "updatedAt": "2026-10-20T01:23:20.958805Z",
+  "catalogVersion": 22,
+  "updatedAt": "2026-10-20T01:25:47.597032Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -168,7 +168,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all"
+      "audience": "boys"
     }
   ],
   "isDemo": false
