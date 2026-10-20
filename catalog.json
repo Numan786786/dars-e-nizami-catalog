@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 30,
-  "updatedAt": "2026-10-20T14:57:40.584072Z",
+  "catalogVersion": 31,
+  "updatedAt": "2026-10-20T15:23:15.160609Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -169,6 +169,54 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "boys"
+    },
+    {
+      "id": "item-mvgtwnl01",
+      "type": "book",
+      "titleUr": "تفسیر بیضاوی مکتبۃ البشریٰ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "sarf",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/TafseerUlBaizawiAlBushraColor.pdf",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2020/04/Tafseer-al-Baizawi-Al-Bushra.jpg",
+      "fileSizeBytes": 58794599,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all",
+      "volumes": [
+        {
+          "id": "1-mvgtvjzl0",
+          "titleUr": "تفسیر بیضاوی مکتبۃ البشریٰ",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/TafseerUlBaizawiAlBushraColor.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        }
+      ]
+    },
+    {
+      "id": "item-mvgtyefh2",
+      "type": "book",
+      "titleUr": "تفسیر بیضاوی مکتبۃ المدینہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "sarf",
+      "language": "ur",
+      "pdfUrl": "https://data2.dawateislami.net/Data/Books/Download/ar/pdf/2017/1677-1.pdf?fn=%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D9%88%D9%8A%27,%20%27%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D9%88%D9%8A%27,%203466",
+      "coverUrl": "https://www.arabicdawateislami.net/bookslibrary/3466/page/1",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all"
     }
   ],
   "isDemo": false
