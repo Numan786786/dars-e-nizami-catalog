@@ -1,32 +1,32 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 26,
-  "updatedAt": "2026-10-20T02:28:04.881123Z",
+  "catalogVersion": 27,
+  "updatedAt": "2026-10-20T14:48:35.208654Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
   },
   "categories": [
     {
-      "id": "fiqh",
-      "nameUr": "شھادۃ العالیہ 2",
-      "nameEn": "Shahadatul Aliya 2",
-      "iconKey": "balance",
-      "sortOrder": 1,
-      "isActive": true
-    },
-    {
       "id": "nahw",
       "nameUr": "شھادۃ العالمیہ 1",
       "nameEn": "Shahadatul Almiya 1",
       "iconKey": "school",
+      "sortOrder": 1,
+      "isActive": true
+    },
+    {
+      "id": "fiqh",
+      "nameUr": "شھادۃ العالمیہ 2",
+      "nameEn": "Shahadatul Almiya 2",
+      "iconKey": "balance",
       "sortOrder": 2,
       "isActive": true
     },
     {
       "id": "sarf",
-      "nameUr": "شھادۃ العالمیہ 2",
-      "nameEn": "Shahadatul Almiya 2",
+      "nameUr": "شھادۃ العالیہ 2",
+      "nameEn": "Shahadatul Aaliya 2",
       "iconKey": "text_fields",
       "sortOrder": 3,
       "isActive": true
@@ -106,7 +106,7 @@
       "authorUr": "",
       "authorEn": "",
       "description": "",
-      "categoryId": "sarf",
+      "categoryId": "fiqh",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_01.pdf",
       "coverUrl": "https://besturdubooks.net/dars-e-nizami/dora-e-hadith-books/dora-e-hadith-text-books/",
