@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 62,
-  "updatedAt": "2026-10-20T18:20:38.506541Z",
+  "catalogVersion": 63,
+  "updatedAt": "2026-10-20T18:23:07.194808Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -854,7 +854,7 @@
       "categoryId": "MuftCoursei",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D8%A7%D8%AC%D9%84%DB%8C%20%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D8%A7%D9%85%20%D8%A7%D9%86%20%D8%A7%D9%84%D9%81%D8%AA%D9%88%DB%8C%20%D8%B9%D9%84%DB%8C%20%D9%82%D9%88%D9%84%20%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85.pdf",
-      "coverUrl": "https://archive.org/download/20220316_20220316_1854/%D8%A7%D8%AC%D9%84%D8%A6%20%D8%A7%D8%B9%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%89%20%D9%82%D9%88%D9%84%20%D8%A7%D9%84%D8%A7%20%D9%85%D8%A7%20%D9%85%20%282%29.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCWRNqfqrMSwimedHabHkDgCfclqMoqHmGr45wCOE2G1YlEFgxsZzxbHCn05s62S4K0F-Hq3HZdGorpnwshC2Q49GMEMWT5GVULEHhJm09eHDEIY4texJ0Y6dhdX55WkZzqP_Mx0ksZ6M/s1600/20190727_215618.jpg",
       "fileSizeBytes": 2368972,
       "tags": [],
       "sortOrder": 0,
