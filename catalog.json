@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 39,
-  "updatedAt": "2026-10-20T15:56:30.033009Z",
+  "catalogVersion": 40,
+  "updatedAt": "2026-10-20T15:58:39.061630Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -119,7 +119,7 @@
       "volumes": [
         {
           "id": "جلد-1-mvfbsxcl0",
-          "titleUr": "جلد 1",
+          "titleUr": "صحیح بخاری جلد 1",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_01.pdf",
           "fileSizeBytes": null,
@@ -127,7 +127,7 @@
         },
         {
           "id": "جلد-2-mvfbu0q21",
-          "titleUr": "جلد 2",
+          "titleUr": "صحیح بخاری جلد 2",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_02.pdf",
           "fileSizeBytes": null,
@@ -135,7 +135,7 @@
         },
         {
           "id": "جلد-3-mvfbvjnt2",
-          "titleUr": "جلد 3",
+          "titleUr": "صحیح بخاری جلد 3",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_03.pdf",
           "fileSizeBytes": null,
@@ -143,7 +143,7 @@
         },
         {
           "id": "جلد-4-mvfbvt1e3",
-          "titleUr": "جلد 4",
+          "titleUr": "صحیح بخاری جلد 4",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_04.pdf",
           "fileSizeBytes": null,
