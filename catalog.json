@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 52,
-  "updatedAt": "2026-10-20T17:22:41.789956Z",
+  "catalogVersion": 53,
+  "updatedAt": "2026-10-20T17:24:07.198221Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -101,6 +101,14 @@
       "nameEn": "تجوید وقراءت",
       "iconKey": "Qur'an",
       "sortOrder": 12,
+      "isActive": true
+    },
+    {
+      "id": "Quran",
+      "nameUr": "",
+      "nameEn": "تجوید وقراءت",
+      "iconKey": "",
+      "sortOrder": 13,
       "isActive": true
     }
   ],
