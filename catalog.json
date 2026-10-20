@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 29,
-  "updatedAt": "2026-10-20T14:54:15.387762Z",
+  "catalogVersion": 30,
+  "updatedAt": "2026-10-20T14:57:40.584072Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
   },
   "categories": [
     {
-      "id": "nahw",
-      "nameUr": "شھادۃ العالمیہ 1",
-      "nameEn": "Shahadatul Almiya 1",
-      "iconKey": "school",
-      "sortOrder": 1,
-      "isActive": true
-    },
-    {
       "id": "fiqh",
       "nameUr": "شھادۃ العالمیہ 2",
       "nameEn": "Shahadatul Almiya 2",
       "iconKey": "balance",
+      "sortOrder": 1,
+      "isActive": true
+    },
+    {
+      "id": "nahw",
+      "nameUr": "شھادۃ العالمیہ 1",
+      "nameEn": "Shahadatul Almiya 1",
+      "iconKey": "school",
       "sortOrder": 2,
       "isActive": true
     },
@@ -169,25 +169,6 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "boys"
-    },
-    {
-      "id": "تفسیر-بیضاوی-mvg0bce01",
-      "type": "book",
-      "titleUr": "تفسیر بیضاوی",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "fiqh",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/TafseerUlBaizawiRahmania.pdf",
-      "coverUrl": "https://besturdubooks.net/tafseer-e-baizawi-rahmania/",
-      "fileSizeBytes": 12949893,
-      "tags": [],
-      "sortOrder": 0,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "all"
     }
   ],
   "isDemo": false
