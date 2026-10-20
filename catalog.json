@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 66,
-  "updatedAt": "2026-10-20T18:28:15.536699Z",
+  "catalogVersion": 67,
+  "updatedAt": "2026-10-20T18:31:04.789004Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -980,8 +980,8 @@
       "description": "",
       "categoryId": "MuftCoursei",
       "language": "ur",
-      "pdfUrl": "https://archive.org/download/SHARHUNNAZAIRURDU/SHARH_UN_NAZAIR_URDU_SHARH_AL_ASHBAH_WA_AL_NAZAIR.pdf",
-      "coverUrl": "https://archive.org/download/SHARHUNNAZAIRURDU/SHARH_UN_NAZAIR_URDU_SHARH_AL_ASHBAH_WA_AL_NAZAIR.pdf",
+      "pdfUrl": "https://archive.org/download/20190922_20190922_0702/%D9%82%D9%88%D8%A7%D8%B9%D8%AF%20%D9%81%D9%82%DB%81%DB%8C%DB%81.pdf",
+      "coverUrl": "https://ia800705.us.archive.org/BookReader/BookReaderImages.php?zip=/21/items/20190922_20190922_0702/%D9%82%D9%88%D8%A7%D8%B9%D8%AF%20%D9%81%D9%82%DB%81%DB%8C%DB%81_jp2.zip&file=%D9%82%D9%88%D8%A7%D8%B9%D8%AF%20%D9%81%D9%82%DB%81%DB%8C%DB%81_jp2/%D9%82%D9%88%D8%A7%D8%B9%D8%AF%20%D9%81%D9%82%DB%81%DB%8C%DB%81_0000.jp2&id=20190922_20190922_0702&scale=2&rotate=0",
       "fileSizeBytes": 15997543,
       "tags": [],
       "sortOrder": 0,
