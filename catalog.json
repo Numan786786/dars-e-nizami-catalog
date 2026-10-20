@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 49,
-  "updatedAt": "2026-10-20T17:13:30.106111Z",
+  "catalogVersion": 50,
+  "updatedAt": "2026-10-20T17:15:03.958204Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -777,7 +777,7 @@
     {
       "id": "1-mvgxzeqo32",
       "type": "book",
-      "titleUr": "شرح عقود رسم المفتی اردو نسخہ 1",
+      "titleUr": "شرح عقود رسم المفتی اردو",
       "titleEn": "",
       "authorUr": "",
       "authorEn": "",
