@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 44,
-  "updatedAt": "2026-10-20T16:16:08.442310Z",
+  "catalogVersion": 45,
+  "updatedAt": "2026-10-20T16:31:03.787207Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -16,11 +16,19 @@
       "isActive": true
     },
     {
+      "id": "Mufti",
+      "nameUr": "تخصص فی الفقہ 2",
+      "nameEn": "",
+      "iconKey": "Mufti Course",
+      "sortOrder": 2,
+      "isActive": true
+    },
+    {
       "id": "nahw",
       "nameUr": "شھادۃ العالمیہ 1",
       "nameEn": "Shahadatul Almiya 1",
       "iconKey": "school",
-      "sortOrder": 2,
+      "sortOrder": 3,
       "isActive": true
     },
     {
@@ -28,7 +36,7 @@
       "nameUr": "شھادۃ العالیہ 2",
       "nameEn": "Shahadatul Aaliya 2",
       "iconKey": "text_fields",
-      "sortOrder": 3,
+      "sortOrder": 4,
       "isActive": true
     },
     {
@@ -36,7 +44,7 @@
       "nameUr": "شھادۃ العالیہ 1",
       "nameEn": "Shahadatul Aliya 1",
       "iconKey": "library",
-      "sortOrder": 4,
+      "sortOrder": 5,
       "isActive": true
     },
     {
@@ -44,7 +52,7 @@
       "nameUr": "ثانویہ خاصہ 2",
       "nameEn": "Sanvia Khassa 2",
       "iconKey": "auto_stories",
-      "sortOrder": 5,
+      "sortOrder": 6,
       "isActive": true
     },
     {
@@ -52,7 +60,7 @@
       "nameUr": "ثانویہ خاصہ 1",
       "nameEn": "Sanvia Khassa 1",
       "iconKey": "menu_book",
-      "sortOrder": 6,
+      "sortOrder": 7,
       "isActive": true
     },
     {
@@ -60,7 +68,7 @@
       "nameUr": "ثانویہ عامہ 2",
       "nameEn": "Sanvia Aamma 2",
       "iconKey": "star",
-      "sortOrder": 7,
+      "sortOrder": 8,
       "isActive": true
     },
     {
@@ -68,7 +76,7 @@
       "nameUr": "ثانویہ عامہ 1",
       "nameEn": "Sanvia Aamma 1",
       "iconKey": "mosque",
-      "sortOrder": 8,
+      "sortOrder": 9,
       "isActive": true
     },
     {
@@ -76,7 +84,7 @@
       "nameUr": "متوسطہ",
       "nameEn": "Mutawasita",
       "iconKey": "Books",
-      "sortOrder": 9,
+      "sortOrder": 10,
       "isActive": true
     },
     {
@@ -84,7 +92,15 @@
       "nameUr": "تجوید وقراءت",
       "nameEn": "Tajweed o Qiraat",
       "iconKey": "Qur'an",
-      "sortOrder": 10,
+      "sortOrder": 11,
+      "isActive": true
+    },
+    {
+      "id": "MuftCoursei",
+      "nameUr": "تخصص فی الفقہ 1",
+      "nameEn": "",
+      "iconKey": "Mufti Course",
+      "sortOrder": 12,
       "isActive": true
     }
   ],
@@ -484,6 +500,186 @@
       "examSession": "2014",
       "paperType": "سالانہ",
       "audience": "boys"
+    },
+    {
+      "id": "2014-mvgw72zn10",
+      "type": "past_paper",
+      "titleUr": "سالانہ 2014",
+      "titleEn": "",
+      "description": "",
+      "categoryId": "nahw",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia600904.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/2022_20230805/%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_jp2.zip&file=%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_jp2/%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_0000.jp2&id=2022_20230805&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "examYear": 2014,
+      "examSession": "سالانہ",
+      "paperType": "",
+      "audience": "boys"
+    },
+    {
+      "id": "2014-mvgw7s3y11",
+      "type": "past_paper",
+      "titleUr": "سالانہ 2014",
+      "titleEn": "",
+      "description": "",
+      "categoryId": "sarf",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia600904.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/2022_20230805/%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_jp2.zip&file=%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_jp2/%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_0000.jp2&id=2022_20230805&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "examYear": 2014,
+      "examSession": "سالانہ",
+      "paperType": "",
+      "audience": "boys"
+    },
+    {
+      "id": "2014-mvgw8j0n12",
+      "type": "past_paper",
+      "titleUr": "سالانہ 2014",
+      "titleEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia600904.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/2022_20230805/%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_jp2.zip&file=%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_jp2/%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_0000.jp2&id=2022_20230805&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "examYear": 2014,
+      "examSession": "سالانہ",
+      "paperType": "",
+      "audience": "boys"
+    },
+    {
+      "id": "2014-mvgw9g1e13",
+      "type": "past_paper",
+      "titleUr": "سالانہ 2014",
+      "titleEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia600904.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/2022_20230805/%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_jp2.zip&file=%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_jp2/%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_0000.jp2&id=2022_20230805&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "examYear": 2014,
+      "examSession": "سالانہ",
+      "paperType": "",
+      "audience": "boys"
+    },
+    {
+      "id": "2014-mvgwa22o14",
+      "type": "past_paper",
+      "titleUr": "سالانہ 2014",
+      "titleEn": "",
+      "description": "",
+      "categoryId": "hadith",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia600904.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/2022_20230805/%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_jp2.zip&file=%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_jp2/%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_0000.jp2&id=2022_20230805&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "examYear": 2014,
+      "examSession": "سالانہ",
+      "paperType": "",
+      "audience": "boys"
+    },
+    {
+      "id": "2014-mvgwatej15",
+      "type": "past_paper",
+      "titleUr": "سالانہ 2014",
+      "titleEn": "",
+      "description": "",
+      "categoryId": "mantiq",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia600904.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/2022_20230805/%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_jp2.zip&file=%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_jp2/%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_0000.jp2&id=2022_20230805&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "examYear": 2014,
+      "examSession": "سالانہ",
+      "paperType": "",
+      "audience": "boys"
+    },
+    {
+      "id": "2014-mvgwbg6o16",
+      "type": "past_paper",
+      "titleUr": "سالانہ 2014",
+      "titleEn": "",
+      "description": "",
+      "categoryId": "aqaid",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia600904.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/2022_20230805/%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_jp2.zip&file=%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_jp2/%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_0000.jp2&id=2022_20230805&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "examYear": 2014,
+      "examSession": "سالانہ",
+      "paperType": "",
+      "audience": "boys"
+    },
+    {
+      "id": "2014-mvgwcs5217",
+      "type": "past_paper",
+      "titleUr": "سالانہ 2014",
+      "titleEn": "",
+      "description": "",
+      "categoryId": "Darsenizami",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia600904.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/2022_20230805/%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_jp2.zip&file=%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_jp2/%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_0000.jp2&id=2022_20230805&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "examYear": 2014,
+      "examSession": "سالانہ",
+      "paperType": "",
+      "audience": "boys"
+    },
+    {
+      "id": "2022-mvgwddv618",
+      "type": "past_paper",
+      "titleUr": "سالانہ 2022",
+      "titleEn": "",
+      "description": "",
+      "categoryId": "Darsenizami.",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia600904.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/2022_20230805/%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_jp2.zip&file=%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_jp2/%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202022_0000.jp2&id=2022_20230805&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "examYear": 2022,
+      "examSession": "سالانہ",
+      "paperType": "",
+      "audience": "all"
     }
   ],
   "isDemo": false
