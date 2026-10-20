@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 35,
-  "updatedAt": "2026-10-20T15:35:59.774725Z",
+  "catalogVersion": 36,
+  "updatedAt": "2026-10-20T15:39:21.111109Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -210,7 +210,7 @@
       "categoryId": "sarf",
       "language": "ur",
       "pdfUrl": "https://data2.dawateislami.net/Data/Books/Download/ar/pdf/2017/1677-1.pdf?fn=%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D9%88%D9%8A%27,%20%27%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D9%88%D9%8A%27,%203466",
-      "coverUrl": "https://maktabatulmadina.in/cache/large/product/3618/Tafseer%20e%20Baizavi%20Darsi.jpg",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyEV8-TzYR9oggjL3imR6-_PllJQ0zx2iZUS7XcWsGTqQ1Ux-MgKO6UwU4IKnCFWnU0h8DPnP5ZgBbymwMgbYHOpDSCehMViMCsUE50pqoSEN1VOetsFREFVlpT3qJ1nFyrAqopg6rMlY/s1600/20200214_091008.jpg",
       "fileSizeBytes": null,
       "tags": [],
       "sortOrder": 0,
