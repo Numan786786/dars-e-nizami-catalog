@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 37,
-  "updatedAt": "2026-10-20T15:42:17.339422Z",
+  "catalogVersion": 38,
+  "updatedAt": "2026-10-20T15:43:54.827769Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -10,7 +10,7 @@
     {
       "id": "fiqh",
       "nameUr": "شھادۃ العالمیہ 2",
-      "nameEn": "Shahadatul Almiya 2شھادۃ العالمیة",
+      "nameEn": "Shahadatul Almiya 2",
       "iconKey": "balance",
       "sortOrder": 1,
       "isActive": true
