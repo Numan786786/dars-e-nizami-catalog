@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 57,
-  "updatedAt": "2026-10-20T18:04:42.168634Z",
+  "catalogVersion": 58,
+  "updatedAt": "2026-10-20T18:08:43.961069Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -854,7 +854,7 @@
       "categoryId": "MuftCoursei",
       "language": "ur",
       "pdfUrl": "https://www.alahazratnetwork.org/download/%D8%A3%D8%AC%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A3%D9%86-%D8%A7%D9%84%D9%81%D8%AA%D9%88%D9%89-%D9%85%D8%B7%D9%84%D9%82%D8%A7-%D8%B9%D9%84%D9%89-%D9%82%D9%88%D9%84-%D8%A7%D9%84/#",
-      "coverUrl": "",
+      "coverUrl": "https://www.alahazratnetwork.org/download/%D8%A3%D8%AC%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A3%D9%86-%D8%A7%D9%84%D9%81%D8%AA%D9%88%D9%89-%D9%85%D8%B7%D9%84%D9%82%D8%A7-%D8%B9%D9%84%D9%89-%D9%82%D9%88%D9%84-%D8%A7%D9%84/#",
       "fileSizeBytes": null,
       "tags": [],
       "sortOrder": 0,
