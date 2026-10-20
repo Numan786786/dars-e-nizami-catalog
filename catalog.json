@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 63,
-  "updatedAt": "2026-10-20T18:23:07.194808Z",
+  "catalogVersion": 64,
+  "updatedAt": "2026-10-20T18:24:36.179763Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -862,22 +862,6 @@
       "isFeatured": false,
       "audience": "boys",
       "volumes": [
-        {
-          "id": "item-mvgyn7z834",
-          "titleUr": "اجلی الاعلام ان الفتویٰ مطلقاً علی قول الامام",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D8%A7%D8%AC%D9%84%DB%8C%20%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D8%A7%D9%85%20%D8%A7%D9%86%20%D8%A7%D9%84%D9%81%D8%AA%D9%88%DB%8C%20%D8%B9%D9%84%DB%8C%20%D9%82%D9%88%D9%84%20%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": null
-        },
-        {
-          "id": "2-mvgyp36g35",
-          "titleUr": "اجلی الاعلام ان الفتویٰ مطلقاً علی قول الامام 2",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D8%A7%D8%AC%D9%84%DB%8C%20%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D8%A7%D9%85%20%D8%A7%D9%86%20%D8%A7%D9%84%D9%81%D8%AA%D9%88%DB%8C%20%D8%B9%D9%84%DB%8C%20%D9%82%D9%88%D9%84%20.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": null
-        },
         {
           "id": "item-mvgyqaoq36",
           "titleUr": "اجلی الاعلام ان الفتویٰ مطلقاً علی قول الامام",
