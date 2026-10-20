@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 55,
-  "updatedAt": "2026-10-20T17:42:07.727161Z",
+  "catalogVersion": 56,
+  "updatedAt": "2026-10-20T18:01:29.562841Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -824,6 +824,22 @@
           "pdfUrl": "https://archive.org/download/sharh-ul-uqood-final/Sharh%20ul%20Uqood%20Final.pdf",
           "fileSizeBytes": null,
           "sortOrder": null
+        },
+        {
+          "id": "item-mvgz30n142",
+          "titleUr": "درس عقود رسم المفتی",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D8%AF%D8%B1%D8%B3%20%D8%B9%D9%82%D9%88%D8%AF%20%D8%B1%D8%B3%D9%85%20%D8%A7%D9%84%D9%85%D9%81%D8%AA%DB%8C.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "item-mvgz3vki43",
+          "titleUr": "خلاصہ رسم المفتی",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D8%AE%D9%84%D8%A7%D8%B5%DB%81%20%D8%B1%D8%B3%D9%85%20%D8%A7%D9%84%D9%85%D9%81%D8%AA%DB%8C.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
         }
       ]
     },
@@ -912,6 +928,120 @@
           "titleUr": "نشر العرف نسخہ 3",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D9%86%D8%B4%D8%B1%D8%A7%D9%84%D8%B9%D8%B1%D9%81%20%D9%81%DB%8C%20%D8%A8%D9%86%D8%A7%D8%A1%20%D8%A8%D8%B9%D8%B6%20%D8%A7%D9%84%D8%A7%D8%AD%DA%A9%D8%A7%D9%85%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%B9%D8%B1%D9%81%D8%8C%D8%A7%D8%B1%D8%AF%D9%88%D8%8C%D8%B9%D9%84%D8%A7%D9%85%DB%81%20%D8%B4%D8%A7%D9%85%DB%8C.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        }
+      ]
+    },
+    {
+      "id": "item-mvgzfh8e49",
+      "type": "book",
+      "titleUr": "الاشباہ والنظائر",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "MuftCoursei",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D8%A7%D9%84%D8%A3%D8%B4%D8%A8%D8%A7%D9%87%20%D9%88%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D8%A6%D8%B1%20%D8%B9%D9%84%D9%89%20%D9%85%D8%B0%D9%87%D8%A8%20%D8%A3%D8%A8%D9%8A%20%D8%AD%D9%86%D9%81%D9%8A%D8%A9%20%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A7%D9%86%20%D9%84%D8%A7%D8%A8%D9%86%20%D9%86%D8%AC%DB%8C%D9%85.pdf",
+      "coverUrl": "https://archive.org/download/20220316_20220316_1854/%D8%A7%D9%84%D8%A3%D8%B4%D8%A8%D8%A7%D9%87%20%D9%88%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D8%A6%D8%B1%20%D8%B9%D9%84%D9%89%20%D9%85%D8%B0%D9%87%D8%A8%20%D8%A3%D8%A8%D9%8A%20%D8%AD%D9%86%D9%81%D9%8A%D8%A9%20%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A7%D9%86%20%D9%84%D8%A7%D8%A8%D9%86%20%D9%86%D8%AC%DB%8C%D9%85.pdf",
+      "fileSizeBytes": 7378475,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "item-mvgz8bzr44",
+          "titleUr": "الاشباہ والنظائر عربی",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D8%A7%D9%84%D8%A3%D8%B4%D8%A8%D8%A7%D9%87%20%D9%88%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D8%A6%D8%B1%20%D8%B9%D9%84%D9%89%20%D9%85%D8%B0%D9%87%D8%A8%20%D8%A3%D8%A8%D9%8A%20%D8%AD%D9%86%D9%81%D9%8A%D8%A9%20%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A7%D9%86%20%D9%84%D8%A7%D8%A8%D9%86%20%D9%86%D8%AC%DB%8C%D9%85.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "1-mvgzdcux45",
+          "titleUr": "غمز عیون البصائر شرح عربی الاشباہ النظائر جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D8%BA%D9%85%D8%B2%20%D8%B9%DB%8C%D9%88%D9%86%20%D8%A7%D9%84%D8%A8%D8%B5%D8%A7%D8%A6%D8%B1%201.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "2-mvgzdtim46",
+          "titleUr": "غمز عیون البصائر شرح عربی الاشباہ النظائر جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D8%BA%D9%85%D8%B2%20%D8%B9%DB%8C%D9%88%D9%86%20%D8%A7%D9%84%D8%A8%D8%B5%D8%A7%D8%A6%D8%B1%202.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "3-mvgzdzz147",
+          "titleUr": "غمز عیون البصائر شرح عربی الاشباہ النظائر جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D8%BA%D9%85%D8%B2%20%D8%B9%DB%8C%D9%88%D9%86%20%D8%A7%D9%84%D8%A8%D8%B5%D8%A7%D8%A6%D8%B1%203.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "4-mvgze7cy48",
+          "titleUr": "غمز عیون البصائر شرح عربی الاشباہ النظائر جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D8%BA%D9%85%D8%B2%20%D8%B9%DB%8C%D9%88%D9%86%20%D8%A7%D9%84%D8%A8%D8%B5%D8%A7%D8%A6%D8%B1%204.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        }
+      ]
+    },
+    {
+      "id": "item-mvgzmdce50",
+      "type": "book",
+      "titleUr": "الاشباہ والنظائر اردو",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "MuftCoursei",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D9%82%D9%88%D8%A7%D8%B9%D8%AF%20%D9%81%D9%82%DB%81%DB%8C%DB%81.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 6438409,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "item-mvgzmstu51",
+          "titleUr": "قواعد فقہیہ",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D9%82%D9%88%D8%A7%D8%B9%D8%AF%20%D9%81%D9%82%DB%81%DB%8C%DB%81.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "1-mvgznit852",
+          "titleUr": "عقود الجواھر جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D8%B9%D9%82%D9%88%D8%AF%20%D8%A7%D9%84%D8%AC%D9%88%D8%A7%DB%81%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%A7%D8%B4%D8%A8%D8%A7%DB%81%20%D9%88%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%B8%D8%B1%20%D8%AC%D9%84%D8%AF%201%20.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "2-mvgznv9e53",
+          "titleUr": "عقود الجواھر جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D8%B9%D9%82%D9%88%D8%AF%20%D8%A7%D9%84%D8%AC%D9%88%D8%A7%DB%81%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%A7%D8%B4%D8%A8%D8%A7%DB%81%20%D9%88%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%B8%D8%B1%20%D8%AC%D9%84%D8%AF%202.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "item-mvgzp1qk54",
+          "titleUr": "الاشباہ والنظائر اردو",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D8%A7%D9%84%D8%A7%D8%B4%D8%A8%D8%A7%DB%81%20%D9%88%20%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D8%A6%D8%B1%20%D8%A7%D8%B1%D8%AF%D9%88.pdf",
           "fileSizeBytes": null,
           "sortOrder": null
         }
