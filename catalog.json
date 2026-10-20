@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 69,
-  "updatedAt": "2026-10-20T18:38:13.541093Z",
+  "catalogVersion": 70,
+  "updatedAt": "2026-10-20T18:40:05.060916Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -1047,6 +1047,14 @@
           "titleUr": "نسمات الاسحار عربی",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/osoul-fikh-hanafi/nasamat.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "item-mvh12l1u2",
+          "titleUr": "نسمات الاسحار عربی نیو ایڈیشن",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/osoul-fikh-hanafi/nasamat-new.pdf",
           "fileSizeBytes": null,
           "sortOrder": null
         }
