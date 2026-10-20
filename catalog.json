@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 47,
-  "updatedAt": "2026-10-20T16:50:05.630004Z",
+  "catalogVersion": 48,
+  "updatedAt": "2026-10-20T16:55:01.256782Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -692,7 +692,7 @@
       "categoryId": "Mufti",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/20230903_20230903_1122/%D8%A7%D9%84%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%AF%D9%8A%D8%A9.pdf",
-      "coverUrl": "https://archive.org/download/20230903_20230903_1122/%D8%A7%D9%84%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%AF%D9%8A%D8%A9.pdf",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6RnOW8p9wts4ydGuV5sn42helIFMBM5crNN-GqwSiTQE3LzQmlMQOV9Uj&s=10",
       "fileSizeBytes": 17846317,
       "tags": [],
       "sortOrder": 0,
