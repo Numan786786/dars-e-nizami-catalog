@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 28,
-  "updatedAt": "2026-10-20T14:49:53.700712Z",
+  "catalogVersion": 29,
+  "updatedAt": "2026-10-20T14:54:15.387762Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -109,7 +109,7 @@
       "categoryId": "fiqh",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_01.pdf",
-      "coverUrl": "https://besturdubooks.net/sahih-ul-bukhari-al-bushra/",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2022/02/SAHIH_AL_BUKHARI_BUSHRA.jpg",
       "fileSizeBytes": 39917394,
       "tags": [],
       "sortOrder": 1,
