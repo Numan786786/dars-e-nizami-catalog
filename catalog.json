@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 41,
-  "updatedAt": "2026-10-20T16:00:40.611232Z",
+  "catalogVersion": 42,
+  "updatedAt": "2026-10-20T16:08:20.900308Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -464,6 +464,26 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "all"
+    },
+    {
+      "id": "2014-mvgvnf869",
+      "type": "past_paper",
+      "titleUr": "سالانہ 2014",
+      "titleEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "https://drive.google.com/file/d/1FJB06-rAN_nFuwODUmqUemKUGtR6LMTc/view?usp=drivesdk",
+      "coverUrl": "https://drive.google.com/file/d/1FJB06-rAN_nFuwODUmqUemKUGtR6LMTc/view?usp=drivesdk",
+      "fileSizeBytes": 685424,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "examYear": 0,
+      "examSession": "2014",
+      "paperType": "سالانہ",
+      "audience": "boys"
     }
   ],
   "isDemo": false
