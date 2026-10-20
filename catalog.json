@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 51,
-  "updatedAt": "2026-10-20T17:18:50.060140Z",
+  "catalogVersion": 52,
+  "updatedAt": "2026-10-20T17:22:41.789956Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -25,48 +25,48 @@
     },
     {
       "id": "fiqh",
-      "nameUr": "شھادۃ العالمیہ 2",
-      "nameEn": "Shahadatul Almiya 2",
+      "nameUr": "عالمیہ دوم",
+      "nameEn": "",
       "iconKey": "balance",
       "sortOrder": 3,
       "isActive": true
     },
     {
       "id": "nahw",
-      "nameUr": "شھادۃ العالمیہ 1",
-      "nameEn": "Shahadatul Almiya 1",
+      "nameUr": "عالمیہ اول",
+      "nameEn": "",
       "iconKey": "school",
       "sortOrder": 4,
       "isActive": true
     },
     {
       "id": "sarf",
-      "nameUr": "شھادۃ العالیہ 2",
-      "nameEn": "Shahadatul Aaliya 2",
+      "nameUr": "عالیہ دوم",
+      "nameEn": "",
       "iconKey": "text_fields",
       "sortOrder": 5,
       "isActive": true
     },
     {
       "id": "usul-al-fiqh",
-      "nameUr": "شھادۃ العالیہ 1",
-      "nameEn": "Shahadatul Aliya 1",
+      "nameUr": "عالیہ اول",
+      "nameEn": "",
       "iconKey": "library",
       "sortOrder": 6,
       "isActive": true
     },
     {
       "id": "tafsir",
-      "nameUr": "ثانویہ خاصہ 2",
-      "nameEn": "Sanvia Khassa 2",
+      "nameUr": "خاصہ دوم",
+      "nameEn": "",
       "iconKey": "auto_stories",
       "sortOrder": 7,
       "isActive": true
     },
     {
       "id": "hadith",
-      "nameUr": "ثانویہ خاصہ 1",
-      "nameEn": "Sanvia Khassa 1",
+      "nameUr": "خاصہ اول",
+      "nameEn": "خاصہ اول",
       "iconKey": "menu_book",
       "sortOrder": 8,
       "isActive": true
@@ -74,7 +74,7 @@
     {
       "id": "mantiq",
       "nameUr": "ثانویہ عامہ 2",
-      "nameEn": "Sanvia Aamma 2",
+      "nameEn": "عامہ دوم",
       "iconKey": "star",
       "sortOrder": 9,
       "isActive": true
@@ -82,7 +82,7 @@
     {
       "id": "aqaid",
       "nameUr": "ثانویہ عامہ 1",
-      "nameEn": "Sanvia Aamma 1",
+      "nameEn": "عامہ اول",
       "iconKey": "mosque",
       "sortOrder": 10,
       "isActive": true
@@ -90,7 +90,7 @@
     {
       "id": "Darsenizami",
       "nameUr": "متوسطہ",
-      "nameEn": "Mutawasita",
+      "nameEn": "متوسطہ",
       "iconKey": "Books",
       "sortOrder": 11,
       "isActive": true
@@ -98,7 +98,7 @@
     {
       "id": "Darsenizami.",
       "nameUr": "تجوید وقراءت",
-      "nameEn": "Tajweed o Qiraat",
+      "nameEn": "تجوید وقراءت",
       "iconKey": "Qur'an",
       "sortOrder": 12,
       "isActive": true
