@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 20,
-  "updatedAt": "2026-10-19T14:13:44.971690Z",
+  "catalogVersion": 21,
+  "updatedAt": "2026-10-20T01:23:20.958805Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -150,6 +150,25 @@
           "sortOrder": null
         }
       ]
+    },
+    {
+      "id": "شرح-عقائد-mvg01glu0",
+      "type": "book",
+      "titleUr": "شرح عقائد",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "nahw",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/664-1-1/664-1%20%281%29.pdf",
+      "coverUrl": "https://archive.org/details/664-1-1",
+      "fileSizeBytes": 8881896,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all"
     }
   ],
   "isDemo": false
