@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 73,
-  "updatedAt": "2026-10-20T19:00:58.056183Z",
+  "catalogVersion": 74,
+  "updatedAt": "2026-10-20T19:02:52.377643Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -1081,7 +1081,7 @@
       "volumes": [
         {
           "id": "1-mvh1en4f0",
-          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 1",
+          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 01",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/ftawa-shami/%D9%81%D8%AA%D8%A7%D9%88%DB%8C%20%D8%B4%D8%A7%D9%85%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC%D9%84%D8%AF%20%E2%91%A0.pdf",
           "fileSizeBytes": null,
@@ -1089,7 +1089,7 @@
         },
         {
           "id": "2-mvh1mftl2",
-          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 2",
+          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 02",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/ftawa-shami/%D9%81%D8%AA%D8%A7%D9%88%DB%8C%20%D8%B4%D8%A7%D9%85%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC%D9%84%D8%AF%20%E2%91%A1.pdf",
           "fileSizeBytes": null,
@@ -1097,7 +1097,7 @@
         },
         {
           "id": "3-mvh1mzta3",
-          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 3",
+          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 03",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/ftawa-shami/%D9%81%D8%AA%D8%A7%D9%88%DB%8C%20%D8%B4%D8%A7%D9%85%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC%D9%84%D8%AF%20%E2%91%A2.pdf",
           "fileSizeBytes": null,
@@ -1105,7 +1105,7 @@
         },
         {
           "id": "4-mvh1nlf74",
-          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 4",
+          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 04",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/ftawa-shami/%D9%81%D8%AA%D8%A7%D9%88%DB%8C%20%D8%B4%D8%A7%D9%85%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC%D9%84%D8%AF%20%E2%91%A3.pdf",
           "fileSizeBytes": null,
@@ -1113,7 +1113,7 @@
         },
         {
           "id": "5-mvh1o7655",
-          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 5",
+          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 05",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/ftawa-shami/%D9%81%D8%AA%D8%A7%D9%88%DB%8C%20%D8%B4%D8%A7%D9%85%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC%D9%84%D8%AF%20%E2%91%A4.pdf",
           "fileSizeBytes": null,
@@ -1121,7 +1121,7 @@
         },
         {
           "id": "6-mvh1ops46",
-          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 6",
+          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 06",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/ftawa-shami/%D9%81%D8%AA%D8%A7%D9%88%DB%8C%20%D8%B4%D8%A7%D9%85%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC%D9%84%D8%AF%20%E2%91%A5.pdf",
           "fileSizeBytes": null,
@@ -1129,7 +1129,7 @@
         },
         {
           "id": "7-mvh1p7qv7",
-          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 7",
+          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 07",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/ftawa-shami/%D9%81%D8%AA%D8%A7%D9%88%DB%8C%20%D8%B4%D8%A7%D9%85%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC%D9%84%D8%AF%20%E2%91%A6.pdf",
           "fileSizeBytes": null,
@@ -1137,7 +1137,7 @@
         },
         {
           "id": "8-mvh1pro48",
-          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 8",
+          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 08",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/ftawa-shami/%D9%81%D8%AA%D8%A7%D9%88%DB%8C%20%D8%B4%D8%A7%D9%85%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC%D9%84%D8%AF%20%E2%91%A7.pdf",
           "fileSizeBytes": null,
@@ -1145,7 +1145,7 @@
         },
         {
           "id": "9-mvh1qbhe9",
-          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 9",
+          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 09",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/ftawa-shami/%D9%81%D8%AA%D8%A7%D9%88%DB%8C%20%D8%B4%D8%A7%D9%85%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC%D9%84%D8%AF%20%E2%91%A8.pdf",
           "fileSizeBytes": null,
