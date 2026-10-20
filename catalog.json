@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 68,
-  "updatedAt": "2026-10-20T18:33:11.969703Z",
+  "catalogVersion": 69,
+  "updatedAt": "2026-10-20T18:38:13.541093Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -1018,6 +1018,35 @@
           "titleUr": "الاشباہ والنظائر اردو",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D8%A7%D9%84%D8%A7%D8%B4%D8%A8%D8%A7%DB%81%20%D9%88%20%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D8%A6%D8%B1%20%D8%A7%D8%B1%D8%AF%D9%88.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        }
+      ]
+    },
+    {
+      "id": "item-mvh10dp61",
+      "type": "book",
+      "titleUr": "نسمات الاسحار عربی",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "MuftCoursei",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/osoul-fikh-hanafi/nasamat-new.pdf",
+      "coverUrl": "https://ia800508.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/osoul-fikh-hanafi/nasamat-new_jp2.zip&file=nasamat-new_jp2/nasamat-new_0000.jp2&id=osoul-fikh-hanafi&scale=4&rotate=0",
+      "fileSizeBytes": 242339582,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "item-mvh0zurx0",
+          "titleUr": "نسمات الاسحار عربی",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/osoul-fikh-hanafi/nasamat.pdf",
           "fileSizeBytes": null,
           "sortOrder": null
         }
