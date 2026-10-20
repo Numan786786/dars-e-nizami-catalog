@@ -1,18 +1,26 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 22,
-  "updatedAt": "2026-10-20T01:25:47.597032Z",
+  "catalogVersion": 23,
+  "updatedAt": "2026-10-20T01:28:20.470233Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
   },
   "categories": [
     {
+      "id": "fiqh",
+      "nameUr": "شھادۃ العالیہ 2",
+      "nameEn": "Shahadatul Aliya 2",
+      "iconKey": "balance",
+      "sortOrder": 1,
+      "isActive": true
+    },
+    {
       "id": "sarf",
       "nameUr": "شھادۃ العالمیہ 2",
       "nameEn": "Shahadatul Almiya 2",
       "iconKey": "text_fields",
-      "sortOrder": 1,
+      "sortOrder": 2,
       "isActive": true
     },
     {
@@ -20,14 +28,6 @@
       "nameUr": "شھادۃ العالمیہ 1",
       "nameEn": "Shahadatul Almiya 1",
       "iconKey": "school",
-      "sortOrder": 2,
-      "isActive": true
-    },
-    {
-      "id": "fiqh",
-      "nameUr": "شھادۃ العالیہ 2",
-      "nameEn": "Shahadatul Aliya 2",
-      "iconKey": "balance",
       "sortOrder": 3,
       "isActive": true
     },
