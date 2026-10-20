@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 23,
-  "updatedAt": "2026-10-20T01:28:20.470233Z",
+  "catalogVersion": 24,
+  "updatedAt": "2026-10-20T01:30:59.719026Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -169,6 +169,25 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "boys"
+    },
+    {
+      "id": "تفسیر-بیضاوی-mvg0bce01",
+      "type": "book",
+      "titleUr": "تفسیر بیضاوی",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/TafseerUlBaizawiRahmania.pdf",
+      "coverUrl": "https://besturdubooks.net/tafseer-e-baizawi-rahmania/",
+      "fileSizeBytes": 12949893,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all"
     }
   ],
   "isDemo": false
