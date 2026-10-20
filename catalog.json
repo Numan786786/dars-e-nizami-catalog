@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 42,
-  "updatedAt": "2026-10-20T16:08:20.900308Z",
+  "catalogVersion": 43,
+  "updatedAt": "2026-10-20T16:10:00.637488Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -474,7 +474,7 @@
       "categoryId": "fiqh",
       "language": "ur",
       "pdfUrl": "https://drive.google.com/file/d/1FJB06-rAN_nFuwODUmqUemKUGtR6LMTc/view?usp=drivesdk",
-      "coverUrl": "https://drive.google.com/file/d/1FJB06-rAN_nFuwODUmqUemKUGtR6LMTc/view?usp=drivesdk",
+      "coverUrl": "https://1drv.ms/w/c/504741daa1e23163/IQBjMeKh2kFHIIBQfQAAAAAAAf05Blgz7_hK0mVbuXYNOpQ",
       "fileSizeBytes": 685424,
       "tags": [],
       "sortOrder": 0,
