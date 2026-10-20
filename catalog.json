@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 48,
-  "updatedAt": "2026-10-20T16:55:01.256782Z",
+  "catalogVersion": 49,
+  "updatedAt": "2026-10-20T17:13:30.106111Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -732,6 +732,88 @@
           "titleUr": "تفسیرات احمدیہ اردو لنک 2",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/20250922_20250922_0859/%D8%AA%D9%81%D8%B3%DB%8C%D8%B1%D8%A7%D8%AA%20%D8%A7%D8%AD%D9%85%D8%AF%DB%8C%DB%81%DB%94%20%D8%A7%D8%AD%D9%85%D8%AF%20%D8%AC%DB%8C%D9%88%D9%86%DB%94%20%D8%A7%D8%B1%D8%AF%D9%88%20%D8%B9%D8%B1%D8%A8%DB%8C%20%DB%94%20%D8%AD%D9%82.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        }
+      ]
+    },
+    {
+      "id": "item-mvgxkfsn25",
+      "type": "book",
+      "titleUr": "شرح عقود رسم المفتی عربی",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "MuftCoursei",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/details/0975-pdf-i",
+      "coverUrl": "",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "item-mvgxgev523",
+          "titleUr": "شرح عقود رسم المفتی مکتبۃ البشریٰ",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/details/0975-pdf-i",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "2-mvgxhk1b24",
+          "titleUr": "شرح عقود رسم المفتی نسخہ 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20200705_20200705_2154/%D8%B9%D9%82%D9%88%D8%AF%20%D8%B1%D8%B3%D9%85%20%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%8A%20%D8%A8%D8%AA%D8%B9%D9%84%D9%8A%D9%82%D8%A7%D8%AA%20%D8%A7%D8%AD%D9%85%D8%AF%20%D8%B1%D8%B6%D8%A7%20%D8%AE%D8%A7%D9%86.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        }
+      ]
+    },
+    {
+      "id": "1-mvgxzeqo32",
+      "type": "book",
+      "titleUr": "شرح عقود رسم المفتی اردو نسخہ 1",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "MuftCoursei",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/SharahOqodRasmilMufti/Sharah%20Oqod%20Rusmil%20Mufti%20.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 2180285,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all",
+      "volumes": [
+        {
+          "id": "1-mvgxui8129",
+          "titleUr": "شرح عقود رسم المفتی اردو نسخہ 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/SharahOqodRasmilMufti/Sharah%20Oqod%20Rusmil%20Mufti%20.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "2-mvgxvaj930",
+          "titleUr": "شرح عقود رسم المفتی اردو نسخہ 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20260530_20260530_1316/%D9%86%D8%B3%DB%8C%D9%85%20%D8%A7%D9%84%D9%85%D9%81%D8%AA%DB%8C%D8%8C%D8%B4%D8%B1%D8%AD%20%D8%B9%D9%82%D9%88%D8%AF%20%D8%B1%D8%B3%D9%85%20%D8%A7%D9%84%D9%85%D9%81%D8%AA%DB%8C%D8%8C%20%D9%85%D8%AD%D9%85%D8%AF%D8%A7%D9%85%DB%8C%D9%86%20%D8%A8%D9%86%20%D8%B9%D9%85%D8%B1%20%D8%A8%D9%86%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B9%D8%B2%DB%8C%D8%B2%20%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%88%D9%81%20%D8%A7%D8%A8%D9%86%20%D8%A7%D9%84%D8%B9%D8%A7%D8%A8%D8%AF%DB%8C%D9%86%20%D8%B4%D8%A7%D9%85%DB%8C%D8%8C%20%D8%B1%D8%B6%D9%88%D8%A7%D9%86%20%D9%86%D8%B3%DB%8C%D9%85%20%D9%82%D8%A7%D8%B3%D9%85%DB%8C%DB%94%20%D8%AD%D9%82%20.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "3-mvgxx50j31",
+          "titleUr": "شرح عقود رسم المفتی اردو نسخہ 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/sharh-ul-uqood-final/Sharh%20ul%20Uqood%20Final.pdf",
           "fileSizeBytes": null,
           "sortOrder": null
         }
