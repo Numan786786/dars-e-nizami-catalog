@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 58,
-  "updatedAt": "2026-10-20T18:08:43.961069Z",
+  "catalogVersion": 59,
+  "updatedAt": "2026-10-20T18:11:48.994491Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -853,9 +853,9 @@
       "description": "",
       "categoryId": "MuftCoursei",
       "language": "ur",
-      "pdfUrl": "https://www.alahazratnetwork.org/download/%D8%A3%D8%AC%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A3%D9%86-%D8%A7%D9%84%D9%81%D8%AA%D9%88%D9%89-%D9%85%D8%B7%D9%84%D9%82%D8%A7-%D8%B9%D9%84%D9%89-%D9%82%D9%88%D9%84-%D8%A7%D9%84/#",
-      "coverUrl": "https://www.alahazratnetwork.org/download/%D8%A3%D8%AC%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A3%D9%86-%D8%A7%D9%84%D9%81%D8%AA%D9%88%D9%89-%D9%85%D8%B7%D9%84%D9%82%D8%A7-%D8%B9%D9%84%D9%89-%D9%82%D9%88%D9%84-%D8%A7%D9%84/#",
-      "fileSizeBytes": null,
+      "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D8%A7%D8%AC%D9%84%DB%8C%20%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D8%A7%D9%85%20%D8%A7%D9%86%20%D8%A7%D9%84%D9%81%D8%AA%D9%88%DB%8C%20%D8%B9%D9%84%DB%8C%20%D9%82%D9%88%D9%84%20%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 2368972,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
@@ -866,7 +866,7 @@
           "id": "item-mvgyn7z834",
           "titleUr": "اجلی الاعلام ان الفتویٰ مطلقاً علی قول الامام",
           "titleEn": "",
-          "pdfUrl": "https://www.alahazratnetwork.org/download/%D8%A3%D8%AC%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A3%D9%86-%D8%A7%D9%84%D9%81%D8%AA%D9%88%D9%89-%D9%85%D8%B7%D9%84%D9%82%D8%A7-%D8%B9%D9%84%D9%89-%D9%82%D9%88%D9%84-%D8%A7%D9%84/#",
+          "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D8%A7%D8%AC%D9%84%DB%8C%20%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D8%A7%D9%85%20%D8%A7%D9%86%20%D8%A7%D9%84%D9%81%D8%AA%D9%88%DB%8C%20%D8%B9%D9%84%DB%8C%20%D9%82%D9%88%D9%84%20%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85.pdf",
           "fileSizeBytes": null,
           "sortOrder": null
         },
@@ -874,7 +874,7 @@
           "id": "2-mvgyp36g35",
           "titleUr": "اجلی الاعلام ان الفتویٰ مطلقاً علی قول الامام 2",
           "titleEn": "",
-          "pdfUrl": "https://www.alahazratnetwork.org/download/%D8%A3%D8%AC%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A3%D9%86-%D8%A7%D9%84%D9%81%D8%AA%D9%88%D9%89-%D9%85%D8%B7%D9%84%D9%82%D8%A7-%D8%B9%D9%84%D9%89-%D9%82%D9%88%D9%84-%D8%A7-2/#",
+          "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D8%A7%D8%AC%D9%84%DB%8C%20%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D8%A7%D9%85%20%D8%A7%D9%86%20%D8%A7%D9%84%D9%81%D8%AA%D9%88%DB%8C%20%D8%B9%D9%84%DB%8C%20%D9%82%D9%88%D9%84%20.pdf",
           "fileSizeBytes": null,
           "sortOrder": null
         },
@@ -882,7 +882,7 @@
           "id": "item-mvgyqaoq36",
           "titleUr": "اجلی الاعلام ان الفتویٰ مطلقاً علی قول الامام",
           "titleEn": "",
-          "pdfUrl": "https://archive.org/compress/20260306_20260306_0447/formats=IMAGE%20CONTAINER%20PDF,TEXT%20PDF&file=/20260306_20260306_0447.zip",
+          "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D8%A7%D8%AC%D9%84%D8%A6%20%D8%A7%D8%B9%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%89%20%D9%82%D9%88%D9%84%20%D8%A7%D9%84%D8%A7%20%D9%85%D8%A7%20%D9%85%20%282%29.pdf",
           "fileSizeBytes": null,
           "sortOrder": null
         }
