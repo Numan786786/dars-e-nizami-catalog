@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-20T14:54:15.387776Z",
+  "updatedAt": "2026-10-20T14:57:40.584086Z",
   "banners": [
     {
       "id": "banner-welcome",
@@ -57,10 +57,7 @@
     }
   ],
   "featuredIds": [
-    "tafsir-al-jalalayn-1",
-    "Darsibooks",
-    "شرح-عقائد-mvg01glu0",
-    "تفسیر-بیضاوی-mvg0bce01"
+    "tafsir-al-jalalayn-1"
   ],
   "social": {
     "whatsapp": "https://wa.me/message/CZHFT3MQNTENM1",
