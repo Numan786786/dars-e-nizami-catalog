@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 67,
-  "updatedAt": "2026-10-20T18:31:04.789004Z",
+  "catalogVersion": 68,
+  "updatedAt": "2026-10-20T18:33:11.969703Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -846,7 +846,7 @@
     {
       "id": "item-mvgyqbpb37",
       "type": "book",
-      "titleUr": "اجلی الاعلام ان الفتویٰ مطلقاً علی قول الامام",
+      "titleUr": "اجلی الاعلام ان الفتویٰ مطلقاً علی قول الامام عربی واردو",
       "titleEn": "",
       "authorUr": "",
       "authorEn": "",
@@ -875,7 +875,7 @@
     {
       "id": "item-mvgz072o41",
       "type": "book",
-      "titleUr": "نشر العرف",
+      "titleUr": "نشر العرف عربی واردو",
       "titleEn": "",
       "authorUr": "",
       "authorEn": "",
@@ -912,7 +912,7 @@
     {
       "id": "item-mvgzfh8e49",
       "type": "book",
-      "titleUr": "الاشباہ والنظائر",
+      "titleUr": "الاشباہ والنظائر عربی",
       "titleEn": "",
       "authorUr": "",
       "authorEn": "",
