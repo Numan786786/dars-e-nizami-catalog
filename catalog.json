@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 50,
-  "updatedAt": "2026-10-20T17:15:03.958204Z",
+  "catalogVersion": 51,
+  "updatedAt": "2026-10-20T17:18:50.060140Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -769,6 +769,14 @@
           "titleUr": "شرح عقود رسم المفتی نسخہ 2",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/20200705_20200705_2154/%D8%B9%D9%82%D9%88%D8%AF%20%D8%B1%D8%B3%D9%85%20%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%8A%20%D8%A8%D8%AA%D8%B9%D9%84%D9%8A%D9%82%D8%A7%D8%AA%20%D8%A7%D8%AD%D9%85%D8%AF%20%D8%B1%D8%B6%D8%A7%20%D8%AE%D8%A7%D9%86.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "3-mvgy5an433",
+          "titleUr": "شرح عقود رسم المفتی نسخہ 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/salas-rasail-fi-rasmil-mufti/Salas%20Rasail%20Fi%20Rasmil%20Mufti.pdf",
           "fileSizeBytes": null,
           "sortOrder": null
         }
