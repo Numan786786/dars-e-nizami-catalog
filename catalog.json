@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 46,
-  "updatedAt": "2026-10-20T16:33:34.900028Z",
+  "catalogVersion": 47,
+  "updatedAt": "2026-10-20T16:50:05.630004Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -680,6 +680,62 @@
       "examSession": "سالانہ",
       "paperType": "",
       "audience": "all"
+    },
+    {
+      "id": "item-mvgwx6ch19",
+      "type": "book",
+      "titleUr": "تفسیرات احمدیہ عربی",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "Mufti",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20230903_20230903_1122/%D8%A7%D9%84%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%AF%D9%8A%D8%A9.pdf",
+      "coverUrl": "https://archive.org/download/20230903_20230903_1122/%D8%A7%D9%84%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%AF%D9%8A%D8%A9.pdf",
+      "fileSizeBytes": 17846317,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mvgx595i22",
+      "type": "book",
+      "titleUr": "تفسیرات احمدیہ اردو",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "Mufti",
+      "language": "ur",
+      "pdfUrl": "https://urdumehfil.net/wp-content/uploads/2020/04/Tafseerat-e-Ahmadia.pdf",
+      "coverUrl": "https://alghanipublishers.com/wp-content/uploads/2019/10/499.jpg",
+      "fileSizeBytes": 42788479,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mvgx0xes20",
+          "titleUr": "تفسیرات احمدیہ اردو  لنک 1",
+          "titleEn": "",
+          "pdfUrl": "https://urdumehfil.net/wp-content/uploads/2020/04/Tafseerat-e-Ahmadia.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "2-mvgx569r21",
+          "titleUr": "تفسیرات احمدیہ اردو لنک 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20250922_20250922_0859/%D8%AA%D9%81%D8%B3%DB%8C%D8%B1%D8%A7%D8%AA%20%D8%A7%D8%AD%D9%85%D8%AF%DB%8C%DB%81%DB%94%20%D8%A7%D8%AD%D9%85%D8%AF%20%D8%AC%DB%8C%D9%88%D9%86%DB%94%20%D8%A7%D8%B1%D8%AF%D9%88%20%D8%B9%D8%B1%D8%A8%DB%8C%20%DB%94%20%D8%AD%D9%82.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        }
+      ]
     }
   ],
   "isDemo": false
