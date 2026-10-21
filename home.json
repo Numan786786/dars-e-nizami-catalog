@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-21T04:21:48.365038Z",
+  "updatedAt": "2026-10-21T04:23:22.882637Z",
   "banners": [
     {
       "id": "banner-welcome",
       "titleUr": "درس نظامی لائبریری میں خوش آمدید",
-      "titleEn": "Welcome to Dars-e-Nizami Library",
+      "titleEn": "Dars-e-Nizami Library",
       "subtitleUr": "",
       "subtitleEn": "",
       "imageUrl": "https://tanzeemulmadaris.com/img/slider/Banner.jpg",
