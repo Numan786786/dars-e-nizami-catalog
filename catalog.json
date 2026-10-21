@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 81,
-  "updatedAt": "2026-10-21T04:01:53.589582Z",
+  "catalogVersion": 82,
+  "updatedAt": "2026-10-21T04:05:02.657768Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -1840,7 +1840,7 @@
     {
       "id": "item-mvhkvlup33",
       "type": "past_paper",
-      "titleUr": "نورانی گائیڈ عالمیہ دوم 2021-2025",
+      "titleUr": "2021-2025 نورانی گائیڈ عالمیہ دوم",
       "titleEn": "",
       "description": "",
       "categoryId": "fiqh",
