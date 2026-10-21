@@ -1,11 +1,25 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-21T04:23:22.882637Z",
+  "updatedAt": "2026-10-21T04:27:22.397438Z",
   "banners": [
+    {
+      "id": "banner-sarf",
+      "titleUr": "",
+      "titleEn": ".",
+      "subtitleUr": "",
+      "subtitleEn": "",
+      "imageUrl": "https://darsenizamibooks.com/wp-content/uploads/2023/05/Ghousia-Mehria-Multan-Tanzeem-1536x617.jpg",
+      "action": {
+        "type": "category",
+        "target": "A"
+      },
+      "sortOrder": 1,
+      "isActive": true
+    },
     {
       "id": "banner-welcome",
       "titleUr": "درس نظامی لائبریری میں خوش آمدید",
-      "titleEn": "Dars-e-Nizami Library",
+      "titleEn": "",
       "subtitleUr": "",
       "subtitleEn": "",
       "imageUrl": "https://tanzeemulmadaris.com/img/slider/Banner.jpg",
@@ -13,33 +27,19 @@
         "type": "none",
         "target": ""
       },
-      "sortOrder": 1,
+      "sortOrder": 2,
       "isActive": true
     },
     {
       "id": "banner-fiqh",
-      "titleUr": "خوش آمدید",
-      "titleEn": "",
+      "titleUr": "",
+      "titleEn": ".",
       "subtitleUr": "",
       "subtitleEn": "",
       "imageUrl": "https://tanzeemulmadaris.com/img/slider/office.jpg",
       "action": {
         "type": "category",
         "target": "B"
-      },
-      "sortOrder": 2,
-      "isActive": true
-    },
-    {
-      "id": "banner-sarf",
-      "titleUr": "بفیضان کرم",
-      "titleEn": "",
-      "subtitleUr": "",
-      "subtitleEn": "",
-      "imageUrl": "https://darsenizamibooks.com/wp-content/uploads/2023/05/Ghousia-Mehria-Multan-Tanzeem-1536x617.jpg",
-      "action": {
-        "type": "category",
-        "target": "A"
       },
       "sortOrder": 3,
       "isActive": true
