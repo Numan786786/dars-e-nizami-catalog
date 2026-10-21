@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-21T04:19:34.718966Z",
+  "updatedAt": "2026-10-21T04:21:48.365038Z",
   "banners": [
     {
       "id": "banner-welcome",
@@ -32,16 +32,17 @@
     },
     {
       "id": "banner-sarf",
-      "sortOrder": 3,
-      "titleUr": "صرف کا مجموعہ",
-      "titleEn": "Sarf Collection",
-      "subtitleUr": "صرف میر، پنج گنج اور مزید کتب",
-      "subtitleEn": "Sarf Mir, Panj Ganj and more",
-      "imageUrl": null,
+      "titleUr": "بفیضان کرم",
+      "titleEn": "",
+      "subtitleUr": "",
+      "subtitleEn": "",
+      "imageUrl": "https://darsenizamibooks.com/wp-content/uploads/2023/05/Ghousia-Mehria-Multan-Tanzeem-1536x617.jpg",
       "action": {
         "type": "category",
-        "target": "sarf"
-      }
+        "target": "A"
+      },
+      "sortOrder": 3,
+      "isActive": true
     }
   ],
   "featuredIds": [
