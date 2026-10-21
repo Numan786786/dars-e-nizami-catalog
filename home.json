@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-21T04:10:13.682024Z",
+  "updatedAt": "2026-10-21T04:11:05.789597Z",
   "banners": [
     {
       "id": "banner-welcome",
@@ -10,8 +10,8 @@
       "subtitleEn": "",
       "imageUrl": "https://drive.google.com/file/d/1zUazUjAk1vPD-zKFgHbz4-JBSsoa6eqX/view?usp=drivesdk",
       "action": {
-        "type": "none",
-        "target": ""
+        "type": "url",
+        "target": "https://drive.google.com/file/d/1zUazUjAk1vPD-zKFgHbz4-JBSsoa6eqX/view?usp=drivesdk"
       },
       "sortOrder": 1,
       "isActive": true
