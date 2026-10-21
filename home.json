@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-21T04:17:46.291999Z",
+  "updatedAt": "2026-10-21T04:19:34.718966Z",
   "banners": [
     {
       "id": "banner-welcome",
@@ -41,19 +41,6 @@
       "action": {
         "type": "category",
         "target": "sarf"
-      }
-    },
-    {
-      "id": "banner-featured",
-      "sortOrder": 4,
-      "titleUr": "منتخب کتاب: مختصر القدوری",
-      "titleEn": "Featured: Mukhtasar al-Quduri",
-      "subtitleUr": "تفصیل دیکھنے کے لیے ٹیپ کریں",
-      "subtitleEn": "Tap to view details",
-      "imageUrl": null,
-      "action": {
-        "type": "item",
-        "target": "mukhtasar-al-quduri"
       }
     }
   ],
