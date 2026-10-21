@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-21T04:13:23.252349Z",
+  "updatedAt": "2026-10-21T04:15:47.612383Z",
   "banners": [
     {
       "id": "banner-welcome",
@@ -18,16 +18,17 @@
     },
     {
       "id": "banner-fiqh",
-      "sortOrder": 2,
-      "titleUr": "فقہ کی کتب",
-      "titleEn": "Fiqh Books",
-      "subtitleUr": "مختصر القدوری، کنز الدقائق",
-      "subtitleEn": "Mukhtasar al-Quduri, Kanz al-Daqaiq",
-      "imageUrl": null,
+      "titleUr": "۔",
+      "titleEn": "",
+      "subtitleUr": "",
+      "subtitleEn": "",
+      "imageUrl": "https://tanzeemulmadaris.com/img/slider/office.jpg",
       "action": {
         "type": "category",
-        "target": "fiqh"
-      }
+        "target": "B"
+      },
+      "sortOrder": 2,
+      "isActive": true
     },
     {
       "id": "banner-sarf",
