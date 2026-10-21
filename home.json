@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-21T04:15:47.612383Z",
+  "updatedAt": "2026-10-21T04:17:46.291999Z",
   "banners": [
     {
       "id": "banner-welcome",
@@ -18,7 +18,7 @@
     },
     {
       "id": "banner-fiqh",
-      "titleUr": "۔",
+      "titleUr": "خوش آمدید",
       "titleEn": "",
       "subtitleUr": "",
       "subtitleEn": "",
