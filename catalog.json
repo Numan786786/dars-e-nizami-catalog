@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 79,
-  "updatedAt": "2026-10-21T03:54:49.413053Z",
+  "catalogVersion": 80,
+  "updatedAt": "2026-10-21T03:59:03.980323Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -1822,7 +1822,7 @@
       "type": "past_paper",
       "titleUr": "نورانی گائیڈ عالمیہ دوم برائے طلبہ",
       "titleEn": "",
-      "description": "",
+      "description": "2014-2020",
       "categoryId": "fiqh",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/20230805_20230805_0041/%D8%B9%D8%A7%D9%84%D9%85%DB%8C%DB%81%20%D8%AF%D9%88%D9%85.pdf",
@@ -1832,7 +1832,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "examYear": 0,
+      "examYear": 2020,
       "examSession": "سالانہ",
       "paperType": "",
       "audience": "boys"
@@ -1842,7 +1842,7 @@
       "type": "past_paper",
       "titleUr": "نورانی گائیڈ عالمیہ دوم برائے طلبہ",
       "titleEn": "",
-      "description": "",
+      "description": "2021-2025",
       "categoryId": "fiqh",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/2021-2025-3/%D8%AE%D8%A7%D8%B5%DB%81%20%D8%A7%D9%88%D9%84%20%D8%B7%D9%84%D8%A8%DB%81%202021-2025%20%20%284%29.pdf",
@@ -1852,7 +1852,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "examYear": 0,
+      "examYear": 2025,
       "examSession": "سالانہ",
       "paperType": "",
       "audience": "boys"
