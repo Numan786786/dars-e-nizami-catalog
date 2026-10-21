@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 99,
-  "updatedAt": "2026-10-21T06:20:41.609247Z",
+  "catalogVersion": 100,
+  "updatedAt": "2026-10-21T06:21:53.786577Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -3152,8 +3152,8 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "examYear": 0,
-      "examSession": "",
+      "examYear": 2026,
+      "examSession": "سالانہ",
       "paperType": "",
       "audience": "girls"
     }
