@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 77,
-  "updatedAt": "2026-10-21T03:47:50.888937Z",
+  "catalogVersion": 78,
+  "updatedAt": "2026-10-21T03:49:06.161227Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -1580,7 +1580,7 @@
     {
       "id": "2025-mvhkfnl620",
       "type": "past_paper",
-      "titleUr": "سالانہ 2025",
+      "titleUr": "سالانہ 2015",
       "titleEn": "",
       "description": "",
       "categoryId": "fiqh",
