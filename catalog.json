@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 107,
-  "updatedAt": "2026-10-21T08:30:45.281361Z",
+  "catalogVersion": 108,
+  "updatedAt": "2026-10-21T15:29:09.352690Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -5593,6 +5593,26 @@
       "isActive": true,
       "isFeatured": false,
       "examYear": 2026,
+      "examSession": "سالانہ",
+      "paperType": "",
+      "audience": "boys"
+    },
+    {
+      "id": "2000-mvi9over0",
+      "type": "past_paper",
+      "titleUr": "سالانہ 2000",
+      "titleEn": "",
+      "description": "",
+      "categoryId": "hadith",
+      "language": "ur",
+      "pdfUrl": "https://drive.google.com/file/d/1ubk0Am35pXlmntxBwxMlVBsN5BQFpOmC/view?usp=drivesdk",
+      "coverUrl": "",
+      "fileSizeBytes": 761558,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "examYear": 2000,
       "examSession": "سالانہ",
       "paperType": "",
       "audience": "boys"
