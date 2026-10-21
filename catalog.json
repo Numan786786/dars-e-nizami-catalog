@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 80,
-  "updatedAt": "2026-10-21T03:59:03.980323Z",
+  "catalogVersion": 81,
+  "updatedAt": "2026-10-21T04:01:53.589582Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -1820,9 +1820,9 @@
     {
       "id": "item-mvhktwej32",
       "type": "past_paper",
-      "titleUr": "نورانی گائیڈ عالمیہ دوم برائے طلبہ",
+      "titleUr": "2016-2020 نورانی گائیڈ عالمیہ دوم",
       "titleEn": "",
-      "description": "2014-2020",
+      "description": "",
       "categoryId": "fiqh",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/20230805_20230805_0041/%D8%B9%D8%A7%D9%84%D9%85%DB%8C%DB%81%20%D8%AF%D9%88%D9%85.pdf",
@@ -1840,9 +1840,9 @@
     {
       "id": "item-mvhkvlup33",
       "type": "past_paper",
-      "titleUr": "نورانی گائیڈ عالمیہ دوم برائے طلبہ",
+      "titleUr": "نورانی گائیڈ عالمیہ دوم 2021-2025",
       "titleEn": "",
-      "description": "2021-2025",
+      "description": "",
       "categoryId": "fiqh",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/2021-2025-3/%D8%AE%D8%A7%D8%B5%DB%81%20%D8%A7%D9%88%D9%84%20%D8%B7%D9%84%D8%A8%DB%81%202021-2025%20%20%284%29.pdf",
