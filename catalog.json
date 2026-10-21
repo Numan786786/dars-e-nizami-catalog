@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 94,
-  "updatedAt": "2026-10-21T05:22:06.618096Z",
+  "catalogVersion": 95,
+  "updatedAt": "2026-10-21T05:25:57.503892Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -1820,7 +1820,7 @@
     {
       "id": "item-mvhktwej32",
       "type": "past_paper",
-      "titleUr": "2016-2020 نورانی گائیڈ عالمیہ دوم",
+      "titleUr": "2014-2020 نورانی گائیڈ عالمیہ دوم",
       "titleEn": "",
       "description": "",
       "categoryId": "fiqh",
@@ -2076,6 +2076,46 @@
       "examSession": "",
       "paperType": "",
       "audience": "boys"
+    },
+    {
+      "id": "2016-2020-mvho354b0",
+      "type": "past_paper",
+      "titleUr": "2014-2020 نورانی گائیڈ عالمیہ دوم",
+      "titleEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20230805_20230805_0421/%D8%B9%D8%A7%D9%84%D9%85%DB%8C%DB%81%20%D8%AF%D9%88%D9%85.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 60665791,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "examYear": 2020,
+      "examSession": "سالانہ",
+      "paperType": "",
+      "audience": "girls"
+    },
+    {
+      "id": "2021-2025-mvho3ach1",
+      "type": "past_paper",
+      "titleUr": "2021-2025 نورانی گائیڈ عالمیہ دوم",
+      "titleEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/2021-2025_202511/%D8%B9%D8%A7%D9%84%D9%85%DB%8C%DB%81%20%D8%AF%D9%88%D9%85%20%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA%202021-2025.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 23303513,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "examYear": 2025,
+      "examSession": "سالانہ",
+      "paperType": "",
+      "audience": "girls"
     }
   ],
   "isDemo": false
