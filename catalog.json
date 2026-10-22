@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 140,
-  "updatedAt": "2026-10-22T15:54:15.217669Z",
+  "catalogVersion": 141,
+  "updatedAt": "2026-10-22T15:56:53.778287Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -497,7 +497,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "examYear": 0,
+      "examYear": 2014,
       "examSession": "",
       "paperType": "سالانہ",
       "audience": "boys"
