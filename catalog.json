@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 139,
-  "updatedAt": "2026-10-22T07:48:35.430699Z",
+  "catalogVersion": 140,
+  "updatedAt": "2026-10-22T15:54:15.217669Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -488,6 +488,7 @@
       "titleEn": "",
       "description": "",
       "categoryId": "fiqh",
+      "classId": null,
       "language": "ur",
       "pdfUrl": "https://archive.org/download/2022_20230805/%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81%202014.pdf",
       "coverUrl": "",
@@ -497,7 +498,7 @@
       "isActive": true,
       "isFeatured": false,
       "examYear": 0,
-      "examSession": "2014",
+      "examSession": "",
       "paperType": "سالانہ",
       "audience": "boys"
     },
@@ -2436,6 +2437,7 @@
       "titleEn": "",
       "description": "",
       "categoryId": "fiqh",
+      "classId": null,
       "language": "ur",
       "pdfUrl": "https://archive.org/download/2022_20230805_20230805_0044/2014%20%D8%B3%D8%A7%D9%84%D8%A7%D9%86%DB%81.pdf",
       "coverUrl": "",
@@ -2444,8 +2446,8 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "examYear": 0,
-      "examSession": "2014",
+      "examYear": 2014,
+      "examSession": "",
       "paperType": "سالانہ",
       "audience": "girls"
     },
