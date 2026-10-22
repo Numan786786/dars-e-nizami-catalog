@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 125,
-  "updatedAt": "2026-10-22T04:17:02.950682Z",
+  "catalogVersion": 126,
+  "updatedAt": "2026-10-22T04:23:07.075366Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -6710,14 +6710,32 @@
       "description": "",
       "categoryId": "Darsenizami.",
       "language": "ur",
-      "pdfUrl": "https://archive.org/download/20230517_20230517_0136/%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D9%86%D9%88%D9%88%DB%8C.pdf",
-      "coverUrl": "",
-      "fileSizeBytes": 2237291,
+      "pdfUrl": "https://archive.org/download/SharhaArbaeenENavaviBySyedHabibUlHaqShahZiayee_201312/Sharha%20Arbaeen%20e%20Navavi%20by%20Syed%20Habib%20ul%20haq%20shah%20ziayee%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D9%86%D9%88%D9%88%DB%8C.pdf",
+      "coverUrl": "https://ia800703.us.archive.org/BookReader/BookReaderImages.php?zip=/32/items/SharhaArbaeenENavaviBySyedHabibUlHaqShahZiayee_201312/Sharha%20Arbaeen%20e%20Navavi%20by%20Syed%20Habib%20ul%20haq%20shah%20ziayee%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D9%86%D9%88%D9%88%DB%8C_jp2.zip&file=Sharha%20Arbaeen%20e%20Navavi%20by%20Syed%20Habib%20ul%20haq%20shah%20ziayee%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D9%86%D9%88%D9%88%DB%8C_jp2/Sharha%20Arbaeen%20e%20Navavi%20by%20Syed%20Habib%20ul%20haq%20shah%20ziayee%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D9%86%D9%88%D9%88%DB%8C_0000.jp2&id=SharhaArbaeenENavaviBySyedHabibUlHaqShahZiayee_201312&scale=4&rotate=0",
+      "fileSizeBytes": 28591022,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all"
+      "audience": "all",
+      "volumes": [
+        {
+          "id": "item-mvj1aw7t9",
+          "titleUr": "اربعین نووی اردو",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/SharhaArbaeenENavaviBySyedHabibUlHaqShahZiayee_201312/Sharha%20Arbaeen%20e%20Navavi%20by%20Syed%20Habib%20ul%20haq%20shah%20ziayee%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D9%86%D9%88%D9%88%DB%8C.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "item-mvj1boit10",
+          "titleUr": "اربعین نووی اردو",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230517_20230517_0136/%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D9%86%D9%88%D9%88%DB%8C.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        }
+      ]
     },
     {
       "id": "item-mvj14jz78",
@@ -6729,9 +6747,9 @@
       "description": "",
       "categoryId": "Darsenizami.",
       "language": "ur",
-      "pdfUrl": "",
-      "coverUrl": "",
-      "fileSizeBytes": null,
+      "pdfUrl": "https://archive.org/download/20230517_20230517_0136/%D9%81%D9%88%D8%A7%D8%A6%D8%AF%20%D9%85%DA%A9%DB%8C%DB%81%20%D9%84%D9%85%D8%B9%D8%A7%D8%AA%20%D8%B4%D9%85%D8%B3%DB%8C%DB%81.pdf",
+      "coverUrl": "https://ia801602.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/20230517_20230517_0136/%D9%81%D9%88%D8%A7%D8%A6%D8%AF%20%D9%85%DA%A9%DB%8C%DB%81%20%D9%85%D8%B9%20%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%D8%A7%D8%AA_jp2.zip&file=%D9%81%D9%88%D8%A7%D8%A6%D8%AF%20%D9%85%DA%A9%DB%8C%DB%81%20%D9%85%D8%B9%20%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%D8%A7%D8%AA_jp2/%D9%81%D9%88%D8%A7%D8%A6%D8%AF%20%D9%85%DA%A9%DB%8C%DB%81%20%D9%85%D8%B9%20%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%D8%A7%D8%AA_0000.jp2&id=20230517_20230517_0136&scale=4&rotate=0",
+      "fileSizeBytes": 6389422,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
