@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 117,
-  "updatedAt": "2026-10-22T03:50:01.417836Z",
+  "catalogVersion": 118,
+  "updatedAt": "2026-10-22T03:54:07.835137Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -6711,7 +6711,7 @@
       "categoryId": "Darsenizami.",
       "language": "ur",
       "pdfUrl": "https://data2.dawateislami.net/Data/Books/Download/ar/pdf/2005/130-1.pdf",
-      "coverUrl": "",
+      "coverUrl": "https://data2.dawateislami.net/Data/Books/Download/ar/pdf/2005/130-1.pdf",
       "fileSizeBytes": 16124172,
       "tags": [],
       "sortOrder": 0,
