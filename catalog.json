@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 114,
-  "updatedAt": "2026-10-22T03:01:44.436686Z",
+  "catalogVersion": 115,
+  "updatedAt": "2026-10-22T03:41:35.360631Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -6699,6 +6699,25 @@
       "examSession": "سالانہ",
       "paperType": "",
       "audience": "boys"
+    },
+    {
+      "id": "item-mvizuxrz0",
+      "type": "book",
+      "titleUr": "اربعین نووی",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "Darsenizami.",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/details/20230517_20230517_0136/%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D9%86%D9%88%D9%88%DB%8C",
+      "coverUrl": "",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all"
     }
   ],
   "isDemo": false
