@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 133,
-  "updatedAt": "2026-10-22T05:04:43.779398Z",
+  "catalogVersion": 134,
+  "updatedAt": "2026-10-22T07:04:47.418252Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -6900,7 +6900,7 @@
       "categoryId": "Darsenizami.",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/20230517_20230517_0136/%D8%AA%D8%B9%D9%84%DB%8C%D9%85%20%D8%A7%D9%84%D8%B5%D8%B1%D9%81.pdf",
-      "coverUrl": "",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkM7CdsAiHNULAgMCbRzLcETvVYcibajHBfJMbUP40TsidnTBoHb3zZWPw0t8T-2RgkMFr2MlEbtq3WhK-6FPg8PKxRyCDzVgk9tlFRvGoM-BQXuQCxkPg8Gi_3eAYq0_lozyDBCsssHk/s1600/20190501_214439.jpg",
       "fileSizeBytes": 4509704,
       "tags": [],
       "sortOrder": 0,
