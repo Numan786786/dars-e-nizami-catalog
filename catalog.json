@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 136,
-  "updatedAt": "2026-10-22T07:12:38.455938Z",
+  "catalogVersion": 137,
+  "updatedAt": "2026-10-22T07:14:50.349824Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -6792,9 +6792,9 @@
       "description": "",
       "categoryId": "Darsenizami.",
       "language": "ur",
-      "pdfUrl": "https://archive.org/download/20230517_20230517_0136/%D8%B4%D8%B1%D8%AD%20%D9%85%D9%82%D8%AF%D9%85%DB%81%20%D8%AC%D8%B2%D8%B1%DB%8C%DB%81.pdf",
-      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2023/03/AL_MUQADDIMAH_TUL_JAZARIYAH.jpg",
-      "fileSizeBytes": 4243219,
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/MATN%20AL%20MUQADDAMAH%20TUL%20JAZARIYAH.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 671671,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
