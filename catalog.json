@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 131,
-  "updatedAt": "2026-10-22T04:59:36.711299Z",
+  "catalogVersion": 132,
+  "updatedAt": "2026-10-22T05:01:38.563095Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -6850,6 +6850,25 @@
           "sortOrder": null
         }
       ]
+    },
+    {
+      "id": "item-mvj2pv2u22",
+      "type": "book",
+      "titleUr": "ہمارا اسلام",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "Darsenizami.",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20230517_20230517_0136/%DB%81%D9%85%D8%A7%D8%B1%D8%A7%20%D8%A7%D8%B3%D9%84%D8%A7%D9%85.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 8294671,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all"
     }
   ],
   "isDemo": false
