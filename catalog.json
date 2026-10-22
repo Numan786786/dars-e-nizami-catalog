@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 124,
-  "updatedAt": "2026-10-22T04:12:57.801598Z",
+  "catalogVersion": 125,
+  "updatedAt": "2026-10-22T04:17:02.950682Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -6718,6 +6718,51 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "all"
+    },
+    {
+      "id": "item-mvj14jz78",
+      "type": "book",
+      "titleUr": "فوائد مکیہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "Darsenizami.",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all",
+      "volumes": [
+        {
+          "id": "1-mvj13c6d5",
+          "titleUr": "فوائد مکیہ نسخہ 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230517_20230517_0136/%D9%81%D9%88%D8%A7%D8%A6%D8%AF%20%D9%85%DA%A9%DB%8C%DB%81%20%D9%84%D9%85%D8%B9%D8%A7%D8%AA%20%D8%B4%D9%85%D8%B3%DB%8C%DB%81.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "2-mvj13ur46",
+          "titleUr": "فوائد مکیہ نسخہ 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230517_20230517_0136/%D9%81%D9%88%D8%A7%D8%A6%D8%AF%20%D9%85%DA%A9%DB%8C%DB%81%20%D9%85%D8%B9%20%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%D8%A7%D8%AA.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "3-mvj14ajh7",
+          "titleUr": "فوائد مکیہ نسخہ 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230517_20230517_0136/%D9%81%D9%88%D8%A7%D8%A6%D8%AF%20%D9%85%DA%A9%DB%8C%DB%81.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        }
+      ]
     }
   ],
   "isDemo": false
