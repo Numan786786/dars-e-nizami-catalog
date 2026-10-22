@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 119,
-  "updatedAt": "2026-10-22T03:56:00.445608Z",
+  "catalogVersion": 120,
+  "updatedAt": "2026-10-22T04:05:13.804735Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -6710,8 +6710,8 @@
       "description": "",
       "categoryId": "Darsenizami.",
       "language": "ur",
-      "pdfUrl": "",
-      "coverUrl": "https://data2.dawateislami.net/Data/Books/Download/ar/pdf/2005/130-1.pdf",
+      "pdfUrl": "https://data2.dawateislami.net/Data/Books/Download/ar/pdf/2005/130-1.pdf",
+      "coverUrl": "",
       "fileSizeBytes": 16124172,
       "tags": [],
       "sortOrder": 0,
@@ -6729,9 +6729,17 @@
         },
         {
           "id": "item-mvj00y733",
-          "titleUr": "اربعین نووی اردو",
+          "titleUr": "اربعین حنفیہ اردو",
           "titleEn": "",
-          "pdfUrl": "https://archive.org/details/20230517_20230517_0136/%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D9%86%D9%88%D9%88%DB%8C",
+          "pdfUrl": "https://archive.org/download/20230517_20230517_0136/%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D8%AD%D9%86%D9%81%DB%8C%DB%81%20%D9%85%DA%A9%D8%AA%D8%A8%DB%81%20%D8%A7%D9%84%D9%85%D8%AF%DB%8C%D9%86%DB%81.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "item-mvj0pc544",
+          "titleUr": "اربعین نووی",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230517_20230517_0136/%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D9%86%D9%88%D9%88%DB%8C.pdf",
           "fileSizeBytes": null,
           "sortOrder": null
         }
