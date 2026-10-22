@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 127,
-  "updatedAt": "2026-10-22T04:27:54.832695Z",
+  "catalogVersion": 128,
+  "updatedAt": "2026-10-22T04:34:30.056479Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -6792,9 +6792,9 @@
       "description": "",
       "categoryId": "Darsenizami.",
       "language": "ur",
-      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/MATN%20AL%20MUQADDAMAH%20TUL%20JAZARIYAH.pdf",
+      "pdfUrl": "https://archive.org/download/20220717_20220717/%D8%B4%D8%B1%D8%AD%20%D9%85%D9%82%D8%AF%D9%85%DB%81%20%D8%AC%D8%B2%D8%B1%DB%8C%DB%81.PDF",
       "coverUrl": "",
-      "fileSizeBytes": 671671,
+      "fileSizeBytes": 4802098,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
@@ -6802,34 +6802,50 @@
       "audience": "all",
       "volumes": [
         {
-          "id": "2-mvj1gjpa11",
+          "id": "1-mvj1n0jk16",
+          "titleUr": "مقدمہ جزریہ نسخہ 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20220717_20220717/%D8%B4%D8%B1%D8%AD%20%D9%85%D9%82%D8%AF%D9%85%DB%81%20%D8%AC%D8%B2%D8%B1%DB%8C%DB%81.PDF",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "2-mvj1nih517",
           "titleUr": "مقدمہ جزریہ نسخہ 2",
           "titleEn": "",
-          "pdfUrl": "https://archive.org/download/aug-21/TOHFA_E_RAHEEMIYA.pdf",
+          "pdfUrl": "https://archive.org/download/20220717_20220717/%D8%B4%D8%B1%D8%AD%20%D9%85%D9%82%D8%AF%D9%85%DB%81%20%D8%AC%D8%B2%D8%B1%DB%8C%DB%81.pdf",
           "fileSizeBytes": null,
           "sortOrder": null
         },
         {
-          "id": "3-mvj1h8nh12",
+          "id": "3-mvj1o36u18",
           "titleUr": "مقدمہ جزریہ نسخہ 3",
           "titleEn": "",
-          "pdfUrl": "https://archive.org/details/20220717_20220717/%D8%B4%D8%B1%D8%AD%20%D8%AC%D8%B2%D8%B1%DB%8C",
+          "pdfUrl": "https://archive.org/download/20220717_20220717/%D8%B4%D8%B1%D8%AD%20%D8%AC%D8%B2%D8%B1%DB%8C.PDF",
           "fileSizeBytes": null,
           "sortOrder": null
         },
         {
-          "id": "4-mvj1hugb13",
-          "titleUr": "مقدمہ جزریہ نسخہ 4",
+          "id": "item-mvj1pkyw19",
+          "titleUr": "فوائد الدقیقہ شرح جزریہ",
           "titleEn": "",
-          "pdfUrl": "https://archive.org/details/20220717_20220717/%D8%A7%D9%84%D9%86%D9%81%D8%AD%D8%A9%20%D8%A7%D9%84%D8%B9%D9%86%D8%A8%D8%B1%DB%8C%D8%A9%20%D8%B4%D8%B1%D8%AD%20%D9%85%D9%82%D8%AF%D9%85%DB%81%20%D8%AC%D8%B2%D8%B1%DB%8C%DB%81",
+          "pdfUrl": "https://archive.org/download/20220717_20220717/%D9%81%D9%88%D8%A7%D8%A6%D8%AF%20%D8%A7%D9%84%D8%AF%D9%82%DB%8C%D9%82%DB%81%20%D8%B4%D8%B1%D8%AD%20%D9%85%D9%82%D8%AF%D9%85%DB%81%20%D8%AC%D8%B2%D8%B1%DB%8C%DB%81%20.pdf",
           "fileSizeBytes": null,
           "sortOrder": null
         },
         {
-          "id": "5-mvj1igfe14",
-          "titleUr": "مقدمہ جزریہ نسخہ 5",
+          "id": "item-mvj1q76o20",
+          "titleUr": "تحفہ رحیمیہ شرح مقدمہ جزریہ",
           "titleEn": "",
-          "pdfUrl": "https://archive.org/details/20220717_20220717/%D8%B4%D8%B1%D8%AD%20%D9%85%D9%82%D8%AF%D9%85%DB%81%20%D8%AC%D8%B2%D8%B1%DB%8C%DB%81",
+          "pdfUrl": "https://archive.org/download/20220717_20220717/%D8%AA%D8%AD%D9%81%DB%81%20%D8%B1%D8%AD%DB%8C%D9%85%DB%8C%DB%81%20%D8%B4%D8%B1%D8%AD%20%D9%85%D9%82%D8%AF%D9%85%DB%81%20%D8%AC%D8%B2%D8%B1%DB%8C%DB%81.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "item-mvj1qy7g21",
+          "titleUr": "النفحۃ العنبریہ شرح مقدمہ جزریہ",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20220717_20220717/%D8%A7%D9%84%D9%86%D9%81%D8%AD%D8%A9%20%D8%A7%D9%84%D8%B9%D9%86%D8%A8%D8%B1%DB%8C%D8%A9%20%D8%B4%D8%B1%D8%AD%20%D9%85%D9%82%D8%AF%D9%85%DB%81%20%D8%AC%D8%B2%D8%B1%DB%8C%DB%81.PDF",
           "fileSizeBytes": null,
           "sortOrder": null
         }
