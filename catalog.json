@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 115,
-  "updatedAt": "2026-10-22T03:41:35.360631Z",
+  "catalogVersion": 116,
+  "updatedAt": "2026-10-22T03:46:17.159882Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -6710,14 +6710,32 @@
       "description": "",
       "categoryId": "Darsenizami.",
       "language": "ur",
-      "pdfUrl": "https://archive.org/details/20230517_20230517_0136/%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D9%86%D9%88%D9%88%DB%8C",
+      "pdfUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://data2.dawateislami.net/Data/Books/Download/ar/pdf/2005/130-1.pdf&ved=2ahUKEwj-wczX2syXAxWEgP0HHVtzHVcQFnoECB8QAQ&sqi=2&usg=AOvVaw3KSt5ah87XWkwra6DWQCwX",
       "coverUrl": "",
       "fileSizeBytes": null,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all"
+      "audience": "all",
+      "volumes": [
+        {
+          "id": "item-mvj00hww2",
+          "titleUr": "اربعین نووی دعوت اسلامی",
+          "titleEn": "",
+          "pdfUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://data2.dawateislami.net/Data/Books/Download/ar/pdf/2005/130-1.pdf&ved=2ahUKEwj-wczX2syXAxWEgP0HHVtzHVcQFnoECB8QAQ&sqi=2&usg=AOvVaw3KSt5ah87XWkwra6DWQCwX",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        },
+        {
+          "id": "item-mvj00y733",
+          "titleUr": "اربعین نووی اردو",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/details/20230517_20230517_0136/%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D9%86%D9%88%D9%88%DB%8C",
+          "fileSizeBytes": null,
+          "sortOrder": null
+        }
+      ]
     }
   ],
   "isDemo": false
