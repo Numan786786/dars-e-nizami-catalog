@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 120,
-  "updatedAt": "2026-10-22T04:05:13.804735Z",
+  "catalogVersion": 121,
+  "updatedAt": "2026-10-22T04:07:00.530928Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -6724,14 +6724,6 @@
           "titleUr": "اربعین نووی دعوت اسلامی",
           "titleEn": "",
           "pdfUrl": "https://data2.dawateislami.net/Data/Books/Download/ar/pdf/2005/130-1.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": null
-        },
-        {
-          "id": "item-mvj00y733",
-          "titleUr": "اربعین حنفیہ اردو",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/20230517_20230517_0136/%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D8%AD%D9%86%D9%81%DB%8C%DB%81%20%D9%85%DA%A9%D8%AA%D8%A8%DB%81%20%D8%A7%D9%84%D9%85%D8%AF%DB%8C%D9%86%DB%81.pdf",
           "fileSizeBytes": null,
           "sortOrder": null
         },
