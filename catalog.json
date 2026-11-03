@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 142,
-  "updatedAt": "2026-11-03T04:35:30.100462Z",
+  "catalogVersion": 143,
+  "updatedAt": "2026-11-03T04:36:44.036662Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -6940,7 +6940,7 @@
       "categoryId": "Darsenizami",
       "language": "ur",
       "pdfUrl": "https://www.minhajbooks.com/images-books/Namaz/Namaz_1.pdf",
-      "coverUrl": "",
+      "coverUrl": "https://www.minhajbooks.com/images-books/Namaz/Namaz_1.pdf",
       "fileSizeBytes": 2263133,
       "tags": [],
       "sortOrder": 0,
