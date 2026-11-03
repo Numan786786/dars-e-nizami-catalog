@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 150,
-  "updatedAt": "2026-11-03T06:32:10.928798Z",
+  "catalogVersion": 151,
+  "updatedAt": "2026-11-03T06:52:27.255802Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -7716,7 +7716,7 @@
       "authorUr": "",
       "authorEn": "",
       "description": "",
-      "categoryId": "aqaid",
+      "categoryId": "Darsenizami.",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/2_20200605_20200605_0244/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B4%D8%B1%DB%8C%D8%B9%D8%AA%20%D8%AA%D8%AE%D8%B1%DB%8C%D8%AC%20%D8%B4%D8%AF%DB%81.pdf",
       "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgFJj8_R0eaNGMmNwTGCFHvsjIgI8c1IBBBZSoehT247V9B1-gnmx6rgyKEkskwROS4uSGkcdUjBqf1ywQwM6l0IFOwV5fj08l8cTuWDpwz0CQqQOM_brxKZLB5D6Y6csejv1F5MybbugQfx1Tf62Cq4uOSvB1ZwwlerlY2gzEK4dOE_Dj_GW5nJnzt4w=s1076",
@@ -7801,7 +7801,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "boys"
+      "audience": "all"
     },
     {
       "id": "item-mw0b50l552",
@@ -7876,7 +7876,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "boys"
+      "audience": "all"
     },
     {
       "id": "item-mw0b7qdt55",
@@ -7895,7 +7895,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "boys"
+      "audience": "all"
     },
     {
       "id": "item-mw0b8h7756",
@@ -7914,7 +7914,139 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "boys"
+      "audience": "all"
+    },
+    {
+      "id": "item-mw0bix2257",
+      "type": "book",
+      "titleUr": "اربعین نووی",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "aqaid",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/SharhaArbaeenENavaviBySyedHabibUlHaqShahZiayee_201312/Sharha%20Arbaeen%20e%20Navavi%20by%20Syed%20Habib%20ul%20haq%20shah%20ziayee%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D9%86%D9%88%D9%88%DB%8C.pdf",
+      "coverUrl": "https://ia800703.us.archive.org/BookReader/BookReaderImages.php?zip=/32/items/SharhaArbaeenENavaviBySyedHabibUlHaqShahZiayee_201312/Sharha%20Arbaeen%20e%20Navavi%20by%20Syed%20Habib%20ul%20haq%20shah%20ziayee%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D9%86%D9%88%D9%88%DB%8C_jp2.zip&file=Sharha%20Arbaeen%20e%20Navavi%20by%20Syed%20Habib%20ul%20haq%20shah%20ziayee%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D9%86%D9%88%D9%88%DB%8C_jp2/Sharha%20Arbaeen%20e%20Navavi%20by%20Syed%20Habib%20ul%20haq%20shah%20ziayee%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D9%86%D9%88%D9%88%DB%8C_0000.jp2&id=SharhaArbaeenENavaviBySyedHabibUlHaqShahZiayee_201312&scale=4&rotate=0",
+      "fileSizeBytes": 28591022,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls",
+      "volumes": [
+        {
+          "id": "item-mvj1aw7t9",
+          "titleUr": "اربعین نووی اردو",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/SharhaArbaeenENavaviBySyedHabibUlHaqShahZiayee_201312/Sharha%20Arbaeen%20e%20Navavi%20by%20Syed%20Habib%20ul%20haq%20shah%20ziayee%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D9%86%D9%88%D9%88%DB%8C.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "item-mvj1boit10",
+          "titleUr": "اربعین نووی اردو",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230517_20230517_0136/%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D9%86%D9%88%D9%88%DB%8C.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "item-mw0bnc9358",
+      "type": "book",
+      "titleUr": "شرح اربعین نووی",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "aqaid",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/SharahArbaeeneNawavi/%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D9%86%D9%88%D9%88%DB%8C%20.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjajp9GrbSpy2rE57_MK1KqDAO3MbMxMpfwKWpZhFk1Xmhc6s_4pRMAL1STRint5RO1fqbd5AhstK_sG5-nNtrlpLP3GeMqAxdp3FBTVr5b4eCzaXQwQfqrmuXaQ_0qnOt-g5j0Eam0MCg/s1600/IMG_20180928_122422_298.jpg",
+      "fileSizeBytes": 6729276,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls"
+    },
+    {
+      "id": "item-mw0bnhyl59",
+      "type": "book",
+      "titleUr": "شرح اربعین نووی",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "aqaid",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/SharahArbaeeneNawavi/%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D9%86%D9%88%D9%88%DB%8C%20.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjajp9GrbSpy2rE57_MK1KqDAO3MbMxMpfwKWpZhFk1Xmhc6s_4pRMAL1STRint5RO1fqbd5AhstK_sG5-nNtrlpLP3GeMqAxdp3FBTVr5b4eCzaXQwQfqrmuXaQ_0qnOt-g5j0Eam0MCg/s1600/IMG_20180928_122422_298.jpg",
+      "fileSizeBytes": 6729276,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls"
+    },
+    {
+      "id": "item-mw0btla560",
+      "type": "book",
+      "titleUr": "سنی بہشتی زیور",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "aqaid",
+      "language": "ur",
+      "pdfUrl": "https://data2.dawateislami.net/Data/Books/Download/ur/pdf/2016/1619-1.pdf?fn=sunni-bahishti-zewar",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJN44fT8K95FpjP1ZUGW2XQvvNrAppiE9rlsTGM8tNTGw7D6IfehNThKuri8NSNzcIGMAPOgs_OXVwJs-h0cVtvTZYZ6rVFcTUICZ_UKvSBVUsJPqLz03I-5QZ6CEBz1eh1AmBV7nPJbeFq9sGbNzOM6Un8jFOxQ8RtNRAoU0_-NCw4ebOt8Wy-Kh30ZPL/s305/Suni%20zewer.jpg",
+      "fileSizeBytes": 205588613,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls"
+    },
+    {
+      "id": "item-mw0buvzj61",
+      "type": "book",
+      "titleUr": "علم صرف",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "aqaid",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/IlmESaraf/Ilm%20e%20Saraf%20.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHAMjWT7XdflEnrHExhfShktKqu-NS0NX8RO93eGg0hdy_sN2CwwFW3MhZj2LmcxKB_K5YZTHhBFRhaSSnENeYd-cyVfaIutu1Gx7E-8tvrBZfTMKacPYx_L0XHKWGp3OxeCiPa9Pb_Iw/s1600/20190107_130835.jpg",
+      "fileSizeBytes": 9542013,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls"
+    },
+    {
+      "id": "item-mw0bxnaf62",
+      "type": "book",
+      "titleUr": "علم نحو",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "aqaid",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/ilam-nahve/ilam%20nahve%20%D8%B9%D9%84%D9%85%20%D9%86%D8%AD%D9%88.pdf",
+      "coverUrl": "https://ia600609.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/ilam-nahve/ilam%20nahve%20%D8%B9%D9%84%D9%85%20%D9%86%D8%AD%D9%88_jp2.zip&file=ilam%20nahve%20%D8%B9%D9%84%D9%85%20%D9%86%D8%AD%D9%88_jp2/ilam%20nahve%20%D8%B9%D9%84%D9%85%20%D9%86%D8%AD%D9%88_0000.jp2&id=ilam-nahve&scale=2&rotate=0",
+      "fileSizeBytes": 10083785,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls"
     }
   ],
   "isDemo": false
