@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 148,
-  "updatedAt": "2026-11-03T05:39:25.008568Z",
+  "catalogVersion": 149,
+  "updatedAt": "2026-11-03T05:41:24.105805Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -6854,25 +6854,6 @@
       ]
     },
     {
-      "id": "item-mvj2pv2u22",
-      "type": "book",
-      "titleUr": "ہمارا اسلام",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "Darsenizami.",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/20230517_20230517_0136/%DB%81%D9%85%D8%A7%D8%B1%D8%A7%20%D8%A7%D8%B3%D9%84%D8%A7%D9%85.pdf",
-      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZFB1G10hw3SBhLC6xDALdPQMp3aUKQxEoJ-_Abt_GvFICcO7K0XtkBgCZikGNkC41wFtK4C4qHr1hoEhkjoCoGwIVe-F9QGLEQ5VQTfhFwBPZpEUQVK3gx6GF2beAedpz6jcUApk-DQtypeLzrdxn17wJbLSdq_jCLZeehAzEOeafRTZFFo7ZUlXB2A/s259/cover.jpg",
-      "fileSizeBytes": 8294671,
-      "tags": [],
-      "sortOrder": 0,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "all"
-    },
-    {
       "id": "item-mvj2rii123",
       "type": "book",
       "titleUr": "نعیم التحریر",
@@ -7327,6 +7308,25 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "boys"
+    },
+    {
+      "id": "item-mw09epd424",
+      "type": "book",
+      "titleUr": "ہمارا اسلام",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "Darsenizami.",
+      "language": "ur",
+      "pdfUrl": "https://aljamiatulashrafia.in/download_books.php?book=Hamara%20Islam&bookid=225",
+      "coverUrl": "https://archive.org/services/img/hamara-islam/full/pct:200/0/default.jpg",
+      "fileSizeBytes": 14810394,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all"
     }
   ],
   "isDemo": false
