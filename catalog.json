@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 141,
-  "updatedAt": "2026-10-22T15:56:53.778287Z",
+  "catalogVersion": 142,
+  "updatedAt": "2026-11-03T04:35:30.100462Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -6928,6 +6928,25 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "all"
+    },
+    {
+      "id": "item-mw072cdw0",
+      "type": "book",
+      "titleUr": "کلمہ ایمان مفصل ومجمل",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "Darsenizami",
+      "language": "ur",
+      "pdfUrl": "https://www.minhajbooks.com/images-books/Namaz/Namaz_1.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 2263133,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
     }
   ],
   "isDemo": false
