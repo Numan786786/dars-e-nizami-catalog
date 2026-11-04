@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 182,
-  "updatedAt": "2026-11-04T17:19:11.884147Z",
+  "catalogVersion": 183,
+  "updatedAt": "2026-11-04T17:21:09.198830Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -14690,6 +14690,25 @@
       "categoryId": "nahw",
       "language": "ur",
       "pdfUrl": "https://drive.google.com/file/d/1E_u3g9sDTTa3gB8PTxqTJlXmxMDC3jss/view?usp=drivesdk",
+      "coverUrl": "",
+      "fileSizeBytes": 0,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw2dumsd300",
+      "type": "book",
+      "titleUr": "مسند امام اعظم مکتبۃ المدینہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://drive.google.com/file/d/1iL5tKFihTHxVEgyXa3pNxdKmnvNaDbix/view?usp=drivesdk",
       "coverUrl": "",
       "fileSizeBytes": 0,
       "tags": [],
