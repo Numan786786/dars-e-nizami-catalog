@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 166,
-  "updatedAt": "2026-11-04T08:52:19.065332Z",
+  "catalogVersion": 167,
+  "updatedAt": "2026-11-04T10:24:55.425534Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -10470,6 +10470,25 @@
       "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AlMukhtasarUlQudoriRashedia.pdf",
       "coverUrl": "https://ia802808.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/DarsENizamiDarjaSaniah2ndYear1/AlMukhtasarUlQudoriRashedia_jp2.zip&file=AlMukhtasarUlQudoriRashedia_jp2/AlMukhtasarUlQudoriRashedia_0000.jp2&id=DarsENizamiDarjaSaniah2ndYear1&scale=4&rotate=0",
       "fileSizeBytes": 20505515,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw1w06eu38",
+      "type": "book",
+      "titleUr": "قدوری مکتبہ بیروت",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "hadith",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20200605_20200605_0141/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%82%D8%AF%D9%88%D8%B1%D9%8A%20%D9%84%D9%84%D8%A3%D9%82%D8%B7%D8%B9.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgdOgGQzkd5YiUQzWF-nRy_KYo9IQ8Cz_vyBVQHvI3XC62XXgVpEQZSru-T8H41Yx2ePZGAnyLIbY_pKFkHnsdCbC5NnZ3peF7B8BqAYWNy0qpnw2uDxfNhIwjFUyvUohpjKP-ViGP-1fSdheqHoAO5AfE11DL2pdLNn8iROd47hXbG56FPLERmCuednA=s698",
+      "fileSizeBytes": 102622347,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
