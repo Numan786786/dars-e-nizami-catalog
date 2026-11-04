@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 186,
-  "updatedAt": "2026-11-04T18:23:36.076129Z",
+  "catalogVersion": 187,
+  "updatedAt": "2026-11-04T18:31:08.178414Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -15537,8 +15537,8 @@
       "description": "",
       "categoryId": "tafsir",
       "language": "ur",
-      "pdfUrl": "https://archive.org/details/DarsENizamiDarjaKhamsa5thYear/AlHidayahVol1AlBushraColor",
-      "coverUrl": "https://besturdubooks.net/al-hidayah",
+      "pdfUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2018/10/Al-Hidayah.jpg",
       "fileSizeBytes": null,
       "tags": [],
       "sortOrder": 0,
@@ -15550,7 +15550,7 @@
           "id": "1-mw2fby7311",
           "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 1",
           "titleEn": "",
-          "pdfUrl": "https://archive.org/details/DarsENizamiDarjaKhamsa5thYear/AlHidayahVol1AlBushraColor",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayahVol1AlBushra.pdf",
           "fileSizeBytes": null,
           "sortOrder": 0
         },
@@ -15558,7 +15558,7 @@
           "id": "2-mw2fc39w12",
           "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 2",
           "titleEn": "",
-          "pdfUrl": "https://archive.org/details/DarsENizamiDarjaKhamsa5thYear/AlHidayahVol2AlBushraColor",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayahVol2AlBushra.pdf",
           "fileSizeBytes": null,
           "sortOrder": 1
         },
@@ -15566,7 +15566,7 @@
           "id": "3-mw2fc80r13",
           "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 3",
           "titleEn": "",
-          "pdfUrl": "https://archive.org/details/AlSadisah6thYear1/AlHidayahVol3AlBushraColor",
+          "pdfUrl": "https://archive.org/download/AlSadisah6thYear1/AL%20HIDAYAH%20VOL%203-%20AL%20BUSHRA.pdf",
           "fileSizeBytes": null,
           "sortOrder": 2
         },
@@ -15574,7 +15574,7 @@
           "id": "4-mw2fcdfa14",
           "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 4",
           "titleEn": "",
-          "pdfUrl": "https://archive.org/details/AlSadisah6thYear1/AlHidayahVol4AlBushraColor",
+          "pdfUrl": "https://archive.org/download/AlSadisah6thYear1/AL%20HIDAYAH%20VOL%204-%20AL%20BUSHRA.pdf",
           "fileSizeBytes": null,
           "sortOrder": 3
         },
@@ -15582,7 +15582,7 @@
           "id": "5-mw2fchvf15",
           "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 5",
           "titleEn": "",
-          "pdfUrl": "https://archive.org/details/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol5AlBushraColor",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol5AlBushra.pdf",
           "fileSizeBytes": null,
           "sortOrder": 4
         },
@@ -15590,7 +15590,7 @@
           "id": "6-mw2fcmkj16",
           "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 6",
           "titleEn": "",
-          "pdfUrl": "https://archive.org/details/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol6AlBushraColor",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol6AlBushra.pdf",
           "fileSizeBytes": null,
           "sortOrder": 5
         },
@@ -15598,7 +15598,7 @@
           "id": "7-mw2fcqqm17",
           "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 7",
           "titleEn": "",
-          "pdfUrl": "https://archive.org/details/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol7AlBushraColor",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol7AlBushra.pdf",
           "fileSizeBytes": null,
           "sortOrder": 6
         },
@@ -15606,7 +15606,7 @@
           "id": "8-mw2fd27m18",
           "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 8",
           "titleEn": "",
-          "pdfUrl": "https://archive.org/details/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol8AlBushraColor",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol8AlBushra.pdf",
           "fileSizeBytes": null,
           "sortOrder": 7
         }
@@ -15675,8 +15675,8 @@
       "description": "",
       "categoryId": "tafsir",
       "language": "ur",
-      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayahRashedaiVol1Rashedia.pdf",
-      "coverUrl": "",
+      "pdfUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2024/05/Al_Hidaya_Rasheedia.jpg",
       "fileSizeBytes": 22516886,
       "tags": [],
       "sortOrder": 0,
@@ -15728,8 +15728,8 @@
       "description": "",
       "categoryId": "tafsir",
       "language": "ur",
-      "pdfUrl": "https://archive.org/download/bhidaya/AL_HIDAYAH_AL_BUSHRA_v2_VOL_01.pdf",
-      "coverUrl": "",
+      "pdfUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2026/02/AL_HIDAYAH_AL_BUSHRA.jpg",
       "fileSizeBytes": 19046005,
       "tags": [],
       "sortOrder": 0,
