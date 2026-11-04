@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 175,
-  "updatedAt": "2026-11-04T15:03:26.595480Z",
+  "catalogVersion": 176,
+  "updatedAt": "2026-11-04T15:05:57.134831Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -11198,7 +11198,7 @@
       "categoryId": "hadith",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/maulana-abdul-hai-astori/MAARIF_UL_HAWASHI_SHARH_USOOL_AL_SHASHI.pdf",
-      "coverUrl": "https://besturdubooks.net/maarif-ul-hawashi",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2023/04/MAARIF_UL_HAWASHI.jpg",
       "fileSizeBytes": 33199778,
       "tags": [],
       "sortOrder": 0,
