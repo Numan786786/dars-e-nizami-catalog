@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 176,
-  "updatedAt": "2026-11-04T15:05:57.134831Z",
+  "catalogVersion": 177,
+  "updatedAt": "2026-11-04T15:57:42.668006Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -13279,6 +13279,585 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "girls"
+    },
+    {
+      "id": "item-mw297mg6204",
+      "type": "book",
+      "titleUr": "تفسیر جلالین مکتبہ رحمانیہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/LJALALAIN-MUSNADEIMAMAAZAM/TAFSEER%20UL%20JALALAIN-%20RAHMANIA.pdf",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2021/11/Al-Jalalain-Maktaba-Rahmania.jpg",
+      "fileSizeBytes": 53809773,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw298p0n205",
+      "type": "book",
+      "titleUr": "تفسیر جلالین قدیمی کتب خانہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/Jalalain-MusnadImamAazam/TAFSEER%20UL%20JALALAIN-%20QADEMI.pdf",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2021/11/Tafseer-Al-Jalalain-Qadeemi.jpg",
+      "fileSizeBytes": 59746801,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw29b4h6206",
+      "type": "book",
+      "titleUr": "المفضل عربی شرح تفسیر جلالین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/besturdubooks3/Al-Mufassal-Jalalain---www.besturdubooks.wordpress.com.pdf",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2021/11/Al-Mufassal-Ala-Tafseer-e-Jalalain.jpg",
+      "fileSizeBytes": 65607551,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw29j7qw215",
+      "type": "book",
+      "titleUr": "حاشیۃ الجمل عربی شرح جلالین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia903208.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/1_20200604_20200604_0244/%D8%AD%D8%A7%D8%B4%DB%8C%DB%81%20%D8%AC%D9%85%D9%84%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%281%29_jp2.zip&file=%D8%AD%D8%A7%D8%B4%DB%8C%DB%81%20%D8%AC%D9%85%D9%84%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%281%29_jp2/%D8%AD%D8%A7%D8%B4%DB%8C%DB%81%20%D8%AC%D9%85%D9%84%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%281%29_0000.jp2&id=1_20200604_20200604_0244&scale=8&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw29djrk207",
+          "titleUr": "حاشیۃ الجمل عربی شرح جلالین جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0244/%D8%AD%D8%A7%D8%B4%DB%8C%DB%81%20%D8%AC%D9%85%D9%84%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%281%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw29dol3208",
+          "titleUr": "حاشیۃ الجمل عربی شرح جلالین جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0244/%D8%AD%D8%A7%D8%B4%DB%8C%DB%81%20%D8%AC%D9%85%D9%84%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%282%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw29dt70209",
+          "titleUr": "حاشیۃ الجمل عربی شرح جلالین جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0244/%D8%AD%D8%A7%D8%B4%DB%8C%DB%81%20%D8%AC%D9%85%D9%84%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%283%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw29dy1i210",
+          "titleUr": "حاشیۃ الجمل عربی شرح جلالین جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0244/%D8%AD%D8%A7%D8%B4%DB%8C%DB%81%20%D8%AC%D9%85%D9%84%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%284%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw29e2j6211",
+          "titleUr": "حاشیۃ الجمل عربی شرح جلالین جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0244/%D8%AD%D8%A7%D8%B4%DB%8C%DB%81%20%D8%AC%D9%85%D9%84%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%285%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw29e77l212",
+          "titleUr": "حاشیۃ الجمل عربی شرح جلالین جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0244/%D8%AD%D8%A7%D8%B4%DB%8C%DB%81%20%D8%AC%D9%85%D9%84%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%286%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw29eewm213",
+          "titleUr": "حاشیۃ الجمل عربی شرح جلالین جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0244/%D8%AD%D8%A7%D8%B4%DB%8C%DB%81%20%D8%AC%D9%85%D9%84%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%287%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw29ejo7214",
+          "titleUr": "حاشیۃ الجمل عربی شرح جلالین جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0244/%D8%AD%D8%A7%D8%B4%DB%8C%DB%81%20%D8%AC%D9%85%D9%84%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%288%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        }
+      ]
+    },
+    {
+      "id": "item-mw29x1wz216",
+      "type": "book",
+      "titleUr": "تفسیر جلالین بیروت",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/tafseer-jalalain-ma-hashiya-hidayatul-wahdeen/tafseer%20Jalalain%20Ma%20Hashiya%20Hidayatul%20wahdeen.pdf",
+      "coverUrl": "https://ia803200.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/tafseer-jalalain-ma-hashiya-hidayatul-wahdeen/tafseer%20Jalalain%20Ma%20Hashiya%20Hidayatul%20wahdeen_jp2.zip&file=tafseer%20Jalalain%20Ma%20Hashiya%20Hidayatul%20wahdeen_jp2/tafseer%20Jalalain%20Ma%20Hashiya%20Hidayatul%20wahdeen_0000.jp2&id=tafseer-jalalain-ma-hashiya-hidayatul-wahdeen&scale=4&rotate=0",
+      "fileSizeBytes": 28869248,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw2a17lb217",
+      "type": "book",
+      "titleUr": "قرۃ العینین عربی شرح جلالین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20250916_20250916_1446/%D9%82%D8%B1%D8%A9%D8%A7%D9%84%D8%B9%DB%8C%D9%86%DB%8C%D9%86%20%D8%B9%D9%84%DB%8C%20%20%D8%AA%D9%81%D8%B3%DB%8C%D8%B1%20%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%DB%94%20%D8%AC%D9%84%D8%A7%D9%84%20%D8%A7%D9%84%D8%AF%DB%8C%D9%86%20%D8%B3%DB%8C%D9%88%D8%B7%DB%8C%20%DB%94%20%D9%82%D8%A7%D8%B6%DB%8C%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D8%AD%D9%85%D8%AF%20%DB%94%20%D8%B4%D8%B1%D8%AD%20%D8%B9%D8%B1%D8%A8%DB%8C%20%DB%94%D8%AD%D9%82%20.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 50395378,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw2a9nr0220",
+      "type": "book",
+      "titleUr": "الکوکبین النیرین فی حل الفاظ الجلالین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia601900.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/1_20200604_20200604_0248/%D8%A7%D9%84%DA%A9%D9%88%DA%A9%D8%A8%DB%8C%D9%86%20%D8%A7%D9%84%D9%86%DB%8C%D8%B1%DB%8C%D9%86%20%D9%81%DB%8C%20%D8%AD%D9%84%20%D8%A7%D9%84%D9%81%D8%A7%D8%B8%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20.%D8%AC%D9%84%D8%AF%201_jp2.zip&file=%D8%A7%D9%84%DA%A9%D9%88%DA%A9%D8%A8%DB%8C%D9%86%20%D8%A7%D9%84%D9%86%DB%8C%D8%B1%DB%8C%D9%86%20%D9%81%DB%8C%20%D8%AD%D9%84%20%D8%A7%D9%84%D9%81%D8%A7%D8%B8%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20.%D8%AC%D9%84%D8%AF%201_jp2/%D8%A7%D9%84%DA%A9%D9%88%DA%A9%D8%A8%DB%8C%D9%86%20%D8%A7%D9%84%D9%86%DB%8C%D8%B1%DB%8C%D9%86%20%D9%81%DB%8C%20%D8%AD%D9%84%20%D8%A7%D9%84%D9%81%D8%A7%D8%B8%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20.%D8%AC%D9%84%D8%AF%201_0000.jp2&id=1_20200604_20200604_0248&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "item-mw2a8iex218",
+          "titleUr": "الکوکبین النیرین فی حل الفاظ الجلالین جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0248/%D8%A7%D9%84%DA%A9%D9%88%DA%A9%D8%A8%DB%8C%D9%86%20%D8%A7%D9%84%D9%86%DB%8C%D8%B1%DB%8C%D9%86%20%D9%81%DB%8C%20%D8%AD%D9%84%20%D8%A7%D9%84%D9%81%D8%A7%D8%B8%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20.%D8%AC%D9%84%D8%AF%201.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw2a9kmt219",
+          "titleUr": "الکوکبین النیرین فی حل الفاظ الجلالین جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0248/%D8%A7%D9%84%DA%A9%D9%88%DA%A9%D8%A8%DB%8C%D9%86%20%D8%A7%D9%84%D9%86%DB%8C%D8%B1%DB%8C%D9%86%20%D9%81%DB%8C%20%D8%AD%D9%84%20%D8%A7%D9%84%D9%81%D8%A7%D8%B8%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86.%D8%AC%D9%84%D8%AF%202.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "item-mw2aagqy221",
+      "type": "book",
+      "titleUr": "المیسر عربی شرح جلالین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/1_20200604_20200604_0248/%D8%A7%D9%84%D9%85%DB%8C%D8%B3%D8%B1%20%D8%B9%D8%B1%D8%A8%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 42960590,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw2ab6kf222",
+      "type": "book",
+      "titleUr": "کمالین عربی شرح جلالین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/1_20200604_20200604_0248/%DA%A9%D9%85%D8%A7%D9%84%DB%8C%D9%86%20%D8%B9%D8%B1%D8%A8%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 30267570,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw2ad3jd225",
+      "type": "book",
+      "titleUr": "تہذیب عربی شرح جلالین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/1_20200604_20200604_0248/%D8%AA%DA%BE%D8%B0%DB%8C%D8%A8%20%D8%AA%D9%81%D8%B3%DB%8C%D8%B1%20%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%D9%85%D9%82%D8%AF%D9%85%DB%81.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 1831339,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "item-mw2acsa1224",
+          "titleUr": "تہذیب عربی شرح جلالین مقدمہ",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0248/%D8%AA%DA%BE%D8%B0%DB%8C%D8%A8%20%D8%AA%D9%81%D8%B3%DB%8C%D8%B1%20%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%D9%85%D9%82%D8%AF%D9%85%DB%81.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "item-mw2acb1k223",
+          "titleUr": "تہذیب عربی شرح جلالین",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0248/%D8%AA%DB%81%D8%B2%DB%8C%D8%A8%20%D8%B9%D8%B1%D8%A8%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "item-mw2akr5d238",
+      "type": "book",
+      "titleUr": "اعراب المفصل عربی شرح جلالین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%201.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 6025309,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw2afbvw226",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%201.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw2afgbg227",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%202.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw2aflo6228",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%203.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw2afqrg229",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%204.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw2afvrv230",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%205.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw2ag0z8231",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%206.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw2ag64e232",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%207.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw2agcuu233",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%208.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw2agia9234",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%209.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mw2agody235",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد 10",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%2010.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        },
+        {
+          "id": "11-mw2ah34s236",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد 11",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%2011.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 10
+        },
+        {
+          "id": "12-mw2ah8cp237",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد 12",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%2012.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 11
+        }
+      ]
+    },
+    {
+      "id": "item-mw2art68248",
+      "type": "book",
+      "titleUr": "اعراب القرآن وبیانہ",
+      "titleEn": "",
+      "authorUr": "محی الدین درویش",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/5_20200604_20200604_0241/%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D9%88%D8%A8%D9%8A%D8%A7%D9%86%D9%871.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 503978,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw2aobe7239",
+          "titleUr": "اعراب القرآن وبیانہ جلد1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/5_20200604_20200604_0241/%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D9%88%D8%A8%D9%8A%D8%A7%D9%86%D9%872.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw2aofcr240",
+          "titleUr": "اعراب القرآن وبیانہ جلد2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/5_20200604_20200604_0241/%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D9%88%D8%A8%D9%8A%D8%A7%D9%86%D9%873.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw2aoka1241",
+          "titleUr": "اعراب القرآن وبیانہ جلد3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/5_20200604_20200604_0241/%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D9%88%D8%A8%D9%8A%D8%A7%D9%86%D9%874.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw2aoojx242",
+          "titleUr": "اعراب القرآن وبیانہ جلد4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/5_20200604_20200604_0241/%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D9%88%D8%A8%D9%8A%D8%A7%D9%86%D9%875.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw2aot66243",
+          "titleUr": "اعراب القرآن وبیانہ جلد5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/5_20200604_20200604_0241/%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D9%88%D8%A8%D9%8A%D8%A7%D9%86%D9%876.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw2aoyjx244",
+          "titleUr": "اعراب القرآن وبیانہ جلد6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/5_20200604_20200604_0241/%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D9%88%D8%A8%D9%8A%D8%A7%D9%86%D9%877.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw2ap3sd245",
+          "titleUr": "اعراب القرآن وبیانہ جلد7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/5_20200604_20200604_0241/%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D9%88%D8%A8%D9%8A%D8%A7%D9%86%D9%878.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw2ap88d246",
+          "titleUr": "اعراب القرآن وبیانہ جلد8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/5_20200604_20200604_0241/%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D9%88%D8%A8%D9%8A%D8%A7%D9%86%D9%879.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw2apdzf247",
+          "titleUr": "اعراب القرآن وبیانہ جلد9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/5_20200604_20200604_0241/%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D9%88%D8%A8%D9%8A%D8%A7%D9%86%D9%87%20%2010.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        }
+      ]
+    },
+    {
+      "id": "item-mw2avm3d256",
+      "type": "book",
+      "titleUr": "حاشیہ صاوی عربی شرح جلالین ملون",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://drive.google.com/file/d/1oeAQDN0biowBXS8tuA4NzHUQX6H5_0NO/view?usp=drivesdk",
+      "coverUrl": "",
+      "fileSizeBytes": 26507364,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw2at1bd249",
+          "titleUr": "حاشیہ صاوی عربی شرح جلالین ملون جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1oeAQDN0biowBXS8tuA4NzHUQX6H5_0NO/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw2at5qs250",
+          "titleUr": "حاشیہ صاوی عربی شرح جلالین ملون جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1LwsDhd9y9zE3HsLpMfm23qCxSE30JBgg/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw2atazu251",
+          "titleUr": "حاشیہ صاوی عربی شرح جلالین ملون جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1KbgVwEpPrQOBnOSY-0oMZPm-0x4SEQey/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw2atfvf252",
+          "titleUr": "حاشیہ صاوی عربی شرح جلالین ملون جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1kSvUOBqUtSrCAC5plRq1tpU1sBRp6JKu/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw2atkbq253",
+          "titleUr": "حاشیہ صاوی عربی شرح جلالین ملون جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1ZohZtBucHe5nWWqBURccuPnjo3qn_KiC/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw2atple254",
+          "titleUr": "حاشیہ صاوی عربی شرح جلالین ملون جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/11qi4snAYChtmm2kSYqmjHlnecSSJP-jj/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw2atubx255",
+          "titleUr": "حاشیہ صاوی عربی شرح جلالین ملون جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1VREiQl8tUchG56gJTOWpvIRHaf1Q-hxT/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        }
+      ]
     }
   ],
   "isDemo": false
