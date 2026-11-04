@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 159,
-  "updatedAt": "2026-11-04T06:30:37.960857Z",
+  "catalogVersion": 160,
+  "updatedAt": "2026-11-04T06:47:22.352220Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -9271,7 +9271,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "boys"
+      "audience": "all"
     },
     {
       "id": "item-mw1qcrl161",
@@ -9290,7 +9290,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "boys"
+      "audience": "all"
     },
     {
       "id": "item-mw1qdqup62",
@@ -9481,6 +9481,316 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "all"
+    },
+    {
+      "id": "item-mw1qrpic0",
+      "type": "book",
+      "titleUr": "ریاض الصالحین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "mantiq",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20200605_20200605_0130/%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%86.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj8q_DAbOJe6koz-oDTCXuhcc4MoiEgV8ZVMFXzs0rItbjJCMfskSk5sdNlPgihJo5BBmMKLiZD5OeLj5D5R3L1S0q2PUwSI9wJ3QVwt4j5-Z6iVm5Uex-MNDGC_LdkFLi4ka6KwVMZKdZ9PVd6HJpZYwbvJKY5oHo0Lk8o9wDnZSb121ortkzR3S5p2g=s695",
+      "fileSizeBytes": 14627204,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls"
+    },
+    {
+      "id": "item-mw1qsenj1",
+      "type": "book",
+      "titleUr": "ریاض الصالحین بیروت",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "mantiq",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20200605_20200605_0130/%D8%B1%D9%8A%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%D9%8A%D9%86%20%D8%AF%D8%A7%D8%B1%20%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%A7%D8%AC%20.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiG_7OwY0ZZ0i0LYQ6sQcQ5O1mrtAYmzdaIZiJc4ST0jM_ANrAe0bNQ6xeGtkVGAEQ6ZXcj8ZW1dMhn0DbG1BCdyV1NJUhb54EZmFuoyyuoss5HSgNPbw0AZLhjVEndrz_LtmvrYtWnl_byloru6SOYJOp42i4fodOE-at746tBxi9kjP9JLssZRsFQxw=s710",
+      "fileSizeBytes": 20961531,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls"
+    },
+    {
+      "id": "item-mw1qtb712",
+      "type": "book",
+      "titleUr": "ریاض الصالحین مکتبۃ البشریٰ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "mantiq",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/RiazusSalihin/Riazus%20Salihin%20%28AlBushra%29%20By%20Imam%20Navavi.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgvRoWfHh24Zg2nbdL5LuqZD3s6S5cfNtXqPC7oovP3gqwUDzqrp6iRNAhQf2MMSWGf4z6V5Gc3BKtZzLGl8vxgPskUPduv01PzTzzN--zEhlpB2DHPqvSq2O1JWDDEgTNacAWxfZUht9_iKdMr1abVHKvHGu6m2P7JoIt5gmvDsB13s7SJI37WtxzDZg=s721",
+      "fileSizeBytes": 16652147,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls"
+    },
+    {
+      "id": "item-mw1que6s3",
+      "type": "book",
+      "titleUr": "مترجم ریاض الصالحین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "mantiq",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/3_20200605_202006/%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%86.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiCFhoX-FEH4UoRSrVqbj0_DMpjX2DHHaFK64W43RlRYVahAzYleBIiWewd73EoL1RDnnhd7D7S9WDxGQuS-XLOHFA7wxOgebFFhzJ2fYYf_21fFWtbRtdGd97C-BH1-dpCJiSykhnQItHZZluj1ICeSebZVxgbr54olAWn9QNaDag1bR4Qs5peVRlyYw=s631",
+      "fileSizeBytes": 29255755,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls"
+    },
+    {
+      "id": "item-mw1qw64g6",
+      "type": "book",
+      "titleUr": "شرح ریاض الصالحین جہانگیری",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "mantiq",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgglD0JlENtl0_TTNSIzKv0etybf22jICJzM4H5nqlixkTjDqDJw7oB8lnvQDTGdcvDo-e6UcyxvVOTkqKbXCjJc1dfi4NBScsgF1s3WR00tS4ShHRCUMQR3wLjj0F_QfBjwwwaf6g9EBlc76YwJmLvgTsd8sCFW_JQCzLTmtrLQTMBpuL-wU1dltKc7w=s707",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls",
+      "volumes": [
+        {
+          "id": "1-mw1qvluw4",
+          "titleUr": "شرح ریاض الصالحین جہانگیری جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2_20200605_20200605/%D8%AC%DB%81%D8%A7%D9%86%DA%AF%DB%8C%D8%B1%DB%8C%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%86%20%281%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw1qvyfz5",
+          "titleUr": "شرح ریاض الصالحین جہانگیری جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2_20200605_20200605/%D8%AC%DB%81%D8%A7%D9%86%DA%AF%DB%8C%D8%B1%DB%8C%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%86%20%282%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "item-mw1qyybc11",
+      "type": "book",
+      "titleUr": "رفیق السالکین شرح ریاض الصالحین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "mantiq",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjok_WkBySnuteQwF6uSgXn-E3kztK6uIBPZlcyN2HMUUIqNxgvXcqgPTifojtR26Uy0lTK1_yAW-pXsxG1tuBKNeL5_Ue2eQBmDRx3oPhSTtBY2fd93RlQsTiAQLcpvBKBW_7FEHd40vOP7ZaVI_YmcVT53vhiAj-RXtsvRhRpsekr4oMcnFajHJTcng",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls",
+      "volumes": [
+        {
+          "id": "1-mw1qx7ur7",
+          "titleUr": "رفیق السالکین شرح ریاض الصالحین جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200605_20200605_0137/%D8%B1%D9%81%DB%8C%D9%82%20%D8%A7%D9%84%D8%B3%D8%A7%D9%84%DA%A9%DB%8C%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%861.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw1qxeqw8",
+          "titleUr": "رفیق السالکین شرح ریاض الصالحین جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200605_20200605_0137/%D8%B1%D9%81%DB%8C%D9%82%20%D8%A7%D9%84%D8%B3%D8%A7%D9%84%DA%A9%DB%8C%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%86%20%D8%AC%D9%84%D8%AF%202.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw1qxkkr9",
+          "titleUr": "رفیق السالکین شرح ریاض الصالحین جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200605_20200605_0137/%D8%B1%D9%81%DB%8C%D9%82%20%D8%A7%D9%84%D8%B3%D8%A7%D9%84%DA%A9%DB%8C%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%86%20%D8%AC%D9%84%D8%AF%203.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw1qxpzs10",
+          "titleUr": "رفیق السالکین شرح ریاض الصالحین جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200605_20200605_0137/%D8%B1%D9%81%DB%8C%D9%82%20%D8%A7%D9%84%D8%B3%D8%A7%D9%84%DA%A9%DB%8C%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%86%20%D8%AC%D9%84%D8%AF%204.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        }
+      ]
+    },
+    {
+      "id": "item-mw1r1ona16",
+      "type": "book",
+      "titleUr": "فیضان ریاض الصالحین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "mantiq",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEicAoxhdgvUPgz4hcPYZFKC0GyIWmdMTVx0rn23hlm7Y6QLe2ROnvApB1HhvsGaSL22WNHmA4-sqNYAFPVRKvmER6ZJHARSTUXQ5VXPQFPn2L_AuS5z0pCs34WbXuT7YEuVoGU7-FaGSN9cwm9wXV59OlPHRoXSqm0tSzS1TO0xFz1dpCzqNxvKhyV7mg=s694",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls",
+      "volumes": [
+        {
+          "id": "1-mw1qzu6812",
+          "titleUr": "فیضان ریاض الصالحین جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200605_202006/%D9%81%DB%8C%D8%B6%D8%A7%D9%86%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%861.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw1qzz0m13",
+          "titleUr": "فیضان ریاض الصالحین جلد  2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200605_202006/%D9%81%DB%8C%D8%B6%D8%A7%D9%86%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%862.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw1r04aq14",
+          "titleUr": "فیضان ریاض الصالحین جلد  3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200605_202006/%D9%81%DB%8C%D8%B6%D8%A7%D9%86%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%863.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw1r096515",
+          "titleUr": "فیضان ریاض الصالحین جلد  4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200605_202006/%D9%81%DB%8C%D8%B6%D8%A7%D9%86%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%864.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        }
+      ]
+    },
+    {
+      "id": "item-mw1r41rb21",
+      "type": "book",
+      "titleUr": "ریاض الصالحین ناصر الدین مدنی",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "mantiq",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiAQiysxXGlKcguNVpvg8KoCyCvthtYwaEWb0HnOaX9v8iG8_1y5_UFIZOOwvmdWxMz4qf58Uwb6sPzXnp1itzb4vm080A01hKYfyZuPjATxDQcWo4_l7o8YHwsfRr5hSRzd0r8Z2VMlillXoUdT2BOgZyjA1qTcIJ8SQQjYMBlrKjxjp_pA5xhXmQUQA=s635",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls",
+      "volumes": [
+        {
+          "id": "1-mw1r35dm17",
+          "titleUr": "ریاض الصالحین ناصر الدین مدنی  جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200605_20200605/%D8%B4%D8%B1%D8%AD%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%86%20%D9%86%D8%A7%D8%B5%D8%B1%20%D9%85%D8%AF%D9%86%DB%8C%20%281%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw1r39rv18",
+          "titleUr": "ریاض الصالحین ناصر الدین مدنی  جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200605_20200605/%D8%B4%D8%B1%D8%AD%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%86%20%D9%86%D8%A7%D8%B5%D8%B1%20%D9%85%D8%AF%D9%86%DB%8C%20%282%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw1r3el719",
+          "titleUr": "ریاض الصالحین ناصر الدین مدنی  جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200605_20200605/%D8%B4%D8%B1%D8%AD%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%86%20%D9%86%D8%A7%D8%B5%D8%B1%20%D9%85%D8%AF%D9%86%DB%8C%20%283%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw1r3jj020",
+          "titleUr": "ریاض الصالحین ناصر الدین مدنی  جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200605_20200605/%D8%B4%D8%B1%D8%AD%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%86%20%D9%86%D8%A7%D8%B5%D8%B1%20%D9%85%D8%AF%D9%86%DB%8C%20%284%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        }
+      ]
+    },
+    {
+      "id": "item-mw1r6fgi22",
+      "type": "book",
+      "titleUr": "تعلیم الصرف",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "mantiq",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20230517_20230517_0136/%D8%AA%D8%B9%D9%84%DB%8C%D9%85%20%D8%A7%D9%84%D8%B5%D8%B1%D9%81.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkM7CdsAiHNULAgMCbRzLcETvVYcibajHBfJMbUP40TsidnTBoHb3zZWPw0t8T-2RgkMFr2MlEbtq3WhK-6FPg8PKxRyCDzVgk9tlFRvGoM-BQXuQCxkPg8Gi_3eAYq0_lozyDBCsssHk/s1600/20190501_214439.jpg",
+      "fileSizeBytes": 4509704,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls"
+    },
+    {
+      "id": "item-mw1r6gtr23",
+      "type": "book",
+      "titleUr": "نعیم التحریر",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "mantiq",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20230517_20230517_0136/%D9%86%D8%B9%DB%8C%D9%85%20%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1%20.pdf",
+      "coverUrl": "https://imgv2-2-f.scribdassets.com/img/document/828584139/original/9b85d84e3f/1?v=1",
+      "fileSizeBytes": 7285111,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls"
     }
   ],
   "isDemo": false
