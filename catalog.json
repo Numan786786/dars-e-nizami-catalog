@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 153,
-  "updatedAt": "2026-11-04T04:34:00.805839Z",
+  "catalogVersion": 154,
+  "updatedAt": "2026-11-04T04:53:13.966920Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -8221,7 +8221,7 @@
       "categoryId": "mantiq",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/IMDAD%20UL%20FATTAH%20ARABIC%20SHAR%20NOOR%20UL%20IZAH.pdf",
-      "coverUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2023/03/IMDAD_UL_FATTAH.jpg",
       "fileSizeBytes": 18856614,
       "tags": [],
       "sortOrder": 0,
@@ -8240,7 +8240,7 @@
       "categoryId": "mantiq",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/besturdubooks2/Maraqil-Falah.pdf",
-      "coverUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2023/03/Maraqi_al_Falah.jpg",
       "fileSizeBytes": 4665968,
       "tags": [],
       "sortOrder": 0,
@@ -8278,7 +8278,7 @@
       "categoryId": "mantiq",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/besturdubooks2/Hashia-Al-Tahtawi.pdf",
-      "coverUrl": "",
+      "coverUrl": "https://besturdubooks.wordpress.com/wp-content/uploads/2013/09/hashia-al-tahtawi.jpg?resize=186%2C300",
       "fileSizeBytes": 12911210,
       "tags": [],
       "sortOrder": 0,
