@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 164,
-  "updatedAt": "2026-11-04T08:33:30.451891Z",
+  "catalogVersion": 165,
+  "updatedAt": "2026-11-04T08:37:38.059441Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -10175,7 +10175,7 @@
       "volumes": [
         {
           "id": "1-mw1uw1fs12",
-          "titleUr": "الفوائد المترعہ عربی شرح ریاض الصالحین جلد 1",
+          "titleUr": "الفوائد المترعہ عربی شرح ریاض الصالحین مقدمہ",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/4_20200605_202006/%D8%A7%D9%84%D9%81%D9%88%D8%A7%D8%A6%D8%AF%20%D8%A7%D9%84%D9%85%D8%AA%D8%B1%D8%B9%DB%81%20%D8%B4%D8%B1%D8%AD%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%86%20%281%29.pdf",
           "fileSizeBytes": null,
@@ -10183,7 +10183,7 @@
         },
         {
           "id": "2-mw1uwh8m13",
-          "titleUr": "الفوائد المترعہ عربی شرح ریاض الصالحین جلد 2",
+          "titleUr": "الفوائد المترعہ عربی شرح ریاض الصالحین جلد 1",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/4_20200605_202006/%D8%A7%D9%84%D9%81%D9%88%D8%A7%D8%A6%D8%AF%20%D8%A7%D9%84%D9%85%D8%AA%D8%B1%D8%B9%DB%81%20%D8%B4%D8%B1%D8%AD%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%86%20%282%29.pdf",
           "fileSizeBytes": null,
@@ -10191,7 +10191,7 @@
         },
         {
           "id": "3-mw1uwn1314",
-          "titleUr": "الفوائد المترعہ عربی شرح ریاض الصالحین جلد 3",
+          "titleUr": "الفوائد المترعہ عربی شرح ریاض الصالحین جلد 2",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/4_20200605_202006/%D8%A7%D9%84%D9%81%D9%88%D8%A7%D8%A6%D8%AF%20%D8%A7%D9%84%D9%85%D8%AA%D8%B1%D8%B9%DB%81%20%D8%B4%D8%B1%D8%AD%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%86%20%283%29.pdf",
           "fileSizeBytes": null,
@@ -10199,7 +10199,7 @@
         },
         {
           "id": "4-mw1uwtbd15",
-          "titleUr": "الفوائد المترعہ عربی شرح ریاض الصالحین جلد 4",
+          "titleUr": "الفوائد المترعہ عربی شرح ریاض الصالحین جلد 3",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/4_20200605_202006/%D8%A7%D9%84%D9%81%D9%88%D8%A7%D8%A6%D8%AF%20%D8%A7%D9%84%D9%85%D8%AA%D8%B1%D8%B9%DB%81%20%D8%B4%D8%B1%D8%AD%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%86%20%284%29.pdf",
           "fileSizeBytes": null,
@@ -10207,7 +10207,7 @@
         },
         {
           "id": "5-mw1uwz1o16",
-          "titleUr": "الفوائد المترعہ عربی شرح ریاض الصالحین جلد 5",
+          "titleUr": "الفوائد المترعہ عربی شرح ریاض الصالحین جلد 4",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/4_20200605_202006/%D8%A7%D9%84%D9%81%D9%88%D8%A7%D8%A6%D8%AF%20%D8%A7%D9%84%D9%85%D8%AA%D8%B1%D8%B9%DB%81%20%D8%B4%D8%B1%D8%AD%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%86%20%285%29.pdf",
           "fileSizeBytes": null,
@@ -10215,7 +10215,7 @@
         },
         {
           "id": "6-mw1ux4ef17",
-          "titleUr": "الفوائد المترعہ عربی شرح ریاض الصالحین جلد 6",
+          "titleUr": "الفوائد المترعہ عربی شرح ریاض الصالحین جلد 5",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/4_20200605_202006/%D8%A7%D9%84%D9%81%D9%88%D8%A7%D8%A6%D8%AF%20%D8%A7%D9%84%D9%85%D8%AA%D8%B1%D8%B9%DB%81%20%D8%B4%D8%B1%D8%AD%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%86%20%286%29.pdf",
           "fileSizeBytes": null,
@@ -10223,7 +10223,7 @@
         },
         {
           "id": "7-mw1uxaq718",
-          "titleUr": "الفوائد المترعہ عربی شرح ریاض الصالحین جلد 7",
+          "titleUr": "الفوائد المترعہ عربی شرح ریاض الصالحین جلد 6",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/4_20200605_202006/%D8%A7%D9%84%D9%81%D9%88%D8%A7%D8%A6%D8%AF%20%D8%A7%D9%84%D9%85%D8%AA%D8%B1%D8%B9%DB%81%20%D8%B4%D8%B1%D8%AD%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%86%20%287%29.pdf",
           "fileSizeBytes": null,
@@ -10231,7 +10231,7 @@
         },
         {
           "id": "8-mw1uxg4o19",
-          "titleUr": "الفوائد المترعہ عربی شرح ریاض الصالحین جلد 8",
+          "titleUr": "الفوائد المترعہ عربی شرح ریاض الصالحین جلد 7",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/4_20200605_202006/%D8%A7%D9%84%D9%81%D9%88%D8%A7%D8%A6%D8%AF%20%D8%A7%D9%84%D9%85%D8%AA%D8%B1%D8%B9%DB%81%20%D8%B4%D8%B1%D8%AD%20%D8%B1%DB%8C%D8%A7%D8%B6%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%86%20%288%29.pdf",
           "fileSizeBytes": null,
