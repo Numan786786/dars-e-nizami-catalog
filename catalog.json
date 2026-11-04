@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 179,
-  "updatedAt": "2026-11-04T16:11:27.996708Z",
+  "catalogVersion": 180,
+  "updatedAt": "2026-11-04T16:14:42.976040Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -14344,6 +14344,67 @@
           "pdfUrl": "https://archive.org/download/3_20200604_20200604_0251/%D9%85%D8%B5%D8%A8%D8%A7%D8%AD%DB%8C%D9%86%20%D8%A7%D8%B1%D8%AF%D9%88%20%D8%B4%D8%B1%D8%AD%20%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%287%29.pdf",
           "fileSizeBytes": null,
           "sortOrder": 6
+        }
+      ]
+    },
+    {
+      "id": "item-mw2bhix8289",
+      "type": "book",
+      "titleUr": "عطائین اردو شرح تفسیر جلالین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/5_20200604_20200604_0250/%D8%B9%D8%B7%D8%A7%D8%A6%DB%8C%D9%86%20%D8%A7%D8%B1%D8%AF%D9%88%20%D8%B4%D8%B1%D8%AD%20%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%201.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 40089687,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw2bfk3u284",
+          "titleUr": "عطائین اردو شرح تفسیر جلالین جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/5_20200604_20200604_0250/%D8%B9%D8%B7%D8%A7%D8%A6%DB%8C%D9%86%20%D8%A7%D8%B1%D8%AF%D9%88%20%D8%B4%D8%B1%D8%AD%20%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%201.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw2bfpwu285",
+          "titleUr": "عطائین اردو شرح تفسیر جلالین جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/5_20200604_20200604_0250/%D8%B9%D8%B7%D8%A7%D8%A6%DB%8C%D9%86%20%D8%A7%D8%B1%D8%AF%D9%88%20%D8%B4%D8%B1%D8%AD%20%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%202.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw2bfv68286",
+          "titleUr": "عطائین اردو شرح تفسیر جلالین جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/5_20200604_20200604_0250/%D8%B9%D8%B7%D8%A7%D8%A6%DB%8C%D9%86%20%D8%A7%D8%B1%D8%AF%D9%88%20%D8%B4%D8%B1%D8%AD%20%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%203.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw2bg0dx287",
+          "titleUr": "عطائین اردو شرح تفسیر جلالین جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/5_20200604_20200604_0250/%D8%B9%D8%B7%D8%A7%D8%A6%DB%8C%D9%86%20%D8%A7%D8%B1%D8%AF%D9%88%D8%B4%D8%B1%D8%AD%20%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%D8%AC%D9%84%D8%AF4.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw2bg5fz288",
+          "titleUr": "عطائین اردو شرح تفسیر جلالین جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/5_20200604_20200604_0250/%D8%B9%D8%B7%D8%A7%D8%A6%DB%8C%D9%86%20%D8%A7%D8%B1%D8%AF%D9%88%D8%B4%D8%B1%D8%AD%20%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%D8%AC%D9%84%D8%AF5.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
         }
       ]
     }
