@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 188,
-  "updatedAt": "2026-11-04T18:35:44.342285Z",
+  "catalogVersion": 189,
+  "updatedAt": "2026-11-04T18:39:57.592938Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -14578,25 +14578,6 @@
       "pdfUrl": "https://archive.org/download/AlSadisah6thYear1/MusnadUlImamIlAazamAlBushra.pdf",
       "coverUrl": "https://besturdubooks.net/wp-content/uploads/2021/12/Musnad_Ul_Imam_Azam_Al_Bushra.jpg",
       "fileSizeBytes": 17314536,
-      "tags": [],
-      "sortOrder": 0,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "boys"
-    },
-    {
-      "id": "item-mw2bs5z0294",
-      "type": "book",
-      "titleUr": "مسند امام اعظم",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "tafsir",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/Jalalain-MusnadImamAazam/MUSNAD%20UL%20IMAM%20IL%20AAZAM-%20QADEMI.pdf",
-      "coverUrl": "https://besturdubooks.net/musnad-imam-azam-qadeemi",
-      "fileSizeBytes": 17593528,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
