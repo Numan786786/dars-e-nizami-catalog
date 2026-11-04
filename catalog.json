@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 187,
-  "updatedAt": "2026-11-04T18:31:08.178414Z",
+  "catalogVersion": 188,
+  "updatedAt": "2026-11-04T18:35:44.342285Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -14576,7 +14576,7 @@
       "categoryId": "tafsir",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/AlSadisah6thYear1/MusnadUlImamIlAazamAlBushra.pdf",
-      "coverUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2021/12/Musnad_Ul_Imam_Azam_Al_Bushra.jpg",
       "fileSizeBytes": 17314536,
       "tags": [],
       "sortOrder": 0,
@@ -14633,7 +14633,7 @@
       "categoryId": "tafsir",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/besturdubooks3/Musnad-Abi-Hanifa.pdf",
-      "coverUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2021/12/Sharh-Musnad-Imam-Azam-Mulla-Ali-Qari.jpg",
       "fileSizeBytes": 5426521,
       "tags": [],
       "sortOrder": 0,
