@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 177,
-  "updatedAt": "2026-11-04T15:57:42.668006Z",
+  "catalogVersion": 178,
+  "updatedAt": "2026-11-04T16:06:45.058124Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -13791,6 +13791,417 @@
       "authorEn": "",
       "description": "",
       "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://drive.google.com/file/d/1oeAQDN0biowBXS8tuA4NzHUQX6H5_0NO/view?usp=drivesdk",
+      "coverUrl": "",
+      "fileSizeBytes": 26507364,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw2at1bd249",
+          "titleUr": "حاشیہ صاوی عربی شرح جلالین ملون جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1oeAQDN0biowBXS8tuA4NzHUQX6H5_0NO/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw2at5qs250",
+          "titleUr": "حاشیہ صاوی عربی شرح جلالین ملون جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1LwsDhd9y9zE3HsLpMfm23qCxSE30JBgg/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw2atazu251",
+          "titleUr": "حاشیہ صاوی عربی شرح جلالین ملون جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1KbgVwEpPrQOBnOSY-0oMZPm-0x4SEQey/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw2atfvf252",
+          "titleUr": "حاشیہ صاوی عربی شرح جلالین ملون جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1kSvUOBqUtSrCAC5plRq1tpU1sBRp6JKu/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw2atkbq253",
+          "titleUr": "حاشیہ صاوی عربی شرح جلالین ملون جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1ZohZtBucHe5nWWqBURccuPnjo3qn_KiC/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw2atple254",
+          "titleUr": "حاشیہ صاوی عربی شرح جلالین ملون جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/11qi4snAYChtmm2kSYqmjHlnecSSJP-jj/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw2atubx255",
+          "titleUr": "حاشیہ صاوی عربی شرح جلالین ملون جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1VREiQl8tUchG56gJTOWpvIRHaf1Q-hxT/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        }
+      ]
+    },
+    {
+      "id": "item-mw2ayigh257",
+      "type": "book",
+      "titleUr": "تفسیر جلالین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20260201_20260201_0019/%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%D8%B4%D8%B1%DB%8C%D9%81%20%D8%A7%D9%88%D9%84.pdf",
+      "coverUrl": "https://ia600603.us.archive.org/BookReader/BookReaderImages.php?zip=/25/items/20260201_20260201_0019/%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%D8%B4%D8%B1%DB%8C%D9%81%20%D8%A7%D9%88%D9%84_jp2.zip&file=%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%D8%B4%D8%B1%DB%8C%D9%81%20%D8%A7%D9%88%D9%84_jp2/%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%D8%B4%D8%B1%DB%8C%D9%81%20%D8%A7%D9%88%D9%84_0000.jp2&id=20260201_20260201_0019&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mvgu7xb93",
+          "titleUr": "تفسیر جلالین مکتبۃ البشریٰ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20260201_20260201_0019/%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%D8%B4%D8%B1%DB%8C%D9%81%20%D8%A7%D9%88%D9%84.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mvgu8qfy4",
+          "titleUr": "تفسیر جلالین مکتبۃ البشریٰ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20260201_20260201/%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%D8%B4%D8%B1%DB%8C%D9%81%20%D8%AF%D9%88%D9%85.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "item-mw2aykqr258",
+      "type": "book",
+      "titleUr": "تفسیر جلالین مکتبہ رحمانیہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/LJALALAIN-MUSNADEIMAMAAZAM/TAFSEER%20UL%20JALALAIN-%20RAHMANIA.pdf",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2021/11/Al-Jalalain-Maktaba-Rahmania.jpg",
+      "fileSizeBytes": 53809773,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw2aymhg259",
+      "type": "book",
+      "titleUr": "تفسیر جلالین قدیمی کتب خانہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/Jalalain-MusnadImamAazam/TAFSEER%20UL%20JALALAIN-%20QADEMI.pdf",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2021/11/Tafseer-Al-Jalalain-Qadeemi.jpg",
+      "fileSizeBytes": 59746801,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw2ayoct260",
+      "type": "book",
+      "titleUr": "المفضل عربی شرح تفسیر جلالین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/besturdubooks3/Al-Mufassal-Jalalain---www.besturdubooks.wordpress.com.pdf",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2021/11/Al-Mufassal-Ala-Tafseer-e-Jalalain.jpg",
+      "fileSizeBytes": 65607551,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw2aypsr261",
+      "type": "book",
+      "titleUr": "حاشیۃ الجمل عربی شرح جلالین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia903208.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/1_20200604_20200604_0244/%D8%AD%D8%A7%D8%B4%DB%8C%DB%81%20%D8%AC%D9%85%D9%84%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%281%29_jp2.zip&file=%D8%AD%D8%A7%D8%B4%DB%8C%DB%81%20%D8%AC%D9%85%D9%84%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%281%29_jp2/%D8%AD%D8%A7%D8%B4%DB%8C%DB%81%20%D8%AC%D9%85%D9%84%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%281%29_0000.jp2&id=1_20200604_20200604_0244&scale=8&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw29djrk207",
+          "titleUr": "حاشیۃ الجمل عربی شرح جلالین جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0244/%D8%AD%D8%A7%D8%B4%DB%8C%DB%81%20%D8%AC%D9%85%D9%84%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%281%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw29dol3208",
+          "titleUr": "حاشیۃ الجمل عربی شرح جلالین جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0244/%D8%AD%D8%A7%D8%B4%DB%8C%DB%81%20%D8%AC%D9%85%D9%84%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%282%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw29dt70209",
+          "titleUr": "حاشیۃ الجمل عربی شرح جلالین جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0244/%D8%AD%D8%A7%D8%B4%DB%8C%DB%81%20%D8%AC%D9%85%D9%84%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%283%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw29dy1i210",
+          "titleUr": "حاشیۃ الجمل عربی شرح جلالین جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0244/%D8%AD%D8%A7%D8%B4%DB%8C%DB%81%20%D8%AC%D9%85%D9%84%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%284%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw29e2j6211",
+          "titleUr": "حاشیۃ الجمل عربی شرح جلالین جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0244/%D8%AD%D8%A7%D8%B4%DB%8C%DB%81%20%D8%AC%D9%85%D9%84%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%285%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw29e77l212",
+          "titleUr": "حاشیۃ الجمل عربی شرح جلالین جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0244/%D8%AD%D8%A7%D8%B4%DB%8C%DB%81%20%D8%AC%D9%85%D9%84%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%286%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw29eewm213",
+          "titleUr": "حاشیۃ الجمل عربی شرح جلالین جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0244/%D8%AD%D8%A7%D8%B4%DB%8C%DB%81%20%D8%AC%D9%85%D9%84%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%287%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw29ejo7214",
+          "titleUr": "حاشیۃ الجمل عربی شرح جلالین جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0244/%D8%AD%D8%A7%D8%B4%DB%8C%DB%81%20%D8%AC%D9%85%D9%84%20%D8%B9%D9%84%DB%8C%20%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%288%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        }
+      ]
+    },
+    {
+      "id": "item-mw2ayswh263",
+      "type": "book",
+      "titleUr": "قرۃ العینین عربی شرح جلالین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20250916_20250916_1446/%D9%82%D8%B1%D8%A9%D8%A7%D9%84%D8%B9%DB%8C%D9%86%DB%8C%D9%86%20%D8%B9%D9%84%DB%8C%20%20%D8%AA%D9%81%D8%B3%DB%8C%D8%B1%20%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86%20%DB%94%20%D8%AC%D9%84%D8%A7%D9%84%20%D8%A7%D9%84%D8%AF%DB%8C%D9%86%20%D8%B3%DB%8C%D9%88%D8%B7%DB%8C%20%DB%94%20%D9%82%D8%A7%D8%B6%DB%8C%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D8%AD%D9%85%D8%AF%20%DB%94%20%D8%B4%D8%B1%D8%AD%20%D8%B9%D8%B1%D8%A8%DB%8C%20%DB%94%D8%AD%D9%82%20.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 50395378,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw2ayxvf266",
+      "type": "book",
+      "titleUr": "کمالین عربی شرح جلالین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/1_20200604_20200604_0248/%DA%A9%D9%85%D8%A7%D9%84%DB%8C%D9%86%20%D8%B9%D8%B1%D8%A8%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 30267570,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw2az0co267",
+      "type": "book",
+      "titleUr": "اعراب المفصل عربی شرح جلالین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%201.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 6025309,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw2afbvw226",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%201.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw2afgbg227",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%202.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw2aflo6228",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%203.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw2afqrg229",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%204.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw2afvrv230",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%205.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw2ag0z8231",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%206.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw2ag64e232",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%207.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw2agcuu233",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%208.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw2agia9234",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%209.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mw2agody235",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد 10",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%2010.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        },
+        {
+          "id": "11-mw2ah34s236",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد 11",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%2011.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 10
+        },
+        {
+          "id": "12-mw2ah8cp237",
+          "titleUr": "اعراب المفصل عربی شرح جلالین جلد 12",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%2012.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 11
+        }
+      ]
+    },
+    {
+      "id": "item-mw2az1x3268",
+      "type": "book",
+      "titleUr": "حاشیہ صاوی عربی شرح جلالین ملون",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
       "language": "ur",
       "pdfUrl": "https://drive.google.com/file/d/1oeAQDN0biowBXS8tuA4NzHUQX6H5_0NO/view?usp=drivesdk",
       "coverUrl": "",
