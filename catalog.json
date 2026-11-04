@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 185,
-  "updatedAt": "2026-11-04T17:51:22.380704Z",
+  "catalogVersion": 186,
+  "updatedAt": "2026-11-04T18:23:36.076129Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -15390,6 +15390,533 @@
           "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%2812%29.pdf",
           "fileSizeBytes": null,
           "sortOrder": 11
+        }
+      ]
+    },
+    {
+      "id": "item-mw2f7jk17",
+      "type": "book",
+      "titleUr": "المواہب اللطیفہ عربی شرح مسند امام اعظم",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWZ9b1ewKPs8P3j3FxI8Vo3tQkGRobx6xt4cXSxXok_VuA0PIIKaBgA1qPFdQzOrrfADWle9hJjNas-II3I9giuUYJ2vVVsRmHl47octD2ymzO_zeIuLTVY2CU5SPDATAB2fcYzvk2nLJ-ugGjnXdVb4KZz74VTiTarLAsmGlbKD_PImJPNhoFKv0BDQ/s1429/PRO537b208cba523.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw2f4mlo0",
+          "titleUr": "المواہب اللطیفہ عربی شرح مسند امام اعظم جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200605_202006/%D9%85%D9%88%D8%A7%DB%81%D8%A8%20%D8%A7%D9%84%D9%84%D8%B7%DB%8C%D9%81%DB%81%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B3%D9%86%D8%AF%20%D8%A7%D9%85%D8%A7%D9%85%20%D8%A7%D8%B9%D8%B8%D9%85%20%281%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw2f4z0u1",
+          "titleUr": "المواہب اللطیفہ عربی شرح مسند امام اعظم جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200605_202006/%D9%85%D9%88%D8%A7%DB%81%D8%A8%20%D8%A7%D9%84%D9%84%D8%B7%DB%8C%D9%81%DB%81%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B3%D9%86%D8%AF%20%D8%A7%D9%85%D8%A7%D9%85%20%D8%A7%D8%B9%D8%B8%D9%85%20%282%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw2f57un2",
+          "titleUr": "المواہب اللطیفہ عربی شرح مسند امام اعظم جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200605_202006/%D9%85%D9%88%D8%A7%DB%81%D8%A8%20%D8%A7%D9%84%D9%84%D8%B7%DB%8C%D9%81%DB%81%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B3%D9%86%D8%AF%20%D8%A7%D9%85%D8%A7%D9%85%20%D8%A7%D8%B9%D8%B8%D9%85%20%283%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw2f5d0w3",
+          "titleUr": "المواہب اللطیفہ عربی شرح مسند امام اعظم جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200605_202006/%D9%85%D9%88%D8%A7%DB%81%D8%A8%20%D8%A7%D9%84%D9%84%D8%B7%DB%8C%D9%81%DB%81%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B3%D9%86%D8%AF%20%D8%A7%D9%85%D8%A7%D9%85%20%D8%A7%D8%B9%D8%B8%D9%85%20%284%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw2f5ixl4",
+          "titleUr": "المواہب اللطیفہ عربی شرح مسند امام اعظم جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200605_202006/%D9%85%D9%88%D8%A7%DB%81%D8%A8%20%D8%A7%D9%84%D9%84%D8%B7%DB%8C%D9%81%DB%81%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B3%D9%86%D8%AF%20%D8%A7%D9%85%D8%A7%D9%85%20%D8%A7%D8%B9%D8%B8%D9%85%20%285%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw2f5s5r5",
+          "titleUr": "المواہب اللطیفہ عربی شرح مسند امام اعظم جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200605_202006/%D9%85%D9%88%D8%A7%DB%81%D8%A8%20%D8%A7%D9%84%D9%84%D8%B7%DB%8C%D9%81%DB%81%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B3%D9%86%D8%AF%20%D8%A7%D9%85%D8%A7%D9%85%20%D8%A7%D8%B9%D8%B8%D9%85%20%286%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw2f5y8s6",
+          "titleUr": "المواہب اللطیفہ عربی شرح مسند امام اعظم جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200605_202006/%D9%85%D9%88%D8%A7%DB%81%D8%A8%20%D8%A7%D9%84%D9%84%D8%B7%DB%8C%D9%81%DB%81%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B3%D9%86%D8%AF%20%D8%A7%D9%85%D8%A7%D9%85%20%D8%A7%D8%B9%D8%B8%D9%85%20%287%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        }
+      ]
+    },
+    {
+      "id": "item-mw2f8jau8",
+      "type": "book",
+      "titleUr": "مترجم مسند امام اعظم",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/MusnadimameAzam/%D9%85%D8%B3%D9%86%D8%AF%20%D8%A7%D9%85%D8%A7%D9%85%20%D8%A7%D8%B9%D8%B8%D9%85%20.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGuZ3wo3A4GK9OnQYY_uljnIOsmbTkUfJti3sLFC-izSsU2vHbz6B0qH1Wc5pzWbeeBDfp3u9qM3x2yOGgrZ6RahpBcO2Gh7HXon38AnomKjHrOYmWZPVDNfPT2ixsT_kwqPDYF4RwB1E/s1600/IMG_20180929_064353_634.jpg",
+      "fileSizeBytes": 16891973,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw2f9gy19",
+      "type": "book",
+      "titleUr": "شرح اردو مسند امام اعظم",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/SharahMusnadimameAzam/%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B3%D9%86%D8%AF%20%D8%A7%D9%85%D8%A7%D9%85%20%D8%A7%D8%B9%D8%B8%D9%85%20.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUHKdKGqm7A02rBDzO_rnA2Cchq9TgOgyFL4N2MdIeK28oj3Rs4INR2BuyQwMKWiTaNfxHgvBUTVEhJMHcpoFR3-K_4-W8GVCZKW2iwGTXK8y6OMNGAy-X0yLi5pkq4ikpanrPc-ii9Ls/s1600/IMG_20180927_063525_055.jpg",
+      "fileSizeBytes": 47647812,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw2fakt210",
+      "type": "book",
+      "titleUr": "فیضان اسلم اردو شرح مسند امام اعظم",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/FaizanEAslamFiSharahMusnadEImamEAzam/Faizan%20e%20Aslam%20Fi%20Sharah%20Musnad%20e%20imam%20e%20Azam.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWZdp_AqlXaaSWhD2nWkmE0ahQHvy_alz7fBBHZuK1hyphenhyphenTmi3IRcYqwscGDiwvj3WFN1PmgiWN00Frg_y2liZTcvcvgYPezG46W6SScGzNSonReSzOFFcUwdk5BfPuGE4SlVnGCdwMVAwI/s1600/20181118_170509.jpg",
+      "fileSizeBytes": 27066777,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw2ferfj19",
+      "type": "book",
+      "titleUr": "الھدایہ مکتبۃ البشریٰ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/details/DarsENizamiDarjaKhamsa5thYear/AlHidayahVol1AlBushraColor",
+      "coverUrl": "https://besturdubooks.net/al-hidayah",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw2fby7311",
+          "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/details/DarsENizamiDarjaKhamsa5thYear/AlHidayahVol1AlBushraColor",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw2fc39w12",
+          "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/details/DarsENizamiDarjaKhamsa5thYear/AlHidayahVol2AlBushraColor",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw2fc80r13",
+          "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/details/AlSadisah6thYear1/AlHidayahVol3AlBushraColor",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw2fcdfa14",
+          "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/details/AlSadisah6thYear1/AlHidayahVol4AlBushraColor",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw2fchvf15",
+          "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/details/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol5AlBushraColor",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw2fcmkj16",
+          "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/details/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol6AlBushraColor",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw2fcqqm17",
+          "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/details/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol7AlBushraColor",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw2fd27m18",
+          "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/details/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol8AlBushraColor",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        }
+      ]
+    },
+    {
+      "id": "item-mw2fib6v24",
+      "type": "book",
+      "titleUr": "الھدایہ مکتبہ رحمانیہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/details/ALHIDAYAH0/AL-HIDAYAH-VOL-1-RAHMANIA",
+      "coverUrl": "",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw2fgy8m20",
+          "titleUr": "الھدایہ مکتبہ رحمانیہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/details/ALHIDAYAH0/AL-HIDAYAH-VOL-1-RAHMANIA",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw2fh3kp21",
+          "titleUr": "الھدایہ مکتبہ رحمانیہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/ALHIDAYAH0/AL-HIDAYAH-VOL-2-RAHMANIA.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw2fh90g22",
+          "titleUr": "الھدایہ مکتبہ رحمانیہ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/ALHIDAYAH0/AL-HIDAYAH-VOL-3-RAHMANIA.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw2fhpkz23",
+          "titleUr": "الھدایہ مکتبہ رحمانیہ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/ALHIDAYAH0/AL-HIDAYAH-VOL-4-RAHMANIA.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        }
+      ]
+    },
+    {
+      "id": "item-mw2fr1xo29",
+      "type": "book",
+      "titleUr": "الھدایہ مکتبہ رشیدیہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayahRashedaiVol1Rashedia.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 22516886,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw2fp43g25",
+          "titleUr": "الھدایہ مکتبہ رشیدیہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayahRashedaiVol1Rashedia.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw2fpisf26",
+          "titleUr": "الھدایہ مکتبہ رشیدیہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/AlSadisah6thYear1/AL%20HIDAYAH%20VOL%202-%20RASHEDIA.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw2fpnq227",
+          "titleUr": "الھدایہ مکتبہ رشیدیہ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol3Rashedia.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw2fpt4q28",
+          "titleUr": "الھدایہ مکتبہ رشیدیہ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol4Rashedia.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        }
+      ]
+    },
+    {
+      "id": "item-mw2fu1wm34",
+      "type": "book",
+      "titleUr": "الھدایہ مکتبۃ البشریٰ بڑی تختی",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/bhidaya/AL_HIDAYAH_AL_BUSHRA_v2_VOL_01.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 19046005,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw2fsztb30",
+          "titleUr": "الھدایہ مکتبۃ البشریٰ بڑی تختی جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/bhidaya/AL_HIDAYAH_AL_BUSHRA_v2_VOL_01.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw2ft5cp31",
+          "titleUr": "الھدایہ مکتبۃ البشریٰ بڑی تختی جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/bhidaya/AL_HIDAYAH_AL_BUSHRA_v2_VOL_02.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw2fta6932",
+          "titleUr": "الھدایہ مکتبۃ البشریٰ بڑی تختی جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/bhidaya/AL_HIDAYAH_AL_BUSHRA_v2_VOL_03.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw2ftf4b33",
+          "titleUr": "الھدایہ مکتبۃ البشریٰ بڑی تختی جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/bhidaya/AL_HIDAYAH_AL_BUSHRA_v2_VOL_04.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        }
+      ]
+    },
+    {
+      "id": "item-mw2g3ag151",
+      "type": "book",
+      "titleUr": "البنایہ عربی شرح ھدایہ مکتبہ حقانیہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/bhidaya/AL_BINAYA_FI_SHARH_AL_HIDAYA_HAQQANIA_VOL_01.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 22211567,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw2fwf6635",
+          "titleUr": "البنایہ عربی شرح ھدایہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/bhidaya/AL_BINAYA_FI_SHARH_AL_HIDAYA_HAQQANIA_VOL_01.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw2fwm9y36",
+          "titleUr": "البنایہ عربی شرح ھدایہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/bhidaya/AL_BINAYA_FI_SHARH_AL_HIDAYA_HAQQANIA_VOL_02.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw2fwsh237",
+          "titleUr": "البنایہ عربی شرح ھدایہ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/bhidaya/AL_BINAYA_FI_SHARH_AL_HIDAYA_HAQQANIA_VOL_03.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw2fwypa38",
+          "titleUr": "البنایہ عربی شرح ھدایہ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/bhidaya/AL_BINAYA_FI_SHARH_AL_HIDAYA_HAQQANIA_VOL_04.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw2fx53z39",
+          "titleUr": "البنایہ عربی شرح ھدایہ جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/bhidaya/AL_BINAYA_FI_SHARH_AL_HIDAYA_HAQQANIA_VOL_05.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw2fxedj40",
+          "titleUr": "البنایہ عربی شرح ھدایہ جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/bhidaya/AL_BINAYA_FI_SHARH_AL_HIDAYA_HAQQANIA_VOL_06.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw2fxj2941",
+          "titleUr": "البنایہ عربی شرح ھدایہ جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/bhidaya/AL_BINAYA_FI_SHARH_AL_HIDAYA_HAQQANIA_VOL_07.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw2fxnnh42",
+          "titleUr": "البنایہ عربی شرح ھدایہ جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/bhidaya/AL_BINAYA_FI_SHARH_AL_HIDAYA_HAQQANIA_VOL_08.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw2fxsf743",
+          "titleUr": "البنایہ عربی شرح ھدایہ جلد 9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/bhidaya/AL_BINAYA_FI_SHARH_AL_HIDAYA_HAQQANIA_VOL_09.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mw2fxyei44",
+          "titleUr": "البنایہ عربی شرح ھدایہ جلد 10",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/bhidaya/AL_BINAYA_FI_SHARH_AL_HIDAYA_HAQQANIA_VOL_10.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        },
+        {
+          "id": "11-mw2fy7u745",
+          "titleUr": "البنایہ عربی شرح ھدایہ جلد 11",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/bhidaya/AL_BINAYA_FI_SHARH_AL_HIDAYA_HAQQANIA_VOL_11.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 10
+        },
+        {
+          "id": "12-mw2fyczv46",
+          "titleUr": "البنایہ عربی شرح ھدایہ جلد 12",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/bhidaya/AL_BINAYA_FI_SHARH_AL_HIDAYA_HAQQANIA_VOL_12.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 11
+        },
+        {
+          "id": "13-mw2fyiis47",
+          "titleUr": "البنایہ عربی شرح ھدایہ جلد 13",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/bhidaya/AL_BINAYA_FI_SHARH_AL_HIDAYA_HAQQANIA_VOL_13.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 12
+        },
+        {
+          "id": "14-mw2fyn8v48",
+          "titleUr": "البنایہ عربی شرح ھدایہ جلد 14",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/bhidaya/AL_BINAYA_FI_SHARH_AL_HIDAYA_HAQQANIA_VOL_14.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 13
+        },
+        {
+          "id": "15-mw2fyruu49",
+          "titleUr": "البنایہ عربی شرح ھدایہ جلد 15",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/bhidaya/AL_BINAYA_FI_SHARH_AL_HIDAYA_HAQQANIA_VOL_15.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 14
+        },
+        {
+          "id": "16-mw2fywmq50",
+          "titleUr": "البنایہ عربی شرح ھدایہ جلد 16",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/bhidaya/AL_BINAYA_FI_SHARH_AL_HIDAYA_HAQQANIA_VOL_16.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 15
         }
       ]
     }
