@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 168,
-  "updatedAt": "2026-11-04T10:56:46.969700Z",
+  "catalogVersion": 171,
+  "updatedAt": "2026-11-04T11:01:08.071617Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -10977,6 +10977,25 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "boys"
+    },
+    {
+      "id": "item-mw209lw777",
+      "type": "book",
+      "titleUr": "اصول الشاشی مکتبۃ المدینہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "hadith",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20200605_20200605_0121/%D8%A7%D8%B5%D9%88%D9%84%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%DB%8C%20%D9%85%D8%B9%20%D8%A7%D8%AD%D8%B3%D9%86%20%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B4%DB%8C.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEikAqv-16nIeWTIZuY-xCDjAL_tYgAcAyTg4nf1TxFSyZF7OdYI3tFEfsbbE56pezjyx0gQsF9XhdQt9oW751v9CfD-t5AjG7Gy-wGE13l6WTLySeERBTFYMcwp0I_QqR2JUUcnwtPsRsPzjqQFiv1WLCfgyBWVE-2tvKLBtt5O4fb17euKIWDjUN-BjQ=s848",
+      "fileSizeBytes": 8675754,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all"
     }
   ],
   "isDemo": false
