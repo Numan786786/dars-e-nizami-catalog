@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 155,
-  "updatedAt": "2026-11-04T04:57:02.910336Z",
+  "catalogVersion": 156,
+  "updatedAt": "2026-11-04T04:59:47.466137Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -8202,7 +8202,7 @@
       "categoryId": "mantiq",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/NOOR-UL-AIZAH-O-NAJAT-UL-ARWAH.pdf",
-      "coverUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2025/03/NOOR-UL-AIZAH-O-NAJAT-UL-ARWAH-200x300.jpg",
       "fileSizeBytes": 12276401,
       "tags": [],
       "sortOrder": 0,
