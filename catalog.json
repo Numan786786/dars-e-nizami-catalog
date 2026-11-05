@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 197,
-  "updatedAt": "2026-11-05T06:22:14.249371Z",
+  "catalogVersion": 198,
+  "updatedAt": "2026-11-05T06:33:06.337224Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -14651,9 +14651,9 @@
       "description": "",
       "categoryId": "nahw",
       "language": "ur",
-      "pdfUrl": "https://drive.google.com/file/d/1E_u3g9sDTTa3gB8PTxqTJlXmxMDC3jss/view?usp=drivesdk",
-      "coverUrl": "https://drive.google.com/file/d/1ALdIyaUJlIjCCX2MKWdHmNWdDmwcGVoQ/view?usp=drivesdk",
-      "fileSizeBytes": 0,
+      "pdfUrl": "https://archive.org/download/20260613_20260613_1814/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%A6%D8%AF%20%D8%A7%D9%84%D9%86%D8%B3%D9%81%D9%8A%D8%A9%20%D8%AF%D8%A7%D8%B1%20%D8%AA%D8%AD%D9%82%D9%8A%D9%82%20%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8.pdf",
+      "coverUrl": "https://ia601606.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/20260613_20260613_1814/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%A6%D8%AF%20%D8%A7%D9%84%D9%86%D8%B3%D9%81%D9%8A%D8%A9%20%D8%AF%D8%A7%D8%B1%20%D8%AA%D8%AD%D9%82%D9%8A%D9%82%20%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8_jp2.zip&file=%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%A6%D8%AF%20%D8%A7%D9%84%D9%86%D8%B3%D9%81%D9%8A%D8%A9%20%D8%AF%D8%A7%D8%B1%20%D8%AA%D8%AD%D9%82%D9%8A%D9%82%20%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8_jp2/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%A6%D8%AF%20%D8%A7%D9%84%D9%86%D8%B3%D9%81%D9%8A%D8%A9%20%D8%AF%D8%A7%D8%B1%20%D8%AA%D8%AD%D9%82%D9%8A%D9%82%20%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8_0000.jp2&id=20260613_20260613_1814&scale=8&rotate=0",
+      "fileSizeBytes": 188514511,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
