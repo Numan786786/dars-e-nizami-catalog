@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 200,
-  "updatedAt": "2026-11-05T06:59:03.552875Z",
+  "catalogVersion": 201,
+  "updatedAt": "2026-11-05T07:01:04.253541Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -14058,25 +14058,6 @@
       "audience": "boys"
     },
     {
-      "id": "item-mw2ayxvf266",
-      "type": "book",
-      "titleUr": "کمالین عربی شرح جلالین",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "usul-al-fiqh",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/1_20200604_20200604_0248/%DA%A9%D9%85%D8%A7%D9%84%DB%8C%D9%86%20%D8%B9%D8%B1%D8%A8%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86.pdf",
-      "coverUrl": "",
-      "fileSizeBytes": 30267570,
-      "tags": [],
-      "sortOrder": 0,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "boys"
-    },
-    {
       "id": "item-mw2az0co267",
       "type": "book",
       "titleUr": "اعراب المفصل عربی شرح جلالین",
@@ -17269,6 +17250,25 @@
       "pdfUrl": "https://archive.org/download/20200605_20200605_0118/%D8%B4%D8%B1%D8%AD%20%D9%86%D9%88%D8%B1%D8%A7%D9%84%D8%A7%D9%86%D9%88%D8%A7%D8%B1%D8%B9%D9%84%DB%8C%20%D8%A7%D8%B5%D9%88%D9%84%20%D8%A7%D9%84%D9%81%D9%82%D9%87.pdf",
       "coverUrl": "https://ia803208.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/20200605_20200605_0118/%D8%B4%D8%B1%D8%AD%20%D9%86%D9%88%D8%B1%D8%A7%D9%84%D8%A7%D9%86%D9%88%D8%A7%D8%B1%D8%B9%D9%84%DB%8C%20%D8%A7%D8%B5%D9%88%D9%84%20%D8%A7%D9%84%D9%81%D9%82%D9%87_jp2.zip&file=%D8%B4%D8%B1%D8%AD%20%D9%86%D9%88%D8%B1%D8%A7%D9%84%D8%A7%D9%86%D9%88%D8%A7%D8%B1%D8%B9%D9%84%DB%8C%20%D8%A7%D8%B5%D9%88%D9%84%20%D8%A7%D9%84%D9%81%D9%82%D9%87_jp2/%D8%B4%D8%B1%D8%AD%20%D9%86%D9%88%D8%B1%D8%A7%D9%84%D8%A7%D9%86%D9%88%D8%A7%D8%B1%D8%B9%D9%84%DB%8C%20%D8%A7%D8%B5%D9%88%D9%84%20%D8%A7%D9%84%D9%81%D9%82%D9%87_0000.jp2&id=20200605_20200605_0118&scale=8&rotate=0",
       "fileSizeBytes": 10581216,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw375bf4142",
+      "type": "book",
+      "titleUr": "کمالین عربی شرح جلالین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/1_20200604_20200604_0248/%DA%A9%D9%85%D8%A7%D9%84%DB%8C%D9%86%20%D8%B9%D8%B1%D8%A8%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86.pdf",
+      "coverUrl": "https://ia801900.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/1_20200604_20200604_0248/%DA%A9%D9%85%D8%A7%D9%84%DB%8C%D9%86%20%D8%B9%D8%B1%D8%A8%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86_jp2.zip&file=%DA%A9%D9%85%D8%A7%D9%84%DB%8C%D9%86%20%D8%B9%D8%B1%D8%A8%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86_jp2/%DA%A9%D9%85%D8%A7%D9%84%DB%8C%D9%86%20%D8%B9%D8%B1%D8%A8%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%AC%D9%84%D8%A7%D9%84%DB%8C%D9%86_0000.jp2&id=1_20200604_20200604_0248&scale=2&rotate=0",
+      "fileSizeBytes": 30267570,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
