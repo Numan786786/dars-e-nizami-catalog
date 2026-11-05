@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 212,
-  "updatedAt": "2026-11-05T10:12:37.522385Z",
+  "catalogVersion": 213,
+  "updatedAt": "2026-11-05T10:13:49.502813Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -18362,7 +18362,7 @@
       "categoryId": "tafsir",
       "language": "ur",
       "pdfUrl": "https://drive.google.com/file/d/1w0Jgr5mJXsHBhojINmYWxZGqRC10BZgi/view?usp=drivesdk",
-      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8t1DvgqbgeANSFz_7GC7JKEyDvcv7Q6XDB-hcT9L0tQ&s=10",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqNEYyfpB8vJbBdvyRP0kZVdth1BqTBy3069_8rIEruA&s=10",
       "fileSizeBytes": 23666408,
       "tags": [],
       "sortOrder": 0,
