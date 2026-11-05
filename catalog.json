@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 218,
-  "updatedAt": "2026-11-05T10:55:46.238971Z",
+  "catalogVersion": 219,
+  "updatedAt": "2026-11-05T10:56:22.169231Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -19345,25 +19345,6 @@
       "pdfUrl": "https://archive.org/download/20200605_20200605_0128/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%20%D8%A7%D9%84%D8%AE%D9%84%D9%81%D8%A7%D8%A1%281%29.pdf",
       "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjfhBKkUQ1tZJXMgHptlZe6ryQnkhqWDp-0WldXbWT2Ur_kQ5WU3bJWLrHc35bmu2Zzg1Gau7jfQdra7dLMbGWndNFwcAbP34LzfVLvKmR_DzoKD-CBOzgLA6I_DhcPdPt9aojG_HVTL0PYV79VImOWZ7upNk_tQCYsc5Rp6VkI3RJutuGElBpffhWmgg=s352",
       "fileSizeBytes": 21077781,
-      "tags": [],
-      "sortOrder": 0,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "girls"
-    },
-    {
-      "id": "item-mw3fa3ht251",
-      "type": "book",
-      "titleUr": "تاریخ الخلفاء",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "tafsir",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/20200605_20200605_0128/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%20%D8%A7%D9%84%D8%AE%D9%84%D9%81%D8%A7%D8%A1%20%D8%AA%D8%A7%D8%A8%D8%B4%20%D9%81%20%D8%A7%20%D8%AD%20.pdf",
-      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEg2dyt_IsawM8BowomsfwTmrbhVrBW3ViAjhyiJMKkH8RqZp2yjZmmyz2vqjd8hzlV6SlgNIZNIkb2_DkCnTHYDxJWjn_rMS_xwNSJNMVDrXETB-rSRl5qmyiN_MH9o6U1LCwM2jPD-Xf-EoFT5AiangHcCseOiOGmPzM-NFq7MvY944j8JH9PYpVqZvg=s808",
-      "fileSizeBytes": 39262939,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
