@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 204,
-  "updatedAt": "2026-11-05T07:53:13.825505Z",
+  "catalogVersion": 205,
+  "updatedAt": "2026-11-05T07:57:07.587262Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -17436,7 +17436,7 @@
       "categoryId": "tafsir",
       "language": "ur",
       "pdfUrl": "",
-      "coverUrl": "https://besturdubooks.net/qootul-akhyar",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzSRZScFPWsUwHT3BBvUqXrITS69DgdFe_aSFYnTCpg&s=10",
       "fileSizeBytes": null,
       "tags": [],
       "sortOrder": 0,
