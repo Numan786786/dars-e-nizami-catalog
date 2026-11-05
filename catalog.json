@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 205,
-  "updatedAt": "2026-11-05T07:57:07.587262Z",
+  "catalogVersion": 206,
+  "updatedAt": "2026-11-05T08:00:10.752788Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -17436,7 +17436,7 @@
       "categoryId": "tafsir",
       "language": "ur",
       "pdfUrl": "",
-      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzSRZScFPWsUwHT3BBvUqXrITS69DgdFe_aSFYnTCpg&s=10",
+      "coverUrl": "https://archive.org/services/img/qout-ul-akhyar-3-4-1/full/pct:200/0/default.jpg",
       "fileSizeBytes": null,
       "tags": [],
       "sortOrder": 0,
