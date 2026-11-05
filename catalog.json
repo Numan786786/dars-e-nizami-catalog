@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 203,
-  "updatedAt": "2026-11-05T07:42:46.160066Z",
+  "catalogVersion": 204,
+  "updatedAt": "2026-11-05T07:53:13.825505Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -17630,6 +17630,43 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "boys"
+    },
+    {
+      "id": "item-mw390djy169",
+      "type": "book",
+      "titleUr": "محرم آفندی عربی شرح جامی",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://i0.wp.com/www.besturdubooks.net/wp-content/uploads/2018/08/Muhram-Afandi-Arabic.jpg?resize=200%2C300",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw38zm9m167",
+          "titleUr": "محرم آفندی عربی شرح جامی جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/MuhramEAafandiVol1Rashedia.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw38zra1168",
+          "titleUr": "محرم آفندی عربی شرح جامی جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/MuhramEAafandiVol2Rashedia.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
     }
   ],
   "isDemo": false
