@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 194,
-  "updatedAt": "2026-11-05T06:06:44.869870Z",
+  "catalogVersion": 195,
+  "updatedAt": "2026-11-05T06:10:01.790054Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -14670,9 +14670,9 @@
       "description": "",
       "categoryId": "tafsir",
       "language": "ur",
-      "pdfUrl": "https://drive.google.com/file/d/1iL5tKFihTHxVEgyXa3pNxdKmnvNaDbix/view?usp=drivesdk",
+      "pdfUrl": "https://archive.org/download/20261105_20261105_0230/%D9%85%D8%B3%D9%86%D8%AF%20%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D9%85%20%D8%A7%D9%84%D8%A3%D8%B9%D8%B8%D9%85%20%D9%85%D8%B9%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%85%D9%84%D9%91%D8%A7%20%D8%B9%D9%84%D9%8A%20%D8%A7%D9%84%D9%82%D8%A7%D8%B1%D9%8A.pdf",
       "coverUrl": "",
-      "fileSizeBytes": 0,
+      "fileSizeBytes": 231316702,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
