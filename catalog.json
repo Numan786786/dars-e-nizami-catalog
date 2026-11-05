@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 206,
-  "updatedAt": "2026-11-05T08:00:10.752788Z",
+  "catalogVersion": 207,
+  "updatedAt": "2026-11-05T08:01:55.132698Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -17417,7 +17417,7 @@
       "categoryId": "tafsir",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/KhulasatUlAnwarUrduSharhNoorUlAnwar.pdf",
-      "coverUrl": "https://besturdubooks.net/khulasa-tul-anwaar",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxhwy6JpJu5SdKtyxcD8MMPRRj3HGu1wNWCQ&s",
       "fileSizeBytes": 6263167,
       "tags": [],
       "sortOrder": 0,
