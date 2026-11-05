@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 192,
-  "updatedAt": "2026-11-05T04:39:00.392053Z",
+  "catalogVersion": 193,
+  "updatedAt": "2026-11-05T04:55:04.331840Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -16192,6 +16192,309 @@
           "sortOrder": 6
         }
       ]
+    },
+    {
+      "id": "item-mw327d8r38",
+      "type": "book",
+      "titleUr": "التنبیہ علی مشکلات الھدایہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia803208.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/04_20200604/%D8%A7%D9%84%D8%AA%D9%86%D8%A8%D9%8A%D9%87%20%D8%B9%D9%84%DB%8C%20%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%811%D8%AA%D8%A73_jp2.zip&file=%D8%A7%D9%84%D8%AA%D9%86%D8%A8%D9%8A%D9%87%20%D8%B9%D9%84%DB%8C%20%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%811%D8%AA%D8%A73_jp2/%D8%A7%D9%84%D8%AA%D9%86%D8%A8%D9%8A%D9%87%20%D8%B9%D9%84%DB%8C%20%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%811%D8%AA%D8%A73_0000.jp2&id=04_20200604&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-3-mw326cyw36",
+          "titleUr": "التنبیہ علی مشکلات الھدایہ1تا 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/04_20200604/%D8%A7%D9%84%D8%AA%D9%86%D8%A8%D9%8A%D9%87%20%D8%B9%D9%84%DB%8C%20%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%811%D8%AA%D8%A73.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "4-5-mw327adr37",
+          "titleUr": "التنبیہ علی مشکلات الھدایہ4 تا 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/04_20200604/%D8%A7%D9%84%D8%AA%D9%86%D8%A8%D9%8A%D9%87%20%D8%B9%D9%84%DB%8C%20%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%814_5.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "item-mw32aeko43",
+      "type": "book",
+      "titleUr": "النھایة فی شرح الھدایہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia803208.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/04_20200604/%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%AC01_jp2.zip&file=%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%AC01_jp2/%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%AC01_0000.jp2&id=04_20200604&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw328pmg39",
+          "titleUr": "النھایة فی شرح الھدایہ جلد1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/04_20200604/%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%AC01.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw328ttj40",
+          "titleUr": "النھایة فی شرح الھدایہ جلد2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/04_20200604/%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%AC02.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw328xzq41",
+          "titleUr": "النھایة فی شرح الھدایہ جلد3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/04_20200604/%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%AC03.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw3293kj42",
+          "titleUr": "النھایة فی شرح الھدایہ جلد4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/04_20200604/%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%AC04.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        }
+      ]
+    },
+    {
+      "id": "item-mw32icof60",
+      "type": "book",
+      "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ اردو",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia803205.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%201_jp2.zip&file=%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%201_jp2/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%201_0000.jp2&id=3_20200604_20200604_0139&scale=2&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw32d80244",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%201.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw32dbnv45",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%202.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw32dg3w46",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%203.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw32dkm547",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%204.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw32dop048",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%205.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw32dsob49",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%206.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw32e1lf50",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%207.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw32e8zs51",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%208.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw32edi652",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%209.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mw32ei9553",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 10",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%2010.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        },
+        {
+          "id": "11-mw32emfb54",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 11",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%2011.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 10
+        },
+        {
+          "id": "12-mw32eqbs55",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 12",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%2012.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 11
+        },
+        {
+          "id": "13-mw32euea56",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 13",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%2013.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 12
+        },
+        {
+          "id": "14-mw32eyg357",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 14",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%2014.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 13
+        },
+        {
+          "id": "15-mw32f2m858",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 15",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%2015.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 14
+        }
+      ]
+    },
+    {
+      "id": "item-mw32kh6565",
+      "type": "book",
+      "titleUr": "الھدایہ مترجم لیاقت رضوی",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia903207.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/4_20200604_202006/%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%AA%D8%B1%D8%AC%D9%851_jp2.zip&file=%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%AA%D8%B1%D8%AC%D9%851_jp2/%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%AA%D8%B1%D8%AC%D9%851_0000.jp2&id=4_20200604_202006&scale=2&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw32jxhs61",
+          "titleUr": "الھدایہ مترجم جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200604_202006/%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%AA%D8%B1%D8%AC%D9%851.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw32k17n62",
+          "titleUr": "الھدایہ مترجم جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200604_202006/%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%AA%D8%B1%D8%AC%D9%852.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw32k5dn63",
+          "titleUr": "الھدایہ مترجم جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200604_202006/%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%AA%D8%B1%D8%AC%D9%853.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw32k9se64",
+          "titleUr": "الھدایہ مترجم جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200604_202006/%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%AA%D8%B1%D8%AC%D9%854.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        }
+      ]
+    },
+    {
+      "id": "item-mw32ndk666",
+      "type": "book",
+      "titleUr": "صدیق الھدایہ اردو شرح ھدایہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/4_20200604_202006/%D8%B5%D8%AF%DB%8C%D9%82%20%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81.pdf",
+      "coverUrl": "https://ia803207.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/4_20200604_202006/%D8%B5%D8%AF%DB%8C%D9%82%20%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81_jp2.zip&file=%D8%B5%D8%AF%DB%8C%D9%82%20%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81_jp2/%D8%B5%D8%AF%DB%8C%D9%82%20%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81_0000.jp2&id=4_20200604_202006&scale=8&rotate=0",
+      "fileSizeBytes": 28796112,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
     }
   ],
   "isDemo": false
