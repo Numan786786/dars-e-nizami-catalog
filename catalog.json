@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 207,
-  "updatedAt": "2026-11-05T08:01:55.132698Z",
+  "catalogVersion": 208,
+  "updatedAt": "2026-11-05T08:15:39.880327Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -17398,7 +17398,7 @@
       "categoryId": "tafsir",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/AZHAR-UL-AZHAAR-URDU-SHARH-QIYAS-NOOR-UL-ANWAAR.pdf",
-      "coverUrl": "https://besturdubooks.net/azhar-ul-azhar",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2022/08/AZHAR-UL-AZHAAR.jpg",
       "fileSizeBytes": 3346597,
       "tags": [],
       "sortOrder": 0,
