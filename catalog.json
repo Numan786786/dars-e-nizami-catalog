@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 191,
-  "updatedAt": "2026-11-05T03:03:26.128350Z",
+  "catalogVersion": 192,
+  "updatedAt": "2026-11-05T04:39:00.392053Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -16012,6 +16012,184 @@
           "pdfUrl": "https://archive.org/download/5_20230531_202305/%D8%A7%D9%84%D8%BA%D8%A7%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%E2%91%AD%20%D8%A7%D9%84%D8%B3%D9%8E%D9%91%D8%B1%D9%88%D8%AC%D9%8A%20%D8%A7%D9%84%D8%AD%D9%86%D9%81%D9%8A.pdf",
           "fileSizeBytes": null,
           "sortOrder": 13
+        }
+      ]
+    },
+    {
+      "id": "item-mw31unvb26",
+      "type": "book",
+      "titleUr": "فتح القدیر عربی شرح ھدایہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia903206.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/1_20200604_20200604_0132/%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D9%82%D8%AF%DB%8C%D8%B1%20%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%811_jp2.zip&file=%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D9%82%D8%AF%DB%8C%D8%B1%20%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%811_jp2/%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D9%82%D8%AF%DB%8C%D8%B1%20%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%811_0000.jp2&id=1_20200604_20200604_0132&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw31qx5516",
+          "titleUr": "فتح القدیر عربی شرح ھدایہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0132/%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D9%82%D8%AF%DB%8C%D8%B1%20%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%811.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw31r0zy17",
+          "titleUr": "فتح القدیر عربی شرح ھدایہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0132/%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D9%82%D8%AF%DB%8C%D8%B1%20%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%812.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw31r60p18",
+          "titleUr": "فتح القدیر عربی شرح ھدایہ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0132/%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D9%82%D8%AF%DB%8C%D8%B1%20%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%813.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw31rcxr19",
+          "titleUr": "فتح القدیر عربی شرح ھدایہ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0132/%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D9%82%D8%AF%DB%8C%D8%B1%20%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%814.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw31rhcp20",
+          "titleUr": "فتح القدیر عربی شرح ھدایہ جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0132/%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D9%82%D8%AF%DB%8C%D8%B1%20%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%815.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw31rm4f21",
+          "titleUr": "فتح القدیر عربی شرح ھدایہ جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0132/%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D9%82%D8%AF%DB%8C%D8%B1%20%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%816.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw31rqtg22",
+          "titleUr": "فتح القدیر عربی شرح ھدایہ جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0132/%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D9%82%D8%AF%DB%8C%D8%B1%20%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%817.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw31rvn723",
+          "titleUr": "فتح القدیر عربی شرح ھدایہ جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0132/%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D9%82%D8%AF%DB%8C%D8%B1%20%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%818.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw31s0c224",
+          "titleUr": "فتح القدیر عربی شرح ھدایہ جلد 9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0132/%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D9%82%D8%AF%DB%8C%D8%B1%20%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%819.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mw31s59j25",
+          "titleUr": "فتح القدیر عربی شرح ھدایہ جلد 10",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200604_20200604_0132/%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D9%82%D8%AF%DB%8C%D8%B1%20%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%8110.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        }
+      ]
+    },
+    {
+      "id": "item-mw31zaft33",
+      "type": "book",
+      "titleUr": "نصب الرایہ فی تخریج احادیث الھدایہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSyVh_KFQTeu8qZOrxJDgiOIquP56lqK4aF0dhT7fMmMD6tcfhaCTfpVdL&s=10",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw31w69m27",
+          "titleUr": "نصب الرایہ فی تخریج احادیث الھدایہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604/%D9%86%D8%B5%D8%A8%20%D8%A7%D9%84%D8%B1%D8%A7%DB%8C%DB%81%20%D9%81%DB%8C%20%D8%AA%D8%AE%D8%B1%DB%8C%D8%AC%20%D8%A7%D8%AD%D8%A7%D8%AF%DB%8C%D8%AB%20%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%281%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw31wa9528",
+          "titleUr": "نصب الرایہ فی تخریج احادیث الھدایہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604/%D9%86%D8%B5%D8%A8%20%D8%A7%D9%84%D8%B1%D8%A7%DB%8C%DB%81%20%D9%81%DB%8C%20%D8%AA%D8%AE%D8%B1%DB%8C%D8%AC%20%D8%A7%D8%AD%D8%A7%D8%AF%DB%8C%D8%AB%20%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%282%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw31weia29",
+          "titleUr": "نصب الرایہ فی تخریج احادیث الھدایہ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604/%D9%86%D8%B5%D8%A8%20%D8%A7%D9%84%D8%B1%D8%A7%DB%8C%DB%81%20%D9%81%DB%8C%20%D8%AA%D8%AE%D8%B1%DB%8C%D8%AC%20%D8%A7%D8%AD%D8%A7%D8%AF%DB%8C%D8%AB%20%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%283%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw31wimu30",
+          "titleUr": "نصب الرایہ فی تخریج احادیث الھدایہ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604/%D9%86%D8%B5%D8%A8%20%D8%A7%D9%84%D8%B1%D8%A7%DB%8C%DB%81%20%D9%81%DB%8C%20%D8%AA%D8%AE%D8%B1%DB%8C%D8%AC%20%D8%A7%D8%AD%D8%A7%D8%AF%DB%8C%D8%AB%20%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%284%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw31wmr831",
+          "titleUr": "نصب الرایہ فی تخریج احادیث الھدایہ جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604/%D9%86%D8%B5%D8%A8%20%D8%A7%D9%84%D8%B1%D8%A7%DB%8C%DB%81%20%D9%81%DB%8C%20%D8%AA%D8%AE%D8%B1%DB%8C%D8%AC%20%D8%A7%D8%AD%D8%A7%D8%AF%DB%8C%D8%AB%20%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%285%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "item-mw3203es34",
+          "titleUr": "الدرایہ فی تخریج احادیث الھدایہ",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604/%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%DB%8C%DB%81%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B1%20%D9%86%D8%B5%D8%A8%20%D8%A7%D9%84%D8%B1%D8%A7%DB%8C%DB%81.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "item-mw321aqd35",
+          "titleUr": "منیة الالمعی",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604/%D9%85%D9%86%DB%8C%D8%A9%20%D8%A7%D9%84%D9%85%D8%B9%D9%8A.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
         }
       ]
     }
