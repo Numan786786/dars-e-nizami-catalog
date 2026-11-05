@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 225,
-  "updatedAt": "2026-11-05T16:42:26.464413Z",
+  "catalogVersion": 226,
+  "updatedAt": "2026-11-05T16:44:58.865345Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -19475,123 +19475,6 @@
       "audience": "boys"
     },
     {
-      "id": "item-mw3fpo3t259",
-      "type": "book",
-      "titleUr": "اعراب المفصل عربی شرح جلالین",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "usul-al-fiqh",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%201.pdf",
-      "coverUrl": "",
-      "fileSizeBytes": 6025309,
-      "tags": [],
-      "sortOrder": 0,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "boys",
-      "volumes": [
-        {
-          "id": "1-mw2afbvw226",
-          "titleUr": "اعراب المفصل عربی شرح جلالین جلد1",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%201.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 0
-        },
-        {
-          "id": "2-mw2afgbg227",
-          "titleUr": "اعراب المفصل عربی شرح جلالین جلد2",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%202.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 1
-        },
-        {
-          "id": "3-mw2aflo6228",
-          "titleUr": "اعراب المفصل عربی شرح جلالین جلد3",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%203.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 2
-        },
-        {
-          "id": "4-mw2afqrg229",
-          "titleUr": "اعراب المفصل عربی شرح جلالین جلد4",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%204.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 3
-        },
-        {
-          "id": "5-mw2afvrv230",
-          "titleUr": "اعراب المفصل عربی شرح جلالین جلد5",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%205.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 4
-        },
-        {
-          "id": "6-mw2ag0z8231",
-          "titleUr": "اعراب المفصل عربی شرح جلالین جلد6",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%206.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 5
-        },
-        {
-          "id": "7-mw2ag64e232",
-          "titleUr": "اعراب المفصل عربی شرح جلالین جلد7",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%207.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 6
-        },
-        {
-          "id": "8-mw2agcuu233",
-          "titleUr": "اعراب المفصل عربی شرح جلالین جلد8",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%208.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 7
-        },
-        {
-          "id": "9-mw2agia9234",
-          "titleUr": "اعراب المفصل عربی شرح جلالین جلد9",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%209.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 8
-        },
-        {
-          "id": "10-mw2agody235",
-          "titleUr": "اعراب المفصل عربی شرح جلالین جلد 10",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%2010.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 9
-        },
-        {
-          "id": "11-mw2ah34s236",
-          "titleUr": "اعراب المفصل عربی شرح جلالین جلد 11",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%2011.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 10
-        },
-        {
-          "id": "12-mw2ah8cp237",
-          "titleUr": "اعراب المفصل عربی شرح جلالین جلد 12",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/11_20200604_20200604/%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84.%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%2012.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 11
-        }
-      ]
-    },
-    {
       "id": "item-mw3fppzz260",
       "type": "book",
       "titleUr": "اعراب القرآن وبیانہ",
@@ -19986,7 +19869,7 @@
       "categoryId": "usul-al-fiqh",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/jan21_1/AL_AUNUL_KABEER_SHARH_AL_FAOZUL_KABEER.pdf",
-      "coverUrl": "https://besturdubooks.net/al-aun-ul-kabir/",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2021/01/AL_AUNUL_KABEER.jpg",
       "fileSizeBytes": null,
       "tags": [],
       "sortOrder": 0,
