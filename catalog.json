@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 227,
-  "updatedAt": "2026-11-05T16:49:06.309989Z",
+  "catalogVersion": 228,
+  "updatedAt": "2026-11-05T16:51:38.053436Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -12522,7 +12522,7 @@
       "authorUr": "",
       "authorEn": "",
       "description": "",
-      "categoryId": "usul-al-fiqh",
+      "categoryId": "sarf",
       "language": "ur",
       "pdfUrl": "https://drive.google.com/file/d/1r0CKL7KwPQKip9V9e8Jama_57Ii8SaSc/view?usp=drivesdk",
       "coverUrl": "",
