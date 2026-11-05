@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 196,
-  "updatedAt": "2026-11-05T06:17:46.281952Z",
+  "catalogVersion": 197,
+  "updatedAt": "2026-11-05T06:22:14.249371Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -14652,7 +14652,7 @@
       "categoryId": "nahw",
       "language": "ur",
       "pdfUrl": "https://drive.google.com/file/d/1E_u3g9sDTTa3gB8PTxqTJlXmxMDC3jss/view?usp=drivesdk",
-      "coverUrl": "",
+      "coverUrl": "https://drive.google.com/file/d/1ALdIyaUJlIjCCX2MKWdHmNWdDmwcGVoQ/view?usp=drivesdk",
       "fileSizeBytes": 0,
       "tags": [],
       "sortOrder": 0,
