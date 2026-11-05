@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 213,
-  "updatedAt": "2026-11-05T10:13:49.502813Z",
+  "catalogVersion": 214,
+  "updatedAt": "2026-11-05T10:15:39.487659Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -18267,7 +18267,7 @@
       "categoryId": "tafsir",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlBalaghatUlWazihaAlBushraColor.pdf",
-      "coverUrl": "https://besturdubooks.net/al-balaghat-ul-waziha/",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPQGbzatFA3JBQiUcMjQYd6VvJzde-AyUUiNxxbOn2saPlFquLT_mIJPg&s=10",
       "fileSizeBytes": null,
       "tags": [],
       "sortOrder": 0,
