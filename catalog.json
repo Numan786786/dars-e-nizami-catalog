@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 221,
-  "updatedAt": "2026-11-05T11:10:24.225757Z",
+  "catalogVersion": 222,
+  "updatedAt": "2026-11-05T12:19:14.563047Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -20063,6 +20063,924 @@
       "language": "ur",
       "pdfUrl": "https://archive.org/download/ALKHAIRULKASEER/AL%20KHAIR%20UL%20KASEER%20-%20BY%20MAULANA%20MUHAMMAD%20AMIN.pdf",
       "coverUrl": "https://i0.wp.com/besturdubooks.net/wp-content/uploads/2021/11/Al-Khair-Al-Kathir-Urdu-Sharh-Fauz-Al-Kabir.jpg?w=500&ssl=1",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw3g7h1x277",
+      "type": "book",
+      "titleUr": "مشکاۃ المصابیح مکتبۃ البشریٰ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2020/04/Mishkat-al-Masabeeh-Al-Bushra.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw3g5xyy273",
+          "titleUr": "مشکاۃ المصابیح مکتبۃ البشریٰ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/MishkatUlMasabeehVol1AlBushra.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw3g62q2274",
+          "titleUr": "مشکاۃ المصابیح مکتبۃ البشریٰ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/MishkatUlMasabeehVol2AlBushra.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw3g686z275",
+          "titleUr": "مشکاۃ المصابیح مکتبۃ البشریٰ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/MishkatUlMasabeehVol3AlBushra.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw3g6cxl276",
+          "titleUr": "مشکاۃ المصابیح مکتبۃ البشریٰ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/MishkatUlMasabeehVol4AlBushra.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        }
+      ]
+    },
+    {
+      "id": "item-mw3g9hnw278",
+      "type": "book",
+      "titleUr": "مشکاۃ المصابیح قدیمی کتب خانہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/MishkatUlMasabeehQademi.pdf",
+      "coverUrl": "https://i0.wp.com/www.besturdubooks.net/wp-content/uploads/2017/07/MishkatUlMasabeehQademi.jpg?resize=186%2C300",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw3gfyyz281",
+      "type": "book",
+      "titleUr": "مشکاۃ المصابیح مکتبہ رحمانیہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2020/04/Mishkar-al-Masabeeh-Rahmania.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw3gff5n279",
+          "titleUr": "مشکاۃ المصابیح مکتبہ رحمانیہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/MishkarUlMasabeehVol1Rahmania.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw3gfqa5280",
+          "titleUr": "مشکاۃ المصابیح مکتبہ رحمانیہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/MishkarUlMasabeehVol2Rahmania.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "item-mw3gnzda294",
+      "type": "book",
+      "titleUr": "مرقاۃ المفاتیح عربی شرح مشکاۃ المصابیح",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2020/04/mirqat-ul-mafateeh.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw3ghpqr282",
+          "titleUr": "مرقاۃ المفاتیح عربی شرح مشکاۃ المصابیح جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/MirqatUlMafateeh/Mirqat_Ul_Mafateeh_Vol_01.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw3ght8m283",
+          "titleUr": "مرقاۃ المفاتیح عربی شرح مشکاۃ المصابیح جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/MirqatUlMafateeh/Mirqat_Ul_Mafateeh_Vol_02.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw3ghxwx284",
+          "titleUr": "مرقاۃ المفاتیح عربی شرح مشکاۃ المصابیح جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/MirqatUlMafateeh/Mirqat_Ul_Mafateeh_Vol_03.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw3gi2vj285",
+          "titleUr": "مرقاۃ المفاتیح عربی شرح مشکاۃ المصابیح جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/MirqatUlMafateeh/Mirqat_Ul_Mafateeh_Vol_04.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw3gi7ib286",
+          "titleUr": "مرقاۃ المفاتیح عربی شرح مشکاۃ المصابیح جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/MirqatUlMafateeh/Mirqat_Ul_Mafateeh_Vol_05.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw3gichm287",
+          "titleUr": "مرقاۃ المفاتیح عربی شرح مشکاۃ المصابیح جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/MirqatUlMafateeh/Mirqat_Ul_Mafateeh_Vol_06.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw3giguy288",
+          "titleUr": "مرقاۃ المفاتیح عربی شرح مشکاۃ المصابیح جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/MirqatUlMafateeh/Mirqat_Ul_Mafateeh_Vol_07.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw3gil3n289",
+          "titleUr": "مرقاۃ المفاتیح عربی شرح مشکاۃ المصابیح جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/MirqatUlMafateeh/Mirqat_Ul_Mafateeh_Vol_08.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw3giprm290",
+          "titleUr": "مرقاۃ المفاتیح عربی شرح مشکاۃ المصابیح جلد 9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/MirqatUlMafateeh/Mirqat_Ul_Mafateeh_Vol_09.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mw3giufb291",
+          "titleUr": "مرقاۃ المفاتیح عربی شرح مشکاۃ المصابیح جلد 10",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/MirqatUlMafateeh/Mirqat_Ul_Mafateeh_Vol_10.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        },
+        {
+          "id": "11-mw3gjc7q292",
+          "titleUr": "مرقاۃ المفاتیح عربی شرح مشکاۃ المصابیح جلد 11",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/MirqatUlMafateeh/Mirqat_Ul_Mafateeh_Vol_11.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 10
+        },
+        {
+          "id": "12-mw3gjhgt293",
+          "titleUr": "مرقاۃ المفاتیح عربی شرح مشکاۃ المصابیح جلد 12",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/MirqatUlMafateeh/Mirqat_Ul_Mafateeh_Vol_12.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 11
+        }
+      ]
+    },
+    {
+      "id": "item-mw3gtjia305",
+      "type": "book",
+      "titleUr": "لمعات التنقیح عربی شرح مشکاۃ المصابیح",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2020/04/LAMAAT-UN-TANQEEH.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw3gp1gj295",
+          "titleUr": "لمعات التنقیح عربی شرح مشکاۃ المصابیح جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/LAMAAT-UN-TANQEEH-VOL-01.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw3gp59p296",
+          "titleUr": "لمعات التنقیح عربی شرح مشکاۃ المصابیح جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/LAMAAT-UN-TANQEEH-VOL-02.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw3gpa7y297",
+          "titleUr": "لمعات التنقیح عربی شرح مشکاۃ المصابیح جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/LAMAAT-UN-TANQEEH-VOL-03.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw3gplx6298",
+          "titleUr": "لمعات التنقیح عربی شرح مشکاۃ المصابیح جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/LAMAAT-UN-TANQEEH-VOL-04.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw3gpqkw299",
+          "titleUr": "لمعات التنقیح عربی شرح مشکاۃ المصابیح جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/LAMAAT-UN-TANQEEH-VOL-05.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw3gpv0v300",
+          "titleUr": "لمعات التنقیح عربی شرح مشکاۃ المصابیح جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/LAMAAT-UN-TANQEEH-VOL-06.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw3gq3mx301",
+          "titleUr": "لمعات التنقیح عربی شرح مشکاۃ المصابیح جلد7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/LAMAAT-UN-TANQEEH-VOL-07.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw3gq83p302",
+          "titleUr": "لمعات التنقیح عربی شرح مشکاۃ المصابیح جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/LAMAAT-UN-TANQEEH-VOL-08.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw3gqcf3303",
+          "titleUr": "لمعات التنقیح عربی شرح مشکاۃ المصابیح جلد 9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/LAMAAT-UN-TANQEEH-VOL-09.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mw3gqhr9304",
+          "titleUr": "لمعات التنقیح عربی شرح مشکاۃ المصابیح جلد 10",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/LAMAAT-UN-TANQEEH-VOL-10.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        }
+      ]
+    },
+    {
+      "id": "item-mw3gvcbz306",
+      "type": "book",
+      "titleUr": "شرح الطیبی علی مشکاۃ المصابیح",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/sharhut-taibi/Sharhut%2520Taibi.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEaPdOzK42YAi9-ZEFn4g0hC1BQyrdQCBoegEj0Ympuha7SLn2dzgXFplMwexZGLY16TnMx4lDEa7Eff7n1i88XAjQ-givMLxZ2pvbuEzT_3AO8dlBEOQEW38Y2wG36OsGAsgh5_xmfjY/w214-h274/1599561982913868-0.png",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw3h114x317",
+      "type": "book",
+      "titleUr": "فتح الاله عربی شرح مشکاۃ المصابیح",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzhyphenhyphen6rKlWE1MPyqPMRk7xQThg7PSlAbeKy3p3ZaOxDco2ubvT17sQ0hr3Mfy04H3nsTsX3IQge93CuSq3MifR1ZT2kWy2jqfEcHOgr6b_mE7keXNAviXBmnE5ZMvPdGfD5swgomkdh51Y/s1600/20200420_124112.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw3gxrik307",
+          "titleUr": "فتح الاله عربی شرح مشکاۃ المصابیح جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/fathul-ilah-fi-sharah-mishqat/Fathul%20Ilah%20Fi%20Sharah%20Mishqat.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw3gxv2e308",
+          "titleUr": "فتح الاله عربی شرح مشکاۃ المصابیح جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/fathul-ilah-fi-sharah-mishqat/%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D8%A7%20%D9%84%DB%81%20%D8%AC%D9%84%D8%AF%202.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw3gxzks309",
+          "titleUr": "فتح الاله عربی شرح مشکاۃ المصابیح جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/fathul-ilah-fi-sharah-mishqat/%D9%81%D8%AA%D8%AD%20%D8%A2%D9%84%D8%A7%20%D9%84%DB%81%20%D8%AC%D9%84%D8%AF%203.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw3gy4c8310",
+          "titleUr": "فتح الاله عربی شرح مشکاۃ المصابیح جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/fathul-ilah-fi-sharah-mishqat/%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D8%A7%20%D9%84%DB%81%20%D8%AC%D9%84%D8%AF%204.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw3gy92j311",
+          "titleUr": "فتح الاله عربی شرح مشکاۃ المصابیح جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/fathul-ilah-fi-sharah-mishqat/%D9%81%D8%AA%D8%AD%20%D8%A2%D9%84%D8%A7%20%D9%84%DB%81%20%D8%AC%D9%84%D8%AF%205.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw3gydcs312",
+          "titleUr": "فتح الاله عربی شرح مشکاۃ المصابیح جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/fathul-ilah-fi-sharah-mishqat/%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D8%A7%20%D9%84%DB%81%20%D8%AC%D9%84%D8%AF%206.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw3gyhhu313",
+          "titleUr": "فتح الاله عربی شرح مشکاۃ المصابیح جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/fathul-ilah-fi-sharah-mishqat/%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D8%A7%20%D9%84%DB%81%20%D8%AC%D9%84%D8%AF%207.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw3gyllo314",
+          "titleUr": "فتح الاله عربی شرح مشکاۃ المصابیح جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/fathul-ilah-fi-sharah-mishqat/%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D8%A7%20%D9%84%DB%81%20%D8%AC%D9%84%D8%AF%208.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw3gyq6f315",
+          "titleUr": "فتح الاله عربی شرح مشکاۃ المصابیح جلد 9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/fathul-ilah-fi-sharah-mishqat/%D9%81%D8%AA%D8%AD%20%D8%A2%D9%84%D8%A7%20%DA%A9%DB%81%20%D8%AC%D9%84%D8%AF%209.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mw3gz0y8316",
+          "titleUr": "فتح الاله عربی شرح مشکاۃ المصابیح جلد 10",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/fathul-ilah-fi-sharah-mishqat/%D9%81%D8%AA%D8%AD%20%D8%A2%D9%84%D8%A7%20%D9%84%DB%81%20%D8%AC%D9%84%D8%AF%2010.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        }
+      ]
+    },
+    {
+      "id": "item-mw3h3slp319",
+      "type": "book",
+      "titleUr": "ھدایة الرواۃ الی تخریج احادیث المشکاۃ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia801903.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/6_20200604/1%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A9%20%D8%A7%D9%84%D9%89%20%D8%AA%D8%AE%D8%B1%D9%8A%D8%AC%20%D8%A7%D8%AD%D8%A7%D8%AF%D9%8A%D8%AB%20%D8%A7%D9%84%D9%85%D8%B4%D9%83%D8%A7%D8%A9_jp2.zip&file=1%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A9%20%D8%A7%D9%84%D9%89%20%D8%AA%D8%AE%D8%B1%D9%8A%D8%AC%20%D8%A7%D8%AD%D8%A7%D8%AF%D9%8A%D8%AB%20%D8%A7%D9%84%D9%85%D8%B4%D9%83%D8%A7%D8%A9_jp2/1%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A9%20%D8%A7%D9%84%D9%89%20%D8%AA%D8%AE%D8%B1%D9%8A%D8%AC%20%D8%A7%D8%AD%D8%A7%D8%AF%D9%8A%D8%AB%20%D8%A7%D9%84%D9%85%D8%B4%D9%83%D8%A7%D8%A9_0000.jp2&id=6_20200604&scale=8&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw3h530b320",
+          "titleUr": "ھدایة الرواۃ الی تخریج احادیث المشکاۃ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/6_20200604/1%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A9%20%D8%A7%D9%84%D9%89%20%D8%AA%D8%AE%D8%B1%D9%8A%D8%AC%20%D8%A7%D8%AD%D8%A7%D8%AF%D9%8A%D8%AB%20%D8%A7%D9%84%D9%85%D8%B4%D9%83%D8%A7%D8%A9.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw3h56mv321",
+          "titleUr": "ھدایة الرواۃ الی تخریج احادیث المشکاۃ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/6_20200604/2%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A9%20%D8%A7%D9%84%D9%89%20%D8%AA%D8%AE%D8%B1%D9%8A%D8%AC%20%D8%A7%D8%AD%D8%A7%D8%AF%D9%8A%D8%AB%20%D8%A7%D9%84%D9%85%D8%B4%D9%83%D8%A7%D8%A9.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw3h5asz322",
+          "titleUr": "ھدایة الرواۃ الی تخریج احادیث المشکاۃ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/6_20200604/3%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A9%20%D8%A7%D9%84%D9%89%20%D8%AA%D8%AE%D8%B1%D9%8A%D8%AC%20%D8%A7%D8%AD%D8%A7%D8%AF%D9%8A%D8%AB%20%D8%A7%D9%84%D9%85%D8%B4%D9%83%D8%A7%D8%A9.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw3h5f9t323",
+          "titleUr": "ھدایة الرواۃ الی تخریج احادیث المشکاۃ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/6_20200604/4%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A9%20%D8%A7%D9%84%D9%89%20%D8%AA%D8%AE%D8%B1%D9%8A%D8%AC%20%D8%A7%D8%AD%D8%A7%D8%AF%D9%8A%D8%AB%20%D8%A7%D9%84%D9%85%D8%B4%D9%83%D8%A7%D8%A9.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw3h5jg3324",
+          "titleUr": "ھدایة الرواۃ الی تخریج احادیث المشکاۃ جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/6_20200604/5%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A9%20%D8%A7%D9%84%D9%89%20%D8%AA%D8%AE%D8%B1%D9%8A%D8%AC%20%D8%A7%D8%AD%D8%A7%D8%AF%D9%8A%D8%AB%20%D8%A7%D9%84%D9%85%D8%B4%D9%83%D8%A7%D8%A9.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "item-mw3h623v325",
+          "titleUr": "فھرست احادیث مشکاۃ المصابیح",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/6_20200604/6%D9%81%D9%87%D8%B1%D8%B3%D8%AA%20%D8%A7%D9%84%D8%A7%D8%AD%D8%AF%D9%8A%D8%AB%20%D8%A7%D9%84%D9%85%D8%B4%D9%83%D8%A7%D8%A9.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        }
+      ]
+    },
+    {
+      "id": "item-mw3h93dh326",
+      "type": "book",
+      "titleUr": "اشعۃ اللمعات شرح فارسی مشکاۃ المصابیح",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://rekhta.pc.cdn.bitgravity.com/Images/EBooks/small_ashat-ul-lamaat-volume-001-ebooks.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw3ha294327",
+          "titleUr": "اشعۃ اللمعات شرح فارسی مشکاۃ المصابیح جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200604_20200604/%D8%A7%D8%B4%D8%B9%D8%A9%20%D8%A7%D9%84%D9%84%D9%85%D8%B9%D8%A7%D8%AA%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B4%DA%A9%D9%88%D8%A9%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%281%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw3ha7hx328",
+          "titleUr": "اشعۃ اللمعات شرح فارسی مشکاۃ المصابیح جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200604_20200604/%D8%A7%D8%B4%D8%B9%D8%A9%20%D8%A7%D9%84%D9%84%D9%85%D8%B9%D8%A7%D8%AA%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B4%DA%A9%D9%88%D8%A9%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%282%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw3hac2b329",
+          "titleUr": "اشعۃ اللمعات شرح فارسی مشکاۃ المصابیح جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200604_20200604/%D8%A7%D8%B4%D8%B9%D8%A9%20%D8%A7%D9%84%D9%84%D9%85%D8%B9%D8%A7%D8%AA%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B4%DA%A9%D9%88%D8%A9%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%283%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw3haglj330",
+          "titleUr": "اشعۃ اللمعات شرح فارسی مشکاۃ المصابیح جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200604_20200604/%D8%A7%D8%B4%D8%B9%D8%A9%20%D8%A7%D9%84%D9%84%D9%85%D8%B9%D8%A7%D8%AA%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B4%DA%A9%D9%88%D8%A9%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%284%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        }
+      ]
+    },
+    {
+      "id": "item-mw3hle20338",
+      "type": "book",
+      "titleUr": "اشعت اللمعات شرح اردو مشکاۃ المصابیح",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://idara.com/wp-content/uploads/2021/10/ashatul_lumat_sharh_mishkat_urdu_7vols.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw3hhi5b331",
+          "titleUr": "اشعت اللمعات شرح اردو مشکاۃ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/03_20200604/%D8%A7%D8%B4%D8%B9%DB%83%20%D8%A7%D9%84%D9%84%D9%85%D8%B9%D8%A7%D8%AA%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B4%DA%A9%D9%88%D9%B0%DB%83%20%D8%A7%D8%B1%D8%AF%D9%88%2001.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw3hhlo0332",
+          "titleUr": "اشعت اللمعات شرح اردو مشکاۃ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/03_20200604/%D8%A7%D8%B4%D8%B9%DB%83%20%D8%A7%D9%84%D9%84%D9%85%D8%B9%D8%A7%D8%AA%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B4%DA%A9%D9%88%D9%B0%DB%83%20%D8%A7%D8%B1%D8%AF%D9%88%2002.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw3hhtxi333",
+          "titleUr": "اشعت اللمعات شرح اردو مشکاۃ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/03_20200604/%D8%A7%D8%B4%D8%B9%DB%83%20%D8%A7%D9%84%D9%84%D9%85%D8%B9%D8%A7%D8%AA%20%D8%A7%D8%B1%D8%AF%D9%88%2003%20.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw3hhy55334",
+          "titleUr": "اشعت اللمعات شرح اردو مشکاۃ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/03_20200604/%D8%A7%D8%B4%D8%B9%DB%83%20%D8%A7%D9%84%D9%84%D9%85%D8%B9%D8%A7%D8%AA%20%D8%A7%D8%B1%D8%AF%D9%88%2004%20.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw3hi2cl335",
+          "titleUr": "اشعت اللمعات شرح اردو مشکاۃ جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/03_20200604/%D8%A7%D8%B4%D8%B9%DB%83%20%D8%A7%D9%84%D9%84%D9%85%D8%B9%D8%A7%D8%AA%20%D8%A7%D8%B1%D8%AF%D9%88%2005%20.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw3hi6ea336",
+          "titleUr": "اشعت اللمعات شرح اردو مشکاۃ جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/03_20200604/%D8%A7%D8%B4%D8%B9%DB%83%20%D8%A7%D9%84%D9%84%D9%85%D8%B9%D8%A7%D8%AA%20%D8%A7%D8%B1%D8%AF%D9%88%2006.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw3hiaj0337",
+          "titleUr": "اشعت اللمعات شرح اردو مشکاۃ جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/03_20200604/%D8%A7%D8%B4%D8%B9%DB%83%20%D8%A7%D9%84%D9%84%D9%85%D8%B9%D8%A7%D8%AA%20%D8%A7%D8%B1%D8%AF%D9%88%2007%20.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        }
+      ]
+    },
+    {
+      "id": "item-mw3hqgvw342",
+      "type": "book",
+      "titleUr": "مشکاۃ المصابیح مترجم",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia903205.us.archive.org/BookReader/BookReaderImages.php?zip=/8/items/2_20200604_20200604_0219/%D9%85%D8%B4%DA%A9%D9%88%D8%A9%D8%B4%D8%B1%DB%8C%D9%81%20%D8%B9%D9%84%DB%8C%20%D9%85%D8%B4%DA%A9%D9%88%D8%A9%20%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD1_jp2.zip&file=%D9%85%D8%B4%DA%A9%D9%88%D8%A9%D8%B4%D8%B1%DB%8C%D9%81%20%D8%B9%D9%84%DB%8C%20%D9%85%D8%B4%DA%A9%D9%88%D8%A9%20%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD1_jp2/%D9%85%D8%B4%DA%A9%D9%88%D8%A9%D8%B4%D8%B1%DB%8C%D9%81%20%D8%B9%D9%84%DB%8C%20%D9%85%D8%B4%DA%A9%D9%88%D8%A9%20%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD1_0000.jp2&id=2_20200604_20200604_0219&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw3hp8ih339",
+          "titleUr": "مشکاۃ المصابیح مترجم جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2_20200604_20200604_0219/%D9%85%D8%B4%DA%A9%D9%88%D8%A9%D8%B4%D8%B1%DB%8C%D9%81%20%D8%B9%D9%84%DB%8C%20%D9%85%D8%B4%DA%A9%D9%88%D8%A9%20%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD1.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw3hpcpj340",
+          "titleUr": "مشکاۃ المصابیح مترجم جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2_20200604_20200604_0219/%D9%85%D8%B4%DA%A9%D9%88%D8%A9%D8%B4%D8%B1%DB%8C%D9%81%20%D8%B9%D9%84%DB%8C%20%D9%85%D8%B4%DA%A9%D9%88%D8%A9%20%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD2.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw3hph63341",
+          "titleUr": "مشکاۃ المصابیح مترجم جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2_20200604_20200604_0219/%D9%85%D8%B4%DA%A9%D9%88%D8%A9%D8%B4%D8%B1%DB%8C%D9%81%20%D8%B9%D9%84%DB%8C%20%D9%85%D8%B4%DA%A9%D9%88%D8%A9%20%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD3.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "id": "item-mw3hvoih351",
+      "type": "book",
+      "titleUr": "مرآۃ المناجیح اردو شرح مشکاۃ المصابیح نیو ایڈیشن",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia601508.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/5_20200604_20200604/%D9%85%D8%B1%D8%A2%DB%83%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%DB%8C%D8%AD%20%D8%AC%D9%84%D8%AF1_jp2.zip&file=%D9%85%D8%B1%D8%A2%DB%83%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%DB%8C%D8%AD%20%D8%AC%D9%84%D8%AF1_jp2/%D9%85%D8%B1%D8%A2%DB%83%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%DB%8C%D8%AD%20%D8%AC%D9%84%D8%AF1_0000.jp2&id=5_20200604_20200604&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw3hs9us343",
+          "titleUr": "مرآۃ المناجیح اردو شرح مشکاۃ المصابیح نیو ایڈیشن  جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/5_20200604_20200604/%D9%85%D8%B1%D8%A2%DB%83%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%DB%8C%D8%AD%20%D8%AC%D9%84%D8%AF1.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw3hsgj8344",
+          "titleUr": "مرآۃ المناجیح اردو شرح مشکاۃ المصابیح نیو ایڈیشن  جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/5_20200604_20200604/%D9%85%D8%B1%D8%A2%DB%83%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%DB%8C%D8%AD%20%D8%AC%D9%84%D8%AF2.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw3hskxl345",
+          "titleUr": "مرآۃ المناجیح اردو شرح مشکاۃ المصابیح نیو ایڈیشن  جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/5_20200604_20200604/%D9%85%D8%B1%D8%A2%DB%83%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%DB%8C%D8%AD%20%D8%AC%D9%84%D8%AF3.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw3hsrsd346",
+          "titleUr": "مرآۃ المناجیح اردو شرح مشکاۃ المصابیح نیو ایڈیشن  جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/5_20200604_20200604/%D9%85%D8%B1%D8%A2%DB%83%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%DB%8C%D8%AD%20%D8%AC%D9%84%D8%AF4.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw3hszr0347",
+          "titleUr": "مرآۃ المناجیح اردو شرح مشکاۃ المصابیح نیو ایڈیشن  جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/5_20200604_20200604/%D9%85%D8%B1%D8%A2%DB%83%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%DB%8C%D8%AD%20%D8%AC%D9%84%D8%AF5.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw3ht5cm348",
+          "titleUr": "مرآۃ المناجیح اردو شرح مشکاۃ المصابیح نیو ایڈیشن  جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/5_20200604_20200604/%D9%85%D8%B1%D8%A2%DB%83%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%DB%8C%D8%AD%20%D8%AC%D9%84%D8%AF6.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw3htjyl349",
+          "titleUr": "مرآۃ المناجیح اردو شرح مشکاۃ المصابیح نیو ایڈیشن  جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/5_20200604_20200604/%D9%85%D8%B1%D8%A2%DB%83%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%DB%8C%D8%AD%20%D8%AC%D9%84%D8%AF7.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw3htor5350",
+          "titleUr": "مرآۃ المناجیح اردو شرح مشکاۃ المصابیح نیو ایڈیشن  جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/5_20200604_20200604/%D9%85%D8%B1%D8%A2%DB%83%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%DB%8C%D8%AD%20%D8%AC%D9%84%D8%AF8.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        }
+      ]
+    },
+    {
+      "id": "item-mw3i6uo4360",
+      "type": "book",
+      "titleUr": "مرآۃ المناجیح اردو شرح مشکاۃ المصابیح قادری پبلیشر",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia800405.us.archive.org/BookReader/BookReaderImages.php?zip=/32/items/miraat-tul-minajeeh-sharah-mishkat-tul-misahbeeh-jild-1-1/Miraat%20Tul%20Minajeeh%20Sharah%20Mishkat%20Tul%20Misahbeeh%20Jild-1%29%28%D9%85%D8%B1%D8%A7%DB%83%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%DB%8C%D8%AD%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B4%DA%A9%D9%88%DB%83%20%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD%20%D8%AC%D9%84%D8%AF-1_jp2.zip&file=Miraat%20Tul%20Minajeeh%20Sharah%20Mishkat%20Tul%20Misahbeeh%20Jild-1%29%28%D9%85%D8%B1%D8%A7%DB%83%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%DB%8C%D8%AD%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B4%DA%A9%D9%88%DB%83%20%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD%20%D8%AC%D9%84%D8%AF-1_jp2/Miraat%20Tul%20Minajeeh%20Sharah%20Mishkat%20Tul%20Misahbeeh%20Jild-1%29%28%D9%85%D8%B1%D8%A7%DB%83%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%DB%8C%D8%AD%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B4%DA%A9%D9%88%DB%83%20%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD%20%D8%AC%D9%84%D8%AF-1_0000.jp2&id=miraat-tul-minajeeh-sharah-mishkat-tul-misahbeeh-jild-1-1&scale=8&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw3i0cci352",
+          "titleUr": "مرآۃ المناجیح اردو شرح مشکاۃ المصابیح جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/miraat-tul-minajeeh-sharah-mishkat-tul-misahbeeh-jild-1-1/Miraat%20Tul%20Minajeeh%20Sharah%20Mishkat%20Tul%20Misahbeeh%20Jild-1%29%28%D9%85%D8%B1%D8%A7%DB%83%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%DB%8C%D8%AD%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B4%DA%A9%D9%88%DB%83%20%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD%20%D8%AC%D9%84%D8%AF-1.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw3i0gau353",
+          "titleUr": "مرآۃ المناجیح اردو شرح مشکاۃ المصابیح جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/miraat-tul-minajeeh-sharah-mishkat-tul-misahbeeh-jild-2-2/Miraat%20Tul%20Minajeeh%20Sharah%20Mishkat%20Tul%20Misahbeeh%20Jild-2%29%28%D9%85%D8%B1%D8%A7%DB%83%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%DB%8C%D8%AD%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B4%DA%A9%D9%88%DB%83%20%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD%20%D8%AC%D9%84%D8%AF-2.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw3i0nny354",
+          "titleUr": "مرآۃ المناجیح اردو شرح مشکاۃ المصابیح جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/miraat-tul-minajeeh-sharah-mishkat-tul-misahbeeh-jild-3-3/Miraat%20Tul%20Minajeeh%20Sharah%20Mishkat%20Tul%20Misahbeeh%20Jild-3%29%28%D9%85%D8%B1%D8%A7%DB%83%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%DB%8C%D8%AD%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B4%DA%A9%D9%88%DB%83%20%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD%20%D8%AC%D9%84%D8%AF-3.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw3i0s2c355",
+          "titleUr": "مرآۃ المناجیح اردو شرح مشکاۃ المصابیح جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/miraat-tul-minajeeh-sharah-mishkat-tul-misahbeeh-jild-4-4/Miraat%20Tul%20Minajeeh%20Sharah%20Mishkat%20Tul%20Misahbeeh%20Jild-4%29%28%D9%85%D8%B1%D8%A7%DB%83%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%DB%8C%D8%AD%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B4%DA%A9%D9%88%DB%83%20%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD%20%D8%AC%D9%84%D8%AF-4.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw3i0wac356",
+          "titleUr": "مرآۃ المناجیح اردو شرح مشکاۃ المصابیح جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/miraat-tul-minajeeh-sharah-mishkat-tul-misahbeeh-jild-5-5/Miraat%20Tul%20Minajeeh%20Sharah%20Mishkat%20Tul%20Misahbeeh%20Jild-5%29%28%D9%85%D8%B1%D8%A7%DB%83%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%DB%8C%D8%AD%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B4%DA%A9%D9%88%DB%83%20%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD%20%D8%AC%D9%84%D8%AF-5.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw3i10b4357",
+          "titleUr": "مرآۃ المناجیح اردو شرح مشکاۃ المصابیح جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/miraat-tul-minajeeh-sharah-mishkat-tul-misahbeeh-jild-6-6/Miraat%20Tul%20Minajeeh%20Sharah%20Mishkat%20Tul%20Misahbeeh%20Jild-6%29%28%D9%85%D8%B1%D8%A7%DB%83%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%DB%8C%D8%AD%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B4%DA%A9%D9%88%DB%83%20%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD%20%D8%AC%D9%84%D8%AF-6.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw3i14kl358",
+          "titleUr": "مرآۃ المناجیح اردو شرح مشکاۃ المصابیح جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/miraat-tul-minajeeh-sharah-mishkat-tul-misahbeeh-jild-7-7/Miraat%20Tul%20Minajeeh%20Sharah%20Mishkat%20Tul%20Misahbeeh%20Jild-7%29%28%D9%85%D8%B1%D8%A7%DB%83%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%DB%8C%D8%AD%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B4%DA%A9%D9%88%DB%83%20%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD%20%D8%AC%D9%84%D8%AF-7.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw3i18ny359",
+          "titleUr": "مرآۃ المناجیح اردو شرح مشکاۃ المصابیح جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/miraat-tul-minajeeh-sharah-mishkat-tul-misahbeeh-jild-8-8/Miraat%20Tul%20Minajeeh%20Sharah%20Mishkat%20Tul%20Misahbeeh%20Jild-8%29%28%D9%85%D8%B1%D8%A7%DB%83%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%DB%8C%D8%AD%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B4%DA%A9%D9%88%DB%83%20%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD%20%D8%AC%D9%84%D8%AF-8.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        }
+      ]
+    },
+    {
+      "id": "item-mw3iailh361",
+      "type": "book",
+      "titleUr": "مقدمۃ الشیخ عبد الحق محدث دہلوی",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20200604_20200604_1120/%D9%85%D9%82%D8%AF%D9%85%DB%83%20%D8%A7%D9%84%D8%B4%DB%8C%D8%AE%20%D9%85%D8%AA%D9%86.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF_d9mNH3_d8_0Rt8L9AZcD7ulGSArXHeKcOvTag5Vx5ZQ7ceSRK7mQPdT4EqyEj6TSBFAjzsdGeNbiwzwwCNf-1dbhJBvyHQH5wtNMmfydDVRIEt2Yhz-fheoJhupsWa9tDEgvnoZ_5z3APLjXIzL6Vz1EH3m3W-wjIS464ldQQcXJ6Cy2IzGoGOC1Q/s900/IMG_20220428_113948.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw3idygh362",
+      "type": "book",
+      "titleUr": "مقدمۃ الشیخ اردو",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20200604_20200604_1120/%D9%85%D9%82%D8%AF%D9%85%DB%81%20%D9%85%D8%B4%DA%A9%D9%88%D8%A7%D8%A9%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD.PDF.pdf",
+      "coverUrl": "https://ia803205.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/20200604_20200604_1120/%D9%85%D9%82%D8%AF%D9%85%DB%81%20%D9%85%D8%B4%DA%A9%D9%88%D8%A7%D8%A9%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD.PDF_jp2.zip&file=%D9%85%D9%82%D8%AF%D9%85%DB%81%20%D9%85%D8%B4%DA%A9%D9%88%D8%A7%D8%A9%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD.PDF_jp2/%D9%85%D9%82%D8%AF%D9%85%DB%81%20%D9%85%D8%B4%DA%A9%D9%88%D8%A7%D8%A9%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%DB%8C%D8%AD.PDF_0000.jp2&id=20200604_20200604_1120&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw3iet6p363",
+      "type": "book",
+      "titleUr": "مقدمۃ الشیخ مترجم",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "usul-al-fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20200604_20200604_1120/%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D9%85%D9%82%D8%AF%D9%85%DB%83%20%D8%A7%D9%84%D8%B4%DB%8C%D8%AE.pdf",
+      "coverUrl": "https://ia903205.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/20200604_20200604_1120/%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D9%85%D9%82%D8%AF%D9%85%DB%83%20%D8%A7%D9%84%D8%B4%DB%8C%D8%AE_jp2.zip&file=%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D9%85%D9%82%D8%AF%D9%85%DB%83%20%D8%A7%D9%84%D8%B4%DB%8C%D8%AE_jp2/%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D9%85%D9%82%D8%AF%D9%85%DB%83%20%D8%A7%D9%84%D8%B4%DB%8C%D8%AE_0000.jp2&id=20200604_20200604_1120&scale=4&rotate=0",
       "fileSizeBytes": null,
       "tags": [],
       "sortOrder": 0,
