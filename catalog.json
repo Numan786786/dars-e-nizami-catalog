@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 231,
-  "updatedAt": "2026-11-06T02:33:42.561443Z",
+  "catalogVersion": 232,
+  "updatedAt": "2026-11-06T02:35:59.487202Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -25335,7 +25335,7 @@
       "categoryId": "hadith",
       "language": "ur",
       "pdfUrl": "https://www.tanzeemulmadaris.com/Contents/NisabNew/%D9%81%D8%AA%D9%86%DB%81%20%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%D8%AD%D8%AF%DB%8C%D8%AB.pdf",
-      "coverUrl": "",
+      "coverUrl": "https://rekhta.pc.cdn.bitgravity.com/Images/EBooks/small_fitna-e-inkaar-e-hadees-mufti-wali-hasan-tonki-ebooks.jpg",
       "fileSizeBytes": 2273222,
       "tags": [],
       "sortOrder": 0,
