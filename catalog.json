@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 239,
-  "updatedAt": "2026-11-06T12:05:30.927433Z",
+  "catalogVersion": 240,
+  "updatedAt": "2026-11-06T13:15:54.875255Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -27187,6 +27187,25 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "all"
+    },
+    {
+      "id": "item-mw4zza6j0",
+      "type": "book",
+      "titleUr": "مؤطا امام محمد",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "nahw",
+      "language": "ur",
+      "pdfUrl": "https://drive.google.com/file/d/1xodEr1HEe25uALfCK4Zo8KSdpRakUO70/view?usp=drivesdk",
+      "coverUrl": "",
+      "fileSizeBytes": 0,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
     }
   ],
   "isDemo": false
