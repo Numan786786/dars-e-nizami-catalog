@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 241,
-  "updatedAt": "2026-11-06T13:28:19.559714Z",
+  "catalogVersion": 242,
+  "updatedAt": "2026-11-06T15:41:38.405121Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -27198,9 +27198,9 @@
       "description": "",
       "categoryId": "nahw",
       "language": "ur",
-      "pdfUrl": "https://drive.google.com/file/d/1xodEr1HEe25uALfCK4Zo8KSdpRakUO70/view?usp=drivesdk",
-      "coverUrl": "",
-      "fileSizeBytes": 0,
+      "pdfUrl": "https://archive.org/download/20261105_20261105_0230/%D8%A7%D9%84%D9%85%D9%88%D8%B7%D8%A3%20%D9%84%D9%84%D8%A5%D9%85%D8%A7%D9%85%20%D9%85%D8%AD%D9%85%D8%AF.pdf",
+      "coverUrl": "https://maktabatulmadinah.com/Images/01013395/01.webp",
+      "fileSizeBytes": 128602816,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
