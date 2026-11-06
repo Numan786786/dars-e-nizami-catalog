@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 240,
-  "updatedAt": "2026-11-06T13:15:54.875255Z",
+  "catalogVersion": 241,
+  "updatedAt": "2026-11-06T13:28:19.559714Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -26634,7 +26634,7 @@
     {
       "id": "item-mw4k5pvp50",
       "type": "book",
-      "titleUr": "الدرر الاظھر عربی شرح فقہ اکبر",
+      "titleUr": "الدر الاظھر عربی شرح فقہ اکبر",
       "titleEn": "",
       "authorUr": "",
       "authorEn": "",
