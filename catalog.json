@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 243,
-  "updatedAt": "2026-11-06T16:12:21.342700Z",
+  "catalogVersion": 244,
+  "updatedAt": "2026-11-06T16:15:15.622129Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -27218,7 +27218,7 @@
       "categoryId": "nahw",
       "language": "ur",
       "pdfUrl": "",
-      "coverUrl": "https://besturdubooks.net/muwatta-imam-muhammad/",
+      "coverUrl": "https://i0.wp.com/www.besturdubooks.net/wp-content/uploads/2019/01/Al-Muwatta-Imam-Muhammad-1.jpg?resize=200%2C300&ssl=1",
       "fileSizeBytes": null,
       "tags": [],
       "sortOrder": 0,
