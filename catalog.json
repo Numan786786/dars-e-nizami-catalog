@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 242,
-  "updatedAt": "2026-11-06T15:41:38.405121Z",
+  "catalogVersion": 243,
+  "updatedAt": "2026-11-06T16:12:21.342700Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -27206,6 +27206,43 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "boys"
+    },
+    {
+      "id": "item-mw5696bf2",
+      "type": "book",
+      "titleUr": "مؤطا امام محمد مکتبۃ البشریٰ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "nahw",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://besturdubooks.net/muwatta-imam-muhammad/",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw56700g0",
+          "titleUr": "مؤطا امام محمد مکتبۃ البشریٰ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/AL_MUATTA_LI_IMAM_MUHAMMAD_VOL_01_AL_BUSHRA.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw567buj1",
+          "titleUr": "مؤطا امام محمد مکتبۃ البشریٰ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/AL_MUATTA_LI_IMAM_MUHAMMAD_VOL_02_AL_BUSHRA.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
     }
   ],
   "isDemo": false
