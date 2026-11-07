@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 263,
-  "updatedAt": "2026-11-07T15:24:01.742748Z",
+  "catalogVersion": 264,
+  "updatedAt": "2026-11-07T16:24:05.325567Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -32888,6 +32888,179 @@
           "titleUr": "شرح جامع ترمذی جلد 5",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/5_20200603_202006/%D8%B4%D8%B1%D8%AD%20%D8%AC%D8%A7%D9%85%D8%B9%20%D8%AA%D8%B1%D9%85%D8%B0%DB%8C%20%DB%94%20%D9%85%D8%AD%D9%85%D8%AF%20%DB%8C%D8%B3%DB%8C%D9%86%20%D9%82%D8%B5%D9%88%D8%B1%DB%8C%20%20%20%285%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        }
+      ]
+    },
+    {
+      "id": "item-mw6ksdg30",
+      "type": "book",
+      "titleUr": "سنن ابی داؤد مکتبہ رحمانیہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2025/02/SUNAN-E-ABI-DAWUD.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6kszpa1",
+          "titleUr": "سنن ابی داؤد مکتبہ رحمانیہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/SUNAN-E-ABI-DAWUD-VOL-1-RAHMANIA.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6ktamn2",
+          "titleUr": "سنن ابی داؤد مکتبہ رحمانیہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/SUNAN-E-ABI-DAWUD-VOL-2-RAHMANIA.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "item-mw6kv9le5",
+      "type": "book",
+      "titleUr": "سنن ابی داؤد مکتبہ حقانیہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2026/10/SUNAN-E-ABI-DAWUD-HAQQANIA.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6kur6s3",
+          "titleUr": "سنن ابی داؤد مکتبہ حقانیہ  جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/SUNAN-E-ABI-DAWUD-VOL-1-HAQQANIA.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6kv21x4",
+          "titleUr": "سنن ابی داؤد مکتبہ حقانیہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/SUNAN-E-ABI-DAWUD-VOL-2-HAQQANIA.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "item-mw6l1ehj6",
+      "type": "book",
+      "titleUr": "سنن ابی داؤد میر کتب خانہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/SUNAN-E-ABI-DAWUD-MEER-MUHAMMAD.pdf",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2026/10/SUNAN-E-ABI-DAWUD-MEER-MUHAMMAD.jpg",
+      "fileSizeBytes": 42699941,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw6l351b7",
+      "type": "book",
+      "titleUr": "سنن ابی داؤد بیت الافکار",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/besturdubooks3/Sunan-Abi-Dawood---www.besturdubooks.wordpress.com.pdf",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2026/10/Sunan-Abi-Dawood.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw6l42mq8",
+      "type": "book",
+      "titleUr": "سنن ابی داؤد بیروت",
+      "titleEn": "",
+      "authorUr": "شیخ عوامہ",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2018/12/Sunan-e-Abu-Dawud.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6l4h229",
+          "titleUr": "سنن ابی داؤد بیروت جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/dars-e-nizami-dora-e-hadees-8th-year-04/SUNAN_ABI_DAWUD_AWWAMAH_VOL_01.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6l4k6l10",
+          "titleUr": "سنن ابی داؤد بیروت جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/dars-e-nizami-dora-e-hadees-8th-year-04/SUNAN_ABI_DAWUD_AWWAMAH_VOL_02.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw6l4oao11",
+          "titleUr": "سنن ابی داؤد بیروت جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/dars-e-nizami-dora-e-hadees-8th-year-04/SUNAN_ABI_DAWUD_AWWAMAH_VOL_03.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw6l4sad12",
+          "titleUr": "سنن ابی داؤد بیروت جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/dars-e-nizami-dora-e-hadees-8th-year-04/SUNAN_ABI_DAWUD_AWWAMAH_VOL_04.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw6l4w9313",
+          "titleUr": "سنن ابی داؤد بیروت جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/dars-e-nizami-dora-e-hadees-8th-year-04/SUNAN_ABI_DAWUD_AWWAMAH_VOL_05.pdf",
           "fileSizeBytes": null,
           "sortOrder": 4
         }
