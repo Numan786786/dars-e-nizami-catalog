@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 250,
-  "updatedAt": "2026-11-07T08:14:37.041346Z",
+  "catalogVersion": 251,
+  "updatedAt": "2026-11-07T09:04:42.365140Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -117,14 +117,14 @@
     {
       "id": "Darsibooks",
       "type": "book",
-      "titleUr": "صحیح بخاری متن",
+      "titleUr": "صحیح بخاری مکتبۃ البشریٰ",
       "titleEn": "Sahi Bukhari",
       "authorUr": "",
       "authorEn": "",
       "description": "",
       "categoryId": "fiqh",
       "language": "ur",
-      "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_01.pdf",
+      "pdfUrl": "",
       "coverUrl": "https://besturdubooks.net/wp-content/uploads/2022/02/SAHIH_AL_BUKHARI_BUSHRA.jpg",
       "fileSizeBytes": 39917394,
       "tags": [],
@@ -139,7 +139,7 @@
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_01.pdf",
           "fileSizeBytes": null,
-          "sortOrder": null
+          "sortOrder": 0
         },
         {
           "id": "جلد-2-mvfbu0q21",
@@ -147,7 +147,7 @@
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_02.pdf",
           "fileSizeBytes": null,
-          "sortOrder": null
+          "sortOrder": 1
         },
         {
           "id": "جلد-3-mvfbvjnt2",
@@ -155,7 +155,7 @@
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_03.pdf",
           "fileSizeBytes": null,
-          "sortOrder": null
+          "sortOrder": 2
         },
         {
           "id": "جلد-4-mvfbvt1e3",
@@ -163,7 +163,7 @@
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_04.pdf",
           "fileSizeBytes": null,
-          "sortOrder": null
+          "sortOrder": 3
         }
       ]
     },
@@ -29832,6 +29832,359 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "boys"
+    },
+    {
+      "id": "item-mw652i1u140",
+      "type": "book",
+      "titleUr": "صحیح بخاری مترجم",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia801403.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/sahi-bukhari-shareef-matan-o-tarjama-volume-no.-1/Sahi%20Bukhari%20shareef%20%28%20Matan%20o%20Tarjama%29%20Volume%20%20No.%201%2C%20%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%DB%8C%D9%81%20%28%D9%85%D8%AA%D9%86%20%D9%88%20%D8%AA%D8%B1%D8%AC%D9%85%DB%81%29%20%D8%AC%D9%84%D8%AF%D8%A7%D9%88%D9%84%20_jp2.zip&file=Sahi%20Bukhari%20shareef%20%28%20Matan%20o%20Tarjama%29%20Volume%20%20No.%201%2C%20%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%DB%8C%D9%81%20%28%D9%85%D8%AA%D9%86%20%D9%88%20%D8%AA%D8%B1%D8%AC%D9%85%DB%81%29%20%D8%AC%D9%84%D8%AF%D8%A7%D9%88%D9%84%20_jp2/Sahi%20Bukhari%20shareef%20%28%20Matan%20o%20Tarjama%29%20Volume%20%20No.%201%2C%20%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%DB%8C%D9%81%20%28%D9%85%D8%AA%D9%86%20%D9%88%20%D8%AA%D8%B1%D8%AC%D9%85%DB%81%29%20%D8%AC%D9%84%D8%AF%D8%A7%D9%88%D9%84%20_0000.jp2&id=sahi-bukhari-shareef-matan-o-tarjama-volume-no.-1&scale=2&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all",
+      "volumes": [
+        {
+          "id": "1-mw64yek7137",
+          "titleUr": "صحیح بخاری مترجم جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/sahi-bukhari-shareef-matan-o-tarjama-volume-no.-1/Sahi%20Bukhari%20shareef%20%28%20Matan%20o%20Tarjama%29%20Volume%20%20No.%201%2C%20%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%DB%8C%D9%81%20%28%D9%85%D8%AA%D9%86%20%D9%88%20%D8%AA%D8%B1%D8%AC%D9%85%DB%81%29%20%D8%AC%D9%84%D8%AF%D8%A7%D9%88%D9%84%20.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw64yi9r138",
+          "titleUr": "صحیح بخاری مترجم جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/sahi-bukhari-shareef-matan-o-tarjama-volume-no.-2/Sahi%20Bukhari%20shareef%20%28%20Matan%20o%20Tarjama%29%20Volume%20%20No.%202%2C%20%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%DB%8C%D9%81%20%28%D9%85%D8%AA%D9%86%20%D9%88%20%D8%AA%D8%B1%D8%AC%D9%85%DB%81%29%20%D8%AC%D9%84%D8%AF%20%D8%AF%D9%88%D9%85%20%20%20.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw64ypjc139",
+          "titleUr": "صحیح بخاری مترجم جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/sahi-bukhari-shareef-matan-o-tarjama-volume-no.-3/Sahi%20Bukhari%20Shareef%20%28%20Matan%20O%20Tarjama%29%20Volume%20No.%203%2C%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%DB%8C%D9%81%20%28%D9%85%D8%AA%D9%86%20%D9%88%20%D8%AA%D8%B1%D8%AC%D9%85%DB%81%29%20%D8%AC%D9%84%D8%AF%20%20%D8%B3%D9%88%D8%A6%D9%85%20.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "id": "item-mw653199141",
+      "type": "book",
+      "titleUr": "صحیح بخاری تجرید",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20230911_20230911_0733/%D9%85%D8%AE%D8%AA%D8%B5%D8%B1%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D9%85%DA%A9%D9%85%D9%84.pdf",
+      "coverUrl": "https://ia800509.us.archive.org/BookReader/BookReaderImages.php?zip=/9/items/20230911_20230911_0733/%D9%85%D8%AE%D8%AA%D8%B5%D8%B1%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D9%85%DA%A9%D9%85%D9%84_jp2.zip&file=%D9%85%D8%AE%D8%AA%D8%B5%D8%B1%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D9%85%DA%A9%D9%85%D9%84_jp2/%D9%85%D8%AE%D8%AA%D8%B5%D8%B1%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D9%85%DA%A9%D9%85%D9%84_0000.jp2&id=20230911_20230911_0733&scale=2&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all"
+    },
+    {
+      "id": "item-mw655ddx142",
+      "type": "book",
+      "titleUr": "صحیح بخاری امثال",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/ImsalESahiBukhari_MuftiKareemKhan/imsal%20e%20Sahi%20Bukhari%20.pdf",
+      "coverUrl": "https://ia903101.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/ImsalESahiBukhari_MuftiKareemKhan/imsal%20e%20Sahi%20Bukhari%20_jp2.zip&file=imsal%20e%20Sahi%20Bukhari%20_jp2/imsal%20e%20Sahi%20Bukhari%20_0000.jp2&id=ImsalESahiBukhari_MuftiKareemKhan&scale=8&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all"
+    },
+    {
+      "id": "item-mw658y8s146",
+      "type": "book",
+      "titleUr": "صحیح بخاری مترجم پروگریسو بکس",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia902803.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/SahiBukhari_Complete/Sahi%20Bukhari%20Jild1_jp2.zip&file=Sahi%20Bukhari%20Jild1_jp2/Sahi%20Bukhari%20Jild1_0000.jp2&id=SahiBukhari_Complete&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all",
+      "volumes": [
+        {
+          "id": "1-mw6585b7143",
+          "titleUr": "صحیح بخاری مترجم پروگریسو جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/SahiBukhari_Complete/Sahi%20Bukhari%20Jild1.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6588f8144",
+          "titleUr": "صحیح بخاری مترجم پروگریسو جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/SahiBukhari_Complete/Sahi%20Bukhari%20Jild%202.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw658ijp145",
+          "titleUr": "صحیح بخاری مترجم پروگریسو جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/SahiBukhari_Complete/Sahi%20Bukhari%20Jild%203.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "id": "item-mw65fvsb148",
+      "type": "book",
+      "titleUr": "شرح انتخاب حدیث(پروگریسو بکس)",
+      "titleEn": "",
+      "authorUr": "صحیح بخاری+صحیح مسلم+جامع ترمذی+سنن ابی داؤد+سنن نسائی+سنن ابن ماجہ+معانی الآثار",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia600101.us.archive.org/BookReader/BookReaderImages.php?zip=/4/items/IntkhabEAhadees_Complete_2_File/intkhab%20e%20Ahadees_jp2.zip&file=intkhab%20e%20Ahadees_jp2/intkhab%20e%20Ahadees_0000.jp2&id=IntkhabEAhadees_Complete_2_File&scale=16&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls",
+      "volumes": [
+        {
+          "id": "1-mw65fkvx147",
+          "titleUr": "انتخاب حدیث جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/IntkhabEAhadees_Complete_2_File/intkhab%20e%20Ahadees.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "item-mw65ht0g149",
+          "titleUr": "انتخاب حدیث جلد",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/IntkhabEAhadees_Complete_2_File/intkhab%20e%20Ahadees%20Jild%202.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "item-mw65rol5154",
+      "type": "book",
+      "titleUr": "فیوض الباری اردو شرح صحیح بخاری",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia801901.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/1_20200603/%D9%81%DB%8C%D9%88%D8%B6_%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C_%D8%B4%D8%B1%D8%AD_%D8%B5%D8%AD%DB%8C%D8%AD_%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C_%DB%94_%DB%94_%D8%AC%D9%84%D8%AF%281%29_jp2.zip&file=%D9%81%DB%8C%D9%88%D8%B6_%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C_%D8%B4%D8%B1%D8%AD_%D8%B5%D8%AD%DB%8C%D8%AD_%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C_%DB%94_%DB%94_%D8%AC%D9%84%D8%AF%281%29_jp2/%D9%81%DB%8C%D9%88%D8%B6_%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C_%D8%B4%D8%B1%D8%AD_%D8%B5%D8%AD%DB%8C%D8%AD_%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C_%DB%94_%DB%94_%D8%AC%D9%84%D8%AF%281%29_0000.jp2&id=1_20200603&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all",
+      "volumes": [
+        {
+          "id": "1-mw65qifr150",
+          "titleUr": "فیوض الباری اردو شرح صحیح بخاری جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200603/%D9%81%DB%8C%D9%88%D8%B6_%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C_%D8%B4%D8%B1%D8%AD_%D8%B5%D8%AD%DB%8C%D8%AD_%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C_%DB%94_%DB%94_%D8%AC%D9%84%D8%AF%281%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw65qljt151",
+          "titleUr": "فیوض الباری اردو شرح صحیح بخاری جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200603/%D9%81%DB%8C%D9%88%D8%B6_%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C_%D8%B4%D8%B1%D8%AD_%D8%B5%D8%AD%DB%8C%D8%AD_%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C_%DB%94_%DB%94_%D8%AC%D9%84%D8%AF%282%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw65qpc6152",
+          "titleUr": "فیوض الباری اردو شرح صحیح بخاری جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200603/%D9%81%DB%8C%D9%88%D8%B6_%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C_%D8%B4%D8%B1%D8%AD_%D8%B5%D8%AD%DB%8C%D8%AD_%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C_%DB%94_%DB%94_%D8%AC%D9%84%D8%AF%283%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw65qtbg153",
+          "titleUr": "فیوض الباری اردو شرح صحیح بخاری جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200603/%D9%81%DB%8C%D9%88%D8%B6_%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C_%D8%B4%D8%B1%D8%AD_%D8%B5%D8%AD%DB%8C%D8%AD_%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%D8%AC%D9%84%D8%AF%204.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        }
+      ]
+    },
+    {
+      "id": "item-mw65xzdq160",
+      "type": "book",
+      "titleUr": "شرح انتخاب حدیث (لیاقت علی رضوی)",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia601407.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/sharah-intkhab-e-ahadees-Complete/Sharah%20Intkhab%20e%20Ahadees%20Jild%201_jp2.zip&file=Sharah%20Intkhab%20e%20Ahadees%20Jild%201_jp2/Sharah%20Intkhab%20e%20Ahadees%20Jild%201_0000.jp2&id=sharah-intkhab-e-ahadees-Complete&scale=16&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all",
+      "volumes": [
+        {
+          "id": "1-mw65vyzc155",
+          "titleUr": "شرح انتخاب حدیث جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/sharah-intkhab-e-ahadees-Complete/Sharah%20Intkhab%20e%20Ahadees%20Jild%201.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw65w28n156",
+          "titleUr": "شرح انتخاب حدیث جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/sharah-intkhab-e-ahadees-Complete/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%20%D8%A7%D8%AD%D8%A7%D8%AF%DB%8C%D8%AB%20%D8%AC%D9%84%D8%AF%202.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw65w5r8157",
+          "titleUr": "شرح انتخاب حدیث جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/sharah-intkhab-e-ahadees-Complete/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%20%D8%A7%D8%AD%D8%A7%D8%AF%DB%8C%D8%AB%20%D8%AC%D9%84%D8%AF%203.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw65whlz158",
+          "titleUr": "شرح انتخاب حدیث جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/sharah-intkhab-e-ahadees-Complete/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%20%D8%A7%D8%AD%D8%A7%D8%AF%DB%8C%D8%AB%20%D8%AC%D9%84%D8%AF%204.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw65wn13159",
+          "titleUr": "شرح انتخاب حدیث جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/sharah-intkhab-e-ahadees-Complete/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%20%D8%A7%D8%AD%D8%A7%D8%AF%DB%8C%D8%AB%20%D8%AC%D9%84%D8%AF%205.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        }
+      ]
+    },
+    {
+      "id": "item-mw667lvn163",
+      "type": "book",
+      "titleUr": "شرح انتخاب حدیث(اکبر بک سیلر)",
+      "titleEn": "",
+      "authorUr": "صحیح بخاری+صحیح مسلم+جامع ترمذی+سنن ابی داؤد+سنن نسائی+سنن ابن ماجہ+معانی الآثار",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://sidque.com/wp-content/uploads/2026/02/sharah-intkhab-e-ahadees-cover.jpg.webp",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls",
+      "volumes": [
+        {
+          "id": "1-mw666ifm161",
+          "titleUr": "شرح انتخاب حدیث جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1pyDiVmIVxqpfy0TMaKXQwV9XKOc6-Hax/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw667cle162",
+          "titleUr": "شرح انتخاب حدیث جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1LUsYpE2fBg6Y3cQnhhYxUNgvyBvd1Hnh/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "item-mw66g0g1166",
+      "type": "book",
+      "titleUr": "شرح انتخاب حدیث (فرید بک سٹال)",
+      "titleEn": "",
+      "authorUr": "صحیح بخاری+صحیح مسلم+جامع ترمذی+سنن ابی داؤد+سنن نسائی+سنن ابن ماجہ+معانی الآثار",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://khokharbookdepot.com/cdn/shop/files/NewProject_23_64effa6f-b7d4-44e0-8b4c-5c55372d516f.jpg?v=1760193654&width=990",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls",
+      "volumes": [
+        {
+          "id": "1-mw66cijd164",
+          "titleUr": "شرح انتخاب حدیث جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1lMlmCJMhYNRAMsuQ54shaHRvktbES36a/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw66d07d165",
+          "titleUr": "شرح انتخاب حدیث جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1bzyGrjmqJGk-ZBpjpa7QhK8kO4Ulvk8d/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
     }
   ],
   "isDemo": false
