@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 264,
-  "updatedAt": "2026-11-07T16:24:05.325567Z",
+  "catalogVersion": 265,
+  "updatedAt": "2026-11-07T17:31:12.500264Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -33065,6 +33065,482 @@
           "sortOrder": 4
         }
       ]
+    },
+    {
+      "id": "item-mw6mu7xr18",
+      "type": "book",
+      "titleUr": "الهداية متن بیروت",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjvmxmyQiAbvyuHBYHEL2OsIH6ZBlcnFMKqJx_onvV5fX8LcN0eF7alZhLriMk5NzOTR2gZVQ0D52qEqBFMcngEAcV8_-lFDn0dIjOPT81krF73otM0mLAgA-XEZERagVFprFl9IwhrE86OpL27vuu_pRLFzDkhq6ZzZGjoOu-7jg-jpWMCNlCF3pnVbM/w197-h320-rw/Screenshot_2026-04-26-09-46-21-599_com.google.android.apps.docs-edit.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6msrpd14",
+          "titleUr": "الهداية متن بیروت جلد1",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1S06pJ5fUbSYjWKj_X4B1gBj-iT-kSx7y/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6msvcu15",
+          "titleUr": "الهداية متن بیروت جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1Wm_t4ZxjJOofFnfYKC4MDR7KiHFDppKn/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw6mszay16",
+          "titleUr": "الهداية متن بیروت جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1p6LhGNsY6MlZqwKOyVC-zK4XlS1yobKF/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw6mthhf17",
+          "titleUr": "الهداية متن بیروت جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1ZdxCKdCoYRir4l3uVZfSkXwOfPzCBe5c/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        }
+      ]
+    },
+    {
+      "id": "item-mw6mvhe619",
+      "type": "book",
+      "titleUr": "الکفایۃ فی شرح الھدایہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjspsqnxZ8vNNNGtSjxC0AMNprpVCY4KSPGoTdF7vST7t9AUqn2Un3hBy__5Ub8u_2QMBztB2_1GjL619svp3hFzzYQ6NS_0jlaXXCoDwpNQcEvowTb8vsWWP-L6RdQWzVjZ9TpdkyyxNpHZbJjgwmf7xVUbFsAYgz1IhemSZ6fKLP7UC5Rs_V2BIReA8M/w217-h320-rw/Screenshot_2025-11-16-11-26-04-060_com.google.android.apps.docs-edit.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6myaw920",
+          "titleUr": "الکفایۃ فی شرح الھدایہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1cMd2FD4z_tQKbn_UK0abgvczqa3eZ7n4/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6myfdk21",
+          "titleUr": "الکفایۃ فی شرح الھدایہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1U-9HZlAPU7VtOwgy4UEgqeFJsQBRDKr5/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw6myk2d22",
+          "titleUr": "الکفایۃ فی شرح الھدایہ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1SSrlZ8_H7QqLOuW4wT4WMCdQU0OfW7xk/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw6mzcf723",
+          "titleUr": "الکفایۃ فی شرح الھدایہ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1JelsS5S7iyft5Moq0cUgtOCqj7pKCm2N/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw6mzgbj24",
+          "titleUr": "الکفایۃ فی شرح الھدایہ جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/161OMxa0aLkQddo4qLBFX_4NPBPMacOEJ/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw6mzjzz25",
+          "titleUr": "الکفایۃ فی شرح الھدایہ جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1sijzHEpx-77AFu6VF_iq_dQIQxnjo1mF/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw6mznnj26",
+          "titleUr": "الکفایۃ فی شرح الھدایہ جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/18JUw44TJ-UUMc6dIjw1GlNgTGKSmTzBn/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw6mzrcl27",
+          "titleUr": "الکفایۃ فی شرح الھدایہ جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/16hiFVg4rUUACixmUA4B9-N1uV0-NWuiw/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        }
+      ]
+    },
+    {
+      "id": "item-mw6n2qhw28",
+      "type": "book",
+      "titleUr": "معراج الدرایہ فی شرح الھدایہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKGX4VXSZwpgAQOUD1GD1lNWdmZXjNhZnVv282pJfg73n0oxp1I5loQWYoR2adcr1CLWugforA_V6PApfFFruGah2opDDxp_MfMo_fAgjtTUHZU9opmRBREeCuNuFIBUU5rzHmSKWk-0m80RZq_fgpp1K74j6baEEODLiXHUFQsmRsLlNxSquMYyTwT-0/w219-h320-rw/Screenshot_2026-01-01-17-53-53-446_com.google.android.apps.docs-edit.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6n34s629",
+          "titleUr": "معراج الدرایہ فی شرح الھدایہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1DNDkGve3XZDkNBlvIIhj_tmbZNHFpDeK/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6n4qyu30",
+          "titleUr": "معراج الدرایہ فی شرح الھدایہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1VQ4PihSEDuRH1fL6of4yGVXwazj2w7-T/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw6n4ul431",
+          "titleUr": "معراج الدرایہ فی شرح الھدایہ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1EBIIjAJGtEJf3ayLddLgsrtnR5ONs32u/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw6n4yfc32",
+          "titleUr": "معراج الدرایہ فی شرح الھدایہ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1y8gePOFyqfQKeV4ef73ZoKmo1wPRodOn/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw6n52em33",
+          "titleUr": "معراج الدرایہ فی شرح الھدایہ جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1_rPTRFf7JF-eU0HW63r8JaaMNlizx3G-/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw6n55z034",
+          "titleUr": "معراج الدرایہ فی شرح الھدایہ جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1AwIyw41J_i3R9urTMwLNoenNQDMIppNA/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw6n59ox35",
+          "titleUr": "معراج الدرایہ فی شرح الھدایہ جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1zvuu16213X9rKXJ1bjwLxNYJX1ZASR3-/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw6n5ea036",
+          "titleUr": "معراج الدرایہ فی شرح الھدایہ جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://drive.google.com/file/d/1Gol_D6_BNOYN2c5NwwEo5PRr5mXwkj8V/view?usp=drivesdk",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        }
+      ]
+    },
+    {
+      "id": "item-mw6ndjwy37",
+      "type": "book",
+      "titleUr": "العنایہ فی شرح الھدایہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia801607.us.archive.org/BookReader/BookReaderImages.php?zip=/32/items/al-inayah-sharh-al-hidaya/%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9_%D8%B4%D8%B1%D8%AD_%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%A7%D9%94%D9%88%D9%84_%D8%AA%D8%A7%D9%94%D9%84%D9%8A%D9%81_%D8%A7%D9%84%D8%B4%D9%8A%D8%AE_%D8%A7%D9%83%D9%85%D9%84_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%AD%D9%86%D9%81%D9%8A_jp2.zip&file=%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9_%D8%B4%D8%B1%D8%AD_%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%A7%D9%94%D9%88%D9%84_%D8%AA%D8%A7%D9%94%D9%84%D9%8A%D9%81_%D8%A7%D9%84%D8%B4%D9%8A%D8%AE_%D8%A7%D9%83%D9%85%D9%84_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%AD%D9%86%D9%81%D9%8A_jp2/%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9_%D8%B4%D8%B1%D8%AD_%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%A7%D9%94%D9%88%D9%84_%D8%AA%D8%A7%D9%94%D9%84%D9%8A%D9%81_%D8%A7%D9%84%D8%B4%D9%8A%D8%AE_%D8%A7%D9%83%D9%85%D9%84_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%AD%D9%86%D9%81%D9%8A_0000.jp2&id=al-inayah-sharh-al-hidaya&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6ndvet38",
+          "titleUr": "العنایہ فی شرح الھدایہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/al-inayah-sharh-al-hidaya/%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9_%D8%B4%D8%B1%D8%AD_%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%A7%D9%94%D9%88%D9%84_%D8%AA%D8%A7%D9%94%D9%84%D9%8A%D9%81_%D8%A7%D9%84%D8%B4%D9%8A%D8%AE_%D8%A7%D9%83%D9%85%D9%84_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%AD%D9%86%D9%81%D9%8A.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6ne6gz39",
+          "titleUr": "العنایہ فی شرح الھدایہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/al-inayah-sharh-al-hidaya/%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9_%D8%B4%D8%B1%D8%AD_%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D8%AA%D8%A7%D9%94%D9%84%D9%8A%D9%81_%D8%A7%D9%84%D8%B4%D9%8A%D8%AE_%D8%A7%D9%83%D9%85%D9%84_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%AD%D9%86%D9%81%D9%8A.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw6neaph40",
+          "titleUr": "العنایہ فی شرح الھدایہ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/al-inayah-sharh-al-hidaya/%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9_%D8%B4%D8%B1%D8%AD_%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB_%D8%AA%D8%A7%D9%94%D9%84%D9%8A%D9%81_%D8%A7%D9%84%D8%B4%D9%8A%D8%AE_%D8%A7%D9%83%D9%85%D9%84_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%AD%D9%86%D9%81%D9%8A.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw6neej941",
+          "titleUr": "العنایہ فی شرح الھدایہ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/al-inayah-sharh-al-hidaya/%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9_%D8%B4%D8%B1%D8%AD_%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9_%D8%AA%D8%A7%D9%94%D9%84%D9%8A%D9%81_%D8%A7%D9%84%D8%B4%D9%8A%D8%AE_%D8%A7%D9%83%D9%85%D9%84_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%AD%D9%86%D9%81%D9%8A.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw6nei4342",
+          "titleUr": "العنایہ فی شرح الھدایہ جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/al-inayah-sharh-al-hidaya/%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9_%D8%B4%D8%B1%D8%AD_%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3_%D8%AA%D8%A7%D9%94%D9%84%D9%8A%D9%81_%D8%A7%D9%84%D8%B4%D9%8A%D8%AE_%D8%A7%D9%83%D9%85%D9%84_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%AD%D9%86%D9%81%D9%8A.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw6nellb43",
+          "titleUr": "العنایہ فی شرح الھدایہ جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/al-inayah-sharh-al-hidaya/%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9_%D8%B4%D8%B1%D8%AD_%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3_%D8%AA%D8%A7%D9%94%D9%84%D9%8A%D9%81_%D8%A7%D9%84%D8%B4%D9%8A%D8%AE_%D8%A7%D9%83%D9%85%D9%84_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%AD%D9%86%D9%81%D9%8A.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        }
+      ]
+    },
+    {
+      "id": "item-mw6nmq6f44",
+      "type": "book",
+      "titleUr": "شرح الھدایہ المسمیٰ غایۃ البیان نادرۃ الزمان فی آخر الاوان",
+      "titleEn": "",
+      "authorUr": "قوام الدین امیر کاتب",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia801609.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/20230523_20230523_1700/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%201_jp2.zip&file=%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%201_jp2/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%201_0000.jp2&id=20230523_20230523_1700&scale=2&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6nnl6445",
+          "titleUr": "غایۃ البیان عربی شرح ہدایہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230523_20230523_1700/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%201.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6nnotk46",
+          "titleUr": "غایۃ البیان عربی شرح ہدایہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230523_20230523_1700/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%202.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw6nnsuo47",
+          "titleUr": "غایۃ البیان عربی شرح ہدایہ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230523_20230523_1700/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%203.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw6nnwia48",
+          "titleUr": "غایۃ البیان عربی شرح ہدایہ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230523_20230523_1700/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%204.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw6no0ec49",
+          "titleUr": "غایۃ البیان عربی شرح ہدایہ جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230523_20230523_1700/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%205.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw6no45550",
+          "titleUr": "غایۃ البیان عربی شرح ہدایہ جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230523_20230523_1700/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%206.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw6no7oh51",
+          "titleUr": "غایۃ البیان عربی شرح ہدایہ جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230523_20230523_1700/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%207.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw6nobit52",
+          "titleUr": "غایۃ البیان عربی شرح ہدایہ جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230523_20230523_1700/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%208.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw6nofdb53",
+          "titleUr": "غایۃ البیان عربی شرح ہدایہ جلد 9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230523_20230523_1700/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%209.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mw6noj3w54",
+          "titleUr": "غایۃ البیان عربی شرح ہدایہ جلد 10",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230523_20230523_1700/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%2010.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        },
+        {
+          "id": "12-mw6nomko55",
+          "titleUr": "غایۃ البیان عربی شرح ہدایہ جلد 11",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230523_20230523_1700/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%2011.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 10
+        },
+        {
+          "id": "12-mw6np6n256",
+          "titleUr": "غایۃ البیان عربی شرح ہدایہ جلد 12",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230523_20230523_1700/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%2012.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 11
+        },
+        {
+          "id": "13-mw6npamn57",
+          "titleUr": "غایۃ البیان عربی شرح ہدایہ جلد 13",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230523_20230523_1700/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%2013.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 12
+        },
+        {
+          "id": "14-mw6npep858",
+          "titleUr": "غایۃ البیان عربی شرح ہدایہ جلد 14",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230523_20230523_1700/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%2014.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 13
+        },
+        {
+          "id": "15-mw6npjnz59",
+          "titleUr": "غایۃ البیان عربی شرح ہدایہ جلد 15",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230523_20230523_1700/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%2015.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 14
+        },
+        {
+          "id": "16-mw6npnky60",
+          "titleUr": "غایۃ البیان عربی شرح ہدایہ جلد 16",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230523_20230523_1700/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%2016.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 15
+        },
+        {
+          "id": "17-mw6nprlr61",
+          "titleUr": "غایۃ البیان عربی شرح ہدایہ جلد 17",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230523_20230523_1700/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%2017.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 16
+        },
+        {
+          "id": "18-mw6npvpl62",
+          "titleUr": "غایۃ البیان  الدراسہ",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20230523_20230523_1700/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%20%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 17
+        }
+      ]
+    },
+    {
+      "id": "item-mw6nx01g64",
+      "type": "book",
+      "titleUr": "غایۃ النھایہ فی اسانید الہدایہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/GhayatAlNihayah/Ghayat%20al-Nihayah%20.pdf",
+      "coverUrl": "https://ia803105.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/GhayatAlNihayah/Ghayat%20al-Nihayah%20_jp2.zip&file=Ghayat%20al-Nihayah%20_jp2/Ghayat%20al-Nihayah%20_0000.jp2&id=GhayatAlNihayah&scale=8&rotate=0",
+      "fileSizeBytes": 386728,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
     }
   ],
   "isDemo": false
