@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 257,
-  "updatedAt": "2026-11-07T10:12:42.686619Z",
+  "catalogVersion": 258,
+  "updatedAt": "2026-11-07T10:34:57.837915Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -30749,6 +30749,187 @@
           "pdfUrl": "https://archive.org/stream/FathUlBari./Fath_Ul_Bari_Vol_13",
           "fileSizeBytes": null,
           "sortOrder": 13
+        }
+      ]
+    },
+    {
+      "id": "item-mw69hnhe3",
+      "type": "book",
+      "titleUr": "ارشاد الساری عربی شرح صحیح بخاری",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia600709.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/13_20240227/%D8%A5%D8%B1%D8%B4%D8%A7%D8%AF%20%D8%A7%D9%84%D8%B3%D8%A7%D8%B1%D9%8A%20%D9%84%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A7%D9%84%D8%A8%D8%AE%D8%A7%D8%B1%D9%8A%D8%8C%20%20%D8%A7%D9%84%D8%AC%D8%B2%201_jp2.zip&file=%D8%A5%D8%B1%D8%B4%D8%A7%D8%AF%20%D8%A7%D9%84%D8%B3%D8%A7%D8%B1%D9%8A%20%D9%84%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A7%D9%84%D8%A8%D8%AE%D8%A7%D8%B1%D9%8A%D8%8C%20%20%D8%A7%D9%84%D8%AC%D8%B2%201_jp2/%D8%A5%D8%B1%D8%B4%D8%A7%D8%AF%20%D8%A7%D9%84%D8%B3%D8%A7%D8%B1%D9%8A%20%D9%84%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A7%D9%84%D8%A8%D8%AE%D8%A7%D8%B1%D9%8A%D8%8C%20%20%D8%A7%D9%84%D8%AC%D8%B2%201_0000.jp2&id=13_20240227&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw69jktf4",
+          "titleUr": "ارشاد الساری عربی شرح صحیح بخاری جلد 1",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw69jodx5",
+          "titleUr": "ارشاد الساری عربی شرح صحیح بخاری جلد 2",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw69jspn6",
+          "titleUr": "ارشاد الساری عربی شرح صحیح بخاری جلد 3",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw69jxf17",
+          "titleUr": "ارشاد الساری عربی شرح صحیح بخاری جلد 4",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw69m1c78",
+          "titleUr": "ارشاد الساری عربی شرح صحیح بخاری جلد 5",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw69m5sb9",
+          "titleUr": "ارشاد الساری عربی شرح صحیح بخاری جلد 6",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw69ma1210",
+          "titleUr": "ارشاد الساری عربی شرح صحیح بخاری جلد 7",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw69mdwa11",
+          "titleUr": "ارشاد الساری عربی شرح صحیح بخاری جلد 8",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw69mhtf12",
+          "titleUr": "ارشاد الساری عربی شرح صحیح بخاری جلد 9",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mw69mmrc13",
+          "titleUr": "ارشاد الساری عربی شرح صحیح بخاری جلد 10",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        },
+        {
+          "id": "11-mw69mqup14",
+          "titleUr": "ارشاد الساری عربی شرح صحیح بخاری جلد 11",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 10
+        },
+        {
+          "id": "12-mw69mutc15",
+          "titleUr": "ارشاد الساری عربی شرح صحیح بخاری جلد 12",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 11
+        },
+        {
+          "id": "13-mw69mz4i16",
+          "titleUr": "ارشاد الساری عربی شرح صحیح بخاری جلد 13",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 12
+        },
+        {
+          "id": "14-mw69n3v117",
+          "titleUr": "ارشاد الساری عربی شرح صحیح بخاری جلد 14",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 13
+        },
+        {
+          "id": "15-mw69n7yv18",
+          "titleUr": "ارشاد الساری عربی شرح صحیح بخاری جلد 15",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 14
+        },
+        {
+          "id": "16-mw69ncmj19",
+          "titleUr": "ارشاد الساری عربی شرح صحیح بخاری جلد 16",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 15
+        },
+        {
+          "id": "17-mw69ngp520",
+          "titleUr": "ارشاد الساری عربی شرح صحیح بخاری جلد 17",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 16
+        },
+        {
+          "id": "18-mw69nkwm21",
+          "titleUr": "ارشاد الساری عربی شرح صحیح بخاری جلد 18",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 17
+        },
+        {
+          "id": "19-mw69np3n22",
+          "titleUr": "ارشاد الساری عربی شرح صحیح بخاری جلد 19",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 18
+        },
+        {
+          "id": "20-mw69nzwh23",
+          "titleUr": "ارشاد الساری عربی شرح صحیح بخاری جلد 20",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/13_20240227/%D8%A5%D8%B1%D8%B4%D8%A7%D8%AF%20%D8%A7%D9%84%D8%B3%D8%A7%D8%B1%D9%8A%20%D9%84%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A7%D9%84%D8%A8%D8%AE%D8%A7%D8%B1%D9%8A%D8%8C%20%20%D8%A7%D9%84%D8%AC%D8%B2%2020.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 19
         }
       ]
     }
