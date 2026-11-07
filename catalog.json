@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 267,
-  "updatedAt": "2026-11-07T19:01:33.021206Z",
+  "catalogVersion": 268,
+  "updatedAt": "2026-11-07T19:18:07.428529Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -34493,6 +34493,51 @@
           "pdfUrl": "https://archive.org/download/WAQ106821/mam10.pdf",
           "fileSizeBytes": null,
           "sortOrder": 9
+        }
+      ]
+    },
+    {
+      "id": "item-mw6saezm3",
+      "type": "book",
+      "titleUr": "المجتبیٰ عربی شرح مختصر القدوری",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "hadith",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia601501.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/al-mujtaba-sharh-al-quduri/%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D8%A8%D9%89%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%82%D8%AF%D9%88%D8%B1%D9%8A1_jp2.zip&file=%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D8%A8%D9%89%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%82%D8%AF%D9%88%D8%B1%D9%8A1_jp2/%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D8%A8%D9%89%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%82%D8%AF%D9%88%D8%B1%D9%8A1_0000.jp2&id=al-mujtaba-sharh-al-quduri&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6s9avk0",
+          "titleUr": "المجتبیٰ عربی شرح مختصر القدوری جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/al-mujtaba-sharh-al-quduri/%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D8%A8%D9%89%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%82%D8%AF%D9%88%D8%B1%D9%8A1.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6s9eh41",
+          "titleUr": "المجتبیٰ عربی شرح مختصر القدوری جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/al-mujtaba-sharh-al-quduri/%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D8%A8%D9%89%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%82%D8%AF%D9%88%D8%B1%D9%8A%202.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw6s9yus2",
+          "titleUr": "المجتبیٰ عربی شرح مختصر القدوری جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/al-mujtaba-sharh-al-quduri/%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D8%A8%D9%89%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%82%D8%AF%D9%88%D8%B1%D9%8A%203.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
         }
       ]
     }
