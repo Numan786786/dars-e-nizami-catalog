@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 251,
-  "updatedAt": "2026-11-07T09:04:42.365140Z",
+  "catalogVersion": 252,
+  "updatedAt": "2026-11-07T09:08:48.865538Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -30056,7 +30056,7 @@
       "type": "book",
       "titleUr": "شرح انتخاب حدیث (لیاقت علی رضوی)",
       "titleEn": "",
-      "authorUr": "",
+      "authorUr": "صحیح بخاری+صحیح مسلم+جامع ترمذی+سنن ابی داؤد+سنن نسائی+سنن ابن ماجہ+معانی الآثار",
       "authorEn": "",
       "description": "",
       "categoryId": "fiqh",
@@ -30068,7 +30068,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all",
+      "audience": "girls",
       "volumes": [
         {
           "id": "1-mw65vyzc155",
