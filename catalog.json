@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 248,
-  "updatedAt": "2026-11-07T07:38:18.748071Z",
+  "catalogVersion": 249,
+  "updatedAt": "2026-11-07T07:51:20.594795Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -15403,7 +15403,7 @@
       "authorUr": "",
       "authorEn": "",
       "description": "",
-      "categoryId": "tafsir",
+      "categoryId": "nahw",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/FaizanEAslamFiSharahMusnadEImamEAzam/Faizan%20e%20Aslam%20Fi%20Sharah%20Musnad%20e%20imam%20e%20Azam.pdf",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWZdp_AqlXaaSWhD2nWkmE0ahQHvy_alz7fBBHZuK1hyphenhyphenTmi3IRcYqwscGDiwvj3WFN1PmgiWN00Frg_y2liZTcvcvgYPezG46W6SScGzNSonReSzOFFcUwdk5BfPuGE4SlVnGCdwMVAwI/s1600/20181118_170509.jpg",
@@ -15412,7 +15412,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "boys"
+      "audience": "girls"
     },
     {
       "id": "item-mw2ferfj19",
@@ -25752,7 +25752,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "boys"
+      "audience": "all"
     },
     {
       "id": "item-mw4eswyt18",
@@ -26331,7 +26331,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "boys"
+      "audience": "all"
     },
     {
       "id": "item-mw4j6qs827",
@@ -26369,7 +26369,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "boys"
+      "audience": "all"
     },
     {
       "id": "item-mw4j9r8v29",
@@ -27239,7 +27239,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "boys"
+      "audience": "all"
     },
     {
       "id": "item-mw5696bf2",
@@ -27258,7 +27258,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "boys",
+      "audience": "all",
       "volumes": [
         {
           "id": "1-mw56700g0",
@@ -28841,6 +28841,838 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "boys"
+    },
+    {
+      "id": "item-mw63jmpr115",
+      "type": "book",
+      "titleUr": "الھدایہ مکتبۃ البشریٰ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "nahw",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2018/10/Al-Hidayah.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls",
+      "volumes": [
+        {
+          "id": "1-mw2fby7311",
+          "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayahVol1AlBushra.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw2fc39w12",
+          "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AlHidayahVol2AlBushra.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw2fc80r13",
+          "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/AlSadisah6thYear1/AL%20HIDAYAH%20VOL%203-%20AL%20BUSHRA.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw2fcdfa14",
+          "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/AlSadisah6thYear1/AL%20HIDAYAH%20VOL%204-%20AL%20BUSHRA.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw2fchvf15",
+          "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol5AlBushra.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw2fcmkj16",
+          "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol6AlBushra.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw2fcqqm17",
+          "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol7AlBushra.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw2fd27m18",
+          "titleUr": "الھدایہ مکتبۃ البشریٰ جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AlHidayahVol8AlBushra.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        }
+      ]
+    },
+    {
+      "id": "item-mw63jsoa116",
+      "type": "book",
+      "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ اردو",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "nahw",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia803205.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%201_jp2.zip&file=%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%201_jp2/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%201_0000.jp2&id=3_20200604_20200604_0139&scale=2&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls",
+      "volumes": [
+        {
+          "id": "1-mw32d80244",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%201.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw32dbnv45",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%202.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw32dg3w46",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%203.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw32dkm547",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%204.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw32dop048",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%205.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw32dsob49",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%206.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw32e1lf50",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%207.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw32e8zs51",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%208.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw32edi652",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%209.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mw32ei9553",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 10",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%2010.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        },
+        {
+          "id": "11-mw32emfb54",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 11",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%2011.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 10
+        },
+        {
+          "id": "12-mw32eqbs55",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 12",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%2012.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 11
+        },
+        {
+          "id": "13-mw32euea56",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 13",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%2013.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 12
+        },
+        {
+          "id": "14-mw32eyg357",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 14",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%2014.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 13
+        },
+        {
+          "id": "15-mw32f2m858",
+          "titleUr": "فیوضات رضویہ فی تشریحات الھدایہ جلد 15",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200604_20200604_0139/%D8%B4%D8%B1%D8%AD%20%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AC%D9%84%D8%AF%2015.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 14
+        }
+      ]
+    },
+    {
+      "id": "item-mw63juv9117",
+      "type": "book",
+      "titleUr": "الھدایہ مترجم لیاقت رضوی",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "nahw",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia903207.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/4_20200604_202006/%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%AA%D8%B1%D8%AC%D9%851_jp2.zip&file=%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%AA%D8%B1%D8%AC%D9%851_jp2/%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%AA%D8%B1%D8%AC%D9%851_0000.jp2&id=4_20200604_202006&scale=2&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls",
+      "volumes": [
+        {
+          "id": "1-mw32jxhs61",
+          "titleUr": "الھدایہ مترجم جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200604_202006/%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%AA%D8%B1%D8%AC%D9%851.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw32k17n62",
+          "titleUr": "الھدایہ مترجم جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200604_202006/%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%AA%D8%B1%D8%AC%D9%852.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw32k5dn63",
+          "titleUr": "الھدایہ مترجم جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200604_202006/%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%AA%D8%B1%D8%AC%D9%853.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw32k9se64",
+          "titleUr": "الھدایہ مترجم جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200604_202006/%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%AA%D8%B1%D8%AC%D9%854.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        }
+      ]
+    },
+    {
+      "id": "item-mw63k0i2118",
+      "type": "book",
+      "titleUr": "احسن الھدایہ اردو شرح ھدایہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "nahw",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2021/09/Ahsan-ul-Hidaya-Urdu-Sharh-Al-Hidaya.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls",
+      "volumes": [
+        {
+          "id": "1-mw32s98g67",
+          "titleUr": "احسن الھدایہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AhsanUlHidayaUrduSharhAlHidaya1.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw32scwd68",
+          "titleUr": "احسن الھدایہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AhsanUlHidayaUrduSharhAlHidaya2.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw32shkw69",
+          "titleUr": "احسن الھدایہ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/AhsanUlHidayaUrduSharhAlHidaya3.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw32sprb70",
+          "titleUr": "احسن الھدایہ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarjaAlSadisa6thYear/AhsanUlHidayaVol4UrduSharhAlHidaya.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw32sur971",
+          "titleUr": "احسن الھدایہ جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarjaAlSadisa6thYear/AhsanUlHidayaVol5UrduSharhAlHidaya.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw32szb872",
+          "titleUr": "احسن الھدایہ جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarjaAlSadisa6thYear/AhsanUlHidayaVol6UrduSharhAlHidaya.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw32t3wq73",
+          "titleUr": "احسن الھدایہ جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarjaAlSadisa6thYear/AhsanUlHidayaVol7UrduSharhAlHidaya.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw32t85o74",
+          "titleUr": "احسن الھدایہ جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AhsanUlHidayaVol8UrduSharhAlHidaya.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw32tc5w75",
+          "titleUr": "احسن الھدایہ جلد 9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AhsanUlHidayaVol9UrduSharhAlHidaya.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mw32tgkp76",
+          "titleUr": "احسن الھدایہ جلد 10",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AhsanUlHidayaVol10UrduSharhAlHidaya.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        },
+        {
+          "id": "11-mw32tkxm77",
+          "titleUr": "احسن الھدایہ جلد 11",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AhsanUlHidayaVol11UrduSharhAlHidaya.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 10
+        },
+        {
+          "id": "12-mw32tp0o78",
+          "titleUr": "احسن الھدایہ جلد 12",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AhsanUlHidayaVol12UrduSharhAlHidaya.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 11
+        },
+        {
+          "id": "13-mw32tt2y79",
+          "titleUr": "احسن الھدایہ جلد 13",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AhsanUlHidayaVol13UrduSharhAlHidaya.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 12
+        },
+        {
+          "id": "14-mw32twyp80",
+          "titleUr": "احسن الھدایہ جلد 14",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AhsanUlHidayaVol14UrduSharhAlHidaya.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 13
+        },
+        {
+          "id": "15-mw32u24g81",
+          "titleUr": "احسن الھدایہ جلد 15",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AhsanUlHidayaVol15UrduSharhAlHidaya.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 14
+        },
+        {
+          "id": "16-mw32u66582",
+          "titleUr": "احسن الھدایہ جلد 16",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/AhsanUlHidayaVol16UrduSharhAlHidaya.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 15
+        }
+      ]
+    },
+    {
+      "id": "item-mw63k21o119",
+      "type": "book",
+      "titleUr": "اشرف الھدایہ اردو شرح ھدایہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "nahw",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2018/10/ashraf-ul-hidaya-urdu-sharh-al-hidaya.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls",
+      "volumes": [
+        {
+          "id": "1-mw34qnck85",
+          "titleUr": "اشرف الھدایہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/darrs1/ASHRAF_UL_HIDAYAH_VOL_01.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw34r0tf86",
+          "titleUr": "اشرف الھدایہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/darrs1/ASHRAF_UL_HIDAYAH_VOL_02.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw34r4hz87",
+          "titleUr": "اشرف الھدایہ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/darrs1/ASHRAF_UL_HIDAYAH_VOL_03.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw34r8ms88",
+          "titleUr": "اشرف الھدایہ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/darrs1/ASHRAF_UL_HIDAYAH_VOL_04.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw34rcrn89",
+          "titleUr": "اشرف الھدایہ جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/darrs1/ASHRAF_UL_HIDAYAH_VOL_05.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw34rgzu90",
+          "titleUr": "اشرف الھدایہ جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/darrs1/ASHRAF_UL_HIDAYAH_VOL_06.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw34rm1t91",
+          "titleUr": "اشرف الھدایہ جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/darrs1/ASHRAF_UL_HIDAYAH_VOL_07.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw34rpvd92",
+          "titleUr": "اشرف الھدایہ جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/darrs1/ASHRAF_UL_HIDAYAH_VOL_08.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw34rtlf93",
+          "titleUr": "اشرف الھدایہ جلد 9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/darrs1/ASHRAF_UL_HIDAYAH_VOL_09.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mw34ryas94",
+          "titleUr": "اشرف الھدایہ جلد 10",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/darrs1/ASHRAF_UL_HIDAYAH_VOL_10.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        },
+        {
+          "id": "11-mw34s25x95",
+          "titleUr": "اشرف الھدایہ جلد 11",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/darrs1/ASHRAF_UL_HIDAYAH_VOL_11.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 10
+        },
+        {
+          "id": "12-mw34s60l96",
+          "titleUr": "اشرف الھدایہ جلد 12",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/darrs1/ASHRAF_UL_HIDAYAH_VOL_12.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 11
+        },
+        {
+          "id": "13-mw34s9wn97",
+          "titleUr": "اشرف الھدایہ جلد 13",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/darrs1/ASHRAF_UL_HIDAYAH_VOL_13.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 12
+        },
+        {
+          "id": "14-mw34sdtf98",
+          "titleUr": "اشرف الھدایہ جلد 14",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/darrs1/ASHRAF_UL_HIDAYAH_VOL_14.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 13
+        },
+        {
+          "id": "15-mw34shq399",
+          "titleUr": "اشرف الھدایہ جلد 15",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/darrs1/ASHRAF_UL_HIDAYAH_VOL_15.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 14
+        },
+        {
+          "id": "16-mw34slpx100",
+          "titleUr": "اشرف الھدایہ جلد 16",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/darrs1/ASHRAF_UL_HIDAYAH_VOL_16.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 15
+        }
+      ]
+    },
+    {
+      "id": "item-mw63k3la120",
+      "type": "book",
+      "titleUr": "اثمار الھدایہ اُردو شرح ھدایۃ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "nahw",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2021/09/Asmaar-ul-Hidaya.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls",
+      "volumes": [
+        {
+          "id": "1-mw34xczy101",
+          "titleUr": "اثمار الھدایہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/maulana-samiruddin-qasmi/ASMAAR_UL_HIDAYA_VOL_01.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw34xglv102",
+          "titleUr": "اثمار الھدایہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/maulana-samiruddin-qasmi/ASMAAR_UL_HIDAYA_VOL_02.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw34xkve103",
+          "titleUr": "اثمار الھدایہ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/maulana-samiruddin-qasmi/ASMAAR_UL_HIDAYA_VOL_03.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw34xr4q104",
+          "titleUr": "اثمار الھدایہ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/maulana-samiruddin-qasmi/ASMAAR_UL_HIDAYA_VOL_04.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw34xydf105",
+          "titleUr": "اثمار الھدایہ جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/maulana-samiruddin-qasmi/ASMAAR_UL_HIDAYA_VOL_05.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw34y2f1106",
+          "titleUr": "اثمار الھدایہ جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/maulana-samiruddin-qasmi/ASMAAR_UL_HIDAYA_VOL_06.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw34y6qm107",
+          "titleUr": "اثمار الھدایہ جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/maulana-samiruddin-qasmi/ASMAAR_UL_HIDAYA_VOL_07.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw34yae5108",
+          "titleUr": "اثمار الھدایہ جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/maulana-samiruddin-qasmi/ASMAAR_UL_HIDAYA_VOL_08.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw34yegk109",
+          "titleUr": "اثمار الھدایہ جلد 9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/maulana-samiruddin-qasmi/ASMAAR_UL_HIDAYA_VOL_09.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mw34yim1110",
+          "titleUr": "اثمار الھدایہ جلد 10",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/maulana-samiruddin-qasmi/ASMAAR_UL_HIDAYA_VOL_10.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        },
+        {
+          "id": "11-mw34yms4111",
+          "titleUr": "اثمار الھدایہ جلد 11",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/maulana-samiruddin-qasmi/ASMAAR_UL_HIDAYA_VOL_11.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 10
+        },
+        {
+          "id": "12-mw34yr2d112",
+          "titleUr": "اثمار الھدایہ جلد 12",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/maulana-samiruddin-qasmi/ASMAAR_UL_HIDAYA_VOL_12.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 11
+        },
+        {
+          "id": "13-mw34yv49113",
+          "titleUr": "اثمار الھدایہ جلد 13",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/maulana-samiruddin-qasmi/ASMAAR_UL_HIDAYA_VOL_13.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 12
+        },
+        {
+          "id": "14-mw34yys1114",
+          "titleUr": "اثمار الھدایہ جلد 14",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/maulana-samiruddin-qasmi/ASMAAR_UL_HIDAYA_VOL_14.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 13
+        },
+        {
+          "id": "15-mw34z335115",
+          "titleUr": "اثمار الھدایہ جلد 15",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/maulana-samiruddin-qasmi/ASMAAR_UL_HIDAYA_VOL_15.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 14
+        }
+      ]
+    },
+    {
+      "id": "item-mw63m7rw121",
+      "type": "book",
+      "titleUr": "مسند امام اعظم مکتبۃ البشریٰ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "nahw",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/AlSadisah6thYear1/MusnadUlImamIlAazamAlBushra.pdf",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2021/12/Musnad_Ul_Imam_Azam_Al_Bushra.jpg",
+      "fileSizeBytes": 17314536,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls"
+    },
+    {
+      "id": "item-mw63mc99122",
+      "type": "book",
+      "titleUr": "مسند امام اعظم مکتبۃ المدینہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "nahw",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20261105_20261105_0230/%D9%85%D8%B3%D9%86%D8%AF%20%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D9%85%20%D8%A7%D9%84%D8%A3%D8%B9%D8%B8%D9%85%20%D9%85%D8%B9%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%85%D9%84%D9%91%D8%A7%20%D8%B9%D9%84%D9%8A%20%D8%A7%D9%84%D9%82%D8%A7%D8%B1%D9%8A.pdf",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGLHZ7PI2zx7DehKpkw9nnrZxKwPL72RN5FwTTX05jVQ&s=10",
+      "fileSizeBytes": 231316702,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls"
+    },
+    {
+      "id": "item-mw63mfa8123",
+      "type": "book",
+      "titleUr": "مترجم مسند امام اعظم",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "nahw",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/MusnadimameAzam/%D9%85%D8%B3%D9%86%D8%AF%20%D8%A7%D9%85%D8%A7%D9%85%20%D8%A7%D8%B9%D8%B8%D9%85%20.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGuZ3wo3A4GK9OnQYY_uljnIOsmbTkUfJti3sLFC-izSsU2vHbz6B0qH1Wc5pzWbeeBDfp3u9qM3x2yOGgrZ6RahpBcO2Gh7HXon38AnomKjHrOYmWZPVDNfPT2ixsT_kwqPDYF4RwB1E/s1600/IMG_20180929_064353_634.jpg",
+      "fileSizeBytes": 16891973,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls"
+    },
+    {
+      "id": "item-mw63mhtq124",
+      "type": "book",
+      "titleUr": "شرح اردو مسند امام اعظم",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "nahw",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/SharahMusnadimameAzam/%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B3%D9%86%D8%AF%20%D8%A7%D9%85%D8%A7%D9%85%20%D8%A7%D8%B9%D8%B8%D9%85%20.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUHKdKGqm7A02rBDzO_rnA2Cchq9TgOgyFL4N2MdIeK28oj3Rs4INR2BuyQwMKWiTaNfxHgvBUTVEhJMHcpoFR3-K_4-W8GVCZKW2iwGTXK8y6OMNGAy-X0yLi5pkq4ikpanrPc-ii9Ls/s1600/IMG_20180927_063525_055.jpg",
+      "fileSizeBytes": 47647812,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls"
+    },
+    {
+      "id": "item-mw63mjoi125",
+      "type": "book",
+      "titleUr": "فیضان اسلم اردو شرح مسند امام اعظم",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/FaizanEAslamFiSharahMusnadEImamEAzam/Faizan%20e%20Aslam%20Fi%20Sharah%20Musnad%20e%20imam%20e%20Azam.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWZdp_AqlXaaSWhD2nWkmE0ahQHvy_alz7fBBHZuK1hyphenhyphenTmi3IRcYqwscGDiwvj3WFN1PmgiWN00Frg_y2liZTcvcvgYPezG46W6SScGzNSonReSzOFFcUwdk5BfPuGE4SlVnGCdwMVAwI/s1600/20181118_170509.jpg",
+      "fileSizeBytes": 27066777,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw63ry3k126",
+      "type": "book",
+      "titleUr": "تذکرۃ المحدثین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "nahw",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/TazkaraTulMuhadiseen/Tazkara%20Tul%20Muhadiseen.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjePf9Xu84chx5CQGMAcUymbzINi0PRh_46E9YR2M5IL99aeqP17H4AnP8JWuXlFLpG4RrsoW6KGJ-aHAL2UTzRb4k2J6Ik1dqvDvYRMGIe3PpRHXLFevzpJBhlVO6HaPYsxa12Ql269UGUHzY_8GgtHzlQYDMYVRgSC552kOVmUoDI5oFK7Y3BcPJqtw/s267/awais1727.jpeg",
+      "fileSizeBytes": 8621273,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "girls"
     }
   ],
   "isDemo": false
