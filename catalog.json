@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 247,
-  "updatedAt": "2026-11-07T07:27:49.726534Z",
+  "catalogVersion": 248,
+  "updatedAt": "2026-11-07T07:38:18.748071Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -28659,21 +28659,55 @@
     {
       "id": "item-mw62jns2103",
       "type": "book",
-      "titleUr": "الحديقة الندية شرح طریقہ محمدیہ",
+      "titleUr": "الحديقة الندية شرح طریقہ محمدیہ بیروت",
       "titleEn": "",
       "authorUr": "",
       "authorEn": "",
       "description": "",
       "categoryId": "nahw",
       "language": "ur",
-      "pdfUrl": "https://archive.org/download/20230312_20230312_2043/%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D9%82%D8%A9%20%D8%A7%D9%84%D9%86%D8%AF%D9%8A%D8%A9%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82%D8%A9%20%D8%A7%D9%84%D9%85%D8%AD%D9%85%D8%AF%D9%8A%D8%A9%20%D9%88%20%D8%A7%D9%84%D8%B3%D9%8A%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%AF%D9%8A%D8%A9%20%5B%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%5D.pdf",
+      "pdfUrl": "",
       "coverUrl": "https://ia601601.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/20230312_20230312_2043/%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D9%82%D8%A9%20%D8%A7%D9%84%D9%86%D8%AF%D9%8A%D8%A9%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82%D8%A9%20%D8%A7%D9%84%D9%85%D8%AD%D9%85%D8%AF%D9%8A%D8%A9%20%D9%88%20%D8%A7%D9%84%D8%B3%D9%8A%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%AF%D9%8A%D8%A9%20%5B%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%5D_jp2.zip&file=%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D9%82%D8%A9%20%D8%A7%D9%84%D9%86%D8%AF%D9%8A%D8%A9%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82%D8%A9%20%D8%A7%D9%84%D9%85%D8%AD%D9%85%D8%AF%D9%8A%D8%A9%20%D9%88%20%D8%A7%D9%84%D8%B3%D9%8A%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%AF%D9%8A%D8%A9%20%5B%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%5D_jp2/%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D9%82%D8%A9%20%D8%A7%D9%84%D9%86%D8%AF%D9%8A%D8%A9%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82%D8%A9%20%D8%A7%D9%84%D9%85%D8%AD%D9%85%D8%AF%D9%8A%D8%A9%20%D9%88%20%D8%A7%D9%84%D8%B3%D9%8A%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%AF%D9%8A%D8%A9%20%5B%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%5D_0000.jp2&id=20230312_20230312_2043&scale=1&rotate=0",
       "fileSizeBytes": 16136112,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "boys"
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw63asbk111",
+          "titleUr": "الحديقة الندية شرح طریقہ محمدیہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20250518_20250518_0512/%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D9%82%D8%A9%20%D8%A7%D9%84%D9%86%D8%AF%D9%8A%D8%A9%201.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw63avwr112",
+          "titleUr": "الحديقة الندية شرح طریقہ محمدیہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20250518_20250518_0512/%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D9%82%D8%A9%20%D8%A7%D9%84%D9%86%D8%AF%D9%8A%D8%A9%202.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw63b0jn113",
+          "titleUr": "الحديقة الندية شرح طریقہ محمدیہ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20250518_20250518_0512/%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D9%82%D8%A9%20%D8%A7%D9%84%D9%86%D8%AF%D9%8A%D8%A9%203.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw63by8d114",
+          "titleUr": "الحديقة الندية شرح طریقہ محمدیہ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20250518_20250518_0512/%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D9%82%D8%A9%20%D8%A7%D9%84%D9%86%D8%AF%D9%8A%D8%A9%204.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        }
+      ]
     },
     {
       "id": "item-mw62ldxl104",
