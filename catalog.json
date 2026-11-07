@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 244,
-  "updatedAt": "2026-11-06T16:15:15.622129Z",
+  "catalogVersion": 245,
+  "updatedAt": "2026-11-07T05:15:29.762606Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -27243,6 +27243,100 @@
           "sortOrder": 1
         }
       ]
+    },
+    {
+      "id": "item-mw5xyk2s0",
+      "type": "book",
+      "titleUr": "مؤطا امام محمد مکتبۃ المیزان",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "nahw",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/AL_MUATTA_LI_IMAM_MUHAMMAD_AL_MEEZAN.pdf",
+      "coverUrl": "https://ia801403.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/DarsENizamiDoraeHadees8thYear01/AL_MUATTA_LI_IMAM_MUHAMMAD_AL_MEEZAN_jp2.zip&file=AL_MUATTA_LI_IMAM_MUHAMMAD_AL_MEEZAN_jp2/AL_MUATTA_LI_IMAM_MUHAMMAD_AL_MEEZAN_0000.jp2&id=DarsENizamiDoraeHadees8thYear01&scale=8&rotate=0",
+      "fileSizeBytes": 24962156,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw5y0p713",
+      "type": "book",
+      "titleUr": "مؤطا امام محمد اردو",
+      "titleEn": "",
+      "authorUr": "فرید بک سٹال",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "nahw",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia801902.us.archive.org/BookReader/BookReaderImages.php?zip=/32/items/1-._20200604/%281%29%20%D8%B4%D8%B1%D8%AD%20%D9%85%D9%88%D8%B7%D8%A7%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%AD%D9%85%D8%AF.%20%D8%A7%D8%B1%D8%AF%D9%88_jp2.zip&file=%281%29%20%D8%B4%D8%B1%D8%AD%20%D9%85%D9%88%D8%B7%D8%A7%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%AD%D9%85%D8%AF.%20%D8%A7%D8%B1%D8%AF%D9%88_jp2/%281%29%20%D8%B4%D8%B1%D8%AD%20%D9%85%D9%88%D8%B7%D8%A7%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%AD%D9%85%D8%AF.%20%D8%A7%D8%B1%D8%AF%D9%88_0000.jp2&id=1-._20200604&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all",
+      "volumes": [
+        {
+          "id": "1-mw5y07m21",
+          "titleUr": "مؤطا امام محمد جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/SharahMaotaImamMuhammad/Sharah%20Maota%20Imam%20Muhammad.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw5y0mra2",
+          "titleUr": "مؤطا امام محمد جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/SharahMaotaImamMuhammad/%D8%B4%D8%B1%D8%AD%20%D9%85%D9%88%D8%B7%D8%A7%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%AC%D9%84%D8%AF%202.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "item-mw5y3tgg4",
+      "type": "book",
+      "titleUr": "فتوحات جہانگیری شرح اردو مؤطا امام محمد",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "nahw",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/JahangheeriSharahAlMaotaimamMuhammad/%D8%AC%DB%81%D8%A7%D9%86%DA%AF%DB%8C%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%85%D9%88%D8%B7%D8%A7%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%AD%D9%85%D8%AF%20.pdf",
+      "coverUrl": "https://ia801902.us.archive.org/BookReader/BookReaderImages.php?zip=/32/items/1-._20200604/%D8%AC%DB%81%D8%A7%D9%86%DA%AF%DB%8C%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%85%D9%88%D8%B7%D8%A7%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%AD%D9%85%D8%AF_jp2.zip&file=%D8%AC%DB%81%D8%A7%D9%86%DA%AF%DB%8C%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%85%D9%88%D8%B7%D8%A7%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%AD%D9%85%D8%AF_jp2/%D8%AC%DB%81%D8%A7%D9%86%DA%AF%DB%8C%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%85%D9%88%D8%B7%D8%A7%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%AD%D9%85%D8%AF_0000.jp2&id=1-._20200604&scale=8&rotate=0",
+      "fileSizeBytes": 15943520,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all"
+    },
+    {
+      "id": "item-mw5y4nbx5",
+      "type": "book",
+      "titleUr": "مؤطا امام محمد مترجم",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "nahw",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/MaotaImamMuhammad/Maota%20imam%20Muhammad%20.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnE_zASWlG_5vcc3y0rVz-fbVK0H2duLdHXZKZpyFwwP5lpEGnsHbm-tSSfEgtAYntafxDutzGZXqWMZ4nBqbiCHdtQX9dfkAVwQh089EeRbZxKUnXcdcDveirNqj7BKFVyGeQVxdfaI8/s1600/20190127_140732.jpg",
+      "fileSizeBytes": 21052295,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all"
     }
   ],
   "isDemo": false
