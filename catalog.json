@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 259,
-  "updatedAt": "2026-11-07T10:43:07.377259Z",
+  "catalogVersion": 260,
+  "updatedAt": "2026-11-07T11:05:58.927754Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -30975,6 +30975,216 @@
           "pdfUrl": "https://archive.org/download/2_20200603_202006/%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A7%D9%84%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC3.pdf",
           "fileSizeBytes": null,
           "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "id": "item-mw6aj88q9",
+      "type": "book",
+      "titleUr": "نزھۃ القاری اردو شرح صحیح بخاری",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia903201.us.archive.org/BookReader/BookReaderImages.php?zip=/33/items/2_20200603/%D9%86%D8%B2%DA%BE%D8%A9%20%D8%A7%D9%84%D9%82%D8%A7%D8%B1%DB%8C1_jp2.zip&file=%D9%86%D8%B2%DA%BE%D8%A9%20%D8%A7%D9%84%D9%82%D8%A7%D8%B1%DB%8C1_jp2/%D9%86%D8%B2%DA%BE%D8%A9%20%D8%A7%D9%84%D9%82%D8%A7%D8%B1%DB%8C1_0000.jp2&id=2_20200603&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6aiq2w4",
+          "titleUr": "نزھۃ القاری اردو شرح صحیح بخاری جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2_20200603/%D9%86%D8%B2%DA%BE%D8%A9%20%D8%A7%D9%84%D9%82%D8%A7%D8%B1%DB%8C1.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6aiudf5",
+          "titleUr": "نزھۃ القاری اردو شرح صحیح بخاری جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2_20200603/%D9%86%D8%B2%DA%BE%D8%A9%20%D8%A7%D9%84%D9%82%D8%A7%D8%B1%DB%8C2.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw6aiypv6",
+          "titleUr": "نزھۃ القاری اردو شرح صحیح بخاری جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2_20200603/%D9%86%D8%B2%DA%BE%D8%A9%D8%A7%D9%84%D9%82%D8%A7%D8%B1%DB%8C3.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw6aj3l07",
+          "titleUr": "نزھۃ القاری اردو شرح صحیح بخاری جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2_20200603/%D9%86%D8%B2%DA%BE%D8%A9%D8%A7%D9%84%D9%82%D8%A7%D8%B1%DB%8C4.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw6aj7lv8",
+          "titleUr": "نزھۃ القاری اردو شرح صحیح بخاری جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2_20200603/%D9%86%D8%B2%DA%BE%D8%A9%D8%A7%D9%84%D9%82%D8%A7%D8%B1%DB%8C5.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        }
+      ]
+    },
+    {
+      "id": "item-mw6ao9cn25",
+      "type": "book",
+      "titleUr": "نعمۃ الباری اردو شرح صحیح بخاری",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia801904.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/16_20200603/%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%281%29_jp2.zip&file=%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%281%29_jp2/%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%281%29_0002.jp2&id=16_20200603&scale=2&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6ammb410",
+          "titleUr": "نعمۃ الباری اردو شرح صحیح بخاری جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/16_20200603/%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%281%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6amqew11",
+          "titleUr": "نعمۃ الباری اردو شرح صحیح بخاری جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/16_20200603/%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%282%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw6amtyk12",
+          "titleUr": "نعمۃ الباری اردو شرح صحیح بخاری جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/16_20200603/%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%283%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw6amyly13",
+          "titleUr": "نعمۃ الباری اردو شرح صحیح بخاری جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/16_20200603/%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%284%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw6an2l014",
+          "titleUr": "نعمۃ الباری اردو شرح صحیح بخاری جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/16_20200603/%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%285%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw6an6cw15",
+          "titleUr": "نعمۃ الباری اردو شرح صحیح بخاری جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/16_20200603/%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%286%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw6ana4116",
+          "titleUr": "نعمۃ الباری اردو شرح صحیح بخاری جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/16_20200603/%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%287%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw6andsr17",
+          "titleUr": "نعمۃ الباری اردو شرح صحیح بخاری جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/16_20200603/%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%288%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw6anh7h18",
+          "titleUr": "نعمۃ الباری اردو شرح صحیح بخاری جلد 9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/16_20200603/%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%289%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mw6anmc519",
+          "titleUr": "نعمۃ الباری اردو شرح صحیح بخاری جلد 10",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/16_20200603/%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%2810%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        },
+        {
+          "id": "11-mw6anrhf20",
+          "titleUr": "نعمۃ الباری اردو شرح صحیح بخاری جلد 11",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/16_20200603/%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%2811%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 10
+        },
+        {
+          "id": "12-mw6anvgz21",
+          "titleUr": "نعمۃ الباری اردو شرح صحیح بخاری جلد 12",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/16_20200603/%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%2812%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 11
+        },
+        {
+          "id": "13-mw6anz7p22",
+          "titleUr": "نعمۃ الباری اردو شرح صحیح بخاری جلد 13",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/16_20200603/%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%2813%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 12
+        },
+        {
+          "id": "14-mw6ao3oi23",
+          "titleUr": "نعمۃ الباری اردو شرح صحیح بخاری جلد 14",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/16_20200603/%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%2814%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 13
+        },
+        {
+          "id": "15-mw6ao8hn24",
+          "titleUr": "نعمۃ الباری اردو شرح صحیح بخاری جلد 15",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/16_20200603/%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%2815%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 14
+        },
+        {
+          "id": "16-mw6arvob26",
+          "titleUr": "نعمۃ الباری اردو شرح صحیح بخاری جلد 16",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/16_20200603/%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%B5%D8%AD%DB%8C%D8%AD%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C%20%2816%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 15
         }
       ]
     }
