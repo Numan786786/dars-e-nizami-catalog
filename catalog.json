@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 265,
-  "updatedAt": "2026-11-07T17:31:12.500264Z",
+  "catalogVersion": 266,
+  "updatedAt": "2026-11-07T18:45:04.243056Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -33541,6 +33541,1043 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "boys"
+    },
+    {
+      "id": "item-mw6onhcf67",
+      "type": "book",
+      "titleUr": "بذل المجہود عربی شرح سنن ابی داؤد",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2018/12/Bazlul_Majhood.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6on0ql65",
+          "titleUr": "بذل المجہود عربی شرح سنن ابی داؤد جلد1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BazlulMajhood/Bazlul_Majhood_Vol_01.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6onfwt66",
+          "titleUr": "بذل المجہود عربی شرح سنن ابی داؤد جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BazlulMajhood/Bazlul_Majhood_Vol_02.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw6onrpq68",
+          "titleUr": "بذل المجہود عربی شرح سنن ابی داؤد جلد3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BazlulMajhood/Bazlul_Majhood_Vol_03.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw6onvt269",
+          "titleUr": "بذل المجہود عربی شرح سنن ابی داؤد جلد4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BazlulMajhood/Bazlul_Majhood_Vol_04.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw6onzlu70",
+          "titleUr": "بذل المجہود عربی شرح سنن ابی داؤد جلد5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BazlulMajhood/Bazlul_Majhood_Vol_05.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw6oo43371",
+          "titleUr": "بذل المجہود عربی شرح سنن ابی داؤد جلد6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BazlulMajhood/Bazlul_Majhood_Vol_06.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw6oo82872",
+          "titleUr": "بذل المجہود عربی شرح سنن ابی داؤد جلد7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BazlulMajhood/Bazlul_Majhood_Vol_07.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw6oobw573",
+          "titleUr": "بذل المجہود عربی شرح سنن ابی داؤد جلد8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BazlulMajhood/Bazlul_Majhood_Vol_08.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw6oofhn74",
+          "titleUr": "بذل المجہود عربی شرح سنن ابی داؤد جلد9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BazlulMajhood/Bazlul_Majhood_Vol_09.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mw6oojzz75",
+          "titleUr": "بذل المجہود عربی شرح سنن ابی داؤد جلد10",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BazlulMajhood/Bazlul_Majhood_Vol_10.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        },
+        {
+          "id": "11-mw6ooqtl76",
+          "titleUr": "بذل المجہود عربی شرح سنن ابی داؤد جلد11",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BazlulMajhood/Bazlul_Majhood_Vol_11.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 10
+        },
+        {
+          "id": "12-mw6oow0q77",
+          "titleUr": "بذل المجہود عربی شرح سنن ابی داؤد جلد12",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BazlulMajhood/Bazlul_Majhood_Vol_12.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 11
+        },
+        {
+          "id": "13-mw6op7sh78",
+          "titleUr": "بذل المجہود عربی شرح سنن ابی داؤد جلد13",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BazlulMajhood/Bazlul_Majhood_Vol_13.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 12
+        },
+        {
+          "id": "14-mw6opccm79",
+          "titleUr": "بذل المجہود عربی شرح سنن ابی داؤد جلد14",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BazlulMajhood/Bazlul_Majhood_Vol_14.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 13
+        }
+      ]
+    },
+    {
+      "id": "item-mw6oz3wg80",
+      "type": "book",
+      "titleUr": "شرح سنن ابی داؤد للعینی",
+      "titleEn": "",
+      "authorUr": "بدرالدین عینی",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2018/12/Sharh-e-Abi-Dawood.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6ozh5i81",
+          "titleUr": "شرح سنن ابی داؤد للعینی جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/SharhEAbiDawoodAeni/Sharh-e-Abi-Dawood-Aeni-Vol-01.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6ozk5c82",
+          "titleUr": "شرح سنن ابی داؤد للعینی جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/SharhEAbiDawoodAeni/Sharh-e-Abi-Dawood-Aeni-Vol-02.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw6oznx983",
+          "titleUr": "شرح سنن ابی داؤد للعینی جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/SharhEAbiDawoodAeni/Sharh-e-Abi-Dawood-Aeni-Vol-03.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw6ozrl584",
+          "titleUr": "شرح سنن ابی داؤد للعینی جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/SharhEAbiDawoodAeni/Sharh-e-Abi-Dawood-Aeni-Vol-04.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw6ozw2n85",
+          "titleUr": "شرح سنن ابی داؤد للعینی جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/SharhEAbiDawoodAeni/Sharh-e-Abi-Dawood-Aeni-Vol-05.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw6ozzjf86",
+          "titleUr": "شرح سنن ابی داؤد للعینی جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/SharhEAbiDawoodAeni/Sharh-e-Abi-Dawood-Aeni-Vol-06.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw6p030j87",
+          "titleUr": "شرح سنن ابی داؤد للعینی جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/SharhEAbiDawoodAeni/Sharh-e-Abi-Dawood-Aeni-Vol-07.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        }
+      ]
+    },
+    {
+      "id": "item-mw6p2mg188",
+      "type": "book",
+      "titleUr": "فتح الودود عربی شرح سنن ابی داؤد",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2019/10/Fathul_Wadood.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6p30eu89",
+          "titleUr": "فتح الودود عربی شرح سنن ابی داؤد جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2110_19/FATHUL_WADOOD_VOL_01.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6p33rb90",
+          "titleUr": "فتح الودود عربی شرح سنن ابی داؤد جلد2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2110_19/FATHUL_WADOOD_VOL_02.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw6p37sl91",
+          "titleUr": "فتح الودود عربی شرح سنن ابی داؤد جلد3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2110_19/FATHUL_WADOOD_VOL_03.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw6p3bgb92",
+          "titleUr": "فتح الودود عربی شرح سنن ابی داؤد جلد4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2110_19/FATHUL_WADOOD_VOL_04.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        }
+      ]
+    },
+    {
+      "id": "item-mw6p6dih93",
+      "type": "book",
+      "titleUr": "عون المعبود عربی شرح سنن ابی داؤد",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia903202.us.archive.org/BookReader/BookReaderImages.php?zip=/26/items/8_20200602_20200602_0422/%D8%B9%D9%88%D9%86%20%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D9%88%D8%AF%201_jp2.zip&file=%D8%B9%D9%88%D9%86%20%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D9%88%D8%AF%201_jp2/%D8%B9%D9%88%D9%86%20%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D9%88%D8%AF%201_0000.jp2&id=8_20200602_20200602_0422&scale=8&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6p6t6594",
+          "titleUr": "عون المعبود عربی شرح سنن ابی داؤد جلد1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/8_20200602_20200602_0422/%D8%B9%D9%88%D9%86%20%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D9%88%D8%AF%201.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6p6waf95",
+          "titleUr": "عون المعبود عربی شرح سنن ابی داؤد جلد2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/8_20200602_20200602_0422/%D8%B9%D9%88%D9%86%20%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D9%88%D8%AF%202.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw6p6zu996",
+          "titleUr": "عون المعبود عربی شرح سنن ابی داؤد جلد3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/8_20200602_20200602_0422/%D8%B9%D9%88%D9%86%20%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D9%88%D8%AF%203.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw6p73k297",
+          "titleUr": "عون المعبود عربی شرح سنن ابی داؤد جلد4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/8_20200602_20200602_0422/%D8%B9%D9%88%D9%86%20%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D9%88%D8%AF%204.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw6p771f98",
+          "titleUr": "عون المعبود عربی شرح سنن ابی داؤد جلد5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/8_20200602_20200602_0422/%D8%B9%D9%88%D9%86%20%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D9%88%D8%AF%205.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw6p7ai799",
+          "titleUr": "عون المعبود عربی شرح سنن ابی داؤد جلد6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/8_20200602_20200602_0422/%D8%B9%D9%88%D9%86%20%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D9%88%D8%AF%206.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw6p7dza100",
+          "titleUr": "عون المعبود عربی شرح سنن ابی داؤد جلد7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/8_20200602_20200602_0422/%D8%B9%D9%88%D9%86%20%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D9%88%D8%AF%207.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw6p7hdy101",
+          "titleUr": "عون المعبود عربی شرح سنن ابی داؤد جلد8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/8_20200602_20200602_0422/%D8%B9%D9%88%D9%86%20%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D9%88%D8%AF%208.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw6p7l6b102",
+          "titleUr": "عون المعبود عربی شرح سنن ابی داؤد جلد9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/8_20200602_20200602_0422/%D8%B9%D9%88%D9%86%20%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D9%88%D8%AF%209.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mw6p7ox7103",
+          "titleUr": "عون المعبود عربی شرح سنن ابی داؤد جلد10",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/8_20200602_20200602_0422/%D8%B9%D9%88%D9%86%20%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D9%88%D8%AF%2010.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        },
+        {
+          "id": "11-mw6p7t0k104",
+          "titleUr": "عون المعبود عربی شرح سنن ابی داؤد جلد11",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/8_20200602_20200602_0422/%D8%B9%D9%88%D9%86%20%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D9%88%D8%AF%2011.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 10
+        },
+        {
+          "id": "12-mw6p7wrg105",
+          "titleUr": "عون المعبود عربی شرح سنن ابی داؤد جلد12",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/8_20200602_20200602_0422/%D8%B9%D9%88%D9%86%20%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D9%88%D8%AF%2012.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 11
+        },
+        {
+          "id": "13-mw6p80ml106",
+          "titleUr": "عون المعبود عربی شرح سنن ابی داؤد جلد13",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/8_20200602_20200602_0422/%D8%B9%D9%88%D9%86%20%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D9%88%D8%AF%2013.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 12
+        },
+        {
+          "id": "14-mw6p84dn107",
+          "titleUr": "عون المعبود عربی شرح سنن ابی داؤد جلد14",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/8_20200602_20200602_0422/%D8%B9%D9%88%D9%86%20%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D9%88%D8%AF%2014.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 13
+        }
+      ]
+    },
+    {
+      "id": "item-mw6pe4uv109",
+      "type": "book",
+      "titleUr": "شرح ابن رسلان سنن ابی داؤد",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia800705.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/21_20200603/%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%281%29_jp2.zip&file=%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%281%29_jp2/%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%281%29_0000.jp2&id=21_20200603&scale=8&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6pe2ku108",
+          "titleUr": "شرح ابن رسلان سنن ابی داؤد جلد1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/21_20200603/%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%282%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6pehyb110",
+          "titleUr": "شرح ابن رسلان سنن ابی داؤد جلد2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/21_20200603/%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%283%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw6pem1u111",
+          "titleUr": "شرح ابن رسلان سنن ابی داؤد جلد3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/21_20200603/%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%284%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw6peqfa112",
+          "titleUr": "شرح ابن رسلان سنن ابی داؤد جلد4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/21_20200603/%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%285%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw6peu5e113",
+          "titleUr": "شرح ابن رسلان سنن ابی داؤد جلد5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/21_20200603/%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%286%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw6pexw7114",
+          "titleUr": "شرح ابن رسلان سنن ابی داؤد جلد6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/21_20200603/%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%287%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw6pf1hj115",
+          "titleUr": "شرح ابن رسلان سنن ابی داؤد جلد7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/21_20200603/%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%288%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw6pf4zu116",
+          "titleUr": "شرح ابن رسلان سنن ابی داؤد جلد8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/21_20200603/%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%289%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw6pf94l117",
+          "titleUr": "شرح ابن رسلان سنن ابی داؤد جلد9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/21_20200603/%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%2810%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mw6pfcy7118",
+          "titleUr": "شرح ابن رسلان سنن ابی داؤد جلد10",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/21_20200603/%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%2811%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        },
+        {
+          "id": "12-mw6pfgkh119",
+          "titleUr": "شرح ابن رسلان سنن ابی داؤد جلد 11",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/21_20200603/%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%2812%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 10
+        },
+        {
+          "id": "12-mw6pfxtb120",
+          "titleUr": "شرح ابن رسلان سنن ابی داؤد جلد12",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/21_20200603/%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%2813%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 11
+        },
+        {
+          "id": "13-mw6pgm24121",
+          "titleUr": "شرح ابن رسلان سنن ابی داؤد جلد13",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/21_20200603/%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%2814%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 12
+        },
+        {
+          "id": "14-mw6pgq28122",
+          "titleUr": "شرح ابن رسلان سنن ابی داؤد جلد14",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/21_20200603/%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%2815%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 13
+        },
+        {
+          "id": "15-mw6pgtq9123",
+          "titleUr": "شرح ابن رسلان سنن ابی داؤد جلد15",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/21_20200603/%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%2816%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 14
+        },
+        {
+          "id": "16-mw6pgxmc124",
+          "titleUr": "شرح ابن رسلان سنن ابی داؤد جلد16",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/21_20200603/%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%2817%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 15
+        },
+        {
+          "id": "17-mw6ph1l1125",
+          "titleUr": "شرح ابن رسلان سنن ابی داؤد جلد17",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/21_20200603/%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%2818%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 16
+        },
+        {
+          "id": "18-mw6ph5dm126",
+          "titleUr": "شرح ابن رسلان سنن ابی داؤد جلد18",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/21_20200603/%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%2819%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 17
+        },
+        {
+          "id": "19-mw6ph9d3127",
+          "titleUr": "شرح ابن رسلان سنن ابی داؤد جلد19",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/21_20200603/%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%2820%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 18
+        },
+        {
+          "id": "20-mw6phls0128",
+          "titleUr": "شرح ابن رسلان سنن ابی داؤد جلد20",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/21_20200603/%D8%A7%D8%A8%D9%86%20%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%2821%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 19
+        }
+      ]
+    },
+    {
+      "id": "item-mw6pnwz4130",
+      "type": "book",
+      "titleUr": "سنن ابی داؤد دارالتأصیل",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia903206.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/1_20200601_20200601_0219/%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%D8%A8%DB%8C%D8%B1%D8%AA%20%D9%85%D8%AA%D9%86%20%281%29_jp2.zip&file=%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%D8%A8%DB%8C%D8%B1%D8%AA%20%D9%85%D8%AA%D9%86%20%281%29_jp2/%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%D8%A8%DB%8C%D8%B1%D8%AA%20%D9%85%D8%AA%D9%86%20%281%29_0000.jp2&id=1_20200601_20200601_0219&scale=8&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6pnvpm129",
+          "titleUr": "سنن ابی داؤد دارالتأصیل جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200601_20200601_0219/%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%D8%A8%DB%8C%D8%B1%D8%AA%20%D9%85%D8%AA%D9%86%20%282%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6po8wa131",
+          "titleUr": "سنن ابی داؤد دارالتأصیل جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200601_20200601_0219/%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%D8%A8%DB%8C%D8%B1%D8%AA%20%D9%85%D8%AA%D9%86%20%283%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw6poddl132",
+          "titleUr": "سنن ابی داؤد دارالتأصیل جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200601_20200601_0219/%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%D8%A8%DB%8C%D8%B1%D8%AA%20%D9%85%D8%AA%D9%86%20%284%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw6pognt133",
+          "titleUr": "سنن ابی داؤد دارالتأصیل جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200601_20200601_0219/%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%D8%A8%DB%8C%D8%B1%D8%AA%20%D9%85%D8%AA%D9%86%20%285%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw6pok24134",
+          "titleUr": "سنن ابی داؤد دارالتأصیل جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200601_20200601_0219/%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%D8%A8%DB%8C%D8%B1%D8%AA%20%D9%85%D8%AA%D9%86%20%286%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw6ponig135",
+          "titleUr": "سنن ابی داؤد دارالتأصیل جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200601_20200601_0219/%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%D8%A8%DB%8C%D8%B1%D8%AA%20%D9%85%D8%AA%D9%86%20%287%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw6por6j136",
+          "titleUr": "سنن ابی داؤد دارالتأصیل جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200601_20200601_0219/%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%D8%A8%DB%8C%D8%B1%D8%AA%20%D9%85%D8%AA%D9%86%20%288%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw6pp5l3137",
+          "titleUr": "سنن ابی داؤد دارالتأصیل جلد8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200601_20200601_0219/%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%D8%A8%DB%8C%D8%B1%D8%AA%20%D9%85%D8%AA%D9%86%20%289%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        }
+      ]
+    },
+    {
+      "id": "item-mw6pum6d141",
+      "type": "book",
+      "titleUr": "سنن ابی داؤد مترجم",
+      "titleEn": "",
+      "authorUr": "عبد الحکیم خان شاہجہانپوری",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia803207.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/3_20200603_202006/%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC1_jp2.zip&file=%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC1_jp2/%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC1_0000.jp2&id=3_20200603_202006&scale=1&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6ptryy138",
+          "titleUr": "سنن ابی داؤد مترجم جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200603_202006/%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC1.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6ptvyq139",
+          "titleUr": "سنن ابی داؤد مترجم جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200603_202006/%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC2.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw6pu6a3140",
+          "titleUr": "سنن ابی داؤد مترجم جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/3_20200603_202006/%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%A7%D8%A4%D8%AF%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC3.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "id": "item-mw6pw15h142",
+      "type": "book",
+      "titleUr": "سنن ابی داؤد مترجم ضیاء القرآن",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia803207.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/1_20200603_20200603/%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D9%88%D8%AF%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%A7%D9%88%D9%84%201%20_jp2.zip&file=%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D9%88%D8%AF%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%A7%D9%88%D9%84%201%20_jp2/%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D9%88%D8%AF%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%A7%D9%88%D9%84%201%20_0001.jp2&id=1_20200603_20200603&scale=1&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6pwbk7143",
+          "titleUr": "سنن ابی داؤد مترجم ضیاء القرآن جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200603_20200603/%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D9%88%D8%AF%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%A7%D9%88%D9%84%201%20.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6pwehq144",
+          "titleUr": "سنن ابی داؤد مترجم ضیاء القرآن جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200603_20200603/%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D9%88%D8%AF%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AF%D9%88%D9%85%202%20.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw6pwi0m145",
+          "titleUr": "سنن ابی داؤد مترجم ضیاء القرآن جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200603_20200603/%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D9%88%D8%AF%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%B3%D9%88%D9%85%203%20.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "id": "item-mw6q1780146",
+      "type": "book",
+      "titleUr": "شرح سنن ابی داؤد اُردو",
+      "titleEn": "",
+      "authorUr": "لیاقت علی رضوی",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia801500.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/4_20200603_202006/%D8%B4%D8%B1%D8%AD%20%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D8%A4%D8%AF%20-%20%D9%84%DB%8C%D8%A7%D9%82%D8%AA%20%D8%B9%D9%84%DB%8C%20%D8%B1%D8%B6%D9%88%DB%8C%20%29%20%281%29_jp2.zip&file=%D8%B4%D8%B1%D8%AD%20%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D8%A4%D8%AF%20-%20%D9%84%DB%8C%D8%A7%D9%82%D8%AA%20%D8%B9%D9%84%DB%8C%20%D8%B1%D8%B6%D9%88%DB%8C%20%29%20%281%29_jp2/%D8%B4%D8%B1%D8%AD%20%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D8%A4%D8%AF%20-%20%D9%84%DB%8C%D8%A7%D9%82%D8%AA%20%D8%B9%D9%84%DB%8C%20%D8%B1%D8%B6%D9%88%DB%8C%20%29%20%281%29_0002.jp2&id=4_20200603_202006&scale=2&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6q4u7n155",
+          "titleUr": "شرح سنن ابی داؤد اردو جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200603_202006/%D8%B4%D8%B1%D8%AD%20%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D8%A4%D8%AF%20-%20%D9%84%DB%8C%D8%A7%D9%82%D8%AA%20%D8%B9%D9%84%DB%8C%20%D8%B1%D8%B6%D9%88%DB%8C%20%29%20%281%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6q4ytm156",
+          "titleUr": "شرح سنن ابی داؤد اردو جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200603_202006/%D8%B4%D8%B1%D8%AD%20%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D8%A4%D8%AF%20-%20%D9%84%DB%8C%D8%A7%D9%82%D8%AA%20%D8%B9%D9%84%DB%8C%20%D8%B1%D8%B6%D9%88%DB%8C%20%29%20%282%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw6q54gp157",
+          "titleUr": "شرح سنن ابی داؤد اردو جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200603_202006/%D8%B4%D8%B1%D8%AD%20%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D8%A4%D8%AF%20-%20%D9%84%DB%8C%D8%A7%D9%82%D8%AA%20%D8%B9%D9%84%DB%8C%20%D8%B1%D8%B6%D9%88%DB%8C%20%29%20%283%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw6q5ade158",
+          "titleUr": "شرح سنن ابی داؤد اردو جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200603_202006/%D8%B4%D8%B1%D8%AD%20%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D8%A4%D8%AF%20-%20%D9%84%DB%8C%D8%A7%D9%82%D8%AA%20%D8%B9%D9%84%DB%8C%20%D8%B1%D8%B6%D9%88%DB%8C%20%29%20%284%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw6q5fiz159",
+          "titleUr": "شرح سنن ابی داؤد اردو جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200603_202006/%D8%B4%D8%B1%D8%AD%20%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D8%A4%D8%AF%20-%20%D9%84%DB%8C%D8%A7%D9%82%D8%AA%20%D8%B9%D9%84%DB%8C%20%D8%B1%D8%B6%D9%88%DB%8C%20%29%20%285%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw6q5kho160",
+          "titleUr": "شرح سنن ابی داؤد اردو جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200603_202006/%D8%B4%D8%B1%D8%AD%20%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D8%A4%D8%AF%20-%20%D9%84%DB%8C%D8%A7%D9%82%D8%AA%20%D8%B9%D9%84%DB%8C%20%D8%B1%D8%B6%D9%88%DB%8C%20%29%20%286%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw6q5pj3161",
+          "titleUr": "شرح سنن ابی داؤد اردو جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200603_202006/%D8%B4%D8%B1%D8%AD%20%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D8%A4%D8%AF%20-%20%D9%84%DB%8C%D8%A7%D9%82%D8%AA%20%D8%B9%D9%84%DB%8C%20%D8%B1%D8%B6%D9%88%DB%8C%20%29%20%287%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw6q5zuv162",
+          "titleUr": "شرح سنن ابی داؤد اردو جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/4_20200603_202006/%D8%B4%D8%B1%D8%AD%20%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D8%A4%D8%AF%20-%20%D9%84%DB%8C%D8%A7%D9%82%D8%AA%20%D8%B9%D9%84%DB%8C%20%D8%B1%D8%B6%D9%88%DB%8C%20%29%20%288%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        }
+      ]
+    },
+    {
+      "id": "item-mw6qbi2f163",
+      "type": "book",
+      "titleUr": "کنزا الودود اردو شرح سنن ابی داؤد",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/KanzulWadoodSharahAbuDaoodJ1/Kanzul%20Wadood%20Sharah%20Abu%20Daood%20J%201.pdf",
+      "coverUrl": "https://ia903108.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/KanzulWadoodSharahAbuDaoodJ1/Kanzul%20Wadood%20Sharah%20Abu%20Daood%20J%201_jp2.zip&file=Kanzul%20Wadood%20Sharah%20Abu%20Daood%20J%201_jp2/Kanzul%20Wadood%20Sharah%20Abu%20Daood%20J%201_0000.jp2&id=KanzulWadoodSharahAbuDaoodJ1&scale=8&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw6qddxr164",
+      "type": "book",
+      "titleUr": "نعمۃ الودود اردو شرح سنن ابی داؤد",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia801805.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/nemat-ul-wadood-sharah-abu-daood/4%20%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D9%88%D8%AF%D9%88%D8%AF%20%D8%B4%D8%B1%D8%AD%20%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D8%A4%D8%AF_jp2.zip&file=4%20%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D9%88%D8%AF%D9%88%D8%AF%20%D8%B4%D8%B1%D8%AD%20%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D8%A4%D8%AF_jp2/4%20%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D9%88%D8%AF%D9%88%D8%AF%20%D8%B4%D8%B1%D8%AD%20%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D8%A4%D8%AF_0001.jp2&id=nemat-ul-wadood-sharah-abu-daood&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6qdp67165",
+          "titleUr": "نعمۃ الودود اردو شرح سنن ابی داؤد جلد1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/nemat-ul-wadood-sharah-abu-daood/Nemat%20ul%20Wadood%20Sharah%20Abu%20Daood.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6qds2u166",
+          "titleUr": "نعمۃ الودود اردو شرح سنن ابی داؤد جلد2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/nemat-ul-wadood-sharah-abu-daood/%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D9%88%D8%AF%D9%88%D8%AF%20%D8%B4%D8%B1%D8%AD%20%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D8%A4%D8%AF%20%D8%AC%D9%84%D8%AF%202.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw6qdw1x167",
+          "titleUr": "نعمۃ الودود اردو شرح سنن ابی داؤد جلد3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/nemat-ul-wadood-sharah-abu-daood/%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D9%88%D8%AF%D9%88%D8%AF%20%D8%B4%D8%B1%D8%AD%20%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D8%A4%D8%AF%20%D8%AC%D9%84%D8%AF%203.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw6qe02j168",
+          "titleUr": "نعمۃ الودود اردو شرح سنن ابی داؤد جلد4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/nemat-ul-wadood-sharah-abu-daood/4%20%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D9%88%D8%AF%D9%88%D8%AF%20%D8%B4%D8%B1%D8%AD%20%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D8%A4%D8%AF.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw6qeaml169",
+          "titleUr": "نعمۃ الودود اردو شرح سنن ابی داؤد جلد5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/nemat-ul-wadood-sharah-abu-daood/5%20%D9%86%D8%B9%D9%85%DB%83%20%D8%A7%D9%84%D9%88%D8%AF%D9%88%D8%AF%20%D8%B4%D8%B1%D8%AD%20%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%AF%D8%A7%D9%88%D8%AF.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        }
+      ]
+    },
+    {
+      "id": "item-mw6qlxzs170",
+      "type": "book",
+      "titleUr": "غایۃ المقصود عربی شرح سنن ابی داؤد",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20250907_20250907_0959/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D9%82%D8%B5%D9%88%D8%AF%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%B3%D9%86%D9%86%20%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%8A%20%D8%AF%D8%A7%D8%A4%D8%AF%20%DB%94%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B4%D9%85%D8%B3%20%D8%A7%D9%84%D8%AD%D9%82%20%D8%A7%D9%84%D8%B9%D8%B8%DB%8C%D9%85%20%D8%A2%D8%A8%D8%A7%D8%AF%DB%8C%20%DB%94%D8%AD%D9%82.pdf",
+      "coverUrl": "https://ia801009.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/20250907_20250907_0959/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D9%82%D8%B5%D9%88%D8%AF%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%B3%D9%86%D9%86%20%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%8A%20%D8%AF%D8%A7%D8%A4%D8%AF%20%DB%94%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B4%D9%85%D8%B3%20%D8%A7%D9%84%D8%AD%D9%82%20%D8%A7%D9%84%D8%B9%D8%B8%DB%8C%D9%85%20%D8%A2%D8%A8%D8%A7%D8%AF%DB%8C%20%DB%94%D8%AD%D9%82_jp2.zip&file=%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D9%82%D8%B5%D9%88%D8%AF%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%B3%D9%86%D9%86%20%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%8A%20%D8%AF%D8%A7%D8%A4%D8%AF%20%DB%94%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B4%D9%85%D8%B3%20%D8%A7%D9%84%D8%AD%D9%82%20%D8%A7%D9%84%D8%B9%D8%B8%DB%8C%D9%85%20%D8%A2%D8%A8%D8%A7%D8%AF%DB%8C%20%DB%94%D8%AD%D9%82_jp2/%D8%BA%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D9%82%D8%B5%D9%88%D8%AF%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%B3%D9%86%D9%86%20%D8%B3%D9%86%D9%86%20%D8%A7%D8%A8%D9%8A%20%D8%AF%D8%A7%D8%A4%D8%AF%20%DB%94%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B4%D9%85%D8%B3%20%D8%A7%D9%84%D8%AD%D9%82%20%D8%A7%D9%84%D8%B9%D8%B8%DB%8C%D9%85%20%D8%A2%D8%A8%D8%A7%D8%AF%DB%8C%20%DB%94%D8%AD%D9%82_0001.jp2&id=20250907_20250907_0959&scale=2&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw6qrrlk171",
+      "type": "book",
+      "titleUr": "المنھل العذب المورود عربی شرح سنن ابی داؤد",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia801505.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/WAQ106821/fmm0_jp2.zip&file=fmm0_jp2/fmm0_0000.jp2&id=WAQ106821&scale=2&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6qs8vk172",
+          "titleUr": "المنھل العذب المورود جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/WAQ106821/mam01.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6qsc6h173",
+          "titleUr": "المنھل العذب المورود جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/WAQ106821/mam02.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw6qsh0x174",
+          "titleUr": "المنھل العذب المورود جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/WAQ106821/mam03.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw6qslea175",
+          "titleUr": "المنھل العذب المورود جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/WAQ106821/mam04.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw6qspfh176",
+          "titleUr": "المنھل العذب المورود جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/WAQ106821/mam05.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw6qst95177",
+          "titleUr": "المنھل العذب المورود جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/WAQ106821/mam06.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw6qswz2178",
+          "titleUr": "المنھل العذب المورود جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/WAQ106821/mam07.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw6qt0mz179",
+          "titleUr": "المنھل العذب المورود جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/WAQ106821/mam08.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw6qt4p2180",
+          "titleUr": "المنھل العذب المورود جلد 9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/WAQ106821/mam09.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mw6qtd5q181",
+          "titleUr": "المنھل العذب المورود جلد 10",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/WAQ106821/mam10.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        }
+      ]
     }
   ],
   "isDemo": false
