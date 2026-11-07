@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 254,
-  "updatedAt": "2026-11-07T09:41:23.732416Z",
+  "catalogVersion": 255,
+  "updatedAt": "2026-11-07T09:55:00.112202Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -30395,6 +30395,227 @@
           "pdfUrl": "https://archive.org/download/BukhariSultaniyaColor/P09.pdf",
           "fileSizeBytes": null,
           "sortOrder": 9
+        }
+      ]
+    },
+    {
+      "id": "item-mw6875l2222",
+      "type": "book",
+      "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری",
+      "titleEn": "",
+      "authorUr": "دارالکتب العلمیہ",
+      "authorEn": "",
+      "description": "عمدة القاري شرح صحيح البخاري\n\nهو أحد أشهر وأضخم شروح صحيح البخاري وأكثرها استيعاباً وفائدة, يتميز بأسلوب علمي دقيق ومنظم للغاية كبيان وجه ارتباط الحديث بالباب والتعريف برواة السند وشرح المفردات الغريبة، وضبط الألفاظ، وإعراب الجمل المشكلة مع تفصيل المسائل الفقهية، وعرض مذاهب العلماء مع التركيز على أدلة الحنفية\n\nتاليف: للإمام العلامة بدر الدين أبي محمد محمود بن أحمد العيني\n\nضبطه وصححه: عبد الله محمود محمد عمر\n\nدار الكتب العلمية بيروت – لبنان\n\nالمجلد 1: مقدمة الشارح في علوم الحديث، كتاب بدء الوحي و كتاب الإيمان\n\nالمجلد 2: كتاب العلم, كتاب الوضوء\n\nالمجلد 3: تتمة كتاب الوضوء كتاب الغسل، كتاب الحيض\n\nالمجلد 4: كتاب التيمم, كتاب الصلاة\n\nالمجلد 5: كتاب مواقيت الصلاة، الأذان\n\nالمجلد 6: تتمة الأذان, صلاة الجمعة، صلاة الخوف، صلاة العيدين\n\nالمجلد 7: كتاب الوتر, الاستسقاء, الكسوف, سجود القرآن, تقصير الصلاة, التهجد, فضل الصلاة في مسجد مكة والمدينة, العمل في الصلاة, السهو\n\nالمجلد 8: يكتاب الجنائز, كتاب الزكاة\n\nالمجلد 9: تتمة كتاب الجنائز, كتاب الحج\n\nالمجلد 10: تتمة كتاب الحج, كتاب الصوم\n\nالمجلد 11: تتمة كتاب الصوم, كتاب البيوع\n\nالمجلد 12: تتمة البيوع, السلم, الشفعة الى الغصب\n\nالمجلد 13: تتمة المظالم والغصب, الشركة, الرهن, العتق, المكاتب, الهبة ~ الشهادات ~ الصلح ~ الشروط\n\nالمجلد 14: كتاب الشروط ، كتاب الوصايا، كتاب الجهاد والسير\n\nالمجلد 15: تتمة الجهاد والسير, الخمس, الجزية والموادعة, بدء الخلق, أحاديث الأنبياء\n\nالمجلد 16: تتمة أحاديث الأنبياء, المناقب, فضائل الصحابة, مناقب الأنصار\n\nالمجلد 17: تتمة كتاب مناقب الأنصار, كتاب المغازي\n\nالمجلد 18: تتمة كتاب المغازي ~ كتاب تفسير القرآن\n\nالمجلد 19: كتاب تفسير القرآن\n\nالمجلد 20: تتمة كتاب تفسير القرآن, فضائل القرآن, النكاح, الطلاق, العدة\n\nالمجلد 21: تتمة العدة, النفقات, الأطعمة, العقيقة, الذبائح والصيد, الأضاحي, الأشربة, المرضى, الطب, اللباس\n\nالمجلد 22: تتمة اللباس, الأدب, الاستذانات, الدعوات\n\nالمجلد 23: تتمة الدعوات, الرقاق, القدر, الأيمان والنذور, كفارات الأيمان, الفرائض, الحدود, المحاربين\n\nالمجلد 24: فقه المحاربين, الديات, استتابة المرتدين, الإكراه, الحيل, التعبير, الفتن, الأحكام\n\nالمجلد 25: المنتقى, اخبار الآحاد, الاعتصام بالكتاب والسنة, التوحيد",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2019/01/Umdat-Ul-Qari.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw67wsj7197",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_01.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw67wwdo198",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_02.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw67x0vr199",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_03.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw67x4o0200",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_04.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw67x8dn201",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_05.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw67xc8m202",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_06.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw67xgca203",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_07.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw67xk58204",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_08.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw67xop4205",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_09.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mw67xz5l206",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 10",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_10.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        },
+        {
+          "id": "11-mw67y3r2207",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 11",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_11.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 10
+        },
+        {
+          "id": "12-mw67y80n208",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 12",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_12.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 11
+        },
+        {
+          "id": "13-mw67yc6f209",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 13",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_13.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 12
+        },
+        {
+          "id": "14-mw67yghl210",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 14",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_14.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 13
+        },
+        {
+          "id": "15-mw67ymhd211",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 15",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_15.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 14
+        },
+        {
+          "id": "16-mw67ys6c212",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 16",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_16.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 15
+        },
+        {
+          "id": "17-mw67yx4o213",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 17",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_17.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 16
+        },
+        {
+          "id": "18-mw67z1g4214",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 18",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_18.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 17
+        },
+        {
+          "id": "19-mw67z5ld215",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 19",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_19.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 18
+        },
+        {
+          "id": "20-mw67za2m216",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 20",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_20.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 19
+        },
+        {
+          "id": "21-mw67ze7j217",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 21",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_21.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 20
+        },
+        {
+          "id": "22-mw67zims218",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 22",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_22.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 21
+        },
+        {
+          "id": "23-mw67zmfb219",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 23",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_23.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 22
+        },
+        {
+          "id": "24-mw67zqgw220",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 24",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_24.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 23
+        },
+        {
+          "id": "25-mw680470221",
+          "titleUr": "عمدۃ القاری عربی شرح صحیح بخاری جلد 25",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/UmdatUlQari/Umdat_Ul_Qari_Vol_25.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 24
         }
       ]
     }
