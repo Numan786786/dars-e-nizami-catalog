@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 261,
-  "updatedAt": "2026-11-07T12:12:49.431288Z",
+  "catalogVersion": 262,
+  "updatedAt": "2026-11-07T14:36:44.620258Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -32342,6 +32342,91 @@
           "titleUr": "شرح صحیح مسلم جلد 7",
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/5_20200603/%D9%85%D8%B3%D9%84%D9%85%20%D8%AC%D9%84%D8%AF7.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        }
+      ]
+    },
+    {
+      "id": "item-mw6i4qta0",
+      "type": "book",
+      "titleUr": "جامع ترمذی مکتبہ بیروت",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2018/03/AL_JAME_UL_KABIR_AL_TIRMEZI_AL_KAOKAB_UD_DURRI.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw6i5c1m1",
+          "titleUr": "جامع ترمذی جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/AL_JAME_UL_KABIR_AL_TIRMEZI_AL_KAOKAB_UD_DURRI_VOL_01.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw6i5fez2",
+          "titleUr": "جامع ترمذی جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/AL_JAME_UL_KABIR_AL_TIRMEZI_AL_KAOKAB_UD_DURRI_VOL_02.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw6i5l2q3",
+          "titleUr": "جامع ترمذی جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/AL_JAME_UL_KABIR_AL_TIRMEZI_AL_KAOKAB_UD_DURRI_VOL_03.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw6i5qwo4",
+          "titleUr": "جامع ترمذی جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/AL_JAME_UL_KABIR_AL_TIRMEZI_AL_KAOKAB_UD_DURRI_VOL_04.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw6i5v515",
+          "titleUr": "جامع ترمذی جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/AL_JAME_UL_KABIR_AL_TIRMEZI_AL_KAOKAB_UD_DURRI_VOL_05.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw6i5zs36",
+          "titleUr": "جامع ترمذی جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/AL_JAME_UL_KABIR_AL_TIRMEZI_AL_KAOKAB_UD_DURRI_VOL_06.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw6i64da7",
+          "titleUr": "جامع ترمذی جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/AL_JAME_UL_KABIR_AL_TIRMEZI_AL_KAOKAB_UD_DURRI_VOL_07.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw6i6e3v8",
+          "titleUr": "جامع ترمذی جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/AL_JAME_UL_KABIR_AL_TIRMEZI_AL_KAOKAB_UD_DURRI_VOL_08.pdf",
           "fileSizeBytes": null,
           "sortOrder": 7
         }
