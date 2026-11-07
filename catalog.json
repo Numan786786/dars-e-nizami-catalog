@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 253,
-  "updatedAt": "2026-11-07T09:13:16.585300Z",
+  "catalogVersion": 254,
+  "updatedAt": "2026-11-07T09:41:23.732416Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -30183,6 +30183,218 @@
           "pdfUrl": "https://drive.google.com/file/d/1bzyGrjmqJGk-ZBpjpa7QhK8kO4Ulvk8d/view?usp=drivesdk",
           "fileSizeBytes": null,
           "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "item-mw66xynr169",
+      "type": "book",
+      "titleUr": "صحیح بخاری محقق نسخہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia802804.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/DarsENizamiDoraEHadees8thYear/SAHI-AL-BUKHARI-VOL-1-ALTAF-AND-SONS_jp2.zip&file=SAHI-AL-BUKHARI-VOL-1-ALTAF-AND-SONS_jp2/SAHI-AL-BUKHARI-VOL-1-ALTAF-AND-SONS_0000.jp2&id=DarsENizamiDoraEHadees8thYear&scale=8&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw66w0wn167",
+          "titleUr": "صحیح بخاری محقق نسخہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/SAHI-AL-BUKHARI-VOL-1-ALTAF-AND-SONS.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw66wak1168",
+          "titleUr": "صحیح بخاری محقق نسخہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/SAHI-AL-BUKHARI-VOL-2-ALTAF-AND-SONS.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "item-mw66zdhw172",
+      "type": "book",
+      "titleUr": "صحیح بخاری مکتبہ رحمانیہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia902804.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/DarsENizamiDoraEHadees8thYear/SahiAlBukhariVol1Rahmania_jp2.zip&file=SahiAlBukhariVol1Rahmania_jp2/SahiAlBukhariVol1Rahmania_0000.jp2&id=DarsENizamiDoraEHadees8thYear&scale=8&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw66yqbt170",
+          "titleUr": "صحیح بخاری مکتبہ رحمانیہ جلد1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/SahiAlBukhariVol1Rahmania.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw66z59l171",
+          "titleUr": "صحیح بخاری مکتبہ رحمانیہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/SahiAlBukhariVol2Rahmania.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "item-mw67aoa9175",
+      "type": "book",
+      "titleUr": "صحیح بخاری قدیمی کتب خانہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia902804.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/DarsENizamiDoraEHadees8thYear/SahiAlBukhariVol1Qademi_jp2.zip&file=SahiAlBukhariVol1Qademi_jp2/SahiAlBukhariVol1Qademi_0000.jp2&id=DarsENizamiDoraEHadees8thYear&scale=8&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw670el6173",
+          "titleUr": "صحیح بخاری قدیمی کتب خانہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/SahiAlBukhariVol1Qademi.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw670twn174",
+          "titleUr": "صحیح بخاری قدیمی کتب خانہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraEHadees8thYear/SahiAlBukhariVol2Qademi.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "item-mw67r6d2196",
+      "type": "book",
+      "titleUr": "صحیح بخاری دار الطوق النجاۃ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia601606.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/BukhariSultaniyaColor/P000_jp2.zip&file=P000_jp2/P000_0000.jp2&id=BukhariSultaniyaColor&scale=8&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "item-mw67n0lj186",
+          "titleUr": "صحیح بخاری دار الطوق النجاۃ مقدمہ",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BukhariSultaniyaColor/P00.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "1-mw67n9c3187",
+          "titleUr": "صحیح بخاری دار الطوق النجاۃ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BukhariSultaniyaColor/P01.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "2-mw67nd2w188",
+          "titleUr": "صحیح بخاری دار الطوق النجاۃ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BukhariSultaniyaColor/P02.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "3-mw67njwz189",
+          "titleUr": "صحیح بخاری دار الطوق النجاۃ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BukhariSultaniyaColor/P03.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "4-mw67noyp190",
+          "titleUr": "صحیح بخاری دار الطوق النجاۃ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BukhariSultaniyaColor/P04.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "5-mw67nths191",
+          "titleUr": "صحیح بخاری دار الطوق النجاۃ جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BukhariSultaniyaColor/P05.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "6-mw67ny8b192",
+          "titleUr": "صحیح بخاری دار الطوق النجاۃ جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BukhariSultaniyaColor/P06.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "7-mw67o2zh193",
+          "titleUr": "صحیح بخاری دار الطوق النجاۃ جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BukhariSultaniyaColor/P07.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "8-mw67o7rh194",
+          "titleUr": "صحیح بخاری دار الطوق النجاۃ جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BukhariSultaniyaColor/P08.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "9-mw67oiw0195",
+          "titleUr": "صحیح بخاری دار الطوق النجاۃ جلد 9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/BukhariSultaniyaColor/P09.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
         }
       ]
     }
