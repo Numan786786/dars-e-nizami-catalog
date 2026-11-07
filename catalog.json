@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 256,
-  "updatedAt": "2026-11-07T10:06:38.164015Z",
+  "catalogVersion": 257,
+  "updatedAt": "2026-11-07T10:12:42.686619Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -30626,7 +30626,7 @@
       "titleEn": "",
       "authorUr": "ابن حجر عسقلانی",
       "authorEn": "",
-      "description": "",
+      "description": "التأليف: للإمام الحافظ أحمد بن علي بن حجر العسقلاني رحمه الله\n\nتقديم وتحقيق وتعليق: عبد القادر شيبة الحمد\n\n المجلد الأول: باب بدء الوحي، الإيمان، العلم، والوضوء، الغسل، الحيض، التيمم، الصلاة\n\nالمجلد الثاني: أبواب مواقيت الصلاة، الأذان، الجمعة، صلاة الخوف، العيدين، الوتر، الاستسقاء، الكسوف، سجود القرآن، تقصير الصلاة\n\nالمجلد الثالث: أبواب التهجد، فضل الصلاة في مكة والمدينة، العمل في الصلاة، السهو، الجنائز، الزكاة، الحج، والعمرة\n\nالمجلد الرابع: أبواب المحصر، جزاء الصيد، فضائل المدينة، الصوم، التراويح، فضل ليلة القدر، الاعتكاف، البيوع، والسلم, أبواب (الشفعة، الإجارة، الحوالات، الكفالة، الوكالة\n\nالمجلد الخامس: كتاب فى الحرث والمزارعة، المساقاة، الاستقراض، الخصومات، اللقطة، المظالم، الشركة، والرهن, العتق، المكاتب، الهبة وفضلها، الشهادات، الصلح، الشروط، الوصايا\n\nالمجلد السادس: الجهاد والسير، فرض الخمس، والجزية والموادعة, بدء الخلق، أحاديث الأنبياء, ومناقب رسول الله ﷺ\n\nالمجلد السابع: فضائل الصحابة, كتاب (المغازي\n\nالمجلد الثامن: أبواب تفسير القرآن الكريم، فضائل القرآن\n\nالمجلد التاسع: كتاب النكاح، الطلاق, النفقات، الأطعمة، العقيقة، الذبائح والصيد\n\nالمجلد العاشر: كتاب الأضاحي، الأشربة، المرضى، والطب, اللباس، الأدب\n\nالمجلد الحادي عشر: كتاب الاستئذان، الدعوات، والرقاق, القدر، الأيمان والنذور، كفارات الأيمان\n\nالمجلد الثاني عشر: كتاب الفرائض، الحدود، الديات، واستتابة المرتدين",
       "categoryId": "fiqh",
       "language": "ur",
       "pdfUrl": "",
@@ -30698,7 +30698,7 @@
           "id": "7-mw68i67a233",
           "titleUr": "فتح الباری عربی شرح صحیح بخاری جلد 7",
           "titleEn": "",
-          "pdfUrl": "",
+          "pdfUrl": "https://archive.org/download/FathUlBari./Fath_Ul_Bari_Vol_07.pdf",
           "fileSizeBytes": null,
           "sortOrder": 7
         },
@@ -30706,7 +30706,7 @@
           "id": "8-mw68i9ww234",
           "titleUr": "فتح الباری عربی شرح صحیح بخاری جلد 8",
           "titleEn": "",
-          "pdfUrl": "",
+          "pdfUrl": "https://archive.org/download/FathUlBari./Fath_Ul_Bari_Vol_08.pdf",
           "fileSizeBytes": null,
           "sortOrder": 8
         },
@@ -30714,7 +30714,7 @@
           "id": "9-mw68idlf235",
           "titleUr": "فتح الباری عربی شرح صحیح بخاری جلد 9",
           "titleEn": "",
-          "pdfUrl": "",
+          "pdfUrl": "https://archive.org/download/FathUlBari./Fath_Ul_Bari_Vol_09.pdf",
           "fileSizeBytes": null,
           "sortOrder": 9
         },
@@ -30722,7 +30722,7 @@
           "id": "10-mw68ihlr236",
           "titleUr": "فتح الباری عربی شرح صحیح بخاری جلد 10",
           "titleEn": "",
-          "pdfUrl": "",
+          "pdfUrl": "https://archive.org/download/FathUlBari./Fath_Ul_Bari_Vol_10.pdf",
           "fileSizeBytes": null,
           "sortOrder": 10
         },
@@ -30730,7 +30730,7 @@
           "id": "11-mw68irdr237",
           "titleUr": "فتح الباری عربی شرح صحیح بخاری جلد 11",
           "titleEn": "",
-          "pdfUrl": "",
+          "pdfUrl": "https://archive.org/download/FathUlBari./Fath_Ul_Bari_Vol_11.pdf",
           "fileSizeBytes": null,
           "sortOrder": 11
         },
@@ -30738,7 +30738,7 @@
           "id": "12-mw68ivky238",
           "titleUr": "فتح الباری عربی شرح صحیح بخاری جلد 12",
           "titleEn": "",
-          "pdfUrl": "",
+          "pdfUrl": "https://archive.org/download/FathUlBari./Fath_Ul_Bari_Vol_12.pdf",
           "fileSizeBytes": null,
           "sortOrder": 12
         },
