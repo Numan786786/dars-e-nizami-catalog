@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 273,
-  "updatedAt": "2026-11-08T05:05:12.337753Z",
+  "catalogVersion": 274,
+  "updatedAt": "2026-11-08T05:12:21.558964Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -36100,6 +36100,25 @@
       "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/MUATT_IMAM_MALIK_RAHMANIA.pdf",
       "coverUrl": "https://besturdubooks.net/wp-content/uploads/2018/12/MUATT_IMAM_MALIK_RAHMANIA.jpg",
       "fileSizeBytes": 61447033,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw7dkj21164",
+      "type": "book",
+      "titleUr": "نوادر النحو فی حل ہدایۃ النحو",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "mantiq",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/maulana-abdul-hai-astori/NAWADIR_UN_NAHW_SHARH_HIDAYATUN_NAHW.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTT_Xq76k8Dkq8nEmGeYNuF5n6nlIO2veKbJ3axptqRq2ka7V3JUj53gH-8zjRvFOeSL3l8uV6E6rtPZwsEgtlxO1rt6ELLcwynRnr0v5_7ssFsdVjLZfOVAdgXgug0TrRLfM5b1C9xr5-f_2azYa-GHG6TQE2RU_1f2OwA4recs0eq4IzyzBYDvUMW7A/w222-h320-rw/1000731849.jpg",
+      "fileSizeBytes": 44275649,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
