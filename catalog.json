@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 296,
-  "updatedAt": "2026-11-08T13:14:22.426818Z",
+  "catalogVersion": 297,
+  "updatedAt": "2026-11-08T15:07:17.475991Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -644,6 +644,344 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "boys"
+    },
+    {
+      "id": "item-mw2ewknb339",
+      "type": "book",
+      "titleUr": "الدر المختار شرح تنوير الأبصار",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "Mufti",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/hanafi_20150702_1605/%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%D9%88%D8%AC%D8%A7%D9%85%D8%B9%20%D8%A7%D9%84%D8%A8%D8%AD%D8%A7%D8%B1%20-%20%D8%A7%D9%84%D8%AD%D8%B5%D9%81%D9%83%D9%8A.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 20792329,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw2etgo1336",
+      "type": "book",
+      "titleUr": "حاشیہ الطحطاوی على الدر المختار",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "Mufti",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%281%29.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 14360843,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw2eopwd324",
+          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%281%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw2eoujd325",
+          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%282%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw2ep06e326",
+          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%283%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw2ep5jk327",
+          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%284%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw2epaox328",
+          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%285%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw2epfh0329",
+          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%286%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw2epki3330",
+          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%287%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw2epp8s331",
+          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%288%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw2epua1332",
+          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%289%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mw2epzf4333",
+          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 10",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%2810%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        },
+        {
+          "id": "11-mw2eq4l3334",
+          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 11",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%2811%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 10
+        },
+        {
+          "id": "12-mw2eq9l9335",
+          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 12",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%2812%29.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 11
+        }
+      ]
+    },
+    {
+      "id": "item-mw2ewior338",
+      "type": "book",
+      "titleUr": "رد المحتار على الدر المختار",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "Mufti",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/00_61487.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 474224,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw2eeetl309",
+          "titleUr": "رد المحتار على الدر المختار جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/01_61487.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw2eej9g310",
+          "titleUr": "رد المحتار على الدر المختار جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/02_61488.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw2eeoa7311",
+          "titleUr": "رد المحتار على الدر المختار جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/03_61489.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw2eet7v312",
+          "titleUr": "رد المحتار على الدر المختار جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/04_61490.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw2eey4h313",
+          "titleUr": "رد المحتار على الدر المختار جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/05_61491.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw2ef314314",
+          "titleUr": "رد المحتار على الدر المختار جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/06_61492.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw2ef7n1315",
+          "titleUr": "رد المحتار على الدر المختار جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/07_61493.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mw2efcjo316",
+          "titleUr": "رد المحتار على الدر المختار جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/08_61494.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mw2efh7l317",
+          "titleUr": "رد المحتار على الدر المختار جلد 9",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/09_61495.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mw2efm3c318",
+          "titleUr": "رد المحتار على الدر المختار جلد 10",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/10_61496.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        },
+        {
+          "id": "11-mw2efquc319",
+          "titleUr": "رد المحتار على الدر المختار جلد 11",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/11_61497.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 10
+        },
+        {
+          "id": "12-mw2efvpx320",
+          "titleUr": "رد المحتار على الدر المختار جلد 12",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/12_61498.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 11
+        },
+        {
+          "id": "13-mw2ega8k321",
+          "titleUr": "رد المحتار على الدر المختار جلد 13",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/13_61499.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 12
+        }
+      ]
+    },
+    {
+      "id": "item-mw2ewgq2337",
+      "type": "book",
+      "titleUr": "جد الممتار علی رد المحتار",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "Mufti",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/1_20200911_20200911_1405/%D8%AC%D8%AF%20%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%B1%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%A7%D8%B1%20%D8%AC1.pdf",
+      "coverUrl": "",
+      "fileSizeBytes": 21779387,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mw2e4dd2301",
+          "titleUr": "جد الممتار علی رد المحتار جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200911_20200911_1405/%D8%AC%D8%AF%20%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%B1%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%A7%D8%B1%20%D8%AC1.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mw2e5j0t302",
+          "titleUr": "جد الممتار علی رد المحتار جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200911_20200911_1405/%D8%AC%D8%AF%20%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%B1%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%A7%D8%B1%20%D8%AC2.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mw2e5obj303",
+          "titleUr": "جد الممتار علی رد المحتار جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200911_20200911_1405/%D8%AC%D8%AF%20%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%B1%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%A7%D8%B1%20%D8%AC3.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mw2e5t5p304",
+          "titleUr": "جد الممتار علی رد المحتار جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200911_20200911_1405/%D8%AC%D8%AF%20%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%B1%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%A7%D8%B1%20%D8%AC4.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mw2e5xxb305",
+          "titleUr": "جد الممتار علی رد المحتار جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200911_20200911_1405/%D8%AC%D8%AF%20%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%B1%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%A7%D8%B1%20%D8%AC5.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mw2e62fk306",
+          "titleUr": "جد الممتار علی رد المحتار جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200911_20200911_1405/%D8%AC%D8%AF%20%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%B1%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%A7%D8%B1%20%D8%AC6.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mw2e67ci307",
+          "titleUr": "جد الممتار علی رد المحتار جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20200911_20200911_1405/%D8%AC%D8%AF%20%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%B1%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%A7%D8%B1%20%D8%AC7.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        }
+      ]
     },
     {
       "id": "item-mvgyqbpb37",
@@ -7329,25 +7667,6 @@
       ]
     },
     {
-      "id": "item-mvj2rii123",
-      "type": "book",
-      "titleUr": "نعیم التحریر",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "Darsenizami.",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/20230517_20230517_0136/%D9%86%D8%B9%DB%8C%D9%85%20%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1%20.pdf",
-      "coverUrl": "https://imgv2-2-f.scribdassets.com/img/document/828584139/original/9b85d84e3f/1?v=1",
-      "fileSizeBytes": 7285111,
-      "tags": [],
-      "sortOrder": 0,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "all"
-    },
-    {
       "id": "item-mvj2s5m324",
       "type": "book",
       "titleUr": "تعلیم الصرف",
@@ -7360,6 +7679,25 @@
       "pdfUrl": "https://archive.org/download/20230517_20230517_0136/%D8%AA%D8%B9%D9%84%DB%8C%D9%85%20%D8%A7%D9%84%D8%B5%D8%B1%D9%81.pdf",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkM7CdsAiHNULAgMCbRzLcETvVYcibajHBfJMbUP40TsidnTBoHb3zZWPw0t8T-2RgkMFr2MlEbtq3WhK-6FPg8PKxRyCDzVgk9tlFRvGoM-BQXuQCxkPg8Gi_3eAYq0_lozyDBCsssHk/s1600/20190501_214439.jpg",
       "fileSizeBytes": 4509704,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all"
+    },
+    {
+      "id": "item-mvj2rii123",
+      "type": "book",
+      "titleUr": "نعیم التحریر",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "Darsenizami.",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20230517_20230517_0136/%D9%86%D8%B9%DB%8C%D9%85%20%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1%20.pdf",
+      "coverUrl": "https://imgv2-2-f.scribdassets.com/img/document/828584139/original/9b85d84e3f/1?v=1",
+      "fileSizeBytes": 7285111,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
@@ -7514,6 +7852,25 @@
       "fileSizeBytes": 16239534,
       "tags": [],
       "sortOrder": 0,
+      "isActive": false,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw08xy9y9",
+      "type": "book",
+      "titleUr": "تعلیم الصرف",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "Darsenizami",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20230517_20230517_0136/%D8%AA%D8%B9%D9%84%DB%8C%D9%85%20%D8%A7%D9%84%D8%B5%D8%B1%D9%81.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkM7CdsAiHNULAgMCbRzLcETvVYcibajHBfJMbUP40TsidnTBoHb3zZWPw0t8T-2RgkMFr2MlEbtq3WhK-6FPg8PKxRyCDzVgk9tlFRvGoM-BQXuQCxkPg8Gi_3eAYq0_lozyDBCsssHk/s1600/20190501_214439.jpg",
+      "fileSizeBytes": 4509704,
+      "tags": [],
+      "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
       "audience": "boys"
@@ -7531,25 +7888,6 @@
       "pdfUrl": "https://archive.org/download/20230517_20230517_0136/%D9%86%D8%B9%DB%8C%D9%85%20%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1%20.pdf",
       "coverUrl": "https://imgv2-2-f.scribdassets.com/img/document/828584139/original/9b85d84e3f/1?v=1",
       "fileSizeBytes": 7285111,
-      "tags": [],
-      "sortOrder": 0,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "boys"
-    },
-    {
-      "id": "item-mw08xy9y9",
-      "type": "book",
-      "titleUr": "تعلیم الصرف",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "Darsenizami",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/20230517_20230517_0136/%D8%AA%D8%B9%D9%84%DB%8C%D9%85%20%D8%A7%D9%84%D8%B5%D8%B1%D9%81.pdf",
-      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkM7CdsAiHNULAgMCbRzLcETvVYcibajHBfJMbUP40TsidnTBoHb3zZWPw0t8T-2RgkMFr2MlEbtq3WhK-6FPg8PKxRyCDzVgk9tlFRvGoM-BQXuQCxkPg8Gi_3eAYq0_lozyDBCsssHk/s1600/20190501_214439.jpg",
-      "fileSizeBytes": 4509704,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
@@ -7823,56 +8161,18 @@
       "audience": "boys"
     },
     {
-      "id": "item-mw0a43xg26",
+      "id": "item-mw0ahtgo38",
       "type": "book",
-      "titleUr": "فیضان تجوید",
+      "titleUr": "نحو میر دعوت اسلامی",
       "titleEn": "",
       "authorUr": "",
       "authorEn": "",
       "description": "",
       "categoryId": "aqaid",
       "language": "ur",
-      "pdfUrl": "https://archive.org/download/20220316_20220316_0341/%D8%AA%D8%AC%D9%88%DB%8C%D8%AF.pdf",
-      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgewDXVigLn5h3kcPX0gXQ5R6KcIH1Y8ECz2vtzaJBIQ-3DQZ71xCjLjVxGol4WKKp-zJg6d9GHqHZ1uLAYXLHohQW-pdigbRw_WflPuNTxeXqBmHE2RNumON9APGZOmp2Xik9lsAkSBfldqmT0vNbgxmvwMB8770ktwkpMwqCZZ6lTrqpddSOOjETM3g=s1040",
-      "fileSizeBytes": 5457694,
-      "tags": [],
-      "sortOrder": 0,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "all"
-    },
-    {
-      "id": "item-mw0a6ky327",
-      "type": "book",
-      "titleUr": "علم التجوید",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "aqaid",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/qayyumzamman_gmail_20170120_1002/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%AA%D8%AC%D9%88%DB%8C%D8%AF.pdf",
-      "coverUrl": "https://ia903201.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/qayyumzamman_gmail_20170120_1002/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%AA%D8%AC%D9%88%DB%8C%D8%AF_jp2.zip&file=%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%AA%D8%AC%D9%88%DB%8C%D8%AF_jp2/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%AA%D8%AC%D9%88%DB%8C%D8%AF_0000.jp2&id=qayyumzamman_gmail_20170120_1002&scale=8&rotate=0",
-      "fileSizeBytes": 9518303,
-      "tags": [],
-      "sortOrder": 0,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "all"
-    },
-    {
-      "id": "item-mw0a308i25",
-      "type": "book",
-      "titleUr": "النبی الاطہر",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "aqaid",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/Alnabiyu-Alathar-113449/Alnabiyu-Alathar-113449-HQ.pdf",
-      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRfTBiIcDbZU_ZS8Fi8mkYP-_hQFjgMqUudrHZ2w1t4yhdlSD6kXnCnjnUQp6agg8nGzoJiDSr7ra1z0k5OUeelwPL9HgVTAxk3RC6UUk2JFWl09rScY7e1gyYyWeTFTYf4HkOFEA7Sj-ds5_VnNGjekt5ZF9l5bySMWZ1uslN_Zy-9X7EUlrhskRDh0Sq/s445/2024-05-21_181814.jpg",
-      "fileSizeBytes": 3770153,
+      "pdfUrl": "https://archive.org/download/20200605_20200605_0248/%D9%86%D8%AD%D9%88%20%D9%85%D9%8A%D8%B1%20%D8%AF%D8%B9%D9%88%D8%AA%20%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiXjZjiz-3loiaOfenjDAwhJgme57017JUsjF4v4Z1hcvJUNbgx8rSvFX2acqLtzwbaOnr-mfyLb9SltpIWMJrsXa7uqZBMbUr0oQMFjQiOBN4auRh38WfLvcyJpJkH7WaQQdCmnbghQsOxri-xd4LsHJxZZzUTHtPQmVWwUwRC5usW2GIzJ1uwxN9h2A=s1008",
+      "fileSizeBytes": 11233990,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
@@ -8051,37 +8351,56 @@
       "audience": "boys"
     },
     {
-      "id": "item-mw0ag4it36",
+      "id": "item-mw0a43xg26",
       "type": "book",
-      "titleUr": "نحو میر مکتبہ قادریہ",
+      "titleUr": "فیضان تجوید",
       "titleEn": "",
       "authorUr": "",
       "authorEn": "",
       "description": "",
       "categoryId": "aqaid",
       "language": "ur",
-      "pdfUrl": "https://archive.org/download/20200605_20200605_0248/%D9%86%D8%AD%D9%88%20%D9%85%DB%8C%D8%B1%D9%85%DA%A9%D8%AA%D8%A8%DB%81%20%D9%82%D8%A7%D8%AF%D8%B1%DB%8C%DB%81.pdf",
-      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhACdCj4n675ZHWsAD-vFYIbbizDdg3y6r86P5DuYqBstE67ROpKuRRsDmTbXc2yKHiXETyUmt0ApE3k7TCH5HcVWf6IDxWnXj3cR17pky__ek18CSLojh7VvSSthvzWg28ccHJokfNTuynrYqTEbWS5Wt5FlTZ4_rXQ64usdjWmUATABUiO392fsRreA=s852",
-      "fileSizeBytes": 19862313,
+      "pdfUrl": "https://archive.org/download/20220316_20220316_0341/%D8%AA%D8%AC%D9%88%DB%8C%D8%AF.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgewDXVigLn5h3kcPX0gXQ5R6KcIH1Y8ECz2vtzaJBIQ-3DQZ71xCjLjVxGol4WKKp-zJg6d9GHqHZ1uLAYXLHohQW-pdigbRw_WflPuNTxeXqBmHE2RNumON9APGZOmp2Xik9lsAkSBfldqmT0vNbgxmvwMB8770ktwkpMwqCZZ6lTrqpddSOOjETM3g=s1040",
+      "fileSizeBytes": 5457694,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "boys"
+      "audience": "all"
     },
     {
-      "id": "item-mw0ahtgo38",
+      "id": "item-mw0a6ky327",
       "type": "book",
-      "titleUr": "نحو میر دعوت اسلامی",
+      "titleUr": "علم التجوید",
       "titleEn": "",
       "authorUr": "",
       "authorEn": "",
       "description": "",
       "categoryId": "aqaid",
       "language": "ur",
-      "pdfUrl": "https://archive.org/download/20200605_20200605_0248/%D9%86%D8%AD%D9%88%20%D9%85%D9%8A%D8%B1%20%D8%AF%D8%B9%D9%88%D8%AA%20%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C.pdf",
-      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiXjZjiz-3loiaOfenjDAwhJgme57017JUsjF4v4Z1hcvJUNbgx8rSvFX2acqLtzwbaOnr-mfyLb9SltpIWMJrsXa7uqZBMbUr0oQMFjQiOBN4auRh38WfLvcyJpJkH7WaQQdCmnbghQsOxri-xd4LsHJxZZzUTHtPQmVWwUwRC5usW2GIzJ1uwxN9h2A=s1008",
-      "fileSizeBytes": 11233990,
+      "pdfUrl": "https://archive.org/download/qayyumzamman_gmail_20170120_1002/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%AA%D8%AC%D9%88%DB%8C%D8%AF.pdf",
+      "coverUrl": "https://ia903201.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/qayyumzamman_gmail_20170120_1002/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%AA%D8%AC%D9%88%DB%8C%D8%AF_jp2.zip&file=%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%AA%D8%AC%D9%88%DB%8C%D8%AF_jp2/%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%AA%D8%AC%D9%88%DB%8C%D8%AF_0000.jp2&id=qayyumzamman_gmail_20170120_1002&scale=8&rotate=0",
+      "fileSizeBytes": 9518303,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "all"
+    },
+    {
+      "id": "item-mw0a308i25",
+      "type": "book",
+      "titleUr": "النبی الاطہر",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "aqaid",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/Alnabiyu-Alathar-113449/Alnabiyu-Alathar-113449-HQ.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRfTBiIcDbZU_ZS8Fi8mkYP-_hQFjgMqUudrHZ2w1t4yhdlSD6kXnCnjnUQp6agg8nGzoJiDSr7ra1z0k5OUeelwPL9HgVTAxk3RC6UUk2JFWl09rScY7e1gyYyWeTFTYf4HkOFEA7Sj-ds5_VnNGjekt5ZF9l5bySMWZ1uslN_Zy-9X7EUlrhskRDh0Sq/s445/2024-05-21_181814.jpg",
+      "fileSizeBytes": 3770153,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
@@ -8352,6 +8671,25 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "all"
+    },
+    {
+      "id": "item-mw0ag4it36",
+      "type": "book",
+      "titleUr": "نحو میر مکتبہ قادریہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "aqaid",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20200605_20200605_0248/%D9%86%D8%AD%D9%88%20%D9%85%DB%8C%D8%B1%D9%85%DA%A9%D8%AA%D8%A8%DB%81%20%D9%82%D8%A7%D8%AF%D8%B1%DB%8C%DB%81.pdf",
+      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhACdCj4n675ZHWsAD-vFYIbbizDdg3y6r86P5DuYqBstE67ROpKuRRsDmTbXc2yKHiXETyUmt0ApE3k7TCH5HcVWf6IDxWnXj3cR17pky__ek18CSLojh7VvSSthvzWg28ccHJokfNTuynrYqTEbWS5Wt5FlTZ4_rXQ64usdjWmUATABUiO392fsRreA=s852",
+      "fileSizeBytes": 19862313,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
     },
     {
       "id": "item-mw0b5sc653",
@@ -15096,344 +15434,6 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "boys"
-    },
-    {
-      "id": "item-mw2ewknb339",
-      "type": "book",
-      "titleUr": "الدر المختار شرح تنوير الأبصار",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "Mufti",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/hanafi_20150702_1605/%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%D9%88%D8%AC%D8%A7%D9%85%D8%B9%20%D8%A7%D9%84%D8%A8%D8%AD%D8%A7%D8%B1%20-%20%D8%A7%D9%84%D8%AD%D8%B5%D9%81%D9%83%D9%8A.pdf",
-      "coverUrl": "",
-      "fileSizeBytes": 20792329,
-      "tags": [],
-      "sortOrder": 0,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "boys"
-    },
-    {
-      "id": "item-mw2etgo1336",
-      "type": "book",
-      "titleUr": "حاشیہ الطحطاوی على الدر المختار",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "Mufti",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%281%29.pdf",
-      "coverUrl": "",
-      "fileSizeBytes": 14360843,
-      "tags": [],
-      "sortOrder": 0,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "boys",
-      "volumes": [
-        {
-          "id": "1-mw2eopwd324",
-          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 1",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%281%29.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 0
-        },
-        {
-          "id": "2-mw2eoujd325",
-          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 2",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%282%29.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 1
-        },
-        {
-          "id": "3-mw2ep06e326",
-          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 3",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%283%29.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 2
-        },
-        {
-          "id": "4-mw2ep5jk327",
-          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 4",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%284%29.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 3
-        },
-        {
-          "id": "5-mw2epaox328",
-          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 5",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%285%29.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 4
-        },
-        {
-          "id": "6-mw2epfh0329",
-          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 6",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%286%29.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 5
-        },
-        {
-          "id": "7-mw2epki3330",
-          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 7",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%287%29.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 6
-        },
-        {
-          "id": "8-mw2epp8s331",
-          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 8",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%288%29.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 7
-        },
-        {
-          "id": "9-mw2epua1332",
-          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 9",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%289%29.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 8
-        },
-        {
-          "id": "10-mw2epzf4333",
-          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 10",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%2810%29.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 9
-        },
-        {
-          "id": "11-mw2eq4l3334",
-          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 11",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%2811%29.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 10
-        },
-        {
-          "id": "12-mw2eq9l9335",
-          "titleUr": "حاشیہ الطحطاوی على الدر المختار جلد 12",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/6_20210209_20210209/%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B7%D8%AD%D8%B7%D8%A7%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AF%D8%B1%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%B4%D8%B1%D8%AD%20%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B5%D8%A7%D8%B1%20%2812%29.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 11
-        }
-      ]
-    },
-    {
-      "id": "item-mw2ewgq2337",
-      "type": "book",
-      "titleUr": "جد الممتار علی رد المحتار",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "Mufti",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/1_20200911_20200911_1405/%D8%AC%D8%AF%20%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%B1%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%A7%D8%B1%20%D8%AC1.pdf",
-      "coverUrl": "",
-      "fileSizeBytes": 21779387,
-      "tags": [],
-      "sortOrder": 0,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "boys",
-      "volumes": [
-        {
-          "id": "1-mw2e4dd2301",
-          "titleUr": "جد الممتار علی رد المحتار جلد 1",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/1_20200911_20200911_1405/%D8%AC%D8%AF%20%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%B1%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%A7%D8%B1%20%D8%AC1.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 0
-        },
-        {
-          "id": "2-mw2e5j0t302",
-          "titleUr": "جد الممتار علی رد المحتار جلد 2",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/1_20200911_20200911_1405/%D8%AC%D8%AF%20%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%B1%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%A7%D8%B1%20%D8%AC2.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 1
-        },
-        {
-          "id": "3-mw2e5obj303",
-          "titleUr": "جد الممتار علی رد المحتار جلد 3",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/1_20200911_20200911_1405/%D8%AC%D8%AF%20%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%B1%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%A7%D8%B1%20%D8%AC3.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 2
-        },
-        {
-          "id": "4-mw2e5t5p304",
-          "titleUr": "جد الممتار علی رد المحتار جلد 4",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/1_20200911_20200911_1405/%D8%AC%D8%AF%20%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%B1%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%A7%D8%B1%20%D8%AC4.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 3
-        },
-        {
-          "id": "5-mw2e5xxb305",
-          "titleUr": "جد الممتار علی رد المحتار جلد 5",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/1_20200911_20200911_1405/%D8%AC%D8%AF%20%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%B1%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%A7%D8%B1%20%D8%AC5.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 4
-        },
-        {
-          "id": "6-mw2e62fk306",
-          "titleUr": "جد الممتار علی رد المحتار جلد 6",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/1_20200911_20200911_1405/%D8%AC%D8%AF%20%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%B1%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%A7%D8%B1%20%D8%AC6.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 5
-        },
-        {
-          "id": "7-mw2e67ci307",
-          "titleUr": "جد الممتار علی رد المحتار جلد 7",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/1_20200911_20200911_1405/%D8%AC%D8%AF%20%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%B1%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%A7%D8%B1%20%D8%AC7.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 6
-        }
-      ]
-    },
-    {
-      "id": "item-mw2ewior338",
-      "type": "book",
-      "titleUr": "رد المحتار على الدر المختار",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "Mufti",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/00_61487.pdf",
-      "coverUrl": "",
-      "fileSizeBytes": 474224,
-      "tags": [],
-      "sortOrder": 0,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "boys",
-      "volumes": [
-        {
-          "id": "1-mw2eeetl309",
-          "titleUr": "رد المحتار على الدر المختار جلد 1",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/01_61487.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 0
-        },
-        {
-          "id": "2-mw2eej9g310",
-          "titleUr": "رد المحتار على الدر المختار جلد 2",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/02_61488.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 1
-        },
-        {
-          "id": "3-mw2eeoa7311",
-          "titleUr": "رد المحتار على الدر المختار جلد 3",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/03_61489.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 2
-        },
-        {
-          "id": "4-mw2eet7v312",
-          "titleUr": "رد المحتار على الدر المختار جلد 4",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/04_61490.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 3
-        },
-        {
-          "id": "5-mw2eey4h313",
-          "titleUr": "رد المحتار على الدر المختار جلد 5",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/05_61491.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 4
-        },
-        {
-          "id": "6-mw2ef314314",
-          "titleUr": "رد المحتار على الدر المختار جلد 6",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/06_61492.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 5
-        },
-        {
-          "id": "7-mw2ef7n1315",
-          "titleUr": "رد المحتار على الدر المختار جلد 7",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/07_61493.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 6
-        },
-        {
-          "id": "8-mw2efcjo316",
-          "titleUr": "رد المحتار على الدر المختار جلد 8",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/08_61494.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 7
-        },
-        {
-          "id": "9-mw2efh7l317",
-          "titleUr": "رد المحتار على الدر المختار جلد 9",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/09_61495.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 8
-        },
-        {
-          "id": "10-mw2efm3c318",
-          "titleUr": "رد المحتار على الدر المختار جلد 10",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/10_61496.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 9
-        },
-        {
-          "id": "11-mw2efquc319",
-          "titleUr": "رد المحتار على الدر المختار جلد 11",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/11_61497.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 10
-        },
-        {
-          "id": "12-mw2efvpx320",
-          "titleUr": "رد المحتار على الدر المختار جلد 12",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/12_61498.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 11
-        },
-        {
-          "id": "13-mw2ega8k321",
-          "titleUr": "رد المحتار على الدر المختار جلد 13",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/HashyatIbnAbidin/13_61499.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 12
-        }
-      ]
     },
     {
       "id": "item-mw7o1ihb77",
