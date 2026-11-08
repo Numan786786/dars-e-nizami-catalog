@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 282,
-  "updatedAt": "2026-11-08T07:03:45.907705Z",
+  "catalogVersion": 283,
+  "updatedAt": "2026-11-08T07:07:36.005269Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -36356,6 +36356,25 @@
       "pdfUrl": "https://archive.org/download/osoul-fikh-hanafi/nasamat.pdf",
       "coverUrl": "",
       "fileSizeBytes": 10672487,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mw7hpb6m0",
+      "type": "book",
+      "titleUr": "نسمات الاسحار عربی حاشیہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "MuftCoursei",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/AAlexandrina-060098/060098%20-%20%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D9%86%D8%B3%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AD%D8%A7%D8%B1.pdf",
+      "coverUrl": "https://ia800805.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/AAlexandrina-060098/060098%20-%20%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D9%86%D8%B3%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AD%D8%A7%D8%B1_jp2.zip&file=060098%20-%20%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D9%86%D8%B3%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AD%D8%A7%D8%B1_jp2/060098%20-%20%D8%AD%D8%A7%D8%B4%D9%8A%D8%A9%20%D9%86%D8%B3%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AD%D8%A7%D8%B1_0003.jp2&id=AAlexandrina-060098&scale=2&rotate=0",
+      "fileSizeBytes": null,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
