@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T10:35:12.633563Z",
+  "updatedAt": "2026-11-08T11:10:21.492736Z",
   "banners": [
     {
       "id": "banner-sarf",
@@ -46,11 +46,7 @@
     }
   ],
   "featuredIds": [
-    "tafsir-al-jalalayn-1",
-    "Darsibooks",
-    "شرح-عقائد-mvg01glu0",
-    "item-mvgtyefh2",
-    "item-mvgtwnl01"
+    "tafsir-al-jalalayn-1"
   ],
   "social": {
     "whatsapp": "https://wa.me/message/CZHFT3MQNTENM1",
@@ -61,39 +57,31 @@
   "donation": {
     "accounts": [
       {
-        "id": "easypaisa",
-        "labelUr": "ایزی پیسہ",
-        "labelEn": "Easypaisa",
-        "accountTitle": "Muhammad Hasnain",
-        "accountNumber": "03015879123",
-        "iban": ""
-      },
-      {
         "id": "jazzcash",
-        "labelUr": "جاز کیش",
-        "labelEn": "JazzCash",
+        "labelUr": "جاز کیش،ایزی پیسہ،راست آئی ڈی",
+        "labelEn": "JazzCash & EasyPaisa & Raast I'd",
         "accountTitle": "Muhammad Hasnain",
         "accountNumber": "03015879123",
-        "iban": ""
+        "iban": "PK13TMFB0000000035746543"
       },
       {
         "id": "raast",
-        "labelUr": "راست",
-        "labelEn": "Raast",
+        "labelUr": "یونائیٹڈ بنک",
+        "labelEn": "UBL Bank 🏦",
         "accountTitle": "Muhammad Hasnain",
-        "accountNumber": "03015879123",
-        "iban": ""
+        "accountNumber": "0597287021118",
+        "iban": "PK46UNIL0109000287021118"
       },
       {
         "id": "mbl-bank",
-        "labelUr": "موبلنک مائیکروفنانس بینک",
-        "labelEn": "Mobilink Microfinance Bank",
+        "labelUr": "فیصل بنک",
+        "labelEn": "Faysal Bank 🏦",
         "accountTitle": "Muhammad Hasnain",
-        "accountNumber": "",
-        "iban": "PK20JCMA1407923015879123"
+        "accountNumber": "3523786000000481",
+        "iban": "PK02FAYS3523786000000481"
       }
     ],
     "messageUr": "جیسا کہ آپ جانتے ہیں کہ اس ایپ میں طلبہ وطالبات کو نصابی کتب سے لے کر سوالیہ و حل شدہ پرچہ جات بلکل مفت فراہم کیے گئے ہیں۔ اس کام میں مزید بہتری اور سالانہ اخراجات کے لیے آپ کا تعاون درکار ہے، آپ ہمارے ساتھ حسب توفیق ضرور تعاون فرمائیں۔ جزاکم اللہ خیرا کثیرا",
-    "messageEn": "As you know, this app provides students with textbooks as well as past and solved papers completely free. We need your support for further improvement of this work and for annual expenses. Please support us according to your means. Jazakum Allahu Khairan Katheera."
+    "messageEn": "جیسا کہ آپ جانتے ہیں کہ اس ایپ میں طلبہ وطالبات کو نصابی کتب سے لے کر سوالیہ و حل شدہ پرچہ جات بلکل مفت فراہم کیے گئے ہیں۔ اس کام میں مزید بہتری اور سالانہ اخراجات کے لیے آپ کا تعاون درکار ہے، آپ ہمارے ساتھ حسب توفیق ضرور تعاون فرمائیں۔ جزاکم اللہ خیرا کثیرا"
   }
 }
