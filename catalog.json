@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 294,
-  "updatedAt": "2026-11-08T12:47:43.639531Z",
+  "catalogVersion": 295,
+  "updatedAt": "2026-11-08T12:56:15.438322Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -8429,25 +8429,6 @@
       "audience": "girls"
     },
     {
-      "id": "item-mw0bnhyl59",
-      "type": "book",
-      "titleUr": "شرح اربعین نووی",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "aqaid",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/SharahArbaeeneNawavi/%D8%B4%D8%B1%D8%AD%20%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86%20%D9%86%D9%88%D9%88%DB%8C%20.pdf",
-      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjajp9GrbSpy2rE57_MK1KqDAO3MbMxMpfwKWpZhFk1Xmhc6s_4pRMAL1STRint5RO1fqbd5AhstK_sG5-nNtrlpLP3GeMqAxdp3FBTVr5b4eCzaXQwQfqrmuXaQ_0qnOt-g5j0Eam0MCg/s1600/IMG_20180928_122422_298.jpg",
-      "fileSizeBytes": 6729276,
-      "tags": [],
-      "sortOrder": 0,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "girls"
-    },
-    {
       "id": "item-mw0btla560",
       "type": "book",
       "titleUr": "سنی بہشتی زیور",
@@ -13076,25 +13057,6 @@
       "pdfUrl": "https://drive.google.com/file/d/1uw_1U3ipdXE7o1PNieZ6Me1c28LO0nng/view?usp=drivesdk",
       "coverUrl": "",
       "fileSizeBytes": 8272489,
-      "tags": [],
-      "sortOrder": 0,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "girls"
-    },
-    {
-      "id": "item-mw25tgmr171",
-      "type": "book",
-      "titleUr": "المبین المعین لفھم الاربعین",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "aqaid",
-      "language": "ur",
-      "pdfUrl": "https://drive.google.com/file/d/1zHiy3lxGD0ku5xxKZbKQ-lCd21ZV2tFN/view?usp=drivesdk",
-      "coverUrl": "",
-      "fileSizeBytes": 92548093,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
