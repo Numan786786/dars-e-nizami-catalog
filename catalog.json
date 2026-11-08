@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 290,
-  "updatedAt": "2026-11-08T10:05:07.911937Z",
+  "catalogVersion": 291,
+  "updatedAt": "2026-11-08T10:29:16.078668Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -636,32 +636,14 @@
       "description": "",
       "categoryId": "Mufti",
       "language": "ur",
-      "pdfUrl": "https://urdumehfil.net/wp-content/uploads/2020/04/Tafseerat-e-Ahmadia.pdf",
+      "pdfUrl": "https://archive.org/download/20250922_20250922_0859/%D8%AA%D9%81%D8%B3%DB%8C%D8%B1%D8%A7%D8%AA%20%D8%A7%D8%AD%D9%85%D8%AF%DB%8C%DB%81%DB%94%20%D8%A7%D8%AD%D9%85%D8%AF%20%D8%AC%DB%8C%D9%88%D9%86%DB%94%20%D8%A7%D8%B1%D8%AF%D9%88%20%D8%B9%D8%B1%D8%A8%DB%8C%20%DB%94%20%D8%AD%D9%82.pdf",
       "coverUrl": "https://alghanipublishers.com/wp-content/uploads/2019/10/499.jpg",
       "fileSizeBytes": 42788479,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "boys",
-      "volumes": [
-        {
-          "id": "1-mvgx0xes20",
-          "titleUr": "تفسیرات احمدیہ اردو  لنک 1",
-          "titleEn": "",
-          "pdfUrl": "https://urdumehfil.net/wp-content/uploads/2020/04/Tafseerat-e-Ahmadia.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": null
-        },
-        {
-          "id": "2-mvgx569r21",
-          "titleUr": "تفسیرات احمدیہ اردو لنک 2",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/20250922_20250922_0859/%D8%AA%D9%81%D8%B3%DB%8C%D8%B1%D8%A7%D8%AA%20%D8%A7%D8%AD%D9%85%D8%AF%DB%8C%DB%81%DB%94%20%D8%A7%D8%AD%D9%85%D8%AF%20%D8%AC%DB%8C%D9%88%D9%86%DB%94%20%D8%A7%D8%B1%D8%AF%D9%88%20%D8%B9%D8%B1%D8%A8%DB%8C%20%DB%94%20%D8%AD%D9%82.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": null
-        }
-      ]
+      "audience": "boys"
     },
     {
       "id": "item-mw7e28ir167",
