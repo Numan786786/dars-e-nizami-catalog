@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 283,
-  "updatedAt": "2026-11-08T07:07:36.005269Z",
+  "catalogVersion": 284,
+  "updatedAt": "2026-11-08T07:13:59.755682Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -1196,7 +1196,7 @@
       "categoryId": "MuftCoursei",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/20220316_20220316_1854/%D8%A7%D9%84%D8%A7%D8%B4%D8%A8%D8%A7%DB%81%20%D9%88%20%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D8%A6%D8%B1%20%D8%A7%D8%B1%D8%AF%D9%88.pdf",
-      "coverUrl": "https://drive.google.com/file/d/1i8oE3qz606-G3KQVjzO5t50LzFdGAX-u/view?usp=drivesdk",
+      "coverUrl": "https://ia803101.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/20220316_20220316_1854/%D8%A7%D9%84%D8%A7%D8%B4%D8%A8%D8%A7%DB%81%20%D9%88%20%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D8%A6%D8%B1%20%D8%A7%D8%B1%D8%AF%D9%88_jp2.zip&file=%D8%A7%D9%84%D8%A7%D8%B4%D8%A8%D8%A7%DB%81%20%D9%88%20%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D8%A6%D8%B1%20%D8%A7%D8%B1%D8%AF%D9%88_jp2/%D8%A7%D9%84%D8%A7%D8%B4%D8%A8%D8%A7%DB%81%20%D9%88%20%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D8%A6%D8%B1%20%D8%A7%D8%B1%D8%AF%D9%88_0008.jp2&id=20220316_20220316_1854&scale=8&rotate=0",
       "fileSizeBytes": 56419478,
       "tags": [],
       "sortOrder": 0,
