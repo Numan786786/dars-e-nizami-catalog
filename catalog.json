@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 281,
-  "updatedAt": "2026-11-08T06:58:10.921176Z",
+  "catalogVersion": 282,
+  "updatedAt": "2026-11-08T07:03:45.907705Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -15475,7 +15475,7 @@
     {
       "id": "item-mvh10dp61",
       "type": "book",
-      "titleUr": "نسمات الاسحار عربی",
+      "titleUr": "نسمات الاسحار بیروت نیو ایڈیشن",
       "titleEn": "",
       "authorUr": "",
       "authorEn": "",
