@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 289,
-  "updatedAt": "2026-11-08T09:56:36.466466Z",
+  "catalogVersion": 290,
+  "updatedAt": "2026-11-08T10:05:07.911937Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -37566,6 +37566,123 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "boys"
+    },
+    {
+      "id": "item-mw7o1ihb77",
+      "type": "book",
+      "titleUr": "فتاوی شامی ضیاء القرآن",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "Mufti",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/ftawa-shami/%D9%81%D8%AA%D8%A7%D9%88%DB%8C%20%D8%B4%D8%A7%D9%85%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC%D9%84%D8%AF%20%E2%91%A0.pdf",
+      "coverUrl": "https://alghanipublishers.com/wp-content/uploads/2024/12/%D9%81%D8%AA%D8%A7%D9%88%DB%8C-%D8%B4%D8%A7%D9%85%DB%8C-12-%D8%AC%D9%84%D8%AF%DB%8C%DA%BA-%DA%A9%D8%A7%D9%85%D9%84-%D9%85%DA%A9%D9%85%D9%84-%D8%B3%DB%8C%D9%B9-.jpg",
+      "fileSizeBytes": 34337326,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mvh1en4f0",
+          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 01",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/ftawa-shami/%D9%81%D8%AA%D8%A7%D9%88%DB%8C%20%D8%B4%D8%A7%D9%85%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC%D9%84%D8%AF%20%E2%91%A0.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mvh1mftl2",
+          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 02",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/ftawa-shami/%D9%81%D8%AA%D8%A7%D9%88%DB%8C%20%D8%B4%D8%A7%D9%85%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC%D9%84%D8%AF%20%E2%91%A1.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mvh1mzta3",
+          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 03",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/ftawa-shami/%D9%81%D8%AA%D8%A7%D9%88%DB%8C%20%D8%B4%D8%A7%D9%85%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC%D9%84%D8%AF%20%E2%91%A2.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mvh1nlf74",
+          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 04",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/ftawa-shami/%D9%81%D8%AA%D8%A7%D9%88%DB%8C%20%D8%B4%D8%A7%D9%85%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC%D9%84%D8%AF%20%E2%91%A3.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mvh1o7655",
+          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 05",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/ftawa-shami/%D9%81%D8%AA%D8%A7%D9%88%DB%8C%20%D8%B4%D8%A7%D9%85%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC%D9%84%D8%AF%20%E2%91%A4.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mvh1ops46",
+          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 06",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/ftawa-shami/%D9%81%D8%AA%D8%A7%D9%88%DB%8C%20%D8%B4%D8%A7%D9%85%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC%D9%84%D8%AF%20%E2%91%A5.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mvh1p7qv7",
+          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 07",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/ftawa-shami/%D9%81%D8%AA%D8%A7%D9%88%DB%8C%20%D8%B4%D8%A7%D9%85%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC%D9%84%D8%AF%20%E2%91%A6.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mvh1pro48",
+          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 08",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/ftawa-shami/%D9%81%D8%AA%D8%A7%D9%88%DB%8C%20%D8%B4%D8%A7%D9%85%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC%D9%84%D8%AF%20%E2%91%A7.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mvh1qbhe9",
+          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 09",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/ftawa-shami/%D9%81%D8%AA%D8%A7%D9%88%DB%8C%20%D8%B4%D8%A7%D9%85%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC%D9%84%D8%AF%20%E2%91%A8.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mvh1qttx10",
+          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 10",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/ftawa-shami/%D9%81%D8%AA%D8%A7%D9%88%DB%8C%20%D8%B4%D8%A7%D9%85%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC%D9%84%D8%AF%20%E2%91%A9.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        },
+        {
+          "id": "11-mvh1rf3z11",
+          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 11",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/ftawa-shami/%D9%81%D8%AA%D8%A7%D9%88%DB%8C%20%D8%B4%D8%A7%D9%85%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC%D9%84%D8%AF%20%E2%91%AA.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 10
+        },
+        {
+          "id": "12-mvh1rwrx12",
+          "titleUr": "فتاویٰ شامی ضیاء القرآن جلد 12",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/ftawa-shami/%D9%81%D8%AA%D8%A7%D9%88%DB%8C%20%D8%B4%D8%A7%D9%85%DB%8C%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D8%AC%D9%84%D8%AF%20%E2%91%AB.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 11
+        }
+      ]
     }
   ],
   "isDemo": false
