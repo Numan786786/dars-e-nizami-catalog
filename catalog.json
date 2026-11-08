@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 270,
-  "updatedAt": "2026-11-08T04:52:09.634956Z",
+  "catalogVersion": 271,
+  "updatedAt": "2026-11-08T04:59:09.690159Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -36048,6 +36048,25 @@
           "sortOrder": 5
         }
       ]
+    },
+    {
+      "id": "item-mw7d0kzz161",
+      "type": "book",
+      "titleUr": "آثار السنن اردو شرح",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/AHADEESBOOKS/%D8%A2%D8%AB%D8%A7%D8%B1%20%D8%B3%D9%86%D9%86.pdf",
+      "coverUrl": "https://ia601802.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/AHADEESBOOKS/%D8%A2%D8%AB%D8%A7%D8%B1%20%D8%B3%D9%86%D9%86_jp2.zip&file=%D8%A2%D8%AB%D8%A7%D8%B1%20%D8%B3%D9%86%D9%86_jp2/%D8%A2%D8%AB%D8%A7%D8%B1%20%D8%B3%D9%86%D9%86_0000.jp2&id=AHADEESBOOKS&scale=2&rotate=0",
+      "fileSizeBytes": 122216136,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
     }
   ],
   "isDemo": false
