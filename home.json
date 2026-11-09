@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T09:20:09.086483Z",
+  "updatedAt": "2026-11-09T09:23:03.700428Z",
   "banners": [
     {
       "id": "banner-sarf",
@@ -8,10 +8,10 @@
       "titleEn": ".",
       "subtitleUr": "",
       "subtitleEn": "",
-      "imageUrl": "https://www.facebook.com/share/p/1G1Ayj4Srr/",
+      "imageUrl": "https://drive.google.com/file/d/1iEqooiOrdHi_MX-ZHeSlxsdkj_ZBGnC0/view?usp=drivesdk",
       "action": {
-        "type": "category",
-        "target": "A"
+        "type": "none",
+        "target": ""
       },
       "sortOrder": 1,
       "isActive": true
