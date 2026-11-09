@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T09:23:03.700428Z",
+  "updatedAt": "2026-11-09T09:33:03.310007Z",
   "banners": [
     {
       "id": "banner-sarf",
@@ -8,7 +8,7 @@
       "titleEn": ".",
       "subtitleUr": "",
       "subtitleEn": "",
-      "imageUrl": "https://drive.google.com/file/d/1iEqooiOrdHi_MX-ZHeSlxsdkj_ZBGnC0/view?usp=drivesdk",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7yvnthkeCGCGKIWhdNnkpBL0xsJ-YrT2kl7FVBUxxXFwdm0S7CajIhso6-CQzch8TH-f8MzWFaiB4rSFzfjrRPZNzQa4zHrSw0eZhX33ExhwoBU3owl5FjWBzvJtkTJitFfn4mCIVQre7X8-0KaOzV0l-csEh5WAu7kZJt4Bf5vG2t_nktN707tq3wbnd/s1997/115173.png",
       "action": {
         "type": "none",
         "target": ""
