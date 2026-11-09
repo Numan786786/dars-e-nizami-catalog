@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 304,
-  "updatedAt": "2026-11-09T06:25:33.964331Z",
+  "catalogVersion": 305,
+  "updatedAt": "2026-11-09T06:30:34.279827Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -11835,7 +11835,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all"
+      "audience": "boys"
     },
     {
       "id": "item-mw20gvn179",
@@ -11911,7 +11911,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all"
+      "audience": "boys"
     },
     {
       "id": "item-mw20p3xg83",
@@ -12025,7 +12025,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all"
+      "audience": "boys"
     },
     {
       "id": "item-mw21b44489",
@@ -12044,7 +12044,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all"
+      "audience": "boys"
     },
     {
       "id": "item-mw21bv3790",
@@ -12063,7 +12063,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all"
+      "audience": "boys"
     },
     {
       "id": "item-mw21ckau91",
@@ -12158,7 +12158,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all"
+      "audience": "boys"
     },
     {
       "id": "item-mw21gau496",
@@ -12177,7 +12177,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all"
+      "audience": "boys"
     },
     {
       "id": "item-mw21hms897",
@@ -12196,7 +12196,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all"
+      "audience": "boys"
     },
     {
       "id": "item-mw21i4e898",
@@ -12215,7 +12215,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all"
+      "audience": "boys"
     },
     {
       "id": "item-mw21jo68100",
@@ -13580,25 +13580,6 @@
       "audience": "girls"
     },
     {
-      "id": "item-mw262qur179",
-      "type": "book",
-      "titleUr": "علم الصیغہ مکتبۃ البشریٰ",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "hadith",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/IlmUsSeghaAlBushraColor.pdf",
-      "coverUrl": "https://besturdubooks.files.wordpress.com/2013/09/ilm-us-segha-arabic.jpg",
-      "fileSizeBytes": 36869551,
-      "tags": [],
-      "sortOrder": 0,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "girls"
-    },
-    {
       "id": "item-mw262smo180",
       "type": "book",
       "titleUr": "اغراض علم الصیغہ",
@@ -13687,44 +13668,6 @@
       "pdfUrl": "https://archive.org/download/20210403_20210403_1158/%D8%AA%D8%AD%D9%81%DB%81%20%D8%B1%D8%B3%D9%88%D9%84%DB%8C%DB%81.pdf",
       "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMnYlptUKPTyvjkogC_aNFseFDhsgCw3445mgxNj80fW7hGu4H4c4aD1HS_v2cqlEXMy6v2cDIQlzWNt2ekqsJAKLQVpLvo68dnfq-u6VNzUSPL0osz42zT4vJ0G7Y0oGW5Pa0V5cP3Zzp/s2048/Books+Title+Covers+By+Hasnain+Asadi+Sb.jpg",
       "fileSizeBytes": 4120566,
-      "tags": [],
-      "sortOrder": 0,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "girls"
-    },
-    {
-      "id": "item-mw26360o185",
-      "type": "book",
-      "titleUr": "ارشاد الصیغہ اردو شرح علم الصیغہ",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "hadith",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/IrshadUsSighaUrduSharhIlmUsSigha.pdf",
-      "coverUrl": "https://besturdubooks.files.wordpress.com/2013/09/irshad-us-sigha-urdu-sharh-ilm-us-sigha.jpg?resize=186%2C300",
-      "fileSizeBytes": 14911000,
-      "tags": [],
-      "sortOrder": 0,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "girls"
-    },
-    {
-      "id": "item-mw2637ju186",
-      "type": "book",
-      "titleUr": "اشرف الصیغہ اردو شرح علم الصیغہ",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "hadith",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AshrafUlSegahMeerMuhammad.pdf",
-      "coverUrl": "https://besturdubooks.files.wordpress.com/2013/09/ashraf-us-sigha-urdu-sharh-ilm-us-sigha.jpg",
-      "fileSizeBytes": 5575326,
       "tags": [],
       "sortOrder": 0,
       "isActive": true,
