@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 302,
-  "updatedAt": "2026-11-09T06:15:52.912091Z",
+  "catalogVersion": 303,
+  "updatedAt": "2026-11-09T06:23:31.854467Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -12218,25 +12218,6 @@
       "audience": "all"
     },
     {
-      "id": "item-mw21iz6t99",
-      "type": "book",
-      "titleUr": "صفوۃ الحواشی اردو شرح اصول الشاشی",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "usul-al-fiqh",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/SafwatlUlHawashiUrduSharhUsoolUshShashi.pdf",
-      "coverUrl": "https://besturdubooks.files.wordpress.com/2013/09/safwatl-ul-hawashi-urdu-sharh-usool-ush-shashi.jpg?resize=186%2C300",
-      "fileSizeBytes": 15196520,
-      "tags": [],
-      "sortOrder": 0,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "girls"
-    },
-    {
       "id": "item-mw21jo68100",
       "type": "book",
       "titleUr": "اصول الشاشی اردو",
@@ -21213,7 +21194,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all"
+      "audience": "boys"
     },
     {
       "id": "item-mw3ph2p220",
@@ -22664,7 +22645,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all"
+      "audience": "boys"
     },
     {
       "id": "item-mw3szudu106",
