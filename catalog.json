@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 316,
-  "updatedAt": "2026-11-09T09:46:09.724207Z",
+  "catalogVersion": 317,
+  "updatedAt": "2026-11-09T09:50:13.697880Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -8588,25 +8588,6 @@
       "audience": "boys"
     },
     {
-      "id": "item-mw0b21g348",
-      "type": "book",
-      "titleUr": "طریقہ جدیدہ",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "aqaid",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/20200605_20200605_0229/%D8%B7%D8%B1%DB%8C%D9%82%DB%81%20%D8%AC%D8%AF%DB%8C%D8%AF%DB%81.pdf",
-      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgVImS-m8Jpov-OCs_zF3oAgB9PkQfOROe66xIKpJMTBvRcjYq0oI3xniyvR6RMZuEoq6EWWL4-ZdgfAtlZ00umjdCsXn165wSIukL8n5p4M89QUPSqRaeJdfs4_zC-pp6GJyf4rsdKc-UWTO-awQvNbZ-27wl-sZjAZlW5FO-pxCDSmaXyDL0xR7Zvrw=s840",
-      "fileSizeBytes": 24656220,
-      "tags": [],
-      "sortOrder": 0,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "boys"
-    },
-    {
       "id": "item-mw0b50l552",
       "type": "book",
       "titleUr": "طریقہ جدیدہ",
@@ -8850,25 +8831,6 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "girls"
-    },
-    {
-      "id": "item-mw0c2oll63",
-      "type": "book",
-      "titleUr": "قانون شریعت دعوت اسلامی",
-      "titleEn": "",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "aqaid",
-      "language": "ur",
-      "pdfUrl": "https://archive.org/download/2_20200605_20200605_0244/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B4%D8%B1%DB%8C%D8%B9%D8%AA%20%D8%AA%D8%AE%D8%B1%DB%8C%D8%AC%20%D8%B4%D8%AF%DB%81.pdf",
-      "coverUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgFJj8_R0eaNGMmNwTGCFHvsjIgI8c1IBBBZSoehT247V9B1-gnmx6rgyKEkskwROS4uSGkcdUjBqf1ywQwM6l0IFOwV5fj08l8cTuWDpwz0CQqQOM_brxKZLB5D6Y6csejv1F5MybbugQfx1Tf62Cq4uOSvB1ZwwlerlY2gzEK4dOE_Dj_GW5nJnzt4w=s1076",
-      "fileSizeBytes": 27188789,
-      "tags": [],
-      "sortOrder": 0,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "all"
     },
     {
       "id": "item-mw0tquel0",
