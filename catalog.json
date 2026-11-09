@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 301,
-  "updatedAt": "2026-11-09T05:49:47.132617Z",
+  "catalogVersion": 302,
+  "updatedAt": "2026-11-09T06:15:52.912091Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -203,7 +203,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all",
+      "audience": "boys",
       "volumes": [
         {
           "id": "1-mvgtvjzl0",
@@ -211,7 +211,7 @@
           "titleEn": "",
           "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabeaaMaoqoofAlai7thYear/TafseerUlBaizawiAlBushraColor.pdf",
           "fileSizeBytes": null,
-          "sortOrder": null
+          "sortOrder": 0
         }
       ]
     },
@@ -23846,7 +23846,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all",
+      "audience": "boys",
       "volumes": [
         {
           "id": "1-mw3hhi5b331",
@@ -24252,7 +24252,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all"
+      "audience": "boys"
     },
     {
       "id": "item-mw3uqj2b186",
