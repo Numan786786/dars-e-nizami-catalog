@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T06:58:33.598753Z",
+  "updatedAt": "2026-11-09T07:36:49.918122Z",
   "banners": [
     {
       "id": "banner-sarf",
@@ -8,7 +8,7 @@
       "titleEn": ".",
       "subtitleUr": "",
       "subtitleEn": "",
-      "imageUrl": "https://darsenizamibooks.com/wp-content/uploads/2023/05/Ghousia-Mehria-Multan-Tanzeem-1536x617.jpg",
+      "imageUrl": "https://drive.google.com/file/d/18AulwijJyB9jfNojNINw_Oi-VMIDu3F0/view?usp=drivesdk",
       "action": {
         "type": "category",
         "target": "A"
@@ -22,7 +22,7 @@
       "titleEn": "",
       "subtitleUr": "",
       "subtitleEn": "",
-      "imageUrl": "https://tanzeemulmadaris.com/img/slider/Banner.jpg",
+      "imageUrl": "https://darsenizamibooks.com/wp-content/uploads/2023/05/Ghousia-Mehria-Multan-Tanzeem-1536x617.jpg",
       "action": {
         "type": "none",
         "target": ""
@@ -36,7 +36,7 @@
       "titleEn": ".",
       "subtitleUr": "",
       "subtitleEn": "",
-      "imageUrl": "https://tanzeemulmadaris.com/img/slider/office.jpg",
+      "imageUrl": "https://tanzeemulmadaris.com/img/slider/Banner.jpg",
       "action": {
         "type": "category",
         "target": "B"
