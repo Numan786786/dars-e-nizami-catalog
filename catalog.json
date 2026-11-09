@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 303,
-  "updatedAt": "2026-11-09T06:23:31.854467Z",
+  "catalogVersion": 304,
+  "updatedAt": "2026-11-09T06:25:33.964331Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -10649,7 +10649,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all"
+      "audience": "boys"
     },
     {
       "id": "item-mw1un7c22",
@@ -10668,7 +10668,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all"
+      "audience": "boys"
     },
     {
       "id": "item-mw1un9f93",
@@ -10955,7 +10955,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all",
+      "audience": "boys",
       "volumes": [
         {
           "id": "1-mw1uu7k09",
@@ -10992,7 +10992,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all",
+      "audience": "boys",
       "volumes": [
         {
           "id": "1-mw1uw1fs12",
@@ -11077,7 +11077,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all",
+      "audience": "boys",
       "volumes": [
         {
           "id": "1-mw1v8d2z22",
@@ -13408,7 +13408,7 @@
       "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
-      "audience": "all",
+      "audience": "boys",
       "volumes": [
         {
           "id": "1-mw25pl81166",
