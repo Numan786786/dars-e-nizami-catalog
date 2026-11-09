@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T08:24:29.568344Z",
+  "updatedAt": "2026-11-09T09:15:40.895689Z",
   "banners": [
     {
       "id": "banner-sarf",
@@ -8,7 +8,7 @@
       "titleEn": ".",
       "subtitleUr": "",
       "subtitleEn": "",
-      "imageUrl": "https://drive.google.com/file/d/18AulwijJyB9jfNojNINw_Oi-VMIDu3F0/view?usp=drivesdk",
+      "imageUrl": "https://drive.google.com/file/d/1iEqooiOrdHi_MX-ZHeSlxsdkj_ZBGnC0/view?usp=drivesdk",
       "action": {
         "type": "category",
         "target": "A"
