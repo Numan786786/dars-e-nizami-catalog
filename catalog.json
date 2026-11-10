@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 322,
-  "updatedAt": "2026-11-10T15:54:14.870080Z",
+  "catalogVersion": 323,
+  "updatedAt": "2026-11-10T15:58:22.843779Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -13240,7 +13240,7 @@
       "fileSizeBytes": 1212952,
       "tags": [],
       "sortOrder": 0,
-      "isActive": true,
+      "isActive": false,
       "isFeatured": false,
       "audience": "boys"
     },
