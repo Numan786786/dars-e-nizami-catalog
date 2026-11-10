@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T17:16:19.873547Z",
+  "updatedAt": "2026-11-10T17:30:32.170588Z",
   "banners": [
     {
       "id": "banner-welcome",
@@ -15,20 +15,6 @@
       },
       "sortOrder": 2,
       "isActive": true
-    },
-    {
-      "id": "banner-fiqh",
-      "titleUr": "",
-      "titleEn": ".",
-      "subtitleUr": "",
-      "subtitleEn": "",
-      "imageUrl": "https://tanzeemulmadaris.com/img/slider/Banner.jpg",
-      "action": {
-        "type": "category",
-        "target": "B"
-      },
-      "sortOrder": 3,
-      "isActive": false
     },
     {
       "id": "B",
