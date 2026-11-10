@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 320,
-  "updatedAt": "2026-11-10T13:07:51.748604Z",
+  "catalogVersion": 321,
+  "updatedAt": "2026-11-10T15:08:29Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -118,7 +118,7 @@
       "id": "Darsibooks",
       "type": "book",
       "titleUr": "صحیح بخاری مکتبۃ البشریٰ",
-      "titleEn": "Sahi Bukhari",
+      "titleEn": "",
       "authorUr": "",
       "authorEn": "",
       "description": "",
@@ -128,7 +128,7 @@
       "coverUrl": "https://besturdubooks.net/wp-content/uploads/2022/02/SAHIH_AL_BUKHARI_BUSHRA.jpg",
       "fileSizeBytes": 39917394,
       "tags": [],
-      "sortOrder": 1,
+      "sortOrder": 0,
       "isActive": true,
       "isFeatured": false,
       "audience": "boys",
