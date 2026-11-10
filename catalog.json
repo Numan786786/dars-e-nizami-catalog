@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 326,
-  "updatedAt": "2026-11-10T17:30:32.170579Z",
+  "catalogVersion": 327,
+  "updatedAt": "2026-11-10T17:47:27.462006Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -38120,6 +38120,25 @@
           "sortOrder": 7
         }
       ]
+    },
+    {
+      "id": "item-mwazewfz0",
+      "type": "book",
+      "titleUr": "تفسیر القاضی البیضاوی مع حاشیہ سیوطی بیروت",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "sarf",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://share.google/L6hFldnXZL2bAlZAa",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
     }
   ],
   "isDemo": false
