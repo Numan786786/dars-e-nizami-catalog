@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T17:47:27.462014Z",
+  "updatedAt": "2026-11-10T17:50:28.708728Z",
   "banners": [
     {
       "id": "banner-welcome",
@@ -22,7 +22,7 @@
       "titleEn": "",
       "subtitleUr": "",
       "subtitleEn": "",
-      "imageUrl": null,
+      "imageUrl": "https://www.tanzeemulmadaris.com/img/slider/Banner.jpg",
       "action": {
         "type": "none",
         "target": ""
