@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "catalogVersion": 321,
-  "updatedAt": "2026-11-10T15:08:29Z",
+  "updatedAt": "2026-11-10T15:47:42.044759Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -118,7 +118,7 @@
       "id": "Darsibooks",
       "type": "book",
       "titleUr": "صحیح بخاری مکتبۃ البشریٰ",
-      "titleEn": "",
+      "titleEn": "Sahi Bukhari",
       "authorUr": "",
       "authorEn": "",
       "description": "",
@@ -128,7 +128,7 @@
       "coverUrl": "https://besturdubooks.net/wp-content/uploads/2022/02/SAHIH_AL_BUKHARI_BUSHRA.jpg",
       "fileSizeBytes": 39917394,
       "tags": [],
-      "sortOrder": 0,
+      "sortOrder": 1,
       "isActive": true,
       "isFeatured": false,
       "audience": "boys",
@@ -16186,7 +16186,7 @@
       "categoryId": "tafsir",
       "language": "ur",
       "pdfUrl": "",
-      "coverUrl": "https://ia803208.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/04_20200604/%D8%A7%D9%84%D8%AA%D9%86%D8%A8%D9%8A%D9%87%20%D8%B9%D9%84%DB%8C%20%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%811%D8%AA%D8%A73_jp2.zip&file=%D8%A7%D9%84%D8%AA%D9%86%D8%A8%D9%8A%D9%87%20%D8%B9%D9%84%DB%8C%20%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%811%D8%AA%D8%A73_jp2/%D8%A7%D9%84%D8%AA%D9%86%D8%A8%D9%8A%D9%87%20%D8%B9%D9%84%DB%8C%20%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%811%D8%AA%D8%A73_0000.jp2&id=04_20200604&scale=4&rotate=0",
+      "coverUrl": "https://dn790003.ca.archive.org/0/items/WAQ60256/cover.jpg",
       "fileSizeBytes": null,
       "tags": [],
       "sortOrder": 0,
@@ -16215,9 +16215,9 @@
     {
       "id": "item-mw32aeko43",
       "type": "book",
-      "titleUr": "النھایة فی شرح الھدایہ",
+      "titleUr": "النھایہ فی شرح الھدایہ عربی",
       "titleEn": "",
-      "authorUr": "",
+      "authorUr": "یہ درحقیقت 25 سکالرز کے ماسٹر لیول کے مقالات ہیں",
       "authorEn": "",
       "description": "",
       "categoryId": "tafsir",
@@ -37794,7 +37794,7 @@
     {
       "id": "item-mwalgpix3",
       "type": "book",
-      "titleUr": "الھدایہ عربی محقق نسخہ دارالسراج",
+      "titleUr": "الھدایہ شرح بدایۃ المبتدی عربی نسخہ دارالسراج",
       "titleEn": "",
       "authorUr": "",
       "authorEn": "",
@@ -37871,7 +37871,7 @@
     {
       "id": "item-mwam3lqk11",
       "type": "book",
-      "titleUr": "ہدایہ متن و ترجمہ وشرح فارسی",
+      "titleUr": "ھدایہ متن و ترجمہ وشرح فارسی",
       "titleEn": "",
       "authorUr": "",
       "authorEn": "",
@@ -37927,7 +37927,7 @@
     {
       "id": "item-mwam92od15",
       "type": "book",
-      "titleUr": "اصول ہدایہ",
+      "titleUr": "اصول ھدایہ",
       "titleEn": "",
       "authorUr": "",
       "authorEn": "",
@@ -38033,6 +38033,91 @@
           "pdfUrl": "https://archive.org/download/20260209_20260209_1106/%D8%AA%D9%84%D8%AE%DB%8C%D8%B5%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D8%A9%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%DB%94%20%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B4%D9%81%D8%B9%D8%A9%20%D8%A7%D9%84%D9%82%D8%B3%D9%85%D8%A9%20%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D8%B1%D8%B9%D8%A9%20%D8%A7%D9%84%D8%B5%DB%8C%D8%AF%20%D8%A7%D9%84%D8%B1%DB%81%D9%86%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%DB%8C%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AF%DB%8C%D8%A7%D8%AA%20%DB%94%20%D8%AC%D9%84%D8%AF%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%20%DB%94%20%D8%AD%D9%81%DB%8C%D8%B8%20%D8%A7%D9%84%D9%84%DB%81%20%DB%94%20%20%D8%AD%D9%82%20.pdf",
           "fileSizeBytes": null,
           "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "item-mwaujfi21",
+      "type": "book",
+      "titleUr": "الھدایہ شرح بدایۃ المبتدی متن مع حاشیہ لکنوی",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia601509.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/2_20200604_20200604_0126/%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%DB%8C%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%DB%8C1_jp2.zip&file=%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%DB%8C%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%DB%8C1_jp2/%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%DB%8C%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%DB%8C1_0000.jp2&id=2_20200604_20200604_0126&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mwauje7h0",
+          "titleUr": "الھدایہ متن مع حاشیہ لکنوی جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2_20200604_20200604_0126/%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%DB%8C%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%DB%8C1.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mwauk6oe2",
+          "titleUr": "الھدایہ متن مع حاشیہ لکنوی جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2_20200604_20200604_0126/%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%DB%8C%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%DB%8C2.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mwaukb0x3",
+          "titleUr": "الھدایہ متن مع حاشیہ لکنوی جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2_20200604_20200604_0126/%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%DB%8C%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%DB%8C3.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mwaukena4",
+          "titleUr": "الھدایہ متن مع حاشیہ لکنوی جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2_20200604_20200604_0126/%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%DB%8C%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%DB%8C4.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mwaukhy25",
+          "titleUr": "الھدایہ متن مع حاشیہ لکنوی جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2_20200604_20200604_0126/%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%DB%8C%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%DB%8C5.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mwauklem6",
+          "titleUr": "الھدایہ متن مع حاشیہ لکنوی جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2_20200604_20200604_0126/%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%DB%8C%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%DB%8C6.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mwaukpak7",
+          "titleUr": "الھدایہ متن مع حاشیہ لکنوی جلد 7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2_20200604_20200604_0126/%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%DB%8C%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%DB%8C7.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mwauksuz8",
+          "titleUr": "الھدایہ متن مع حاشیہ لکنوی جلد 8",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2_20200604_20200604_0126/%DA%BE%D8%AF%D8%A7%DB%8C%DB%81%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%DB%8C%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%DB%8C8.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 7
         }
       ]
     }
