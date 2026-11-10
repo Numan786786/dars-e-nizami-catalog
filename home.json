@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T15:58:22.843786Z",
+  "updatedAt": "2026-11-10T17:13:05.104491Z",
   "banners": [
     {
       "id": "banner-welcome",
@@ -26,6 +26,20 @@
       "action": {
         "type": "category",
         "target": "B"
+      },
+      "sortOrder": 3,
+      "isActive": true
+    },
+    {
+      "id": "B",
+      "titleUr": "۔",
+      "titleEn": "",
+      "subtitleUr": "",
+      "subtitleEn": "",
+      "imageUrl": null,
+      "action": {
+        "type": "none",
+        "target": ""
       },
       "sortOrder": 3,
       "isActive": true
