@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T11:55:50.401184Z",
+  "updatedAt": "2026-11-10T13:07:51.748612Z",
   "banners": [
     {
       "id": "banner-sarf",
@@ -14,7 +14,7 @@
         "target": ""
       },
       "sortOrder": 1,
-      "isActive": true
+      "isActive": false
     },
     {
       "id": "banner-welcome",
