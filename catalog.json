@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 318,
-  "updatedAt": "2026-11-09T14:34:46.051155Z",
+  "catalogVersion": 319,
+  "updatedAt": "2026-11-10T11:55:50.401177Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -16223,7 +16223,7 @@
       "categoryId": "tafsir",
       "language": "ur",
       "pdfUrl": "",
-      "coverUrl": "https://ia803208.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/04_20200604/%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%AC01_jp2.zip&file=%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%AC01_jp2/%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%AC01_0000.jp2&id=04_20200604&scale=4&rotate=0",
+      "coverUrl": "https://www.al-ilmiyah.com/Covers/front_medium/978-2-7451-9445-9.jpg",
       "fileSizeBytes": null,
       "tags": [],
       "sortOrder": 0,
@@ -37734,6 +37734,307 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "all"
+    },
+    {
+      "id": "item-mw9e2kyn0",
+      "type": "book",
+      "titleUr": "رد قادیانیت اردو",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "hadith",
+      "language": "ur",
+      "pdfUrl": "https://darsenizamipdf.com/wp-content/uploads/2026/09/Radd-e-Qadiyaniyat-by-Allama-Gulam-Rasool-Saeedi.pdf",
+      "coverUrl": "https://darsenizamipdf.com/wp-content/smush-avif/2026/09/Radd-e-Qadiyaniyat-by-Allama-Gulam-Rasool-Saeedi-1085x1536.jpeg.avif",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mwal6q4a2",
+      "type": "book",
+      "titleUr": "ترجیح الراجح بالروایه فی مسائل الھدایه المشہور القول الراجح",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia800909.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/20260212_20260212_1016/%D8%A7%D9%84%D9%82%D9%88%D9%84%20%D8%A7%D9%84%D8%B1%D8%A7%D8%AC%D8%AD%D8%8C%20%D8%AA%D8%B1%D8%AC%DB%8C%D8%AD%20%D8%A7%D9%84%D8%B1%D8%A7%D8%AC%D8%AD%20%D8%A8%D8%A7%D9%84%D8%B1%D9%88%D8%A7%DB%8C%D8%A9%20%D9%81%DB%8C%20%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A6%D9%84%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%DB%81%D8%8C%20%D8%BA%D9%84%D8%A7%D9%85%20%D9%82%D8%A7%D8%AF%D8%B1%20%D9%86%D8%B9%D9%85%D8%A7%D9%86%DB%8C%D8%8C%20%D8%B9%D8%B1%D8%A8%DB%8C%20%DB%94%D8%AD%D9%82_jp2.zip&file=%D8%A7%D9%84%D9%82%D9%88%D9%84%20%D8%A7%D9%84%D8%B1%D8%A7%D8%AC%D8%AD%D8%8C%20%D8%AA%D8%B1%D8%AC%DB%8C%D8%AD%20%D8%A7%D9%84%D8%B1%D8%A7%D8%AC%D8%AD%20%D8%A8%D8%A7%D9%84%D8%B1%D9%88%D8%A7%DB%8C%D8%A9%20%D9%81%DB%8C%20%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A6%D9%84%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%DB%81%D8%8C%20%D8%BA%D9%84%D8%A7%D9%85%20%D9%82%D8%A7%D8%AF%D8%B1%20%D9%86%D8%B9%D9%85%D8%A7%D9%86%DB%8C%D8%8C%20%D8%B9%D8%B1%D8%A8%DB%8C%20%DB%94%D8%AD%D9%82_jp2/%D8%A7%D9%84%D9%82%D9%88%D9%84%20%D8%A7%D9%84%D8%B1%D8%A7%D8%AC%D8%AD%D8%8C%20%D8%AA%D8%B1%D8%AC%DB%8C%D8%AD%20%D8%A7%D9%84%D8%B1%D8%A7%D8%AC%D8%AD%20%D8%A8%D8%A7%D9%84%D8%B1%D9%88%D8%A7%DB%8C%D8%A9%20%D9%81%DB%8C%20%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A6%D9%84%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%DB%81%D8%8C%20%D8%BA%D9%84%D8%A7%D9%85%20%D9%82%D8%A7%D8%AF%D8%B1%20%D9%86%D8%B9%D9%85%D8%A7%D9%86%DB%8C%D8%8C%20%D8%B9%D8%B1%D8%A8%DB%8C%20%DB%94%D8%AD%D9%82_0000.jp2&id=20260212_20260212_1016&scale=2&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mwal68e31",
+          "titleUr": "القول الراجح جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20260212_20260212_1016/%D8%A7%D9%84%D9%82%D9%88%D9%84%20%D8%A7%D9%84%D8%B1%D8%A7%D8%AC%D8%AD%D8%8C%20%D8%AA%D8%B1%D8%AC%DB%8C%D8%AD%20%D8%A7%D9%84%D8%B1%D8%A7%D8%AC%D8%AD%20%D8%A8%D8%A7%D9%84%D8%B1%D9%88%D8%A7%DB%8C%D8%A9%20%D9%81%DB%8C%20%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A6%D9%84%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%DB%81%D8%8C%20%D8%BA%D9%84%D8%A7%D9%85%20%D9%82%D8%A7%D8%AF%D8%B1%20%D9%86%D8%B9%D9%85%D8%A7%D9%86%DB%8C%D8%8C%20%D8%B9%D8%B1%D8%A8%DB%8C%20%DB%94%D8%AD%D9%82.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mwal3rg80",
+          "titleUr": "القول الراجح جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2_20260908_20260908_0742/%D8%AA%D8%B1%D8%AC%D9%8A%D8%AD%20%D8%A7%D9%84%D8%B1%D8%A7%D8%AC%D8%AD%20%D8%A8%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%81%D9%8A%20%D9%85%D8%B3%D8%A7%D8%A6%D9%84%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D9%8A%D8%B9%D9%86%D9%8A%C2%A0%D8%A8%D9%8A%D8%A7%D9%86%20%D8%A7%D9%84%D9%82%D9%88%D9%84%20%D8%A7%D9%84%D8%B1%D8%A7%D8%AC%D8%AD%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A6%D9%84%20%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81%D9%8A%D8%A9%D8%8C%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%85%D8%B0%D9%87%D8%A8%20%D8%A7%D9%84%D8%AD%D9%86%D9%81%D9%8A%DB%94%202%DB%94%20%D8%B9%D8%B1%D8%A8%DB%8C%DB%94%20%D8%AD%D9%82.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "item-mwalgpix3",
+      "type": "book",
+      "titleUr": "الھدایہ عربی محقق نسخہ دارالسراج",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia801500.us.archive.org/BookReader/BookReaderImages.php?zip=/32/items/1-._20260603/%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D8%A9%D8%8C%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%D9%8A%D8%8C%20%D8%AC%D9%84%D8%AF1%D8%8C%20%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85%20%D8%A8%D8%B1%D9%87%D8%A7%D9%86%20%D8%A7%D9%84%D8%AF%D9%8A%D9%86%20%D8%B9%D9%84%D9%8A%20%D8%A7%D9%84%D9%85%D8%B1%D8%BA%D9%8A%D9%86%D8%A7%D9%86%D9%8A%D8%8C%20%D8%AA%D8%AD%D9%82%D9%8A%D9%82%20-%20%20%D8%AF.%20%D8%B3%D8%A7%D8%A6%D8%AF%20%D8%A8%D9%83%D8%AF%D8%A7%D8%B4%DB%94%20%D8%B9%D8%B1%D8%A8%DB%8C%DB%94%20%D8%AD%D9%82_jp2.zip&file=%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D8%A9%D8%8C%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%D9%8A%D8%8C%20%D8%AC%D9%84%D8%AF1%D8%8C%20%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85%20%D8%A8%D8%B1%D9%87%D8%A7%D9%86%20%D8%A7%D9%84%D8%AF%D9%8A%D9%86%20%D8%B9%D9%84%D9%8A%20%D8%A7%D9%84%D9%85%D8%B1%D8%BA%D9%8A%D9%86%D8%A7%D9%86%D9%8A%D8%8C%20%D8%AA%D8%AD%D9%82%D9%8A%D9%82%20-%20%20%D8%AF.%20%D8%B3%D8%A7%D8%A6%D8%AF%20%D8%A8%D9%83%D8%AF%D8%A7%D8%B4%DB%94%20%D8%B9%D8%B1%D8%A8%DB%8C%DB%94%20%D8%AD%D9%82_jp2/%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D8%A9%D8%8C%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%D9%8A%D8%8C%20%D8%AC%D9%84%D8%AF1%D8%8C%20%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85%20%D8%A8%D8%B1%D9%87%D8%A7%D9%86%20%D8%A7%D9%84%D8%AF%D9%8A%D9%86%20%D8%B9%D9%84%D9%8A%20%D8%A7%D9%84%D9%85%D8%B1%D8%BA%D9%8A%D9%86%D8%A7%D9%86%D9%8A%D8%8C%20%D8%AA%D8%AD%D9%82%D9%8A%D9%82%20-%20%20%D8%AF.%20%D8%B3%D8%A7%D8%A6%D8%AF%20%D8%A8%D9%83%D8%AF%D8%A7%D8%B4%DB%94%20%D8%B9%D8%B1%D8%A8%DB%8C%DB%94%20%D8%AD%D9%82_0001.jp2&id=1-._20260603&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mwalhliu4",
+          "titleUr": "الھدایہ عربی دارالسراج جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1-._20260603/%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D8%A9%D8%8C%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%D9%8A%D8%8C%20%D8%AC%D9%84%D8%AF1%D8%8C%20%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85%20%D8%A8%D8%B1%D9%87%D8%A7%D9%86%20%D8%A7%D9%84%D8%AF%D9%8A%D9%86%20%D8%B9%D9%84%D9%8A%20%D8%A7%D9%84%D9%85%D8%B1%D8%BA%D9%8A%D9%86%D8%A7%D9%86%D9%8A%D8%8C%20%D8%AA%D8%AD%D9%82%D9%8A%D9%82%20-%20%20%D8%AF.%20%D8%B3%D8%A7%D8%A6%D8%AF%20%D8%A8%D9%83%D8%AF%D8%A7%D8%B4%DB%94%20%D8%B9%D8%B1%D8%A8%DB%8C%DB%94%20%D8%AD%D9%82.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mwalhp0m5",
+          "titleUr": "الھدایہ عربی دارالسراج جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1-._20260603/%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D8%A9%D8%8C%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%D9%8A%D8%8C%20%D8%AC%D9%84%D8%AF2%D8%8C%20%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85%20%D8%A8%D8%B1%D9%87%D8%A7%D9%86%20%D8%A7%D9%84%D8%AF%D9%8A%D9%86%20%D8%B9%D9%84%D9%8A%20%D8%A7%D9%84%D9%85%D8%B1%D8%BA%D9%8A%D9%86%D8%A7%D9%86%D9%8A%D8%8C%20%D8%AA%D8%AD%D9%82%D9%8A%D9%82%20-%20%20%D8%AF.%20%D8%B3%D8%A7%D8%A6%D8%AF%20%D8%A8%D9%83%D8%AF%D8%A7%D8%B4%DB%94%20%D8%B9%D8%B1%D8%A8%DB%8C%DB%94%20%D8%AD%D9%82.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mwalhull6",
+          "titleUr": "الھدایہ عربی دارالسراج جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1-._20260603/%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D8%A9%D8%8C%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%D9%8A%D8%8C%20%D8%AC%D9%84%D8%AF3%D8%8C%20%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85%20%D8%A8%D8%B1%D9%87%D8%A7%D9%86%20%D8%A7%D9%84%D8%AF%D9%8A%D9%86%20%D8%B9%D9%84%D9%8A%20%D8%A7%D9%84%D9%85%D8%B1%D8%BA%D9%8A%D9%86%D8%A7%D9%86%D9%8A%D8%8C%20%D8%AA%D8%AD%D9%82%D9%8A%D9%82%20-%20%20%D8%AF.%20%D8%B3%D8%A7%D8%A6%D8%AF%20%D8%A8%D9%83%D8%AF%D8%A7%D8%B4%DB%94%20%D8%B9%D8%B1%D8%A8%DB%8C%DB%94%20%D8%AD%D9%82.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mwalhyn87",
+          "titleUr": "الھدایہ عربی دارالسراج جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1-._20260603/%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D8%A9%D8%8C%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%D9%8A%D8%8C%20%D8%AC%D9%84%D8%AF4%D8%8C%20%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85%20%D8%A8%D8%B1%D9%87%D8%A7%D9%86%20%D8%A7%D9%84%D8%AF%D9%8A%D9%86%20%D8%B9%D9%84%D9%8A%20%D8%A7%D9%84%D9%85%D8%B1%D8%BA%D9%8A%D9%86%D8%A7%D9%86%D9%8A%D8%8C%20%D8%AA%D8%AD%D9%82%D9%8A%D9%82%20-%20%20%D8%AF.%20%D8%B3%D8%A7%D8%A6%D8%AF%20%D8%A8%D9%83%D8%AF%D8%A7%D8%B4%DB%94%20%D8%B9%D8%B1%D8%A8%DB%8C%DB%94%20%D8%AD%D9%82.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mwali2oq8",
+          "titleUr": "الھدایہ عربی دارالسراج جلد 5",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1-._20260603/%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D8%A9%D8%8C%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%D9%8A%D8%8C%20%D8%AC%D9%84%D8%AF5%D8%8C%20%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85%20%D8%A8%D8%B1%D9%87%D8%A7%D9%86%20%D8%A7%D9%84%D8%AF%D9%8A%D9%86%20%D8%B9%D9%84%D9%8A%20%D8%A7%D9%84%D9%85%D8%B1%D8%BA%D9%8A%D9%86%D8%A7%D9%86%D9%8A%D8%8C%20%D8%AA%D8%AD%D9%82%D9%8A%D9%82%20-%20%20%D8%AF.%20%D8%B3%D8%A7%D8%A6%D8%AF%20%D8%A8%D9%83%D8%AF%D8%A7%D8%B4%DB%94%20%D8%B9%D8%B1%D8%A8%DB%8C%DB%94%20%D8%AD%D9%82.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mwali6kr9",
+          "titleUr": "الھدایہ عربی دارالسراج جلد 6",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1-._20260603/%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D8%A9%D8%8C%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%D9%8A%D8%8C%20%D8%AC%D9%84%D8%AF6%D8%8C%20%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85%20%D8%A8%D8%B1%D9%87%D8%A7%D9%86%20%D8%A7%D9%84%D8%AF%D9%8A%D9%86%20%D8%B9%D9%84%D9%8A%20%D8%A7%D9%84%D9%85%D8%B1%D8%BA%D9%8A%D9%86%D8%A7%D9%86%D9%8A%D8%8C%20%D8%AA%D8%AD%D9%82%D9%8A%D9%82%20-%20%20%D8%AF.%20%D8%B3%D8%A7%D8%A6%D8%AF%20%D8%A8%D9%83%D8%AF%D8%A7%D8%B4%DB%94%20%D8%B9%D8%B1%D8%A8%DB%8C%DB%94%20%D8%AD%D9%82.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mwaliopy10",
+          "titleUr": "الھدایہ عربی دارالسراج جلد7",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1-._20260603/%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D8%A9%D8%8C%20%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%D9%8A%D8%8C%20%D8%AC%D9%84%D8%AF7%D8%8C%20%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85%20%D8%A8%D8%B1%D9%87%D8%A7%D9%86%20%D8%A7%D9%84%D8%AF%D9%8A%D9%86%20%D8%B9%D9%84%D9%8A%20%D8%A7%D9%84%D9%85%D8%B1%D8%BA%D9%8A%D9%86%D8%A7%D9%86%D9%8A%D8%8C%20%D8%AA%D8%AD%D9%82%D9%8A%D9%82%20-%20%20%D8%AF.%20%D8%B3%D8%A7%D8%A6%D8%AF%20%D8%A8%D9%83%D8%AF%D8%A7%D8%B4%DB%94%20%D8%B9%D8%B1%D8%A8%DB%8C%DB%94%20%D8%AD%D9%82.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        }
+      ]
+    },
+    {
+      "id": "item-mwam3lqk11",
+      "type": "book",
+      "titleUr": "ہدایہ متن و ترجمہ وشرح فارسی",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20260212_20260212_1023/%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D9%87%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%DB%8C%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%DB%8C%20%D8%A7%D9%84%D9%85%D8%AA%D9%86%20%D8%A8%D8%AF%D8%A7%DB%8C%D9%87%D8%8C%20%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AD%D8%A7%D9%85%D9%84%20%D8%A7%D9%84%D9%85%D8%AA%DB%8C%D9%86%20%D8%A8%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%B9%20%D8%AA%D8%B1%D8%AC%D9%85%D9%87%20%D9%88%20%D8%B4%D8%B1%D8%AD%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%DB%94%D8%AD%D9%82%20.pdf",
+      "coverUrl": "https://ia800603.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/20260212_20260212_1023/%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D9%87%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%DB%8C%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%DB%8C%20%D8%A7%D9%84%D9%85%D8%AA%D9%86%20%D8%A8%D8%AF%D8%A7%DB%8C%D9%87%D8%8C%20%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AD%D8%A7%D9%85%D9%84%20%D8%A7%D9%84%D9%85%D8%AA%DB%8C%D9%86%20%D8%A8%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%B9%20%D8%AA%D8%B1%D8%AC%D9%85%D9%87%20%D9%88%20%D8%B4%D8%B1%D8%AD%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%DB%94%D8%AD%D9%82%20_jp2.zip&file=%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D9%87%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%DB%8C%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%DB%8C%20%D8%A7%D9%84%D9%85%D8%AA%D9%86%20%D8%A8%D8%AF%D8%A7%DB%8C%D9%87%D8%8C%20%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AD%D8%A7%D9%85%D9%84%20%D8%A7%D9%84%D9%85%D8%AA%DB%8C%D9%86%20%D8%A8%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%B9%20%D8%AA%D8%B1%D8%AC%D9%85%D9%87%20%D9%88%20%D8%B4%D8%B1%D8%AD%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%DB%94%D8%AD%D9%82%20_jp2/%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D9%87%20%D8%B4%D8%B1%D8%AD%20%D8%A8%D8%AF%D8%A7%DB%8C%D8%A9%20%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D8%AF%DB%8C%20%D8%A7%D9%84%D9%85%D8%AA%D9%86%20%D8%A8%D8%AF%D8%A7%DB%8C%D9%87%D8%8C%20%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AD%D8%A7%D9%85%D9%84%20%D8%A7%D9%84%D9%85%D8%AA%DB%8C%D9%86%20%D8%A8%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%B9%20%D8%AA%D8%B1%D8%AC%D9%85%D9%87%20%D9%88%20%D8%B4%D8%B1%D8%AD%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%DB%94%D8%AD%D9%82%20_0000.jp2&id=20260212_20260212_1023&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mwam7fx414",
+      "type": "book",
+      "titleUr": "الھدایہ مع الکفایہ قدیم نسخہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia903204.us.archive.org/BookReader/BookReaderImages.php?zip=/21/items/1_20260211_20260211_1052/%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%B9%20%D8%A7%D9%84%DA%A9%D9%81%D8%A7%DB%8C%DB%81%D8%8C%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D8%A9%20%D9%85%D8%B9%20%D8%B4%D8%B1%D8%AD%DA%BE%D8%A7%20%D8%A7%D9%84%DA%A9%D9%81%D8%A7%DB%8C%D8%A9%D8%8C%20%D8%AC%D9%84%D8%AF%201%20%DB%94%20%D8%B9%D8%B1%D8%A8%DB%8C%20%20%DB%94%20%D8%AD%D9%82%20_jp2.zip&file=%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%B9%20%D8%A7%D9%84%DA%A9%D9%81%D8%A7%DB%8C%DB%81%D8%8C%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D8%A9%20%D9%85%D8%B9%20%D8%B4%D8%B1%D8%AD%DA%BE%D8%A7%20%D8%A7%D9%84%DA%A9%D9%81%D8%A7%DB%8C%D8%A9%D8%8C%20%D8%AC%D9%84%D8%AF%201%20%DB%94%20%D8%B9%D8%B1%D8%A8%DB%8C%20%20%DB%94%20%D8%AD%D9%82%20_jp2/%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%B9%20%D8%A7%D9%84%DA%A9%D9%81%D8%A7%DB%8C%DB%81%D8%8C%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D8%A9%20%D9%85%D8%B9%20%D8%B4%D8%B1%D8%AD%DA%BE%D8%A7%20%D8%A7%D9%84%DA%A9%D9%81%D8%A7%DB%8C%D8%A9%D8%8C%20%D8%AC%D9%84%D8%AF%201%20%DB%94%20%D8%B9%D8%B1%D8%A8%DB%8C%20%20%DB%94%20%D8%AD%D9%82%20_0000.jp2&id=1_20260211_20260211_1052&scale=2&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mwam6rn812",
+          "titleUr": "الھدایہ مع الکفایہ قدیم نسخہ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20260211_20260211_1052/%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%B9%20%D8%A7%D9%84%DA%A9%D9%81%D8%A7%DB%8C%DB%81%D8%8C%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D8%A9%20%D9%85%D8%B9%20%D8%B4%D8%B1%D8%AD%DA%BE%D8%A7%20%D8%A7%D9%84%DA%A9%D9%81%D8%A7%DB%8C%D8%A9%D8%8C%20%D8%AC%D9%84%D8%AF%201%20%DB%94%20%D8%B9%D8%B1%D8%A8%DB%8C%20%20%DB%94%20%D8%AD%D9%82%20.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mwam770l13",
+          "titleUr": "الھدایہ مع الکفایہ قدیم نسخہ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/1_20260211_20260211_1052/%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%D9%85%D8%B9%20%D8%A7%D9%84%DA%A9%D9%81%D8%A7%DB%8C%DB%81%D8%8C%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D8%A9%20%D9%85%D8%B9%20%D8%B4%D8%B1%D8%AD%DA%BE%D8%A7%20%D8%A7%D9%84%DA%A9%D9%81%D8%A7%DB%8C%D8%A9%D8%8C%20%D8%AC%D9%84%D8%AF%202%20%DB%94%20%D8%B9%D8%B1%D8%A8%DB%8C%20%20%DB%94%20%D8%AD%D9%82%20.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "item-mwam92od15",
+      "type": "book",
+      "titleUr": "اصول ہدایہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/1-4-1227/%D8%A7%D8%B5%D9%88%D9%84%20%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%D9%88%D8%A7%D9%84%DB%8C%D9%85%201%20%D8%AA%D8%A7%204%20%D9%85%DA%A9%D9%85%D9%84%20%D8%AC%D9%84%D8%AF%DB%8C%DA%BA%D8%8C%201227%20%D8%A7%D8%B5%D9%88%D9%84%D8%8C%20%D8%A7%D8%B1%D8%AF%D9%88%20%D8%AA%D8%B1%D8%AC%D9%85%DB%81%20%D8%AA%D8%B4%D8%B1%DB%8C%D8%AD%20%D8%AA%D8%AE%D8%B1%DB%8C%D8%AC%DB%94%20%D9%85%D8%AD%D9%85%D8%AF%20%D9%86%D8%B9%D9%85%D8%A7%D9%86%20%DB%94%D8%AD%D9%82%20.pdf",
+      "coverUrl": "https://ia801006.us.archive.org/BookReader/BookReaderImages.php?zip=/10/items/1-4-1227/%D8%A7%D8%B5%D9%88%D9%84%20%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%D9%88%D8%A7%D9%84%DB%8C%D9%85%201%20%D8%AA%D8%A7%204%20%D9%85%DA%A9%D9%85%D9%84%20%D8%AC%D9%84%D8%AF%DB%8C%DA%BA%D8%8C%201227%20%D8%A7%D8%B5%D9%88%D9%84%D8%8C%20%D8%A7%D8%B1%D8%AF%D9%88%20%D8%AA%D8%B1%D8%AC%D9%85%DB%81%20%D8%AA%D8%B4%D8%B1%DB%8C%D8%AD%20%D8%AA%D8%AE%D8%B1%DB%8C%D8%AC%DB%94%20%D9%85%D8%AD%D9%85%D8%AF%20%D9%86%D8%B9%D9%85%D8%A7%D9%86%20%DB%94%D8%AD%D9%82%20_jp2.zip&file=%D8%A7%D8%B5%D9%88%D9%84%20%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%D9%88%D8%A7%D9%84%DB%8C%D9%85%201%20%D8%AA%D8%A7%204%20%D9%85%DA%A9%D9%85%D9%84%20%D8%AC%D9%84%D8%AF%DB%8C%DA%BA%D8%8C%201227%20%D8%A7%D8%B5%D9%88%D9%84%D8%8C%20%D8%A7%D8%B1%D8%AF%D9%88%20%D8%AA%D8%B1%D8%AC%D9%85%DB%81%20%D8%AA%D8%B4%D8%B1%DB%8C%D8%AD%20%D8%AA%D8%AE%D8%B1%DB%8C%D8%AC%DB%94%20%D9%85%D8%AD%D9%85%D8%AF%20%D9%86%D8%B9%D9%85%D8%A7%D9%86%20%DB%94%D8%AD%D9%82%20_jp2/%D8%A7%D8%B5%D9%88%D9%84%20%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%D9%88%D8%A7%D9%84%DB%8C%D9%85%201%20%D8%AA%D8%A7%204%20%D9%85%DA%A9%D9%85%D9%84%20%D8%AC%D9%84%D8%AF%DB%8C%DA%BA%D8%8C%201227%20%D8%A7%D8%B5%D9%88%D9%84%D8%8C%20%D8%A7%D8%B1%D8%AF%D9%88%20%D8%AA%D8%B1%D8%AC%D9%85%DB%81%20%D8%AA%D8%B4%D8%B1%DB%8C%D8%AD%20%D8%AA%D8%AE%D8%B1%DB%8C%D8%AC%DB%94%20%D9%85%D8%AD%D9%85%D8%AF%20%D9%86%D8%B9%D9%85%D8%A7%D9%86%20%DB%94%D8%AD%D9%82%20_0000.jp2&id=1-4-1227&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mwamao0n16",
+      "type": "book",
+      "titleUr": "الھدایہ انگلش",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/al-hidayah-the-guidance-burhan-al-din-al-farghani-al-marghinani-a-translation-of_202602/Al-Hidayah%20%28THE%20GUIDANCE%29%20Burhan%20al-Din%20al-Farghani%20al-Marghinani%20%E2%80%93%20A%20Translation%20of%20Al-Hidayah%20Fi%20Sharh%20Bidayat%20Al-Mubtadi%E2%80%99.%20vol%201%262%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D9%87%20%D8%A7%D9%86%DA%AF%D9%84%D8%B4%20%DB%94%20%D8%AD%D9%82%20%DB%94.pdf",
+      "coverUrl": "https://ia800909.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/al-hidayah-the-guidance-burhan-al-din-al-farghani-al-marghinani-a-translation-of_202602/Al-Hidayah%20%28THE%20GUIDANCE%29%20Burhan%20al-Din%20al-Farghani%20al-Marghinani%20%E2%80%93%20A%20Translation%20of%20Al-Hidayah%20Fi%20Sharh%20Bidayat%20Al-Mubtadi%E2%80%99.%20vol%201%262%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D9%87%20%D8%A7%D9%86%DA%AF%D9%84%D8%B4%20%DB%94%20%D8%AD%D9%82%20%DB%94_jp2.zip&file=Al-Hidayah%20%28THE%20GUIDANCE%29%20Burhan%20al-Din%20al-Farghani%20al-Marghinani%20%E2%80%93%20A%20Translation%20of%20Al-Hidayah%20Fi%20Sharh%20Bidayat%20Al-Mubtadi%E2%80%99.%20vol%201%262%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D9%87%20%D8%A7%D9%86%DA%AF%D9%84%D8%B4%20%DB%94%20%D8%AD%D9%82%20%DB%94_jp2/Al-Hidayah%20%28THE%20GUIDANCE%29%20Burhan%20al-Din%20al-Farghani%20al-Marghinani%20%E2%80%93%20A%20Translation%20of%20Al-Hidayah%20Fi%20Sharh%20Bidayat%20Al-Mubtadi%E2%80%99.%20vol%201%262%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D9%87%20%D8%A7%D9%86%DA%AF%D9%84%D8%B4%20%DB%94%20%D8%AD%D9%82%20%DB%94_0004.jp2&id=al-hidayah-the-guidance-burhan-al-din-al-farghani-al-marghinani-a-translation-of_202602&scale=4&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mwameden19",
+      "type": "book",
+      "titleUr": "تلخیص ھدایہ اردو",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia800606.us.archive.org/BookReader/BookReaderImages.php?zip=/14/items/2_20260209_20260209_0909/%D8%AA%D9%84%D8%AE%DB%8C%D8%B5%20%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%D8%A7%D9%88%D9%84%20%DB%94%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%DB%94%20%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B7%DB%81%D8%A7%D8%B1%DB%83%20%D8%A7%D9%84%DB%8C%20%D8%A2%D8%AE%D8%B1%20%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AD%D8%AC%20%D8%AC%D9%84%D8%AF%201%20%DB%94%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%86%D8%B3%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B1%D8%AD%DB%8C%D9%85%20%DB%94%20%20%D8%AD%D9%82%20_jp2.zip&file=%D8%AA%D9%84%D8%AE%DB%8C%D8%B5%20%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%D8%A7%D9%88%D9%84%20%DB%94%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%DB%94%20%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B7%DB%81%D8%A7%D8%B1%DB%83%20%D8%A7%D9%84%DB%8C%20%D8%A2%D8%AE%D8%B1%20%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AD%D8%AC%20%D8%AC%D9%84%D8%AF%201%20%DB%94%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%86%D8%B3%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B1%D8%AD%DB%8C%D9%85%20%DB%94%20%20%D8%AD%D9%82%20_jp2/%D8%AA%D9%84%D8%AE%DB%8C%D8%B5%20%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%D8%A7%D9%88%D9%84%20%DB%94%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%DB%94%20%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B7%DB%81%D8%A7%D8%B1%DB%83%20%D8%A7%D9%84%DB%8C%20%D8%A2%D8%AE%D8%B1%20%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AD%D8%AC%20%D8%AC%D9%84%D8%AF%201%20%DB%94%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%86%D8%B3%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B1%D8%AD%DB%8C%D9%85%20%DB%94%20%20%D8%AD%D9%82%20_0000.jp2&id=2_20260209_20260209_0909&scale=1&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mwamdy7w17",
+          "titleUr": "تلخیص ھدایہ اردو جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2_20260209_20260209_0909/%D8%AA%D9%84%D8%AE%DB%8C%D8%B5%20%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%D8%A7%D9%88%D9%84%20%DB%94%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%DB%94%20%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B7%DB%81%D8%A7%D8%B1%DB%83%20%D8%A7%D9%84%DB%8C%20%D8%A2%D8%AE%D8%B1%20%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AD%D8%AC%20%D8%AC%D9%84%D8%AF%201%20%DB%94%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%86%D8%B3%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B1%D8%AD%DB%8C%D9%85%20%DB%94%20%20%D8%AD%D9%82%20.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mwameayg18",
+          "titleUr": "تلخیص ھدایہ اردو جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/2_20260209_20260209_0909/%D8%AA%D9%84%D8%AE%DB%8C%D8%B5%20%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%D8%AB%D8%A7%D9%86%DB%8C%20%DB%94%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%DB%94%20%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%86%DA%A9%D8%A7%D8%AD%20%D8%A7%D9%84%DB%8C%20%D8%A2%D8%AE%D8%B1%20%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%88%D9%82%D9%81%20%DB%94%20%20%D8%AC%D9%84%D8%AF%202%20%DB%94%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%86%D8%B3%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B1%D8%AD%DB%8C%D9%85%20%DB%94%20%D8%AD%D9%82%20.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "item-mwamkqs722",
+      "type": "book",
+      "titleUr": "تلخیص الھدایہ اردو مکتبہ الحفیظ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://maktabatulishaat.com/wp-content/uploads/Talkhees-ul-Hidayah-Urdu-Sharh-Hidayah-pdf-%D8%AA%D9%84%D8%AE%DB%8C%D8%B5-%D8%A7%D9%84%DA%BE%D8%AF%D8%A7%DB%8C%DB%81-%D8%A7%D8%B1%D8%AF%D9%88-%D8%B4%D8%B1%D8%AD-%DA%BE%D8%AF%D8%A7%DB%8C%DB%81.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "3-mwamft0t20",
+          "titleUr": "تلخیص الھدایہ اردو مکتبہ الحفیظ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20260209_20260209_1106/%D8%AA%D9%84%D8%AE%DB%8C%D8%B5%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D8%A9%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%DB%94%20%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A8%DB%8C%D9%88%D8%B9%20%D8%A7%D9%84%D8%B4%DB%81%D8%A7%D8%AF%D8%A9%20%D8%A7%D9%84%D8%AF%D8%B9%D9%88%DB%81%20%D8%A7%D9%84%D9%88%DA%A9%D8%A7%D9%84%D8%A9%20%D8%A7%D9%84%D9%88%D8%AF%DB%8C%D8%B9%D8%A9%20%D8%A7%D9%84%D8%B9%D8%A7%D8%B1%DB%8C%D8%A9%20%D8%A7%D9%84%DB%81%D8%A8%D8%A9%20%D8%A7%D9%84%D8%A7%D8%AC%D8%A7%D8%B1%D8%A9%20%DB%94%20%D8%AC%D9%84%D8%AF%20%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%20%DB%94%20%D8%AD%D9%81%DB%8C%D8%B8%20%D8%A7%D9%84%D9%84%DB%81%20%DB%94%20%20%D8%AD%D9%82%20.PDF",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "4-mwamgb7e21",
+          "titleUr": "تلخیص الھدایہ اردو مکتبہ الحفیظ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/20260209_20260209_1106/%D8%AA%D9%84%D8%AE%DB%8C%D8%B5%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D8%A9%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%DB%94%20%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B4%D9%81%D8%B9%D8%A9%20%D8%A7%D9%84%D9%82%D8%B3%D9%85%D8%A9%20%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D8%B1%D8%B9%D8%A9%20%D8%A7%D9%84%D8%B5%DB%8C%D8%AF%20%D8%A7%D9%84%D8%B1%DB%81%D9%86%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%DB%8C%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AF%DB%8C%D8%A7%D8%AA%20%DB%94%20%D8%AC%D9%84%D8%AF%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%20%DB%94%20%D8%AD%D9%81%DB%8C%D8%B8%20%D8%A7%D9%84%D9%84%DB%81%20%DB%94%20%20%D8%AD%D9%82%20.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
     }
   ],
   "isDemo": false
