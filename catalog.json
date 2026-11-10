@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 321,
-  "updatedAt": "2026-11-10T15:47:42.044759Z",
+  "catalogVersion": 322,
+  "updatedAt": "2026-11-10T15:54:14.870080Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -37757,7 +37757,7 @@
     {
       "id": "item-mwal6q4a2",
       "type": "book",
-      "titleUr": "ترجیح الراجح بالروایه فی مسائل الھدایه المشہور القول الراجح",
+      "titleUr": "ترجیح الراجح بالروایه فی مسائل الھدایہ المشہور القول الراجح",
       "titleEn": "",
       "authorUr": "",
       "authorEn": "",
@@ -37965,7 +37965,7 @@
     {
       "id": "item-mwameden19",
       "type": "book",
-      "titleUr": "تلخیص ھدایہ اردو",
+      "titleUr": "تلخیص الھدایہ اردو",
       "titleEn": "",
       "authorUr": "",
       "authorEn": "",
