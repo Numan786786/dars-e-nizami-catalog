@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 336,
-  "updatedAt": "2026-11-11T13:02:41.208279Z",
+  "catalogVersion": 337,
+  "updatedAt": "2026-11-11T15:01:04.288157Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -39016,6 +39016,347 @@
           "pdfUrl": "https://archive.org/download/Tanweerul_Aainain_Fi_Tafseeril_Jalalain/04.pdf",
           "fileSizeBytes": null,
           "sortOrder": 3
+        }
+      ]
+    },
+    {
+      "id": "item-mwc8i54x6",
+      "type": "book",
+      "titleUr": "الرافدین عربی شرح تفسیر جلالین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqUyaeIyFfhOYkBbNmrCV2vEcT5y22_KwnHOe9xvUOoyki_ur4b9hPrdDrcud-NkEDyuceOfy4aNyI5PTWVVMuIh5pt1FaHanNdaQJb71rBMlPAzkicqFMQeup8lXUErvvCC0Pgfn9qFFue_ntcH6Qz-JG-PvuHixPJ88jPqZ73vP7lYWzr5LbC75Kf2g/s1448/Screenshot_2026-01-17-10-47-48-108_com.google.android.apps.docs-edit.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "item-mwc8i3m05",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mwc8rq6s7",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 2",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mwc8rwtf8",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 3",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mwc8s0pv9",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 4",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "5-mwc8s4oy10",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 5",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "6-mwc8s89311",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 6",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "7-mwc8sc3s12",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 7",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "8-mwc8siux13",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 8",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "9-mwc8smxh14",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 9",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "10-mwc8srq015",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 10",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 9
+        },
+        {
+          "id": "11-mwc8svv716",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 11",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 10
+        },
+        {
+          "id": "12-mwc8szpd17",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 12",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 11
+        },
+        {
+          "id": "13-mwc8t3tf18",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 13",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 12
+        },
+        {
+          "id": "14-mwc8t82319",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 14",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 13
+        },
+        {
+          "id": "15-mwc8tc6620",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 15",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 14
+        },
+        {
+          "id": "16-mwc8tg9s21",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 16",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 15
+        },
+        {
+          "id": "17-mwc8tken22",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 17",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 16
+        },
+        {
+          "id": "18-mwc8toi123",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 18",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 17
+        },
+        {
+          "id": "19-mwc8tt0f24",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 19",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 18
+        },
+        {
+          "id": "20-mwc8tx9f25",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 20",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 19
+        },
+        {
+          "id": "21-mwc8u19p26",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 21",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 20
+        },
+        {
+          "id": "22-mwc8u5vl27",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 22",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 21
+        },
+        {
+          "id": "23-mwc8u9y928",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 23",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 22
+        },
+        {
+          "id": "24-mwc8uh1629",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 24",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 23
+        },
+        {
+          "id": "25-mwc8ulhh30",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 25",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 24
+        },
+        {
+          "id": "26-mwc8upog31",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 26",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 25
+        },
+        {
+          "id": "27-mwc8utzh32",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 27",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 26
+        },
+        {
+          "id": "28-mwc8uy5j33",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 28",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 27
+        },
+        {
+          "id": "29-mwc8v2pi34",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 29",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 28
+        },
+        {
+          "id": "30-mwc8v6yx35",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 30",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 29
+        },
+        {
+          "id": "31-mwc8vaw436",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 31",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 30
+        },
+        {
+          "id": "32-mwc8vezb37",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 32",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 31
+        },
+        {
+          "id": "33-mwc8vjhc38",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 33",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 32
+        },
+        {
+          "id": "34-mwc8voj239",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 34",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 33
+        },
+        {
+          "id": "35-mwc8vt5b40",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 35",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 34
+        },
+        {
+          "id": "36-mwc8vxhi41",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 36",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 35
+        },
+        {
+          "id": "37-mwc8w1v642",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 37",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 36
+        },
+        {
+          "id": "38-mwc8w6a543",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 38",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 37
+        },
+        {
+          "id": "39-mwc8wbal44",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 39",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 38
+        },
+        {
+          "id": "40-mwc8wfyc45",
+          "titleUr": "الرافدین عربی شرح تفسیر جلالین جلد 40",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 39
         }
       ]
     }
