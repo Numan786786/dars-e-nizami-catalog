@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 330,
-  "updatedAt": "2026-11-11T05:34:34.637686Z",
+  "catalogVersion": 331,
+  "updatedAt": "2026-11-11T05:37:53.604186Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -38187,20 +38187,36 @@
       "audience": "boys",
       "volumes": [
         {
+          "id": "1-mwboqbt722",
+          "titleUr": "تلخیص الھدایہ اردو مکتبہ الحفیظ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/talkhees-ul-hidaya-urdu-sharah-hidaya-3/Talkhees_ul_Hidaya_Urdu_Sharah_Hidaya_1.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mwboqgih23",
+          "titleUr": "تلخیص الھدایہ اردو مکتبہ الحفیظ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/talkhees-ul-hidaya-urdu-sharah-hidaya-3/Talkhees_ul_Hidaya_Urdu_Sharah_Hidaya_2.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
           "id": "3-mwamft0t20",
           "titleUr": "تلخیص الھدایہ اردو مکتبہ الحفیظ جلد 3",
           "titleEn": "",
-          "pdfUrl": "https://archive.org/download/20260209_20260209_1106/%D8%AA%D9%84%D8%AE%DB%8C%D8%B5%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D8%A9%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%DB%94%20%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A8%DB%8C%D9%88%D8%B9%20%D8%A7%D9%84%D8%B4%DB%81%D8%A7%D8%AF%D8%A9%20%D8%A7%D9%84%D8%AF%D8%B9%D9%88%DB%81%20%D8%A7%D9%84%D9%88%DA%A9%D8%A7%D9%84%D8%A9%20%D8%A7%D9%84%D9%88%D8%AF%DB%8C%D8%B9%D8%A9%20%D8%A7%D9%84%D8%B9%D8%A7%D8%B1%DB%8C%D8%A9%20%D8%A7%D9%84%DB%81%D8%A8%D8%A9%20%D8%A7%D9%84%D8%A7%D8%AC%D8%A7%D8%B1%D8%A9%20%DB%94%20%D8%AC%D9%84%D8%AF%20%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%20%DB%94%20%D8%AD%D9%81%DB%8C%D8%B8%20%D8%A7%D9%84%D9%84%DB%81%20%DB%94%20%20%D8%AD%D9%82%20.PDF",
+          "pdfUrl": "https://archive.org/download/talkhees-ul-hidaya-urdu-sharah-hidaya-3/Talkhees_ul_Hidaya_Urdu_Sharah_Hidaya_3.pdf",
           "fileSizeBytes": null,
-          "sortOrder": 0
+          "sortOrder": 2
         },
         {
           "id": "4-mwamgb7e21",
           "titleUr": "تلخیص الھدایہ اردو مکتبہ الحفیظ جلد 4",
           "titleEn": "",
-          "pdfUrl": "https://archive.org/download/20260209_20260209_1106/%D8%AA%D9%84%D8%AE%DB%8C%D8%B5%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%D8%A9%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%DB%81%D8%AF%D8%A7%DB%8C%DB%81%20%DB%94%20%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B4%D9%81%D8%B9%D8%A9%20%D8%A7%D9%84%D9%82%D8%B3%D9%85%D8%A9%20%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D8%B1%D8%B9%D8%A9%20%D8%A7%D9%84%D8%B5%DB%8C%D8%AF%20%D8%A7%D9%84%D8%B1%DB%81%D9%86%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%DB%8C%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AF%DB%8C%D8%A7%D8%AA%20%DB%94%20%D8%AC%D9%84%D8%AF%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%20%DB%94%20%D8%AD%D9%81%DB%8C%D8%B8%20%D8%A7%D9%84%D9%84%DB%81%20%DB%94%20%20%D8%AD%D9%82%20.pdf",
+          "pdfUrl": "https://archive.org/download/talkhees-ul-hidaya-urdu-sharah-hidaya-3/Talkhees_ul_Hidaya_Urdu_Sharah_Hidaya_4.pdf",
           "fileSizeBytes": null,
-          "sortOrder": 1
+          "sortOrder": 3
         }
       ]
     },
