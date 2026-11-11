@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 337,
-  "updatedAt": "2026-11-11T15:01:04.288157Z",
+  "catalogVersion": 338,
+  "updatedAt": "2026-11-11T15:32:08.969341Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -12368,7 +12368,7 @@
       "categoryId": "hadith",
       "language": "ur",
       "pdfUrl": "https://archive.org/download/20200605_20200605_0152/%D8%AC%D8%A7%D9%85%D8%B9%20%D8%A7%D9%84%D8%BA%D9%85%D9%88%D8%B6%20%D8%A7%D9%84%DA%A9%D8%A7%D9%81%DB%8C%DB%81.pdf",
-      "coverUrl": "https://archive.org/download/20200605_20200605_0125/%D8%A7%D8%B5%D9%88%D9%84%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%DB%8C%20%D8%B3%D9%88%D8%A7%D9%84%D8%A7%20%D9%88%D8%AC%D9%88%D8%A7%D8%A8%D8%A7.pdf",
+      "coverUrl": "https://ia801907.us.archive.org/BookReader/BookReaderImages.php?zip=/8/items/bralvi_gmail_201804/%D8%AC%D8%A7%D9%85%D8%B9%20%D8%A7%D9%84%D8%BA%D9%85%D9%88%D8%B6%20%D8%B4%D8%B1%D8%AD%20%DA%A9%D8%A7%D9%81%DB%8C%DB%81%20_jp2.zip&file=%D8%AC%D8%A7%D9%85%D8%B9%20%D8%A7%D9%84%D8%BA%D9%85%D9%88%D8%B6%20%D8%B4%D8%B1%D8%AD%20%DA%A9%D8%A7%D9%81%DB%8C%DB%81%20_jp2/%D8%AC%D8%A7%D9%85%D8%B9%20%D8%A7%D9%84%D8%BA%D9%85%D9%88%D8%B6%20%D8%B4%D8%B1%D8%AD%20%DA%A9%D8%A7%D9%81%DB%8C%DB%81%20_0000.jp2&id=bralvi_gmail_201804&scale=8&rotate=0",
       "fileSizeBytes": 37263034,
       "tags": [],
       "sortOrder": 0,
@@ -38566,7 +38566,7 @@
       "authorUr": "",
       "authorEn": "",
       "description": "",
-      "categoryId": "tafsir",
+      "categoryId": "hadith",
       "language": "ur",
       "pdfUrl": "",
       "coverUrl": "https://ziydia.com/ur/book/image/778?v=1750668370",
