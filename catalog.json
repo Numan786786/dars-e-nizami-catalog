@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 334,
-  "updatedAt": "2026-11-11T09:42:02.876911Z",
+  "catalogVersion": 336,
+  "updatedAt": "2026-11-11T13:02:41.208279Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -38963,6 +38963,59 @@
           "pdfUrl": "https://archive.org/download/1658423210/%D9%85%D9%86%D9%87%D8%A7%D8%AC%20%D8%A7%D9%84%D8%B7%D8%A7%D9%84%D8%A8%D9%A2.pdf",
           "fileSizeBytes": null,
           "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "item-mwc18zje4",
+      "type": "book",
+      "titleUr": "تنویر العینین بشرح تفسیر جلالین",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://ia800105.us.archive.org/BookReader/BookReaderImages.php?zip=/26/items/Tanweerul_Aainain_Fi_Tafseeril_Jalalain/01_jp2.zip&file=01_jp2/01_0000.jp2&id=Tanweerul_Aainain_Fi_Tafseeril_Jalalain&scale=8&rotate=0",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mwc17db90",
+          "titleUr": "تنویر العینین بشرح تفسیر جلالین جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/Tanweerul_Aainain_Fi_Tafseeril_Jalalain/01.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mwc17hof1",
+          "titleUr": "تنویر العینین بشرح تفسیر جلالین جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/Tanweerul_Aainain_Fi_Tafseeril_Jalalain/02.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mwc17mz22",
+          "titleUr": "تنویر العینین بشرح تفسیر جلالین جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/Tanweerul_Aainain_Fi_Tafseeril_Jalalain/03.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mwc17rch3",
+          "titleUr": "تنویر العینین بشرح تفسیر جلالین جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/Tanweerul_Aainain_Fi_Tafseeril_Jalalain/04.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
         }
       ]
     }
