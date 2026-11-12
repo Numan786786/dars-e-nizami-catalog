@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 339,
-  "updatedAt": "2026-11-11T16:40:08.814285Z",
+  "catalogVersion": 340,
+  "updatedAt": "2026-11-12T02:25:33.481461Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -36825,59 +36825,6 @@
       ]
     },
     {
-      "id": "Darsibooks",
-      "type": "book",
-      "titleUr": "صحیح بخاری مکتبۃ البشریٰ",
-      "titleEn": "Sahi Bukhari",
-      "authorUr": "",
-      "authorEn": "",
-      "description": "",
-      "categoryId": "fiqh",
-      "language": "ur",
-      "pdfUrl": "",
-      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2022/02/SAHIH_AL_BUKHARI_BUSHRA.jpg",
-      "fileSizeBytes": 39917394,
-      "tags": [],
-      "sortOrder": 1,
-      "isActive": true,
-      "isFeatured": false,
-      "audience": "boys",
-      "volumes": [
-        {
-          "id": "جلد-1-mvfbsxcl0",
-          "titleUr": "صحیح بخاری جلد 1",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_01.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 0
-        },
-        {
-          "id": "جلد-2-mvfbu0q21",
-          "titleUr": "صحیح بخاری جلد 2",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_02.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 1
-        },
-        {
-          "id": "جلد-3-mvfbvjnt2",
-          "titleUr": "صحیح بخاری جلد 3",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_03.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 2
-        },
-        {
-          "id": "جلد-4-mvfbvt1e3",
-          "titleUr": "صحیح بخاری جلد 4",
-          "titleEn": "",
-          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_04.pdf",
-          "fileSizeBytes": null,
-          "sortOrder": 3
-        }
-      ]
-    },
-    {
       "id": "item-mw7daf2m162",
       "type": "book",
       "titleUr": "مؤطا امام محمد مکتبہ رحمانیہ",
@@ -39435,6 +39382,59 @@
       "isActive": true,
       "isFeatured": false,
       "audience": "boys"
+    },
+    {
+      "id": "item-mwcxdt1u4",
+      "type": "book",
+      "titleUr": "صحیح بخاری مکتبۃ البشریٰ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "fiqh",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://besturdubooks.net/wp-content/uploads/2022/02/SAHIH_AL_BUKHARI_BUSHRA.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mwcxcbp10",
+          "titleUr": "صحیح بخاری مکتبۃ البشریٰ جلد 1",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_01.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mwcxcf6h1",
+          "titleUr": "صحیح بخاری مکتبۃ البشریٰ جلد 2",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_02.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "3-mwcxcjly2",
+          "titleUr": "صحیح بخاری مکتبۃ البشریٰ جلد 3",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_03.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "4-mwcxd22e3",
+          "titleUr": "صحیح بخاری مکتبۃ البشریٰ جلد 4",
+          "titleEn": "",
+          "pdfUrl": "https://archive.org/download/DarsENizamiDoraeHadees8thYear01/SAHIH_AL_BUKHARI_BUSHRA_04.pdf",
+          "fileSizeBytes": null,
+          "sortOrder": 3
+        }
+      ]
     }
   ],
   "isDemo": false
