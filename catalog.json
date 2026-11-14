@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 342,
-  "updatedAt": "2026-11-13T01:40:51.545521Z",
+  "catalogVersion": 343,
+  "updatedAt": "2026-11-14T05:17:25.697956Z",
   "title": "Dars-e-Nizami Library",
   "organization": {
     "name": "Dars-e-Nizami Library"
@@ -39435,6 +39435,100 @@
           "sortOrder": 11
         }
       ]
+    },
+    {
+      "id": "item-mwftkdh30",
+      "type": "book",
+      "titleUr": "الصافیہ فی توضیح الکافیہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "hadith",
+      "language": "ur",
+      "pdfUrl": "https://archive.org/download/20260623_20260623_0752/%D8%A7%D9%84%D8%B5%D8%A7%D9%81%DB%8C%DB%81%20%D9%81%DB%8C%20%D8%A7%D9%84%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%20%D8%A7%D9%84%DA%A9%D8%A7%D9%81%DB%8C%DB%81%20%DB%94%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%DB%81%20%D8%AC%D8%A7%D9%86%20%20%D8%A8%D9%86%20%D8%AD%D8%B3%D9%86%20%D8%A7%D9%84%D9%81%D8%A7%D8%B1%D9%88%D9%82%DB%8C%20%D8%A7%D9%84%D8%B3%D9%86%D8%AF%DB%8C%20%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%88%D9%81%20%20%D8%A2%D8%BA%D8%A7%20%D8%AC%D8%A7%D9%86%20%DB%94%20%D8%B9%D8%B1%D8%A8%DB%8C%20%DB%94%20%D8%AD%D9%82%20.pdf",
+      "coverUrl": "https://ia800901.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/20260623_20260623_0752/%D8%A7%D9%84%D8%B5%D8%A7%D9%81%DB%8C%DB%81%20%D9%81%DB%8C%20%D8%A7%D9%84%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%20%D8%A7%D9%84%DA%A9%D8%A7%D9%81%DB%8C%DB%81%20%DB%94%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%DB%81%20%D8%AC%D8%A7%D9%86%20%20%D8%A8%D9%86%20%D8%AD%D8%B3%D9%86%20%D8%A7%D9%84%D9%81%D8%A7%D8%B1%D9%88%D9%82%DB%8C%20%D8%A7%D9%84%D8%B3%D9%86%D8%AF%DB%8C%20%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%88%D9%81%20%20%D8%A2%D8%BA%D8%A7%20%D8%AC%D8%A7%D9%86%20%DB%94%20%D8%B9%D8%B1%D8%A8%DB%8C%20%DB%94%20%D8%AD%D9%82%20_jp2.zip&file=%D8%A7%D9%84%D8%B5%D8%A7%D9%81%DB%8C%DB%81%20%D9%81%DB%8C%20%D8%A7%D9%84%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%20%D8%A7%D9%84%DA%A9%D8%A7%D9%81%DB%8C%DB%81%20%DB%94%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%DB%81%20%D8%AC%D8%A7%D9%86%20%20%D8%A8%D9%86%20%D8%AD%D8%B3%D9%86%20%D8%A7%D9%84%D9%81%D8%A7%D8%B1%D9%88%D9%82%DB%8C%20%D8%A7%D9%84%D8%B3%D9%86%D8%AF%DB%8C%20%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%88%D9%81%20%20%D8%A2%D8%BA%D8%A7%20%D8%AC%D8%A7%D9%86%20%DB%94%20%D8%B9%D8%B1%D8%A8%DB%8C%20%DB%94%20%D8%AD%D9%82%20_jp2/%D8%A7%D9%84%D8%B5%D8%A7%D9%81%DB%8C%DB%81%20%D9%81%DB%8C%20%D8%A7%D9%84%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%20%D8%A7%D9%84%DA%A9%D8%A7%D9%81%DB%8C%DB%81%20%DB%94%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%DB%81%20%D8%AC%D8%A7%D9%86%20%20%D8%A8%D9%86%20%D8%AD%D8%B3%D9%86%20%D8%A7%D9%84%D9%81%D8%A7%D8%B1%D9%88%D9%82%DB%8C%20%D8%A7%D9%84%D8%B3%D9%86%D8%AF%DB%8C%20%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%88%D9%81%20%20%D8%A2%D8%BA%D8%A7%20%D8%AC%D8%A7%D9%86%20%DB%94%20%D8%B9%D8%B1%D8%A8%DB%8C%20%DB%94%20%D8%AD%D9%82%20_0000.jp2&id=20260623_20260623_0752&scale=2&rotate=0",
+      "fileSizeBytes": 62882166,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mwfutyob3",
+      "type": "book",
+      "titleUr": "اغراض جامی پشتو شرح جامی",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "tafsir",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://maktabatulishaat.com/wp-content/uploads/AghrazeJamiPashtoSharahMullahJami-scaled-1.jpg",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys",
+      "volumes": [
+        {
+          "id": "1-mwfuhs9x1",
+          "titleUr": "اغراض جامی پشتو شرح جامی جلد 1",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "2-mwfutwa42",
+          "titleUr": "اغراض جامی پشتو شرح جامی جلد 2",
+          "titleEn": "",
+          "pdfUrl": "",
+          "fileSizeBytes": null,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": "item-mwfuuy8u4",
+      "type": "book",
+      "titleUr": "دروس الکافیہ پشتو شرح کافیہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "hadith",
+      "language": "ur",
+      "pdfUrl": "https://drive.usercontent.google.com/u/0/uc?id=1gHoprAFS4DfOOzBvtxp9YtVJrGUoOfkq&export=download",
+      "coverUrl": "https://maktabatulishaat.com/wp-content/uploads/Doroos-Ul-Kafia-Pashto-Sharah-Kafia-pdf-1.jpg",
+      "fileSizeBytes": 22691187,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
+    },
+    {
+      "id": "item-mwfv10oj5",
+      "type": "book",
+      "titleUr": "الجواھر الصافیہ اردو شرح کافیہ",
+      "titleEn": "",
+      "authorUr": "",
+      "authorEn": "",
+      "description": "",
+      "categoryId": "hadith",
+      "language": "ur",
+      "pdfUrl": "",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBXqTKDf3bPW8Z4wFPWyTszAMjQ0s5_-qi_GNVQ_aG-g&s=10",
+      "fileSizeBytes": null,
+      "tags": [],
+      "sortOrder": 0,
+      "isActive": true,
+      "isFeatured": false,
+      "audience": "boys"
     }
   ],
   "isDemo": false
